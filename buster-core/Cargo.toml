@@ -1,0 +1,18 @@
+[workspace]
+members = [
+    "crates/buster_taxonomy",
+    "crates/buster_body",
+    "crates/buster_free_will",
+    "crates/buster_memory",
+    "crates/buster_dreaming",
+    "crates/buster_skills",
+    "crates/buster_tools",
+    "crates/buster_value_model",
+    "crates/buster_daemon",
+]
+resolver = "2"
+
+[workspace.package]
+edition = "2021"
+license = "MIT OR Apache-2.0"
+authors = ["Buster"]

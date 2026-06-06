@@ -1,0 +1,55 @@
+# OS and editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Dependencies and build outputs
+node_modules/
+dist/
+build/
+coverage/
+**/target/
+
+# Runtime state, logs, and local message queues
+state/
+inbox/
+audit/*.jsonl
+*.log
+*.tmp
+**/.claude/
+**/.claw/
+**/.omc/
+**/.omx/
+**/.port_sessions/
+**/.sandbox-home/
+**/.clawd-todos.json
+**/.claude.json
+**/.claw.json
+
+# Local credentials and auth artifacts
+.env
+.env.*
+!.env.example
+!**/.env.example
+*.pem
+*.key
+feishu-auth-qr.png
+
+# Local archives and installer binaries
+*.tgz
+*.zip
+*.tar
+*.tar.gz
+*.msi
+package/bin/*.exe
+
+# Local upstream checkouts kept beside this workspace
+claw-code/
+hermes-agent/
+ironclaw/
+openclaw/
+ironclaw-upstream/
+
+# Generated extracts
+article_extract.txt
