@@ -1,0 +1,60 @@
+{
+  "timestamp_secs": 1781083012,
+  "task_id": "followup-1780968822-4c4b712efc28",
+  "domain": "Aerospace",
+  "question": "What are the public defect datasets (e.g. ASTM E3169, AFRL fastener-hole data, open-OoD NDE challenge) that include ground-truth X-ray/CT alongside magnetometer measurements for the same panel?",
+  "query": "aerospace civilization resilience deep space capability public defect datasets astm e3169 afrl fastener hole data",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-43f5f382df8bb779",
+      "provider": "Arxiv",
+      "title": "Byzantine-Resilient SGD in High Dimensions on Heterogeneous Data",
+      "url": "http://arxiv.org/abs/2005.07866v1",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Deepesh Data",
+        "Suhas Diggavi"
+      ],
+      "venue": "arXiv",
+      "summary": "We study distributed stochastic gradient descent (SGD) in the master-worker architecture under Byzantine attacks. We consider the heterogeneous data model, where different workers may have different local datasets, and we do not make any probabilistic assumptions on data generation. At the core of our algorithm, we use the polynomial-time outlier-filtering procedure for robust mean estimation proposed by Steinhardt et al. (ITCS 2018) to filter-out corrupt gradients. In order to be able to apply their filtering procedure in our {\\em heterogeneous} data setting where workers compute {\\em stochas..."
+    },
+    {
+      "source_id": "Arxiv-e2ef6e53bc173265",
+      "provider": "Arxiv",
+      "title": "Data Encoding for Byzantine-Resilient Distributed Optimization",
+      "url": "http://arxiv.org/abs/1907.02664v2",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Deepesh Data",
+        "Linqi Song",
+        "Suhas Diggavi"
+      ],
+      "venue": "arXiv",
+      "summary": "We study distributed optimization in the presence of Byzantine adversaries, where both data and computation are distributed among $m$ worker machines, $t$ of which may be corrupt. The compromised nodes may collaboratively and arbitrarily deviate from their pre-specified programs, and a designated (master) node iteratively computes the model/parameter vector for generalized linear models. In this work, we primarily focus on two iterative algorithms: Proximal Gradient Descent (PGD) and Coordinate Descent (CD). Gradient descent (GD) is a special case of these algorithms. PGD is typically used in ..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 3339; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":7819,\"items\":[{\"published-print\":{\"date-part..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781083012-Aerospace-followup-1780968822-4c4b712efc28.json"
+}

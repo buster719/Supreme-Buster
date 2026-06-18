@@ -1,0 +1,64 @@
+{
+  "timestamp_secs": 1780924438,
+  "task_id": "followup-1780911885-26ad5b611d5b",
+  "domain": "Aerospace",
+  "question": "Has there been a systematic Monte‑Carlo simulation coupling biosphere closure degree, ISRU throughput, and population bottlenecks published since 2023?",
+  "query": "aerospace civilization resilience deep space capability there been systematic monte carlo simulation coupling biosphere closure",
+  "sources": [
+    {
+      "source_id": "Arxiv-a4cfa7f650d226f2",
+      "provider": "Arxiv",
+      "title": "A Multilevel Monte Carlo Asymptotic-Preserving Particle Method for Kinetic Equations in the Diffusion Limit",
+      "url": "http://arxiv.org/abs/1902.04347v4",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Emil Løvbak",
+        "Giovanni Samaey",
+        "Stefan Vandewalle"
+      ],
+      "venue": "arXiv",
+      "summary": "We propose a multilevel Monte Carlo method for a particle-based asymptotic-preserving scheme for kinetic equations. Kinetic equations model transport and collision of particles in a position-velocity phase-space. With a diffusive scaling, the kinetic equation converges to an advection-diffusion equation in the limit of zero mean free path. Classical particle-based techniques suffer from a strict time-step restriction to maintain stability in this limit. Asymptotic-preserving schemes provide a solution to this time step restriction, but introduce a first-order error in the time step size. We de..."
+    },
+    {
+      "source_id": "Arxiv-3a95af2f31c5c572",
+      "provider": "Arxiv",
+      "title": "Metropolis Methods for Quantum Monte Carlo Simulations",
+      "url": "http://arxiv.org/abs/physics/0306182v1",
+      "doi": null,
+      "year": 2003,
+      "authors": [
+        "D. M. Ceperley"
+      ],
+      "venue": "arXiv",
+      "summary": "Since its first description fifty years ago, the Metropolis Monte Carlo method has been used in a variety of different ways for the simulation of continuum quantum many-body systems. This paper will consider some of the generalizations of the Metropolis algorithm employed in quantum Monte Carlo: Variational Monte Carlo, dynamical methods for projector monte carlo ({\\it i.e.} diffusion Monte Carlo with rejection), multilevel sampling in path integral Monte Carlo, the sampling of permutations, cluster methods for lattice models, the penalty method for coupled electron-ionic systems and the Bayes..."
+    },
+    {
+      "source_id": "Arxiv-138a6cc71eb6e0dd",
+      "provider": "Arxiv",
+      "title": "Monte Carlo event generators for high energy particle physics event simulation",
+      "url": "http://arxiv.org/abs/1902.01674v1",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Andy Buckley",
+        "Frank Krauss",
+        "Simon Plätzer",
+        "Michael Seymour",
+        "Simone Alioli",
+        "Jeppe Andersen",
+        "Johannes Bellm",
+        "Jon Butterworth"
+      ],
+      "venue": "arXiv",
+      "summary": "Monte Carlo event generators (MCEGs) are the indispensable workhorses of particle physics, bridging the gap between theoretical ideas and first-principles calculations on the one hand, and the complex detector signatures and data of the experimental community on the other hand. All collider physics experiments are dependent on simulated events by MCEG codes such as Herwig, Pythia, Sherpa, POWHEG, and MG5_aMC@NLO to design and tune their detectors and analysis strategies. The development of MCEGs is overwhelmingly driven by a vibrant community of academics at European Universities, who also tra..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1343; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":190973,\"items\":[{\"DOI\":\"10.2172\\/380308\",\"ti..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780924438-Aerospace-followup-1780911885-26ad5b611d5b.json"
+}

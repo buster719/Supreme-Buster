@@ -1,0 +1,25 @@
+# Secondary Research: MaterialsScience
+
+- task_id: followup-1780918498-5dfb458a1fbc
+- question: What is the typical failure mode change (transgranular → intergranular) in ZrB₂ after thermal cycling in neutral atmospheres, and does that correlate with toughness loss?
+- source_type: llm_secondary_with_fetched_evidence
+- needs_verification: true
+- authority: hypothesis_or_explanation
+- source_count: 3
+- source_bundle: ../research/sources/1780933346-MaterialsScience-followup-1780918498-5dfb458a1fbc.json
+
+## Source Fetch Completed; LLM Synthesis Failed
+
+Buster fetched external evidence, but the LLM synthesis step failed.
+
+- llm_error: invalid LLM response: assistant content was null
+- source_count: 3
+- source_bundle: ../research/sources/1780933346-MaterialsScience-followup-1780918498-5dfb458a1fbc.json
+
+## Fetched Evidence Leads
+
+Source fetch query: materials science fusion robotics aerospace computation typical failure mode change transgranular intergranular zrb₂ thermal cycling
+Use these fetched sources as evidence leads. They are still untrusted until read directly; do not treat titles alone as proof.
+- [Arxiv] Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm (2016) — arXiv — http://arxiv.org/abs/1610.05521v1
+- [Arxiv] Secure and secret cooperation in robotic swarms (2019) — arXiv — http://arxiv.org/abs/1904.09266v3
+- [Arxiv] Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials (2024) — arXiv — http://arxiv.org/abs/2411.00554v3

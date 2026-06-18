@@ -1,0 +1,113 @@
+{
+  "timestamp_secs": 1781192244,
+  "task_id": "followup-1781086131-c510b4f18be1",
+  "domain": "Aerospace",
+  "question": "How do current models handle the correlation of failures across multiple simultaneous missions with shared design features?",
+  "query": "aerospace civilization resilience deep space capability current models handle correlation failures across multiple simultaneous missions",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-cf05720d05068b3e",
+      "provider": "Arxiv",
+      "title": "Small Satellite Mission Concepts for Space Weather Research and as Pathfinders for Operations",
+      "url": "http://arxiv.org/abs/2201.07426v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Amir Caspi",
+        "M. Barthelemy",
+        "C. D. Bussy-Virat",
+        "I. J. Cohen",
+        "C. E. DeForest",
+        "D. R. Jackson",
+        "A. Vourlidas",
+        "T. Nieves-Chinchilla"
+      ],
+      "venue": "arXiv",
+      "summary": "Recent advances in miniaturization and commercial availability of critical satellite subsystems and detector technology have made small satellites (SmallSats, including CubeSats) an attractive, low-cost potential solution for space weather research and operational needs. Motivated by the 1st International Workshop on SmallSats for Space Weather Research and Forecasting, held in Washington, DC on 1-4 August 2017, we discuss the need for advanced space weather measurement capabilities, driven by analyses from the World Meteorological Organization (WMO), and how SmallSats can efficiently fill the..."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    },
+    {
+      "source_id": "OpenAlex-0c6b6299f4a787a7",
+      "provider": "OpenAlex",
+      "title": "Bio-inspired designs: leveraging biological brilliance in mechanical engineering—an overview",
+      "url": "https://doi.org/10.1007/s13205-024-04153-w",
+      "doi": "https://doi.org/10.1007/s13205-024-04153-w",
+      "year": 2024,
+      "authors": [
+        "Gururaj Fattepur",
+        "Arun Y. Patil",
+        "Piyush Kumar",
+        "Anil Kumar",
+        "Chandrashekhar Hegde",
+        "I. G. Siddhalingeshwar",
+        "Raman Kumar",
+        "T. M. Yunus Khan"
+      ],
+      "venue": "3 Biotech",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-e7b318decefd7d54",
+      "provider": "OpenAlex",
+      "title": "Cyber-physical systems security: A comprehensive review of anomaly detection techniques",
+      "url": "https://doi.org/10.1016/j.iot.2026.101938",
+      "doi": "https://doi.org/10.1016/j.iot.2026.101938",
+      "year": 2026,
+      "authors": [
+        "Danial Abshari",
+        "Meera Sridhar"
+      ],
+      "venue": "Internet of Things",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-218ec6d3fbe71b50",
+      "provider": "OpenAlex",
+      "title": "The Role of Non-Lethal Weapons in 'Special Wars'.",
+      "url": "https://hdl.handle.net/10945/31588",
+      "doi": null,
+      "year": 1995,
+      "authors": [
+        "G. Roche Lynch"
+      ],
+      "venue": "Calhoun: The Naval Postgraduate School Institutional Archive (Naval Postgraduate School)",
+      "summary": "This thesis addresses the role of non-lethal weapons (NLWs) within missions conducted by special operations and general purpose forces in peacetime contingency operations referred to as \"special wars.\" It takes a paradigmatic approach from the emerging debate concerning the revolution in military affairs (RMA). The specific concepts employed constitute the paradigm of control warfare. We hypothesize that, the more tenets of control warfare are applied to a mission or operation, the more effective will be any application of non-lethal weapons, and the greater the likelihood of success. The thes..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1018; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":6897,\"items\":[{\"DOI\":\"10.1109\\/aero50100.202..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781192244-Aerospace-followup-1781086131-c510b4f18be1.json"
+}

@@ -1,0 +1,158 @@
+{
+  "timestamp_secs": 1780975751,
+  "task_id": "followup-1780927972-243ea34a4530",
+  "domain": "BrainComputerInterface",
+  "question": "Are there adversarial robustness benchmarks for BCI classifiers that could serve as a weak proxy for alignment-safety evaluation?",
+  "query": "brain computer interface human AI cooperation risks there adversarial robustness benchmarks classifiers serve weak proxy alignment",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-26513511452a2e59",
+      "provider": "OpenAlex",
+      "title": "AI Alignment: A Comprehensive Survey",
+      "url": "http://arxiv.org/abs/2310.19852",
+      "doi": "https://doi.org/10.48550/arxiv.2310.19852",
+      "year": 2023,
+      "authors": [
+        "Jiaming Ji",
+        "Tianyi Qiu",
+        "Boyuan Chen",
+        "Borong Zhang",
+        "Hantao Lou",
+        "Kaile Wang",
+        "Yawen Duan",
+        "Zhonghao He"
+      ],
+      "venue": "arXiv (Cornell University)",
+      "summary": "AI alignment aims to make AI systems behave in line with human intentions and values. As AI systems grow more capable, so do risks from misalignment. To provide a comprehensive and up-to-date overview of the alignment field, in this survey, we delve into the core concepts, methodology, and practice of alignment. First, we identify four principles as the key objectives of AI alignment: Robustness, Interpretability, Controllability, and Ethicality (RICE). Guided by these four principles, we outline the landscape of current alignment research and decompose them into two key components: forward al..."
+    },
+    {
+      "source_id": "OpenAlex-9c2448009b0b78cf",
+      "provider": "OpenAlex",
+      "title": "Explainable Artificial Intelligence (XAI) 2.0: A manifesto of open challenges and interdisciplinary research directions",
+      "url": "https://doi.org/10.1016/j.inffus.2024.102301",
+      "doi": "https://doi.org/10.1016/j.inffus.2024.102301",
+      "year": 2024,
+      "authors": [
+        "Luca Longo",
+        "Mario Brčić",
+        "Federico Cabitza",
+        "Jaesik Choi",
+        "Roberto Confalonieri",
+        "Javier Del Ser",
+        "Riccardo Guidotti",
+        "Yoichi Hayashi"
+      ],
+      "venue": "Information Fusion",
+      "summary": "Understanding black box models has become paramount as systems based on opaque Artificial Intelligence (AI) continue to flourish in diverse real-world applications. In response, Explainable AI (XAI) has emerged as a field of research with practical and ethical benefits across various domains. This paper highlights the advancements in XAI and its application in real-world scenarios and addresses the ongoing challenges within XAI, emphasizing the need for broader perspectives and collaborative efforts. We bring together experts from diverse fields to identify open problems, striving to synchroni..."
+    },
+    {
+      "source_id": "OpenAlex-c047f534aaadde89",
+      "provider": "OpenAlex",
+      "title": "Aligning generalization between humans and machines",
+      "url": "https://doi.org/10.1038/s42256-025-01109-4",
+      "doi": "https://doi.org/10.1038/s42256-025-01109-4",
+      "year": 2025,
+      "authors": [
+        "Filip Ilievski",
+        "Barbara Hammer",
+        "Frank van Harmelen",
+        "Benjamin Paaßen",
+        "Sascha Saralajew",
+        "Ute Schmid",
+        "Michael Biehl",
+        "Marianna Bolognesi"
+      ],
+      "venue": "Nature Machine Intelligence",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-023ed37805612d7b",
+      "provider": "Crossref",
+      "title": "Adversarial Robustness of Proxy-Based Metric Learning Models",
+      "url": "https://doi.org/10.5220/0014480600004084",
+      "doi": "10.5220/0014480600004084",
+      "year": 2026,
+      "authors": [
+        "Marcin Maciąg",
+        "Grzegorz Sarwas"
+      ],
+      "venue": "Proceedings of the 21st International Conference on Computer Vision Theory and Applications",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-fa68b9e0db280f65",
+      "provider": "Crossref",
+      "title": "Applied Advanced Classifiers for Brain Computer Interface",
+      "url": "https://doi.org/10.5772/14294",
+      "doi": "10.5772/14294",
+      "year": 2011,
+      "authors": [
+        "Jos Luis",
+        "Antonio Barrientos"
+      ],
+      "venue": "Recent Advances in Brain-Computer Interface Systems",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-d36a6a7b9ab927ec",
+      "provider": "Crossref",
+      "title": "When Human Pose Estimation Meets Robustness: Adversarial Algorithms and Benchmarks",
+      "url": "https://doi.org/10.1109/cvpr46437.2021.01168",
+      "doi": "10.1109/cvpr46437.2021.01168",
+      "year": 2021,
+      "authors": [
+        "Jiahang Wang",
+        "Sheng Jin",
+        "Wentao Liu",
+        "Weizhong Liu",
+        "Chen Qian",
+        "Ping Luo"
+      ],
+      "venue": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780975751-BrainComputerInterface-followup-1780927972-243ea34a4530.json"
+}

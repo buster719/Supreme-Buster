@@ -1,0 +1,93 @@
+{
+  "timestamp_secs": 1780937251,
+  "task_id": "followup-1780919739-56ba5f9e05df",
+  "domain": "Genetics",
+  "question": "Which phenotype classes (e.g. anthropometric, biomarker, psychiatric) show the largest cross-ancestry PRS decay, and why?",
+  "query": "genetics safety human flourishing genome editing phenotype classes anthropometric biomarker psychiatric show largest cross ancestry",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-cfb16ead6fc6d226",
+      "provider": "Arxiv",
+      "title": "Population genetics models of local ancestry",
+      "url": "http://arxiv.org/abs/1202.4811v2",
+      "doi": null,
+      "year": 2012,
+      "authors": [
+        "Simon Gravel"
+      ],
+      "venue": "arXiv",
+      "summary": "Migrations have played an important role in shaping the genetic diversity of human populations. Understanding genomic data thus requires careful modeling of historical gene flow. Here we consider the effect of relatively recent population structure and gene flow, and interpret genomes of individuals that have ancestry from multiple source populations as mosaics of segments originating from each population. We propose general and tractable models for describing the evolution of these patterns of local ancestry and their impact on genetic diversity. We focus on the length distribution of continu..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780937251-Genetics-followup-1780919739-56ba5f9e05df.json"
+}

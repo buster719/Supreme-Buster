@@ -1,0 +1,99 @@
+{
+  "timestamp_secs": 1780975092,
+  "task_id": "followup-1780926701-4577fb49213e",
+  "domain": "Aerospace",
+  "question": "What is the expected water-ice concentration (%wt) vs depth profile in PSRs (permanently shadowed regions) on the Moon and in mid-latitude Martian ice deposits, and how does excavation energy scale with regolith porosity and cohesion?",
+  "query": "aerospace civilization resilience deep space capability expected water concentration depth profile psrs permanently shadowed regions",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-3801f0fec6bd2526",
+      "provider": "Arxiv",
+      "title": "Learn to Accumulate Evidence from All Training Samples: Theory and Practice",
+      "url": "http://arxiv.org/abs/2306.11113v2",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Pandey",
+        "Qi Yu"
+      ],
+      "venue": "arXiv",
+      "summary": "Evidential deep learning, built upon belief theory and subjective logic, offers a principled and computationally efficient way to turn a deterministic neural network uncertainty-aware. The resultant evidential models can quantify fine-grained uncertainty using the learned evidence. To ensure theoretically sound evidential models, the evidence needs to be non-negative, which requires special activation functions for model training and inference. This constraint often leads to inferior predictive performance compared to standard softmax models, making it challenging to extend them to many large-..."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    },
+    {
+      "source_id": "Crossref-9e5a0a676c3700d7",
+      "provider": "Crossref",
+      "title": "SAR-based Investigation of Water Ice in Lunar Polar Permanently Shadowed Regions (PSRs)",
+      "url": "https://doi.org/10.5194/epsc-dps2025-240",
+      "doi": "10.5194/epsc-dps2025-240",
+      "year": 2025,
+      "authors": [
+        "Haiying Li",
+        "Zhou Qin",
+        "Bin Liu",
+        "Jianjun Liu",
+        "Chunlai Li",
+        "Xiping Xue"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-3ceb54b0120bbfa2",
+      "provider": "Crossref",
+      "title": "Automatic detection of rocks on permanently shadowed regions (PSRs) of the Moon using PSR-BoulderNet",
+      "url": "https://doi.org/10.1016/j.icarus.2026.117112",
+      "doi": "10.1016/j.icarus.2026.117112",
+      "year": 2026,
+      "authors": [
+        "Yang Liu",
+        "Wenzhe Fa"
+      ],
+      "venue": "Icarus",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-3f450656715b48b7",
+      "provider": "Crossref",
+      "title": "Experimental Investigations of Water Extraction Process within Permanently Shadowed Regions of the Moon",
+      "url": "https://doi.org/10.1061/9780784483374.065",
+      "doi": "10.1061/9780784483374.065",
+      "year": 2021,
+      "authors": [
+        "T. Gordon Wasilewski"
+      ],
+      "venue": "Earth and Space 2021",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780975092-Aerospace-followup-1780926701-4577fb49213e.json"
+}

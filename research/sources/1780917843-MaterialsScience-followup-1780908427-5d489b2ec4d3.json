@@ -1,0 +1,140 @@
+{
+  "timestamp_secs": 1780917843,
+  "task_id": "followup-1780908427-5d489b2ec4d3",
+  "domain": "MaterialsScience",
+  "question": "Is there a consolidated, publicly accessible database that includes multi-cycle oxidation, strength, and toughness data for UHTCs above 1800°C, or are we forced to scrape individual papers?",
+  "query": "materials science fusion robotics aerospace computation there consolidated publicly accessible database includes multi cycle oxidation",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-d5b11a3542ed4bb5",
+      "provider": "Arxiv",
+      "title": "RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation",
+      "url": "http://arxiv.org/abs/2412.13877v3",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Kun Wu",
+        "Chengkai Hou",
+        "Jiaming Liu",
+        "Zhengping Che",
+        "Xiaozhu Ju",
+        "Zhuqin Yang",
+        "Meng Li",
+        "Yinuo Zhao"
+      ],
+      "venue": "arXiv",
+      "summary": "In this paper, we introduce RoboMIND (Multi-embodiment Intelligence Normative Data for Robot Manipulation), a dataset containing 107k demonstration trajectories across 479 diverse tasks involving 96 object classes. RoboMIND is collected through human teleoperation and encompasses comprehensive robotic-related information, including multi-view observations, proprioceptive robot state information, and linguistic task descriptions. To ensure data consistency and reliability for imitation learning, RoboMIND is built on a unified data collection platform and a standardized protocol, covering four d..."
+    },
+    {
+      "source_id": "Arxiv-cb4a2b75f3add1aa",
+      "provider": "Arxiv",
+      "title": "Secure and secret cooperation in robotic swarms",
+      "url": "http://arxiv.org/abs/1904.09266v3",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Eduardo Castelló Ferrer",
+        "Thomas Hardjono",
+        "Alex 'Sandy' Pentland",
+        "Marco Dorigo"
+      ],
+      "venue": "arXiv",
+      "summary": "The importance of swarm robotics systems in both academic research and real-world applications is steadily increasing. However, to reach widespread adoption, new models that ensure the secure cooperation of large groups of robots need to be developed. This work introduces a novel method to encapsulate cooperative robotic missions in an authenticated data structure known as Merkle tree. With this method, operators can provide the \"blueprint\" of the swarm's mission without disclosing its raw data. In other words, data verification can be separated from data itself. We propose a system where robo..."
+    },
+    {
+      "source_id": "OpenAlex-e287a1ed675868dd",
+      "provider": "OpenAlex",
+      "title": "2020 NASA Technology Taxonomy",
+      "url": "http://hdl.handle.net/2060/20190032038",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "David Miranda"
+      ],
+      "venue": "NASA STI Repository (National Aeronautics and Space Administration)",
+      "summary": "This document is the final PDF version of the 2020 NASA Technology Taxonomy that will be available to download on the OCT Public Website. The updated 2020 NASA Technology Taxonomy, or \"technology dictionary\", uses a technology discipline based approach that realigns like-technologies independent of their application within the NASA mission portfolio. This tool is meant to serve as a common technology discipline-based communication tool across the agency and with its partners in other government agencies, academia, industry, and across the world.\\n\\n\\n"
+    },
+    {
+      "source_id": "OpenAlex-3bd6cbab5459044b",
+      "provider": "OpenAlex",
+      "title": "Analysis of Digital Twin Applications in Energy Efficiency: A Systematic Review",
+      "url": "https://doi.org/10.3390/su17083560",
+      "doi": "https://doi.org/10.3390/su17083560",
+      "year": 2025,
+      "authors": [
+        "Labouda Ba",
+        "Fatma Tangour",
+        "Ikram El Abbassi",
+        "Rafik Absi"
+      ],
+      "venue": "Sustainability",
+      "summary": "Digital Twin (DT) technology is emerging as a powerful tool for optimizing energy efficiency and industrial sustainability. By creating virtual replicas of physical systems, DTs enable real-time monitoring, predictive maintenance, and resource optimization, offering new opportunities to meet growing energy demands. Despite its potential, the comprehension of DT technology’s applications, benefits, and challenges remains limited. This systematic review explores the role of Digital Twins in energy efficiency across various industries. A structured literature search was conducted in IEEE Xplore, ..."
+    },
+    {
+      "source_id": "OpenAlex-d8dd6770fe961216",
+      "provider": "OpenAlex",
+      "title": "Advanced manufacturing and digital twin technology for nuclear energy*",
+      "url": "https://doi.org/10.3389/fenrg.2024.1339836",
+      "doi": "https://doi.org/10.3389/fenrg.2024.1339836",
+      "year": 2024,
+      "authors": [
+        "Kunal Mondal",
+        "Oscar Martínez",
+        "Prashant Jain"
+      ],
+      "venue": "Frontiers in Energy Research",
+      "summary": "Advanced manufacturing techniques and digital twin technology are rapidly transforming the nuclear industry, offering the potential to enhance productivity, safety, and cost-effectiveness. Customized parts are being produced using additive manufacturing, automation, and robotics, while digital twin technology enables the virtual modeling and optimization of complex systems. These advanced technologies can significantly improve operational efficiency, predict system behavior, and optimize maintenance schedules in the nuclear energy sector, leading to heightened safety and reduced downtime. Howe..."
+    },
+    {
+      "source_id": "Crossref-72d59e494014a7ad",
+      "provider": "Crossref",
+      "title": "Financial Accounts",
+      "url": "https://doi.org/10.1787/na-fa-data-en",
+      "doi": "10.1787/na-fa-data-en",
+      "year": 2012,
+      "authors": [],
+      "venue": "OECD National Accounts Statistics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-488533b64c4bb018",
+      "provider": "Crossref",
+      "title": "Financial Accounts, SNA 2008",
+      "url": "https://doi.org/10.1787/na-fa08-data-en",
+      "doi": "10.1787/na-fa08-data-en",
+      "year": 2015,
+      "authors": [],
+      "venue": "OECD National Accounts Statistics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-afef8a6620311cc6",
+      "provider": "Crossref",
+      "title": "Searching publicly accessible government info",
+      "url": "https://doi.org/10.63485/y2ekg-7y683",
+      "doi": "10.63485/y2ekg-7y683",
+      "year": 2004,
+      "authors": [
+        "Peter Suber"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780917843-MaterialsScience-followup-1780908427-5d489b2ec4d3.json"
+}

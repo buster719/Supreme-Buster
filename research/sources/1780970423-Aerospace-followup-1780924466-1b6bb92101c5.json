@@ -1,0 +1,55 @@
+{
+  "timestamp_secs": 1780970423,
+  "task_id": "followup-1780924466-1b6bb92101c5",
+  "domain": "Aerospace",
+  "question": "Are there preprints on arXiv since 2023 that combine stochastic closure resilience models with habitat-scale System Dynamics or agent-based models under supply chain interruption scenarios?",
+  "query": "aerospace civilization resilience deep space capability there preprints arxiv since 2023 combine stochastic closure resilience",
+  "sources": [
+    {
+      "source_id": "Crossref-b2d0924b76ebd4c5",
+      "provider": "Crossref",
+      "title": "The critical imperatives of behavioral resilience in civilian space flight travelers",
+      "url": "https://doi.org/10.1016/b978-0-443-13850-8.00017-8",
+      "doi": "10.1016/b978-0-443-13850-8.00017-8",
+      "year": 2025,
+      "authors": [
+        "Bettina L. Beard"
+      ],
+      "venue": "Building a Space-Faring Civilization",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-59f028dd81f478b9",
+      "provider": "Crossref",
+      "title": "Guide Brief 13 - Resilience Gaps - Identifying and Prioritizing Closure of Resilience Gaps",
+      "url": "https://doi.org/10.6028/nist.sp.1190gb-13",
+      "doi": "10.6028/nist.sp.1190gb-13",
+      "year": 2017,
+      "authors": [
+        "Community Resilience Program NIST"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72cc9f1b1594a61a",
+      "provider": "Crossref",
+      "title": "High Performance Adaptive Deep-Reinforcement-Learning-based Real-time Emergency Control (HADREC) to Enhance Power Grid Resilience in Stochastic Environment (Final Report)",
+      "url": "https://doi.org/10.2172/2372720",
+      "doi": "10.2172/2372720",
+      "year": 2023,
+      "authors": [
+        "Yousu Chen"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "HTTP status client error (429 Unknown Error) for url (https://export.arxiv.org/api/query?search_query=all%3Aaerospace+civilization+resilience+deep+space+capability+there+preprints+arxiv+since+2023+combine+stochastic+closure+resilience&start..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780970423-Aerospace-followup-1780924466-1b6bb92101c5.json"
+}

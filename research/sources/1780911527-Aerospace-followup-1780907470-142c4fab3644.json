@@ -1,0 +1,73 @@
+{
+  "timestamp_secs": 1780911527,
+  "task_id": "followup-1780907470-142c4fab3644",
+  "domain": "Aerospace",
+  "question": "How would a distributed network of space-based solar power satellites or orbital sunshades change the resilience of Earth’s energy grid and climate against both natural and anthropogenic catastrophes, compared to equivalent terrestrial investment, according to recent high-fidelity integrated assessment models?",
+  "query": "aerospace civilization resilience deep space capability distributed network space based solar power satellites orbital sunshades",
+  "sources": [
+    {
+      "source_id": "Arxiv-97df31fb9d7152bf",
+      "provider": "Arxiv",
+      "title": "SPACE: the SPectroscopic All-sky Cosmic Explorer",
+      "url": "http://arxiv.org/abs/0804.4433v1",
+      "doi": null,
+      "year": 2008,
+      "authors": [
+        "A. Cimatti",
+        "M. Robberto",
+        "C. M. Baugh",
+        "S. V. W. Beckwith",
+        "R. Content",
+        "E. Daddi",
+        "G. De Lucia",
+        "B. Garilli"
+      ],
+      "venue": "arXiv",
+      "summary": "We describe the scientific motivations, the mission concept and the instrumentation of SPACE, a class-M mission proposed for concept study at the first call of the ESA Cosmic-Vision 2015-2025 planning cycle. SPACE aims to produce the largest three-dimensional evolutionary map of the Universe over the past 10 billion years by taking near-IR spectra and measuring redshifts for more than half a billion galaxies at 0<z<2 down to AB~23 over 3πsr of the sky. In addition, SPACE will also target a smaller sky field, performing a deep spectroscopic survey of millions of galaxies to AB~26 and at 2<z<10+..."
+    },
+    {
+      "source_id": "Arxiv-58f19190ab4bee8a",
+      "provider": "Arxiv",
+      "title": "Addressing Gaps in Space Weather Operations and Understanding with Small Satellites",
+      "url": "http://arxiv.org/abs/2012.03343v1",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Olga Verkhoglyadova",
+        "Charles Bussy-Virat",
+        "Amir Caspi",
+        "David Jackson",
+        "Vladimir Kalegaev",
+        "Jeffrey Klenzing",
+        "Jesus Nieves-Chinchilla",
+        "Angelos Vourlidas"
+      ],
+      "venue": "arXiv",
+      "summary": "Gaps in space weather observations that can be addressed with small satellites are identified. Potential improvements in solar inputs to space weather models, space radiation control, estimations of energy budget of the upper Earth's atmosphere, and satellite drag modeling are briefly discussed. Key observables, instruments and observation strategies by small satellites are recommended. Tracking optimization for small satellites is proposed."
+    },
+    {
+      "source_id": "Arxiv-2e15f9d577b3cc40",
+      "provider": "Arxiv",
+      "title": "Whistler instability stimulated by the suprathermal electrons present in space plasmas",
+      "url": "http://arxiv.org/abs/1910.01506v1",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "M. Lazar",
+        "R. A. Lopez",
+        "S. M. Shaaban",
+        "S. Poedts",
+        "H. Fichtner"
+      ],
+      "venue": "arXiv",
+      "summary": "In the absence of efficient collisions, deviations from thermal equilibrium of plasma particle distributions are controlled by the self-generated instabilities. The whistler instability is a notorious example, usually responsible for the regulation of electron temperature anisotropy $A = T_{\\perp}/T_\\parallel>$ (with $\\perp, \\parallel$ respective to the magnetic field direction) observed in space plasmas, e.g., solar wind and planetary magnetospheres. Suprathermal electrons present in these environments change the plasma dispersion and stability properties, with expected consequences on the ki..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1837; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":203179,\"items\":[{\"DOI\":\"10.1109\\/aero.2012.6..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780911527-Aerospace-followup-1780907470-142c4fab3644.json"
+}

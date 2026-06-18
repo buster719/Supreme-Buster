@@ -1,0 +1,139 @@
+{
+  "timestamp_secs": 1780922864,
+  "task_id": "followup-1780911238-99d89627453a",
+  "domain": "Aerospace",
+  "question": "What is the highest-uncertainty claim in this Aerospace note, and what evidence would change Buster's belief?",
+  "query": "aerospace civilization resilience deep space capability highest uncertainty claim aerospace note evidence change belief",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-3801f0fec6bd2526",
+      "provider": "Arxiv",
+      "title": "Learn to Accumulate Evidence from All Training Samples: Theory and Practice",
+      "url": "http://arxiv.org/abs/2306.11113v2",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Pandey",
+        "Qi Yu"
+      ],
+      "venue": "arXiv",
+      "summary": "Evidential deep learning, built upon belief theory and subjective logic, offers a principled and computationally efficient way to turn a deterministic neural network uncertainty-aware. The resultant evidential models can quantify fine-grained uncertainty using the learned evidence. To ensure theoretically sound evidential models, the evidence needs to be non-negative, which requires special activation functions for model training and inference. This constraint often leads to inferior predictive performance compared to standard softmax models, making it challenging to extend them to many large-..."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    },
+    {
+      "source_id": "OpenAlex-a22fe551a6981e82",
+      "provider": "OpenAlex",
+      "title": "Human Sustainability and Cognitive Overload at Work",
+      "url": "https://doi.org/10.4324/9781003399087",
+      "doi": "https://doi.org/10.4324/9781003399087",
+      "year": 2024,
+      "authors": [
+        "Alexander D. Stajković",
+        "Kayla S. Stajkovic"
+      ],
+      "venue": null,
+      "summary": "This innovative book considers the cost of cognitive overload and psychological distress on human sustainability, and suggests ways to prevent employees from becoming a psychologically depleted workforce. Employee attentional processing capacity is maxed out, and psychological distress is at an all-time high. Alexander D. Stajkovic and Kayla S. Stajkovic explain how human cognitive ‘broadband’ is at the hunter-gatherer level and changes at an evolutionary snail’s pace. Yet the amount of information necessary to make a living now is incomparable to then, and the current relationship between wor..."
+    },
+    {
+      "source_id": "OpenAlex-dbcf2aa80eb8f06f",
+      "provider": "OpenAlex",
+      "title": "Precursors to a 'Good' Bioeconomy in 2125: Making Sense of Bioeconomy & Justice Horizons. First Foresight Report of the BioEcoJust Project",
+      "url": "https://www.utupub.fi/handle/10024/148181",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Amos Taylor",
+        "Raleigh Balcom",
+        "Ana María Botella Nicolás",
+        "Sofi Kurki",
+        "Marianna Birmoser Ferreira-Aulu",
+        "Markku Wilenius"
+      ],
+      "venue": "UTUPub (University of Turku)",
+      "summary": "The Bioeconomy today is a field full of promise, brimming with potentially transformative solutions, and developments still only in their infancy. The aim of this report has been to convey the findings of the BioEcoJust foresight research to date, and especially to highlight the core critical thinking involved in approaching the future of the bioeconomy for the next 100 years. The BioEconomy and Justice (BioEcoJust) is funded by the Academy of Finland BioFuture 2025 programme and aims to develop a future-oriented ethical and justice framework useful in assessing long-term bioeconomy developmen..."
+    },
+    {
+      "source_id": "OpenAlex-f01b3904f7018f97",
+      "provider": "OpenAlex",
+      "title": "DÉBATS SCIENTIFIQUES ET ORIENTATIONS PROSPECTIVES DU DÉVELOPPEMENT SCIENTIFIQUE",
+      "url": "http://dx.doi.org/10.36074/logos-21.07.2023",
+      "doi": "https://doi.org/10.36074/logos-21.07.2023",
+      "year": 2023,
+      "authors": [],
+      "venue": null,
+      "summary": ", , , ., , , , (, ) , ."
+    },
+    {
+      "source_id": "Crossref-1ce5db4a9b9c499c",
+      "provider": "Crossref",
+      "title": "Addressing Deep Uncertainty in Space System Development through Model-based Adaptive Design",
+      "url": "https://doi.org/10.1109/aero47225.2020.9172672",
+      "doi": "10.1109/aero47225.2020.9172672",
+      "year": 2020,
+      "authors": [
+        "Mark Chodas",
+        "Rebecca Masterson",
+        "Olivier de Weck"
+      ],
+      "venue": "2020 IEEE Aerospace Conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-5967256d3f6d951a",
+      "provider": "Crossref",
+      "title": "Space-based observation modeling method considering resident space object state uncertainty",
+      "url": "https://doi.org/10.21741/9781644903193-40",
+      "doi": "10.21741/9781644903193-40",
+      "year": 2024,
+      "authors": [
+        "Yifan Cai"
+      ],
+      "venue": "Materials Research Proceedings",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-7c872c0a14a60558",
+      "provider": "Crossref",
+      "title": "Network Resilience Optimisation of Complex Systems",
+      "url": "https://doi.org/10.1007/978-3-030-80542-5_19",
+      "doi": "10.1007/978-3-030-80542-5_19",
+      "year": 2021,
+      "authors": [
+        "Gianluca Filippi",
+        "Massimiliano Vasile"
+      ],
+      "venue": "Space Technology Proceedings",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780922864-Aerospace-followup-1780911238-99d89627453a.json"
+}

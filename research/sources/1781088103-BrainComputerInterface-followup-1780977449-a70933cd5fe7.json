@@ -1,0 +1,155 @@
+{
+  "timestamp_secs": 1781088103,
+  "task_id": "followup-1780977449-a70933cd5fe7",
+  "domain": "BrainComputerInterface",
+  "question": "Are there physiological markers (e.g., error‑related negativity, frontal theta) that predict a withdrawal‑induced trust dip?",
+  "query": "brain computer interface human AI cooperation risks there physiological markers error related negativity frontal theta predict",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-09748e26d4190e17",
+      "provider": "OpenAlex",
+      "title": "EEG Based Emotion Recognition: A Tutorial and Review",
+      "url": "https://doi.org/10.1145/3524499",
+      "doi": "https://doi.org/10.1145/3524499",
+      "year": 2022,
+      "authors": [
+        "Xiang Li",
+        "Yazhou Zhang",
+        "Prayag Tiwari",
+        "Dawei Song",
+        "Bin Hu",
+        "Meihong Yang",
+        "Zhigang Zhao",
+        "Neeraj Kumar"
+      ],
+      "venue": "ACM Computing Surveys",
+      "summary": "Emotion recognition technology through analyzing the EEG signal is currently an essential concept in Artificial Intelligence and holds great potential in emotional health care, human-computer interaction, multimedia content recommendation, etc. Though there have been several works devoted to reviewing EEG-based emotion recognition, the content of these reviews needs to be updated. In addition, those works are either fragmented in content or only focus on specific techniques adopted in this area but neglect the holistic perspective of the entire technical routes. Hence, in this paper, we review..."
+    },
+    {
+      "source_id": "OpenAlex-0438a96a4f6c0400",
+      "provider": "OpenAlex",
+      "title": "Midfrontal theta dynamics index the monitoring of postural stability",
+      "url": "https://doi.org/10.1093/cercor/bhac283",
+      "doi": "https://doi.org/10.1093/cercor/bhac283",
+      "year": 2022,
+      "authors": [
+        "Mitchel Stokkermans",
+        "Teodoro Solis‐Escalante",
+        "Michael X Cohen",
+        "Vivian Weerdesteyn"
+      ],
+      "venue": "Cerebral Cortex",
+      "summary": "Abstract Stepping is a common strategy to recover postural stability and maintain upright balance. Postural perturbations have been linked to neuroelectrical markers such as the N1 potential and theta frequency dynamics. Here, we investigated the role of cortical midfrontal theta dynamics of balance monitoring, driven by balance perturbations at different initial standing postures. We recorded electroencephalography, electromyography, and motion tracking of human participants while they stood on a platform that delivered a range of forward and backward whole-body balance perturbations. The par..."
+    },
+    {
+      "source_id": "OpenAlex-d2b0a17cebe33070",
+      "provider": "OpenAlex",
+      "title": "Brain imaging and human nutrition: which measures to use in intervention studies?",
+      "url": "https://doi.org/10.1017/s0007114513001384",
+      "doi": "https://doi.org/10.1017/s0007114513001384",
+      "year": 2013,
+      "authors": [
+        "Stéphane Sizonenko",
+        "Claudio Babiloni",
+        "Eveline A. de Bruin",
+        "Elizabeth Isaacs",
+        "Lena S. Jönsson",
+        "David O. Kennedy",
+        "Marie E. Latulippe",
+        "M. Hasan Mohajeri"
+      ],
+      "venue": "British Journal Of Nutrition",
+      "summary": "The present review describes brain imaging technologies that can be used to assess the effects of nutritional interventions in human subjects. Specifically, we summarise the biological relevance of their outcome measures, practical use and feasibility, and recommended use in short- and long-term nutritional studies. The brain imaging technologies described consist of MRI, including diffusion tensor imaging, magnetic resonance spectroscopy and functional MRI, as well as electroencephalography/magnetoencephalography, near-IR spectroscopy, positron emission tomography and single-photon emission c..."
+    },
+    {
+      "source_id": "Crossref-3bc893d1d7afadbf",
+      "provider": "Crossref",
+      "title": "Frontal midline theta and the error-related negativity: neurophysiological mechanisms of action regulation",
+      "url": "https://doi.org/10.1016/j.clinph.2004.03.031",
+      "doi": "10.1016/j.clinph.2004.03.031",
+      "year": 2004,
+      "authors": [
+        "Phan Luu",
+        "Don M Tucker",
+        "Scott Makeig"
+      ],
+      "venue": "Clinical Neurophysiology",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-8ea5b81ef78467c5",
+      "provider": "Crossref",
+      "title": "Deconstructing the functional significance of the error-related negativity (ERN) and midline frontal theta oscillations using stepwise time-locking and single-trial response dynamics",
+      "url": "https://doi.org/10.1016/j.neuroimage.2023.120113",
+      "doi": "10.1016/j.neuroimage.2023.120113",
+      "year": 2023,
+      "authors": [
+        "Paul D. Kieffaber",
+        "Juston Osborne",
+        "Emily Norton",
+        "Matthew Hilimire"
+      ],
+      "venue": "NeuroImage",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-11e2edc0dfc98054",
+      "provider": "Crossref",
+      "title": "Performance monitoring and error detection: The role of mid frontal theta and error-related negativity (ERN) among Indian adolescents from different socioeconomic background",
+      "url": "https://doi.org/10.1080/21622965.2024.2333809",
+      "doi": "10.1080/21622965.2024.2333809",
+      "year": 2025,
+      "authors": [
+        "Aman Kumar Raturi",
+        "Sreelatha S. Narayanan",
+        "S. P. K. Jena"
+      ],
+      "venue": "Applied Neuropsychology: Child",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781088103-BrainComputerInterface-followup-1780977449-a70933cd5fe7.json"
+}

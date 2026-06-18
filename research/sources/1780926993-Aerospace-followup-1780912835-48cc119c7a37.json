@@ -1,0 +1,96 @@
+{
+  "timestamp_secs": 1780926993,
+  "task_id": "followup-1780912835-48cc119c7a37",
+  "domain": "Aerospace",
+  "question": "How does Starship's high payload volume (~1000 m³) enable new infrastructure architectures (e.g., monolithic hab modules, ISRU plants) that previous heavy-lift vehicles could not, and what are the mass/volume tradeoffs?",
+  "query": "aerospace civilization resilience deep space capability starship high payload volume 1000 enable infrastructure architectures monolithic",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-473b7c657f833b22",
+      "provider": "Arxiv",
+      "title": "On the approximation of rough functions with deep neural networks",
+      "url": "http://arxiv.org/abs/1912.06732v2",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Tim De Ryck",
+        "Siddhartha Mishra",
+        "Deep Ray"
+      ],
+      "venue": "arXiv",
+      "summary": "Deep neural networks and the ENO procedure are both efficient frameworks for approximating rough functions. We prove that at any order, the ENO interpolation procedure can be cast as a deep ReLU neural network. This surprising fact enables the transfer of several desirable properties of the ENO procedure to deep neural networks, including its high-order accuracy at approximating Lipschitz functions. Numerical tests for the resulting neural networks show excellent performance for approximating solutions of nonlinear conservation laws and at data compression."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    },
+    {
+      "source_id": "Crossref-96baadf35308fd8c",
+      "provider": "Crossref",
+      "title": "Interplanetary Civilization Network: A Stepwise Colony-Based Infrastructure Enabling Deep-Space Settlement, Multi-Hop Planetary Communication, and High-Fidelity Exploration of Distant Worlds",
+      "url": "https://doi.org/10.2139/ssrn.5881222",
+      "doi": "10.2139/ssrn.5881222",
+      "year": 2026,
+      "authors": [
+        "Satoshi Kawauchi"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-1c6a27546de4495d",
+      "provider": "Crossref",
+      "title": "Secondary Payload Opportunities on NASA’s Space Launch System (SLS) Enable Science and Deep Space Exploration",
+      "url": "https://doi.org/10.1007/978-3-319-51941-8_9",
+      "doi": "10.1007/978-3-319-51941-8_9",
+      "year": 2017,
+      "authors": [
+        "Jody Singer",
+        "Joseph Pelfrey",
+        "George Norris"
+      ],
+      "venue": "Space Operations: Contributions from the Global Community",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-a857d9035d7ee081",
+      "provider": "Crossref",
+      "title": "Modular Space Manufacturing Concepts and Architectures for a Deep Space Cis-Lunar Infrastructure",
+      "url": "https://doi.org/10.52202/078382-0076",
+      "doi": "10.52202/078382-0076",
+      "year": 2024,
+      "authors": [
+        "Paolo Mangili"
+      ],
+      "venue": "35th IAA Symposium on Space and Society",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780926993-Aerospace-followup-1780912835-48cc119c7a37.json"
+}

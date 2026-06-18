@@ -1,0 +1,12 @@
+{
+  "name": "wechat_article_scraper",
+  "status": "Active",
+  "source": "https://github.com/fupengyu1/trae-skills-submission/blob/main/.trae/skills/wechat_article_scraper/SKILL.md",
+  "version": 1,
+  "created_at_secs": 1781493581,
+  "updated_at_secs": 1781495338,
+  "last_reviewed_at_secs": 1781495338,
+  "risk_notes": [
+    "installed from external markdown; inferred risk Level4BodyTouch / L4; default activation=false"
+  ]
+}

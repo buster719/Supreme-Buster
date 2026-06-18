@@ -1,0 +1,122 @@
+{
+  "timestamp_secs": 1781075503,
+  "task_id": "followup-1780938230-2000c99ff3dc",
+  "domain": "Genetics",
+  "question": "Are there alternative support models (e.g. digital decision aids, group counseling, community health worker involvement) that preserve informed consent without acting as gatekeeping bottlenecks?",
+  "query": "genetics safety human flourishing genome editing there alternative support models digital decision aids group counseling",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-c710a089b429674c",
+      "provider": "OpenAlex",
+      "title": "Adventures in Higher Education, Happiness, And Mindfulness",
+      "url": "https://doi.org/10.2478/bjals-2018-0008",
+      "doi": "https://doi.org/10.2478/bjals-2018-0008",
+      "year": 2018,
+      "authors": [
+        "Peter H. Huang"
+      ],
+      "venue": "British Journal of American Legal Studies",
+      "summary": "Abstract This Article recounts my unique adventures in higher education, including being a Princeton University freshman mathematics major at age 14, Harvard University applied mathematics graduate student at age 17, economics and finance faculty at multiple schools, first-year law student at the University of Chicago, second- and third-year law student at Stanford University, and law faculty at multiple schools. This Article also candidly discusses my experiences as student and professor and openly shares how I achieved sustainable happiness by practicing mindfulness to reduce fears, ruminati..."
+    },
+    {
+      "source_id": "OpenAlex-cfff7a88581a8448",
+      "provider": "OpenAlex",
+      "title": "From Recovery to Discovery: Ethnic American Science Fiction and (Re)Creating the Future",
+      "url": "https://digitalrepository.unm.edu/engl_etds/124",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Daoine S. Bachran"
+      ],
+      "venue": "UNM’s Digital Repository (University of New Mexico)",
+      "summary": "My project assesses how science fiction by writers of color challenges the scientific racism embedded in genetics, nuclear development, digital technology, and molecular biology, demonstrating how these fields are deployed disproportionately against people of color. By contextualizing current scientific development with its often overlooked history and exposing the full life cycle of scientific practices and technological changes, ethnic science fiction authors challenge science’s purported objectivity and make room for alternative scientific methods steeped in Indigenous epistemologies. The f..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781075503-Genetics-followup-1780938230-2000c99ff3dc.json"
+}

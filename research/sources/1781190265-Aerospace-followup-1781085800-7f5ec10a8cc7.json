@@ -1,0 +1,114 @@
+{
+  "timestamp_secs": 1781190265,
+  "task_id": "followup-1781085800-7f5ec10a8cc7",
+  "domain": "Aerospace",
+  "question": "What specific yield parameters (e.g., crop harvest index, water recovery rate, electrolyzer efficiency) are typically included in the uncertainty propagation, and what probability distributions are assumed?",
+  "query": "aerospace civilization resilience deep space capability specific yield parameters crop harvest index water recovery rate",
+  "sources": [
+    {
+      "source_id": "Arxiv-317d311ca8dec2d8",
+      "provider": "Arxiv",
+      "title": "Development of Crop Yield Estimation Model using Soil and Environmental Parameters",
+      "url": "http://arxiv.org/abs/2102.05755v2",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Nisar Ahmed",
+        "Hafiz Muhammad Shahzad Asif",
+        "Gulshan Saleem",
+        "Muhammad Usman Younus"
+      ],
+      "venue": "arXiv",
+      "summary": "Crop yield is affected by various soil and environmental parameters and can vary significantly. Therefore, a crop yield estimation model which can predict pre-harvest yield is required for food security. The study is conducted on tea forms operating under National Tea Research Institute, Pakistan. The data is recorded on monthly basis for ten years period. The parameters collected are minimum and maximum temperature, humidity, rainfall, PH level of the soil, usage of pesticide and labor expertise. The design of model incorporated all of these parameters and identified the parameters which are ..."
+    },
+    {
+      "source_id": "Arxiv-a836b27f6a61572a",
+      "provider": "Arxiv",
+      "title": "An Efficient Data Warehouse for Crop Yield Prediction",
+      "url": "http://arxiv.org/abs/1807.00035v1",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "Vuong M. Ngo",
+        "Nhien-An Le-Khac",
+        "M-Tahar Kechadi"
+      ],
+      "venue": "arXiv",
+      "summary": "Nowadays, precision agriculture combined with modern information and communications technologies, is becoming more common in agricultural activities such as automated irrigation systems, precision planting, variable rate applications of nutrients and pesticides, and agricultural decision support systems. In the latter, crop management data analysis, based on machine learning and data mining, focuses mainly on how to efficiently forecast and improve crop yield. In recent years, raw and semi-processed agricultural data are usually collected using sensors, robots, satellites, weather stations, fa..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "OpenAlex-ca8061fee7efee1a",
+      "provider": "OpenAlex",
+      "title": "Satellite Remote Sensing for Water Resources Management: Potential for Supporting Sustainable Development in Data‐Poor Regions",
+      "url": "https://doi.org/10.1029/2017wr022437",
+      "doi": "https://doi.org/10.1029/2017wr022437",
+      "year": 2018,
+      "authors": [
+        "Justin Sheffield",
+        "Eric F. Wood",
+        "Ming Pan",
+        "Hylke E. Beck",
+        "Gabriele Coccia",
+        "Aleix Serrat‐Capdevila",
+        "Koen Verbist"
+      ],
+      "venue": "Water Resources Research",
+      "summary": "Abstract Water resources management (WRM) for sustainable development presents many challenges in areas with sparse in situ monitoring networks. The exponential growth of satellite based information over the past decade provides unprecedented opportunities to support and improve WRM. Furthermore, traditional barriers to the access and usage of satellite data are lowering as technological innovations provide opportunities to manage and deliver this wealth of information to a wider audience. We review data needs for WRM and the role that satellite remote sensing can play to fill gaps and enhance..."
+    },
+    {
+      "source_id": "OpenAlex-a2c360dbd47975af",
+      "provider": "OpenAlex",
+      "title": "Impacts of Climate Variability and Change, Pacific Northwest",
+      "url": "http://hdl.handle.net/1773/38335",
+      "doi": "https://doi.org/10.6069/bzfiof5c",
+      "year": 2021,
+      "authors": [
+        "Philip W. Mote",
+        "Douglas J. Canning",
+        "David Fluharty",
+        "R. C. Francis",
+        "Jerry F. Franklin",
+        "Alan F. Hamlet",
+        "Marc J. Hershman",
+        "M. Holmberg"
+      ],
+      "venue": "ResearchWorks at the University of Washington (University of Washington)",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-966724d95324928b",
+      "provider": "OpenAlex",
+      "title": "Physical AI: Bridging the Sim-to-Real Divide Toward Embodied, Ethical, and Autonomous Intelligence",
+      "url": "https://doi.org/10.36227/techrxiv.176238257.73914361/v1",
+      "doi": "https://doi.org/10.36227/techrxiv.176238257.73914361/v1",
+      "year": 2025,
+      "authors": [
+        "Partha Pratim Ray"
+      ],
+      "venue": null,
+      "summary": "Physical Artificial Intelligence (Physical AI) delineates a new scientific frontier wherein cognition is not abstracted from the world but materially instantiated within it. It represents the fusion of algorithmic reasoning, embodied perception, and dynamic control into cyber–physical substrates capable of autonomous, safe, and ethically aligned interaction. In contrast to digital AI that operates solely over symbolic or pixel domains, Physical AI functions through closed perception–decision–action feedback loops governed by real-world physics, causality, and thermodynamic constraints. This ar..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 940; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":10499,\"items\":[{\"DOI\":\"10.1201\\/9781003578215..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781190265-Aerospace-followup-1781085800-7f5ec10a8cc7.json"
+}

@@ -1,0 +1,109 @@
+{
+  "timestamp_secs": 1780972080,
+  "task_id": "followup-1780926062-d4b5d7c1cd21",
+  "domain": "Aerospace",
+  "question": "What small local computation, simulation, or table could Buster run next to test part of this question: How do existing NASA, ESA, or commercial lunar base studies (e.g., ESA’s Moon Village, DARPA LunA-10, NASA’s Moon-to-Mars architecture) quantify the relationship between launch cost, payload mass, and infrastructure redundancy targets??",
+  "query": "aerospace civilization resilience deep space capability small local computation simulation table test part existing nasa",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-271830c019de5052",
+      "provider": "Arxiv",
+      "title": "NASA and the Search for Technosignatures: A Report from the NASA Technosignatures Workshop",
+      "url": "http://arxiv.org/abs/1812.08681v2",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "NASA Technosignatures Workshop Participants"
+      ],
+      "venue": "arXiv",
+      "summary": "This report is the product of the NASA Technosignatures Workshop held at the Lunar and Planetary Institute in Houston, Texas, in September 2018. This workshop was convened by NASA for the organization to learn more about the current field and state of the art of searches for technosignatures, and what role NASA might play in these searches in the future. The report, written by the workshop participants, summarizes the material presented at the workshop and incorporates additional inputs from the participants. Section 1 explains the scope and purpose of the document, provides general background..."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    },
+    {
+      "source_id": "OpenAlex-ca8061fee7efee1a",
+      "provider": "OpenAlex",
+      "title": "Satellite Remote Sensing for Water Resources Management: Potential for Supporting Sustainable Development in Data‐Poor Regions",
+      "url": "https://doi.org/10.1029/2017wr022437",
+      "doi": "https://doi.org/10.1029/2017wr022437",
+      "year": 2018,
+      "authors": [
+        "Justin Sheffield",
+        "Eric F. Wood",
+        "Ming Pan",
+        "Hylke E. Beck",
+        "Gabriele Coccia",
+        "Aleix Serrat‐Capdevila",
+        "Koen Verbist"
+      ],
+      "venue": "Water Resources Research",
+      "summary": "Abstract Water resources management (WRM) for sustainable development presents many challenges in areas with sparse in situ monitoring networks. The exponential growth of satellite based information over the past decade provides unprecedented opportunities to support and improve WRM. Furthermore, traditional barriers to the access and usage of satellite data are lowering as technological innovations provide opportunities to manage and deliver this wealth of information to a wider audience. We review data needs for WRM and the role that satellite remote sensing can play to fill gaps and enhance..."
+    },
+    {
+      "source_id": "OpenAlex-97bd229b828323e9",
+      "provider": "OpenAlex",
+      "title": "Enhancing Smart Agriculture by Implementing Digital Twins: A Comprehensive Review",
+      "url": "https://doi.org/10.3390/s23167128",
+      "doi": "https://doi.org/10.3390/s23167128",
+      "year": 2023,
+      "authors": [
+        "Nikolaos Peladarinos",
+        "Dimitrios Piromalis",
+        "Vasileios Cheimaras",
+        "Efthymios Tserepas",
+        "Radu Munteanu",
+        "Panagiotis Papageorgas"
+      ],
+      "venue": "Sensors",
+      "summary": "Digital Twins serve as virtual counterparts, replicating the characteristics and functionalities of tangible objects, processes, or systems within the digital space, leveraging their capability to simulate and forecast real-world behavior. They have found valuable applications in smart farming, facilitating a comprehensive virtual replica of a farm that encompasses vital aspects such as crop cultivation, soil composition, and prevailing weather conditions. By amalgamating data from diverse sources, including soil, plants condition, environmental sensor networks, meteorological predictions, and..."
+    },
+    {
+      "source_id": "OpenAlex-fd7e4e092a3b7c14",
+      "provider": "OpenAlex",
+      "title": "Product Development 2040",
+      "url": "https://doi.org/10.35199/report.pd2040",
+      "doi": "https://doi.org/10.35199/report.pd2040",
+      "year": 2020,
+      "authors": [
+        "Ola Isaksson",
+        "Claudia Eckert"
+      ],
+      "venue": null,
+      "summary": "Based on a series of interviews carried out in 2018 with experienced European engineers and a workshop with Product development experts from over twenty leading Swedish company and academics researching and teaching product development, trends and their expected impact on engineering design can be identified. While engineering design practise in 2040 will in many ways be like today, several clear trends for the next 20 years are already visible and are likely to grow stronger."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1461; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":11505,\"items\":[{\"DOI\":\"10.1109\\/aero50100.20..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780972080-Aerospace-followup-1780926062-d4b5d7c1cd21.json"
+}

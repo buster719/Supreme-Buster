@@ -1,0 +1,117 @@
+{
+  "timestamp_secs": 1780934066,
+  "task_id": "followup-1780918498-22b47eb0ea0c",
+  "domain": "MaterialsScience",
+  "question": "Are there any reports of retained mechanical properties (not just mass change or oxidation) after rapid quenching from ultra‑high temperatures for these diboride systems?",
+  "query": "materials science fusion robotics aerospace computation there reports retained mechanical properties just mass change oxidation",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-cb4a2b75f3add1aa",
+      "provider": "Arxiv",
+      "title": "Secure and secret cooperation in robotic swarms",
+      "url": "http://arxiv.org/abs/1904.09266v3",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Eduardo Castelló Ferrer",
+        "Thomas Hardjono",
+        "Alex 'Sandy' Pentland",
+        "Marco Dorigo"
+      ],
+      "venue": "arXiv",
+      "summary": "The importance of swarm robotics systems in both academic research and real-world applications is steadily increasing. However, to reach widespread adoption, new models that ensure the secure cooperation of large groups of robots need to be developed. This work introduces a novel method to encapsulate cooperative robotic missions in an authenticated data structure known as Merkle tree. With this method, operators can provide the \"blueprint\" of the swarm's mission without disclosing its raw data. In other words, data verification can be separated from data itself. We propose a system where robo..."
+    },
+    {
+      "source_id": "Arxiv-5dae99761d245a9d",
+      "provider": "Arxiv",
+      "title": "Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision",
+      "url": "http://arxiv.org/abs/2504.02477v3",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Xiaofeng Han",
+        "Shunpeng Chen",
+        "Zenghuang Fu",
+        "Zhe Feng",
+        "Lue Fan",
+        "Dong An",
+        "Changwei Wang",
+        "Li Guo"
+      ],
+      "venue": "arXiv",
+      "summary": "Robot vision has greatly benefited from advancements in multimodal fusion techniques and vision-language models (VLMs). We adopt a task-oriented perspective to systematically review the applications and advancements of multimodal fusion methods and VLMs in the field of robot vision. For semantic scene understanding tasks, we categorize fusion approaches into encoder-decoder frameworks, attention-based architectures, and graph neural networks. Meanwhile, we also analyze the architectural characteristics and practical implementations of these fusion strategies in key tasks such as simultaneous l..."
+    },
+    {
+      "source_id": "OpenAlex-7811208bf51c16ac",
+      "provider": "OpenAlex",
+      "title": "Metal additive manufacturing in aerospace: A review",
+      "url": "https://doi.org/10.1016/j.matdes.2021.110008",
+      "doi": "https://doi.org/10.1016/j.matdes.2021.110008",
+      "year": 2021,
+      "authors": [
+        "Byron Blakey-Milner",
+        "Paul Gradl",
+        "Glen Snedden",
+        "Michael J. Brooks",
+        "Jean Pitot",
+        "Elena López",
+        "Martin Leary",
+        "Filippo Berto"
+      ],
+      "venue": "Materials & Design",
+      "summary": "Metal additive manufacturing involves manufacturing techniques that add material to produce metallic components, typically layer by layer. The substantial growth in this technology is partly driven by its opportunity for commercial and performance benefits in the aerospace industry. The fundamental opportunities for metal additive manufacturing in aerospace applications include: significant cost and lead-time reductions, novel materials and unique design solutions, mass reduction of components through highly efficient and lightweight designs, and consolidation of multiple components for perfor..."
+    },
+    {
+      "source_id": "OpenAlex-9b97051ec183a85b",
+      "provider": "OpenAlex",
+      "title": "Joining of dissimilar materials",
+      "url": "https://doi.org/10.1016/j.cirp.2015.05.006",
+      "doi": "https://doi.org/10.1016/j.cirp.2015.05.006",
+      "year": 2015,
+      "authors": [
+        "Kristian Martinsen",
+        "S. Jack Hu",
+        "Blair E. Carlson"
+      ],
+      "venue": "CIRP Annals",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-2eed4e01758c1063",
+      "provider": "OpenAlex",
+      "title": "Cold spraying – A materials perspective",
+      "url": "https://doi.org/10.1016/j.actamat.2016.06.034",
+      "doi": "https://doi.org/10.1016/j.actamat.2016.06.034",
+      "year": 2016,
+      "authors": [
+        "H. Assadi",
+        "H. Kreye",
+        "F. Gärtner",
+        "Thomas Klassen"
+      ],
+      "venue": "Acta Materialia",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1856; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":2535972,\"items\":[{\"DOI\":\"10.1016\\/s0921-5093..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780934066-MaterialsScience-followup-1780918498-22b47eb0ea0c.json"
+}

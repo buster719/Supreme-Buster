@@ -1,0 +1,140 @@
+{
+  "timestamp_secs": 1780911847,
+  "task_id": "followup-1780907470-b351150eeace",
+  "domain": "Aerospace",
+  "question": "What is the minimum viable off‑world population and closed-loop life-support redundancy (biosphere, chemical, physico-chemical) required to sustain a self‑replicating industrial base independent of Earth resupply, based on the best recent biosphere and ISRU experiments?",
+  "query": "aerospace civilization resilience deep space capability minimum viable world population closed loop life support redundancy",
+  "sources": [
+    {
+      "source_id": "Arxiv-8d62aa98d1ea41f6",
+      "provider": "Arxiv",
+      "title": "Large Interferometer For Exoplanets (LIFE): IV. Ideal kernel-nulling array architectures for a space-based mid-infrared nulling interferometer",
+      "url": "http://arxiv.org/abs/2201.04891v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Jonah T. Hansen",
+        "Michael J. Ireland",
+        "the LIFE Collaboration"
+      ],
+      "venue": "arXiv",
+      "summary": "Aims: Optical interferometry from space for the purpose of detecting and characterising exoplanets is seeing a revival, specifically from missions such as the proposed Large Interferometer For Exoplanets (LIFE). A default assumption since the design studies of Darwin and TPF-I has been that the Emma X-array configuration is the optimal architecture for this goal. Here, we examine whether new advances in the field of nulling interferometry, such as the concept of kernel nulling, challenge this assumption. Methods: We develop a tool designed to derive the photon-limited signal to noise ratio of ..."
+    },
+    {
+      "source_id": "Arxiv-dc6fa8249d9da91b",
+      "provider": "Arxiv",
+      "title": "Large Interferometer For Exoplanets (LIFE): XIII. The Value of Combining Thermal Emission and Reflected Light for the Characterization of Earth Twins",
+      "url": "http://arxiv.org/abs/2406.13037v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "E. Alei",
+        "S. P. Quanz",
+        "B. S. Konrad",
+        "E. O. Garvin",
+        "V. Kofman",
+        "A. Mandell",
+        "D. Angerhausen",
+        "P. Mollière"
+      ],
+      "venue": "arXiv",
+      "summary": "Following the recommendations to NASA and ESA, the search for life on exoplanets will be a priority in the next decades. Two direct imaging space mission concepts are being developed: the Habitable Worlds Observatory (HWO) and the Large Interferometer for Exoplanets (LIFE). HWO focuses on reflected light spectra in the ultraviolet/visible/near-infrared (UV/VIS/NIR), while LIFE captures the mid-infrared (MIR) emission of temperate exoplanets. We assess the potential of HWO and LIFE in characterizing a cloud-free Earth twin orbiting a Sun-like star at 10 pc, both separately and synergistically, ..."
+    },
+    {
+      "source_id": "Arxiv-6aa71255fe9f6860",
+      "provider": "Arxiv",
+      "title": "Large Interferometer For Exoplanets (LIFE): V. Diagnostic potential of a mid-infrared space-interferometer for studying Earth analogs",
+      "url": "http://arxiv.org/abs/2204.10041v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Eleonora Alei",
+        "Björn S. Konrad",
+        "Daniel Angerhausen",
+        "John Lee Grenfell",
+        "Paul Mollière",
+        "Sascha P. Quanz",
+        "Sarah Rugheimer",
+        "Fabian Wunderlich"
+      ],
+      "venue": "arXiv",
+      "summary": "An important future goal in exoplanetology is to detect and characterize potentially habitable planets. Using nulling interferometry, LIFE will allow us to constrain the radius and effective temperature of (terrestrial) exoplanets, as well as provide unique information about their atmospheric structure and composition. We explore the potential of LIFE in characterizing emission spectra of Earth at various stages of its evolution. We perform Bayesian retrievals on simulated spectra of 8 different scenarios, which correspond to cloud-free and cloudy spectra of four different epochs of the evolut..."
+    },
+    {
+      "source_id": "OpenAlex-fb43ea997d5318b7",
+      "provider": "OpenAlex",
+      "title": "Nuclear Energy and Its History: Past Consequences, Present Inadequacies and a Perspective for Success",
+      "url": "https://doi.org/10.4236/epe.2020.126014",
+      "doi": "https://doi.org/10.4236/epe.2020.126014",
+      "year": 2020,
+      "authors": [
+        "Romney B. Duffey",
+        "Francesco Saverio D'Auria"
+      ],
+      "venue": "Energy and Power Engineering",
+      "summary": "An attempt is made to locate nuclear technology within a logical context considering history, risks, societal catastrophes and perspectives: the need is identified for a new direction in the exploitation in order to restore the role in energy production. We depict the situation coming from a marvelous history of discoveries started at the beginning of the XX century; heroes are recalled who made possible something that is inconceivable today: design, construction and production of electricity in a few years; that history was tainted by intentional nuclear explosions, i.e. the original sin that..."
+    },
+    {
+      "source_id": "OpenAlex-8a52d10dc03c41ea",
+      "provider": "OpenAlex",
+      "title": "Powering Sustainable Airports in the Year 2075",
+      "url": "https://doi.org/10.64631/bgms9538",
+      "doi": "https://doi.org/10.64631/bgms9538",
+      "year": 2025,
+      "authors": [
+        "Mark Stephen Meadows",
+        "Gary W. Hunter",
+        "David A Rinehart"
+      ],
+      "venue": null,
+      "summary": "This exploratory study envisions zero-carbon, sustainable hub-scale airports 50 years into the future. Our approach developed future scenarios that were framed by hypothetical levels and impacts of varied levels of future global temperature change (+1°C, +2°C, +4°C), and integrated energy generation, distribution, fuels, infrastructure, and human factors to envision three possible future states. We used backcasting methodologies by working backward from 2075 scenarios to identify the critical developments and decision points that could lead to each outcome combined with forecasting methodologi..."
+    },
+    {
+      "source_id": "Crossref-18889707ed053ff0",
+      "provider": "Crossref",
+      "title": "Open-Loop Vs. Closed-Loop Life Support Systems",
+      "url": "https://doi.org/10.1007/978-3-030-52859-1_3",
+      "doi": "10.1007/978-3-030-52859-1_3",
+      "year": 2020,
+      "authors": [
+        "Erik Seedhouse"
+      ],
+      "venue": "Life Support Systems for Humans in Space",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72e74ccb6b0352ac",
+      "provider": "Crossref",
+      "title": "Intelligent Integration of Moxie and Bio Regenerative Life Support System for Closed-Loop Habitat Sustainability on Mars",
+      "url": "https://doi.org/10.52202/080556-0011",
+      "doi": "10.52202/080556-0011",
+      "year": 2025,
+      "authors": [
+        "Divita Jain",
+        "Adrija Bandyopadhyay"
+      ],
+      "venue": "Space Bioastronautics, Space Medicine, Life Support Systems",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-140f4b2b4e5368d4",
+      "provider": "Crossref",
+      "title": "Closed Loop Simulation Software for Modelling Environmental Control and Life Support System for Gaganyaan Missions",
+      "url": "https://doi.org/10.52202/080556-0002",
+      "doi": "10.52202/080556-0002",
+      "year": 2025,
+      "authors": [
+        "Kuturu Anudeep",
+        "Manepalli Vamsi",
+        "Sreejith Sreekumar",
+        "Vinaya Kumar Ayyagari",
+        "Kshitij Jaiswal",
+        "Surya R"
+      ],
+      "venue": "Space Bioastronautics, Space Medicine, Life Support Systems",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780911847-Aerospace-followup-1780907470-b351150eeace.json"
+}

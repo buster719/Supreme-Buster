@@ -1,0 +1,41 @@
+{
+  "timestamp_secs": 1781792785,
+  "provider": "DuckDuckGoHtml",
+  "task_id": "followup-1781087463-45e2c48a001a",
+  "query": "How does the co-adaptation depth (how much the user's neural patterns have reorganized around the decoder) correlate with subjective trust disruption upon removal?",
+  "results": [
+    {
+      "rank": 1,
+      "title": "Computational framework to predict and shape human-machine ... - Nature",
+      "url": "https://www.nature.com/articles/s42256-026-01194-z",
+      "snippet": "Madduri et al. introduce a computational framework grounded in control and game theory to model co-adaptation between users and decoders in neural interfaces. This framework enables a principled ..."
+    },
+    {
+      "rank": 2,
+      "title": "Modeling and Shaping Human-Machine Interactions in Closed-loop, Co ...",
+      "url": "https://digital.lib.washington.edu/researchworks/items/de608fc4-2eca-4971-b3d6-0f3ddf0f3da1/full",
+      "snippet": null
+    },
+    {
+      "rank": 3,
+      "title": "Predicting and Shaping Human-Machine Interactions in Closed-loop, Co ...",
+      "url": "https://www.biorxiv.org/content/10.1101/2024.05.23.595598v1",
+      "snippet": "Neural interfaces can restore or augment human sensorimotor capabilities by converting high-bandwidth biological signals into control signals for an external device via a decoder algorithm. Leveraging user and decoder adaptation to create co-adaptive interfaces presents opportunities to improve usability and personalize devices. However, we lack principled methods to model and optimize the ..."
+    },
+    {
+      "rank": 4,
+      "title": "PDF Predicting and Shaping Human-Machine Interactions in Closed-loop, Co ...",
+      "url": "https://www.biorxiv.org/content/10.1101/2024.05.23.595598v1.full.pdf",
+      "snippet": "Abstract Neural interfaces can restore or augment human sensorimotor capabilities by converting high-bandwidth biological signals into control signals for an external device via a decoder algorithm. Leveraging user and decoder adaptation to create co-adaptive interfaces presents opportunities to improve usability and personalize devices."
+    },
+    {
+      "rank": 5,
+      "title": "Biosignal-based co-adaptive user-machine interfaces for motor control",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2468451123000181",
+      "snippet": "In this article, we review adaptive decoding, user learning, and co-adaptation in user-machine interfaces, primarily brain-computer, myoelectric, and kinematic interfaces, for motor control. We then discuss performance criteria for co-adaptive interfaces and propose a game-theoretic approach to designing user-decoder co-adaptation."
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/web/search/1781792785-followup-1781087463-45e2c48a001a.json"
+}

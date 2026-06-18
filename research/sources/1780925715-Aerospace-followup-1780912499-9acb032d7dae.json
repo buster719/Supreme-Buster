@@ -1,0 +1,107 @@
+{
+  "timestamp_secs": 1780925715,
+  "task_id": "followup-1780912499-9acb032d7dae",
+  "domain": "Aerospace",
+  "question": "What is the projected dry mass (including shielding) of a realistic 2040 NTP reactor core, and how does that compare to a high-power NEP power conversion and radiator mass for a 100‑MWe class system?",
+  "query": "aerospace civilization resilience deep space capability projected mass including shielding realistic 2040 reactor core compare",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    },
+    {
+      "source_id": "Arxiv-473b7c657f833b22",
+      "provider": "Arxiv",
+      "title": "On the approximation of rough functions with deep neural networks",
+      "url": "http://arxiv.org/abs/1912.06732v2",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Tim De Ryck",
+        "Siddhartha Mishra",
+        "Deep Ray"
+      ],
+      "venue": "arXiv",
+      "summary": "Deep neural networks and the ENO procedure are both efficient frameworks for approximating rough functions. We prove that at any order, the ENO interpolation procedure can be cast as a deep ReLU neural network. This surprising fact enables the transfer of several desirable properties of the ENO procedure to deep neural networks, including its high-order accuracy at approximating Lipschitz functions. Numerical tests for the resulting neural networks show excellent performance for approximating solutions of nonlinear conservation laws and at data compression."
+    },
+    {
+      "source_id": "OpenAlex-2465cf744648e9b2",
+      "provider": "OpenAlex",
+      "title": "GEOPOLITICS AND INTERNATIONAL SECURITY",
+      "url": "https://doi.org/10.22456/2238-6912.53926",
+      "doi": "https://doi.org/10.22456/2238-6912.53926",
+      "year": 2015,
+      "authors": [
+        "Paulo Visentini"
+      ],
+      "venue": "Austral Brazilian Journal of Strategy & International Relations",
+      "summary": "The last several years have been characterized by a growing acceleration of International Relations. With the end of the Cold War, amidst the Gorbachev government, the fall of the Eastern European socialist regimes in 1989 and the disintegration of the Soviet Union in 1991, there was room for a reordering of forces in the world-system. When the vacuum started to be occupied by old and new international players, the situation turned into a War of Positions. China and the other emerging nations, especially the members of BRICS, were able to gain more leverage. But this precarious balance was sig..."
+    },
+    {
+      "source_id": "Crossref-6fbadb8718ddb751",
+      "provider": "Crossref",
+      "title": "SPACE-REACTOR SHIELDING FABRICATION.",
+      "url": "https://doi.org/10.2172/4630895",
+      "doi": "10.2172/4630895",
+      "year": 1972,
+      "authors": [
+        "F.H. Welch"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-0f59db6d5207594c",
+      "provider": "Crossref",
+      "title": "Combined Space Environment Solar Cell Test Capability",
+      "url": "https://doi.org/10.2514/6.2009-559",
+      "doi": "10.2514/6.2009-559",
+      "year": 2009,
+      "authors": [
+        "Dustin Crider",
+        "Daniel Crews",
+        "John Prebola"
+      ],
+      "venue": "47th AIAA Aerospace Sciences Meeting including The New Horizons Forum and Aerospace Exposition",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-917a8b32dea3b987",
+      "provider": "Crossref",
+      "title": "Machine Learning-Driven Prediction of Radiation Shielding Performance of Aerospace Materials for Deep Space Missions",
+      "url": "https://doi.org/10.15251/jor.2026.222.129",
+      "doi": "10.15251/jor.2026.222.129",
+      "year": 2026,
+      "authors": [],
+      "venue": "Journal of Ovonic Research",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780925715-Aerospace-followup-1780912499-9acb032d7dae.json"
+}

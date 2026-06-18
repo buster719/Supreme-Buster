@@ -1,0 +1,142 @@
+{
+  "timestamp_secs": 1781100232,
+  "task_id": "followup-1781019388-2db1a54f5cc9",
+  "domain": "Genetics",
+  "question": "Has the interpretation of \"serious\" been tested or clarified in any legal challenges or parliamentary questions since 2015?",
+  "query": "genetics safety human flourishing genome editing interpretation serious been tested clarified legal challenges parliamentary questions",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-5d24fac2710af3ef",
+      "provider": "Arxiv",
+      "title": "This paper has been withdrawn",
+      "url": "http://arxiv.org/abs/cond-mat/0309395v2",
+      "doi": null,
+      "year": 2003,
+      "authors": [
+        "This paper has been withdrawn"
+      ],
+      "venue": "arXiv",
+      "summary": "This paper has been withdrawn"
+    },
+    {
+      "source_id": "OpenAlex-cfd0323585c53074",
+      "provider": "OpenAlex",
+      "title": "New Reproductive Technologies and Genetic Relatedness",
+      "url": "https://doi.org/10.1111/1468-2230.12844",
+      "doi": "https://doi.org/10.1111/1468-2230.12844",
+      "year": 2023,
+      "authors": [
+        "Rosamund Scott"
+      ],
+      "venue": "Modern Law Review",
+      "summary": "At the heart of the use of assisted reproductive technologies (ARTs) is the attempt to realise a commonly anticipated future – the opportunity, if desired, to create and raise a genetically related child. For some, existing ARTs cannot assist, yet upcoming ones such as in vitro derived gametes (IVGs) may do so. However, the desire for genetically related children is frequently critiqued in debates about new ARTs. Since most heterosexual couples can have such children without assistance, and same‐sex couples are equally likely to desire them, this is highly problematic. This article presents th..."
+    },
+    {
+      "source_id": "OpenAlex-5eba8ac1d174e259",
+      "provider": "OpenAlex",
+      "title": "Challenging Collections: Approaches to the Heritage of Recent Science and Technology",
+      "url": "https://doi.org/10.5479/si.9781944466121",
+      "doi": "https://doi.org/10.5479/si.9781944466121",
+      "year": 2017,
+      "authors": [
+        "Alison Boyle",
+        "Johannes‐Geert Hagmann"
+      ],
+      "venue": "Smithsonian Institution Scholarly Press eBooks",
+      "summary": "Scientific research not preserved in some form may be considered in the future to never have been done, so far as the historical record is concerned. Likewise, museological research and practice not shared is not fully or usefully done. Thus the rationale behind the Artefacts consortium and its annual meetings is to provide a forum for communication for people from a range of disciplines concerned with the material culture of science and technology. In 2011, Artefacts XVI at Museum Boerhaave in Leiden addressed the theme of âConceptualizing, Collecting and Presenting Recent Science and Techn..."
+    },
+    {
+      "source_id": "OpenAlex-f2b16d2026b72398",
+      "provider": "OpenAlex",
+      "title": "Governing stem cells: regenerative medicine in Europe - the vision and recommendations from the EUCelLEX project",
+      "url": "https://openalex.org/W3033301530",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "Jessica Bell",
+        "Natalie Bordag",
+        "Pascal Borry",
+        "Jasper Bovenberg",
+        "Georges Dagher",
+        "Jasjote Grewal",
+        "Nils Hoppe",
+        "Rosario Isasi"
+      ],
+      "venue": "Oxford University Research Archive (ORA) (University of Oxford)",
+      "summary": "focussing on molecular pathology of metabolic liver diseases and cancer as well as biobanking"
+    },
+    {
+      "source_id": "Crossref-138bbe68531c6aaf",
+      "provider": "Crossref",
+      "title": "Genome Editing and the Law",
+      "url": "https://doi.org/10.1007/978-3-658-22660-2_2",
+      "doi": "10.1007/978-3-658-22660-2_2",
+      "year": 2018,
+      "authors": [
+        "Stephan Rixen"
+      ],
+      "venue": "Technikzukünfte, Wissenschaft und Gesellschaft / Futures of Technology, Science and Society",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-2b00783c131859da",
+      "provider": "Crossref",
+      "title": "Human germline genome editing",
+      "url": "https://doi.org/10.58248/pn611",
+      "doi": "10.58248/pn611",
+      "year": 2020,
+      "authors": [
+        "Parliamentary Office of Science and Technology",
+        "Amarpreet Kaur",
+        "Peter Border"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781100232-Genetics-followup-1781019388-2db1a54f5cc9.json"
+}

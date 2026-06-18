@@ -1,0 +1,149 @@
+{
+  "timestamp_secs": 1781184984,
+  "task_id": "followup-1781083786-74f87a440a77",
+  "domain": "Aerospace",
+  "question": "Do any multi-agent (cs.MA) simulations model deep-space habitat resource loops with interruption/failure scenarios, or is that work still confined to NASA technical reports and conference proceedings off-arXiv?",
+  "query": "aerospace civilization resilience deep space capability multi agent simulations model deep space habitat resource loops",
+  "sources": [
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    },
+    {
+      "source_id": "Arxiv-3418555e9e84d6a6",
+      "provider": "Arxiv",
+      "title": "Memorization in Deep Neural Networks: Does the Loss Function matter?",
+      "url": "http://arxiv.org/abs/2107.09957v2",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Deep Patel",
+        "P. S. Sastry"
+      ],
+      "venue": "arXiv",
+      "summary": "Deep Neural Networks, often owing to the overparameterization, are shown to be capable of exactly memorizing even randomly labelled data. Empirical studies have also shown that none of the standard regularization techniques mitigate such overfitting. We investigate whether the choice of the loss function can affect this memorization. We empirically show, with benchmark data sets MNIST and CIFAR-10, that a symmetric loss function, as opposed to either cross-entropy or squared error loss, results in significant improvement in the ability of the network to resist such overfitting. We then provide..."
+    },
+    {
+      "source_id": "Arxiv-3801f0fec6bd2526",
+      "provider": "Arxiv",
+      "title": "Learn to Accumulate Evidence from All Training Samples: Theory and Practice",
+      "url": "http://arxiv.org/abs/2306.11113v2",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Pandey",
+        "Qi Yu"
+      ],
+      "venue": "arXiv",
+      "summary": "Evidential deep learning, built upon belief theory and subjective logic, offers a principled and computationally efficient way to turn a deterministic neural network uncertainty-aware. The resultant evidential models can quantify fine-grained uncertainty using the learned evidence. To ensure theoretically sound evidential models, the evidence needs to be non-negative, which requires special activation functions for model training and inference. This constraint often leads to inferior predictive performance compared to standard softmax models, making it challenging to extend them to many large-..."
+    },
+    {
+      "source_id": "OpenAlex-87d07e76e48c28c8",
+      "provider": "OpenAlex",
+      "title": "Towards sustainable horizons: A comprehensive blueprint for Mars colonization",
+      "url": "https://doi.org/10.1016/j.heliyon.2024.e26180",
+      "doi": "https://doi.org/10.1016/j.heliyon.2024.e26180",
+      "year": 2024,
+      "authors": [
+        "Florian Neukart"
+      ],
+      "venue": "Heliyon",
+      "summary": "This paper thoroughly explores the feasibility, challenges, and proposed solutions for establishing a sustainable human colony on Mars. We quantitatively and qualitatively analyze the Martian environment, highlighting key challenges such as radiation exposure, which astronauts could experience at minimum levels of 0.66 sieverts during a round trip, and the complications arising from Mars' thin atmosphere and extreme temperature variations. Technological advancements are examined, including developing Martian concrete, which utilizes sulfur as a binding agent, and innovative life support strate..."
+    },
+    {
+      "source_id": "OpenAlex-4102cb0ffcb15450",
+      "provider": "OpenAlex",
+      "title": "Supply Chain Sustainability in Outer Space: Lessons to Be Learnt from Remote Sites on Earth",
+      "url": "https://doi.org/10.3390/pr12102105",
+      "doi": "https://doi.org/10.3390/pr12102105",
+      "year": 2024,
+      "authors": [
+        "Manuel Varon Hoyos",
+        "Volker Hessel",
+        "Eduardo Salas",
+        "John Culton",
+        "Karen Robertson",
+        "Andrea Laybourn",
+        "Marc Escribà‐Gelonch",
+        "Nigel J. Cook"
+      ],
+      "venue": "Processes",
+      "summary": "Space exploration, with its enormous distances and extreme environments, is a challenge to technology, human habitation, sustainability, and supply chains. On the flip-side, however, it can provide a new vantage point on how to improve human life and planetary prosperity. This objective requires the development of economic and sustainable supply chains and a governance framework to guarantee fundamental human needs and well-being under the limitations of distant and inhospitable environments. This review describes learnings for human habitation in space from remote communities on Earth that ha..."
+    },
+    {
+      "source_id": "OpenAlex-1bef9437e8e3c008",
+      "provider": "OpenAlex",
+      "title": "Progress and obstacles in electrode materials for lithium-ion batteries: a journey towards enhanced energy storage efficiency",
+      "url": "https://doi.org/10.1039/d5ra02042e",
+      "doi": "https://doi.org/10.1039/d5ra02042e",
+      "year": 2025,
+      "authors": [
+        "Rimsha Khalid",
+        "Afzal Shah",
+        "Mohsin Javed",
+        "Hazrat Hussain"
+      ],
+      "venue": "RSC Advances",
+      "summary": ", intercalation-deintercalation, alloying, and conversion-type anode materials. The strengths, limitations, and synthesis techniques associated with each material are discussed. This review also delves into cathode materials, such as soft and hard carbon and high-nickel systems, assessing their influence on storage performance. Additionally, the article addresses safety concerns, recycling strategies, environmental impact evaluations, and disposal practices. It highlights emerging trends in the development of electrode materials, focusing on potential solutions and innovations. This comprehens..."
+    },
+    {
+      "source_id": "Crossref-f9ff624141a972fc",
+      "provider": "Crossref",
+      "title": "From Deep Sea to Deep Space: Using Deep Learning Approach by Integrating Image Recognition Model into Remotely Operated Vehicle for Space Inspection Simulations",
+      "url": "https://doi.org/10.52202/083076-0075",
+      "doi": "10.52202/083076-0075",
+      "year": 2025,
+      "authors": [
+        "Abdalrahman Alshamaileh",
+        "Bayan Alfarrayeh",
+        "Nour Abubaider",
+        "Hajar Alhadaris",
+        "Ekaterina Kostioukhina"
+      ],
+      "venue": "IAF Space Exploration Symposium",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-81990b5ab5f35e5d",
+      "provider": "Crossref",
+      "title": "Scaling Collaborative Space Networks with Deep Multi-Agent Reinforcement Learning",
+      "url": "https://doi.org/10.1109/ccaaw57883.2023.10219199",
+      "doi": "10.1109/ccaaw57883.2023.10219199",
+      "year": 2023,
+      "authors": [
+        "Ricky Ma",
+        "Gabe Hernandez",
+        "Carrie Hernandez"
+      ],
+      "venue": "2023 IEEE Cognitive Communications for Aerospace Applications Workshop (CCAAW)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-ba868f6322d2b255",
+      "provider": "Crossref",
+      "title": "Deep Space Habitat Design as Part of the eXploration HABitat Academic Innovation Challenge",
+      "url": "https://doi.org/10.2514/6.2013-585",
+      "doi": "10.2514/6.2013-585",
+      "year": 2013,
+      "authors": [
+        "Jamey Jacob"
+      ],
+      "venue": "51st AIAA Aerospace Sciences Meeting including the New Horizons Forum and Aerospace Exposition",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781184984-Aerospace-followup-1781083786-74f87a440a77.json"
+}

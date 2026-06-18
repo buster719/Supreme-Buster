@@ -1,0 +1,128 @@
+{
+  "timestamp_secs": 1781081999,
+  "task_id": "followup-1780968182-bb5db5877333",
+  "domain": "Genetics",
+  "question": "What is the empirical distribution of polygenic risk score (PRS) differences between siblings in real IVF cohorts for major common diseases (e.g., coronary artery disease, type 2 diabetes, breast cancer)?",
+  "query": "genetics safety human flourishing genome editing empirical distribution polygenic risk score differences siblings real cohorts",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-ea52eab78ee5888f",
+      "provider": "Arxiv",
+      "title": "Human-Precision Medicine Interaction: Public Perceptions of Polygenic Risk Score for Genetic Health Prediction",
+      "url": "http://arxiv.org/abs/2501.19405v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Yuhao Sun",
+        "Albert Tenesa",
+        "John Vines"
+      ],
+      "venue": "arXiv",
+      "summary": "Precision Medicine (PM) transforms the traditional \"one-drug-fits-all\" paradigm by customising treatments based on individual characteristics, and is an emerging topic for HCI research on digital health. A key element of PM, the Polygenic Risk Score (PRS), uses genetic data to predict an individual's disease risk. Despite its potential, PRS faces barriers to adoption, such as data inclusivity, psychological impact, and public trust. We conducted a mixed-methods study to explore how people perceive PRS, formed of surveys (n=254) and interviews (n=11) with UK-based participants. The interviews w..."
+    },
+    {
+      "source_id": "OpenAlex-88f9f0fb075783ee",
+      "provider": "OpenAlex",
+      "title": "Parkinson’s Disease: Bridging Gaps, Building Biomarkers, and Reimagining Clinical Translation",
+      "url": "https://doi.org/10.3390/cells14151161",
+      "doi": "https://doi.org/10.3390/cells14151161",
+      "year": 2025,
+      "authors": [
+        "Masaru Tanaka"
+      ],
+      "venue": "Cells",
+      "summary": "Parkinson's disease (PD), a progressive neurodegenerative disorder, imposes growing clinical and socioeconomic burdens worldwide. Despite landmark discoveries in dopamine biology and α-synuclein pathology, translating mechanistic insights into effective, personalized interventions remains elusive. Recent advances in molecular profiling, neuroimaging, and computational modeling have broadened the understanding of PD as a multifactorial systems disorder rather than a purely dopaminergic condition. However, critical gaps persist in diagnostic precision, biomarker standardization, and the translat..."
+    },
+    {
+      "source_id": "OpenAlex-b87449f2fd6ff88b",
+      "provider": "OpenAlex",
+      "title": "Parkinson’s Disease: Bridging Gaps, Building Biomarkers, and Reimagining Clinical Translation",
+      "url": "https://doi.org/10.20944/preprints202506.2099.v2",
+      "doi": "https://doi.org/10.20944/preprints202506.2099.v2",
+      "year": 2025,
+      "authors": [
+        "Masaru Tanaka"
+      ],
+      "venue": "Preprints.org",
+      "summary": "Parkinson’s disease (PD), a progressive neurodegenerative disorder, imposes growing clinical and socioeconomic burdens worldwide. Despite landmark discoveries in dopamine biology and α-synuclein pathology, translating mechanistic insights into effective, personalized interventions remains elusive. Recent advances in molecular profiling, neuroimaging, and computational modeling have broadened the understanding of PD as a multifactorial systems disorder rather than a purely dopaminergic condition. However, critical gaps persist in diagnostic precision, biomarker standardization, and the translat..."
+    },
+    {
+      "source_id": "OpenAlex-2a110dfb68fdda67",
+      "provider": "OpenAlex",
+      "title": "Parkinson’s Disease: Bridging Gaps, Building Biomarkers, and Reimagining Clinical Translation",
+      "url": "https://doi.org/10.20944/preprints202506.2099.v1",
+      "doi": "https://doi.org/10.20944/preprints202506.2099.v1",
+      "year": 2025,
+      "authors": [
+        "Masaru Tanaka"
+      ],
+      "venue": "Preprints.org",
+      "summary": "Parkinson’s disease (PD), a progressive neurodegenerative disorder, imposes growing clinical and socioeconomic burdens worldwide. Despite landmark discoveries in dopa-mine biology and α-synuclein pathology, translating mechanistic insights into effective, personalized interventions remains elusive. Recent advances in molecular profiling, neuroimaging, and computational modeling have broadened the understanding of PD as a multifactorial systems disorder rather than a purely dopaminergic condition. However, critical gaps persist in diagnostic precision, biomarker standardization, and the transla..."
+    },
+    {
+      "source_id": "Crossref-552f7c211b70fd11",
+      "provider": "Crossref",
+      "title": "Joint Public Review: Risk factors affecting polygenic score performance across diverse cohorts",
+      "url": "https://doi.org/10.7554/elife.88149.3.sa1",
+      "doi": "10.7554/elife.88149.3.sa1",
+      "year": 2025,
+      "authors": [],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-c0151cd2d5271ece",
+      "provider": "Crossref",
+      "title": "Joint Public Review: Risk factors affecting polygenic score performance across diverse cohorts",
+      "url": "https://doi.org/10.7554/elife.88149.2.sa0",
+      "doi": "10.7554/elife.88149.2.sa0",
+      "year": 2024,
+      "authors": [],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-0daf97612cf4f5fd",
+      "provider": "Crossref",
+      "title": "Reviewer #3 (Public Review): Risk factors affecting polygenic score performance across diverse cohorts",
+      "url": "https://doi.org/10.7554/elife.88149.1.sa0",
+      "doi": "10.7554/elife.88149.1.sa0",
+      "year": 2023,
+      "authors": [],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781081999-Genetics-followup-1780968182-bb5db5877333.json"
+}

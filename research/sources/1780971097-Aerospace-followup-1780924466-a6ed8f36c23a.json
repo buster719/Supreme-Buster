@@ -1,0 +1,58 @@
+{
+  "timestamp_secs": 1780971097,
+  "task_id": "followup-1780924466-a6ed8f36c23a",
+  "domain": "Aerospace",
+  "question": "What biosphere closure experiments or simulations from BIOS-3, Biosphere 2, Lunar Palace 1, or MELiSSA have been modeled with explicit failure-rate Monte Carlo since 2023?",
+  "query": "aerospace civilization resilience deep space capability biosphere closure experiments simulations bios lunar palace melissa been",
+  "sources": [
+    {
+      "source_id": "Crossref-156cef0af978a48d",
+      "provider": "Crossref",
+      "title": "NASA's Space Launch System: Launch Capability for Lunar Exploration and Transformative Science",
+      "url": "https://doi.org/10.1109/aero47225.2020.9172508",
+      "doi": "10.1109/aero47225.2020.9172508",
+      "year": 2020,
+      "authors": [
+        "Stephen D. Creech"
+      ],
+      "venue": "2020 IEEE Aerospace Conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-9a693244e3bc3955",
+      "provider": "Crossref",
+      "title": "California Research Analog for Deep Space and Lunar Exploration (CRADLE) 2020 Astronaut Simulations",
+      "url": "https://doi.org/10.5194/epsc2020-1083",
+      "doi": "10.5194/epsc2020-1083",
+      "year": 2024,
+      "authors": [
+        "Hunter Singh"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-3e46ac42b2269ce9",
+      "provider": "Crossref",
+      "title": "Solar Occultation Experiments (SOE) for Exploring the Venusian Atmosphere: Methodology and New Insights from Simulations",
+      "url": "https://doi.org/10.52202/080553-0020",
+      "doi": "10.52202/080553-0020",
+      "year": 2025,
+      "authors": [
+        "Sunil Kumar Sv",
+        "Jayadev Pradeep",
+        "Dinakar Prasad Vajja",
+        "Varun Nikam"
+      ],
+      "venue": "Lunar, Mars, Near-Earth Asteroids, Deep Space Exploration",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "HTTP status client error (429 Unknown Error) for url (https://export.arxiv.org/api/query?search_query=all%3Aaerospace+civilization+resilience+deep+space+capability+biosphere+closure+experiments+simulations+bios+lunar+palace+melissa+been&sta..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780971097-Aerospace-followup-1780924466-a6ed8f36c23a.json"
+}

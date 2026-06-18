@@ -1,0 +1,99 @@
+{
+  "timestamp_secs": 1781085096,
+  "task_id": "followup-1780970451-8e7e38ab43f1",
+  "domain": "Aerospace",
+  "question": "Question:** Are there preprints on arXiv since 2023 that combine stochastic closure resilience models with habitat-scale System Dynamics or agent-based models under supply chain interruption scenarios?",
+  "query": "aerospace civilization resilience deep space capability there preprints arxiv since 2023 combine stochastic closure resilience",
+  "sources": [
+    {
+      "source_id": "Arxiv-978539ee49e97667",
+      "provider": "Arxiv",
+      "title": "A Review of Urban Resilience Frameworks: Transferring Knowledge to Enhance Pandemic Resilience",
+      "url": "http://arxiv.org/abs/2503.17371v2",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Yue Sun",
+        "Ryan Weightman",
+        "Anye Shi",
+        "Timur Dogan",
+        "Samitha Samaranayake"
+      ],
+      "venue": "arXiv",
+      "summary": "Urbanization is rapidly increasing, with urban populations expected to grow significantly by 2050, particularly in developing regions. This expansion brings challenges related to chronic stresses and acute shocks, such as the COVID-19 pandemic, which has underscored the critical role of urban form in a city's capacity to manage public health crises. Despite the heightened interest in urban resilience, research examining the relationship between urban morphology and pandemic resilience remains limited, often focusing solely on density and its effect on disease transmission. This work aims to ad..."
+    },
+    {
+      "source_id": "Arxiv-c275535e13280a02",
+      "provider": "Arxiv",
+      "title": "Self-exciting price impact via negative resilience in stochastic order books",
+      "url": "http://arxiv.org/abs/2112.03789v2",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Julia Ackermann",
+        "Thomas Kruse",
+        "Mikhail Urusov"
+      ],
+      "venue": "arXiv",
+      "summary": "Most of the existing literature on optimal trade execution in limit order book models assumes that resilience is positive. But negative resilience also has a natural interpretation, as it models self-exciting behaviour of the price impact, where trading activities of the large investor stimulate other market participants to trade in the same direction. In the paper we discuss several new qualitative effects on optimal trade execution that arise when we allow resilience to take negative values. We do this in a framework where both market depth and resilience are stochastic processes."
+    },
+    {
+      "source_id": "Arxiv-8ae3d7117b64205b",
+      "provider": "Arxiv",
+      "title": "Advanced Resilience Planning for Distribution Systems",
+      "url": "http://arxiv.org/abs/2409.20219v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Ahmad Bin Afzal",
+        "Nabil Mohammed",
+        "Shehab Ahmed",
+        "Charalambos Konstantinou"
+      ],
+      "venue": "arXiv",
+      "summary": "Climate change has led to an increase in the frequency and severity of extreme weather events, posing significant challenges for power distribution systems. In response, this work presents a planning approach in order to enhance the resilience of distribution systems against climatic hazards. The framework systematically addresses uncertainties during extreme events, including weather variability and line damage. Key strategies include line hardening, backup diesel generators, and sectionalizers to strengthen resilience. We model spatio-temporal dynamics and costs through a hybrid model integr..."
+    },
+    {
+      "source_id": "Crossref-b2d0924b76ebd4c5",
+      "provider": "Crossref",
+      "title": "The critical imperatives of behavioral resilience in civilian space flight travelers",
+      "url": "https://doi.org/10.1016/b978-0-443-13850-8.00017-8",
+      "doi": "10.1016/b978-0-443-13850-8.00017-8",
+      "year": 2025,
+      "authors": [
+        "Bettina L. Beard"
+      ],
+      "venue": "Building a Space-Faring Civilization",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-59f028dd81f478b9",
+      "provider": "Crossref",
+      "title": "Guide Brief 13 - Resilience Gaps - Identifying and Prioritizing Closure of Resilience Gaps",
+      "url": "https://doi.org/10.6028/nist.sp.1190gb-13",
+      "doi": "10.6028/nist.sp.1190gb-13",
+      "year": 2017,
+      "authors": [
+        "Community Resilience Program NIST"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72cc9f1b1594a61a",
+      "provider": "Crossref",
+      "title": "High Performance Adaptive Deep-Reinforcement-Learning-based Real-time Emergency Control (HADREC) to Enhance Power Grid Resilience in Stochastic Environment (Final Report)",
+      "url": "https://doi.org/10.2172/2372720",
+      "doi": "10.2172/2372720",
+      "year": 2023,
+      "authors": [
+        "Yousu Chen"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781085096-Aerospace-followup-1780970451-8e7e38ab43f1.json"
+}

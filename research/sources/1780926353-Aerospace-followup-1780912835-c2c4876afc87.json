@@ -1,0 +1,66 @@
+{
+  "timestamp_secs": 1780926353,
+  "task_id": "followup-1780912835-c2c4876afc87",
+  "domain": "Aerospace",
+  "question": "Which off-world infrastructure elements show the strongest non-linear resilience payoff when scaled from a single mission to ≥10 missions per synodic window?",
+  "query": "aerospace civilization resilience deep space capability world infrastructure elements show strongest linear resilience payoff when",
+  "sources": [
+    {
+      "source_id": "Arxiv-978539ee49e97667",
+      "provider": "Arxiv",
+      "title": "A Review of Urban Resilience Frameworks: Transferring Knowledge to Enhance Pandemic Resilience",
+      "url": "http://arxiv.org/abs/2503.17371v2",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Yue Sun",
+        "Ryan Weightman",
+        "Anye Shi",
+        "Timur Dogan",
+        "Samitha Samaranayake"
+      ],
+      "venue": "arXiv",
+      "summary": "Urbanization is rapidly increasing, with urban populations expected to grow significantly by 2050, particularly in developing regions. This expansion brings challenges related to chronic stresses and acute shocks, such as the COVID-19 pandemic, which has underscored the critical role of urban form in a city's capacity to manage public health crises. Despite the heightened interest in urban resilience, research examining the relationship between urban morphology and pandemic resilience remains limited, often focusing solely on density and its effect on disease transmission. This work aims to ad..."
+    },
+    {
+      "source_id": "Arxiv-042df7310ef2940c",
+      "provider": "Arxiv",
+      "title": "Graph Signal Processing for Infrastructure Resilience: Suitability and Future Directions",
+      "url": "http://arxiv.org/abs/2007.10964v1",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Kevin Schultz",
+        "Marisel Villafane-Delgado",
+        "Elizabeth P. Reilly",
+        "Grace M. Hwang",
+        "Anshu Saksena"
+      ],
+      "venue": "arXiv",
+      "summary": "Graph signal processing (GSP) is an emerging field developed for analyzing signals defined on irregular spatial structures modeled as graphs. Given the considerable literature regarding the resilience of infrastructure networks using graph theory, it is not surprising that a number of applications of GSP can be found in the resilience domain. GSP techniques assume that the choice of graphical Fourier transform (GFT) imparts a particular spectral structure on the signal of interest. We assess a number of power distribution systems with respect to metrics of signal structure and identify several..."
+    },
+    {
+      "source_id": "Arxiv-b2f37f423b6ae3f9",
+      "provider": "Arxiv",
+      "title": "Chaos Engineering for Enhanced Resilience of Cyber-Physical Systems",
+      "url": "http://arxiv.org/abs/2106.14962v2",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Charalambos Konstantinou",
+        "George Stergiopoulos",
+        "Masood Parvania",
+        "Paulo Esteves-Verissimo"
+      ],
+      "venue": "arXiv",
+      "summary": "Cyber-physical systems (CPS) incorporate the complex and large-scale engineered systems behind critical infrastructure operations, such as water distribution networks, energy delivery systems, healthcare services, manufacturing systems, and transportation networks. Industrial CPS in particular need to simultaneously satisfy requirements of available, secure, safe and reliable system operation against diverse threats, in an adaptive and sustainable way. These adverse events can be of accidental or malicious nature and may include natural disasters, hardware or software faults, cyberattacks, or ..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 350; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":16257,\"items\":[{\"DOI\":\"10.3403\\/30466067u\",\"t..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780926353-Aerospace-followup-1780912835-c2c4876afc87.json"
+}

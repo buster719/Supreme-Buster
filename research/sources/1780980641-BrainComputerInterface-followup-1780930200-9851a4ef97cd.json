@@ -1,0 +1,112 @@
+{
+  "timestamp_secs": 1780980641,
+  "task_id": "followup-1780930200-9851a4ef97cd",
+  "domain": "BrainComputerInterface",
+  "question": "Does conveying per-trial neural signal quality (e.g., SNR, electrode impedance drift) alongside model doubt improve human trust calibration more than doubt conveyed only in natural language?",
+  "query": "brain computer interface human AI cooperation risks conveying trial neural signal quality electrode impedance drift alongside",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-4a390b9f509da643",
+      "provider": "Arxiv",
+      "title": "Dynamic Neural Communication: Convergence of Computer Vision and Brain-Computer Interface",
+      "url": "http://arxiv.org/abs/2411.09211v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Ji-Ha Park",
+        "Seo-Hyun Lee",
+        "Soowon Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "arXiv",
+      "summary": "Interpreting human neural signals to decode static speech intentions such as text or images and dynamic speech intentions such as audio or video is showing great potential as an innovative communication tool. Human communication accompanies various features, such as articulatory movements, facial expressions, and internal speech, all of which are reflected in neural signals. However, most studies only generate short or fragmented outputs, while providing informative communication by leveraging various features from neural signals remains challenging. In this study, we introduce a dynamic neura..."
+    },
+    {
+      "source_id": "OpenAlex-8bff2252684ad28a",
+      "provider": "OpenAlex",
+      "title": "Intelligent Biosensing for Brain-computer Interfaces: From Neural Signal Acquisition to AI-powered Decoding",
+      "url": "https://doi.org/10.5772/intechopen.1015791",
+      "doi": "https://doi.org/10.5772/intechopen.1015791",
+      "year": 2026,
+      "authors": [
+        "Yun Lu",
+        "Zhen Zhang",
+        "Gang Peng"
+      ],
+      "venue": "IntechOpen eBooks",
+      "summary": "The brain–computer interface (BCI) establishes a direct communication system between the brain and a computer or other external devices, which opens up new avenues for understanding and utilizing the power of the human brain. This review systematically investigates the current research progress on intelligent sensing technology for brain-computer interfaces, including a unified view of diversified neural signal acquisition and a dissection of AI-powered decoding approaches. First, it outlines the evolutionary trajectory, system framework, and research significance of BCI technology. Subsequent..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-c964f488e9197f88",
+      "provider": "Crossref",
+      "title": "Long-Term Measurement of Therapeutic Electrode Impedance in Deep Brain Stimulation",
+      "url": "https://doi.org/10.1111/j.1525-1403.2010.00275.x",
+      "doi": "10.1111/j.1525-1403.2010.00275.x",
+      "year": 2010,
+      "authors": [
+        "Karl A. Sillay",
+        "Jason C. Chen",
+        "Erwin B. Montgomery"
+      ],
+      "venue": "Neuromodulation: Technology at the Neural Interface",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780980641-BrainComputerInterface-followup-1780930200-9851a4ef97cd.json"
+}

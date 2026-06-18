@@ -1,0 +1,20 @@
+{
+  "timestamp_secs": 1781184638,
+  "task_id": "followup-1781083786-5c86206e68e2",
+  "domain": "Aerospace",
+  "question": "How do the arXiv categorization conventions affect discoverability—would a resilience paper about a Mars habitat appear under astro-ph.IM, physics.space-ph, cs.SY, or q-bio?",
+  "query": "aerospace civilization resilience deep space capability arxiv categorization conventions affect discoverability resilience paper mars habitat",
+  "sources": [],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "error sending request for url (https://export.arxiv.org/api/query?search_query=all%3Aaerospace+civilization+resilience+deep+space+capability+arxiv+categorization+conventions+affect+discoverability+resilience+paper+mars+habitat&start=0&max_r..."
+    },
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 11197; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":8095,\"items\":[{\"DOI\":\"10.1016\\/b978-0-443-1..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781184638-Aerospace-followup-1781083786-5c86206e68e2.json"
+}

@@ -1,0 +1,148 @@
+{
+  "timestamp_secs": 1780969759,
+  "task_id": "followup-1780924151-fc538d6fc160",
+  "domain": "Aerospace",
+  "question": "What small local computation, simulation, or table could Buster run next to test part of this question: What genetic or metabolic engineering approaches could relax the population bottleneck, and how far along are they in real flight‑biology experiments??",
+  "query": "aerospace civilization resilience deep space capability small local computation simulation table test part genetic metabolic",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    },
+    {
+      "source_id": "Arxiv-a2b1d3dece0b2f48",
+      "provider": "Arxiv",
+      "title": "Cheating for Problem Solving: A Genetic Algorithm with Social Interactions",
+      "url": "http://arxiv.org/abs/1001.1889v1",
+      "doi": null,
+      "year": 2010,
+      "authors": [
+        "Rafeal Lahoz-Beltra",
+        "Gabriela Ochoa",
+        "Uwe Aickelin"
+      ],
+      "venue": "arXiv",
+      "summary": "We propose a variation of the standard genetic algorithm that incorporates social interaction between the individuals in the population. Our goal is to understand the evolutionary role of social systems and its possible application as a non-genetic new step in evolutionary algorithms. In biological populations, ie animals, even human beings and microorganisms, social interactions often affect the fitness of individuals. It is conceivable that the perturbation of the fitness via social interactions is an evolutionary strategy to avoid trapping into local optimum, thus avoiding a fast convergenc..."
+    },
+    {
+      "source_id": "OpenAlex-a2c360dbd47975af",
+      "provider": "OpenAlex",
+      "title": "Impacts of Climate Variability and Change, Pacific Northwest",
+      "url": "http://hdl.handle.net/1773/38335",
+      "doi": "https://doi.org/10.6069/bzfiof5c",
+      "year": 2021,
+      "authors": [
+        "Philip W. Mote",
+        "Douglas J. Canning",
+        "David Fluharty",
+        "R. C. Francis",
+        "Jerry F. Franklin",
+        "Alan F. Hamlet",
+        "Marc J. Hershman",
+        "M. Holmberg"
+      ],
+      "venue": "ResearchWorks at the University of Washington (University of Washington)",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-0c6b6299f4a787a7",
+      "provider": "OpenAlex",
+      "title": "Bio-inspired designs: leveraging biological brilliance in mechanical engineering—an overview",
+      "url": "https://doi.org/10.1007/s13205-024-04153-w",
+      "doi": "https://doi.org/10.1007/s13205-024-04153-w",
+      "year": 2024,
+      "authors": [
+        "Gururaj Fattepur",
+        "Arun Y. Patil",
+        "Piyush Kumar",
+        "Anil Kumar",
+        "Chandrashekhar Hegde",
+        "I. G. Siddhalingeshwar",
+        "Raman Kumar",
+        "T. M. Yunus Khan"
+      ],
+      "venue": "3 Biotech",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-f01b3904f7018f97",
+      "provider": "OpenAlex",
+      "title": "DÉBATS SCIENTIFIQUES ET ORIENTATIONS PROSPECTIVES DU DÉVELOPPEMENT SCIENTIFIQUE",
+      "url": "http://dx.doi.org/10.36074/logos-21.07.2023",
+      "doi": "https://doi.org/10.36074/logos-21.07.2023",
+      "year": 2023,
+      "authors": [],
+      "venue": null,
+      "summary": ", , , ., , , , (, ) , ."
+    },
+    {
+      "source_id": "Crossref-2f17c9b920888b58",
+      "provider": "Crossref",
+      "title": "Logarithmic minimum test for independence in three-way contingency table of small sizes",
+      "url": "https://doi.org/10.1080/00949655.2021.1908286",
+      "doi": "10.1080/00949655.2021.1908286",
+      "year": 2021,
+      "authors": [
+        "Piotr Sulewski"
+      ],
+      "venue": "Journal of Statistical Computation and Simulation",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-8cc07b5743422e69",
+      "provider": "Crossref",
+      "title": "High Precision Doppler Computation for Deep-Space Missions",
+      "url": "https://doi.org/10.1109/space65882.2025.11170933",
+      "doi": "10.1109/space65882.2025.11170933",
+      "year": 2025,
+      "authors": [
+        "Manikantan Ramadas",
+        "Nandini Harinath"
+      ],
+      "venue": "2025 IEEE Space, Aerospace and Defence Conference (SPACE)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-0f59db6d5207594c",
+      "provider": "Crossref",
+      "title": "Combined Space Environment Solar Cell Test Capability",
+      "url": "https://doi.org/10.2514/6.2009-559",
+      "doi": "10.2514/6.2009-559",
+      "year": 2009,
+      "authors": [
+        "Dustin Crider",
+        "Daniel Crews",
+        "John Prebola"
+      ],
+      "venue": "47th AIAA Aerospace Sciences Meeting including The New Horizons Forum and Aerospace Exposition",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780969759-Aerospace-followup-1780924151-fc538d6fc160.json"
+}

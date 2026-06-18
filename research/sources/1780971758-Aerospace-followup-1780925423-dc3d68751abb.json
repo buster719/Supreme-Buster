@@ -1,0 +1,58 @@
+{
+  "timestamp_secs": 1780971758,
+  "task_id": "followup-1780925423-dc3d68751abb",
+  "domain": "Aerospace",
+  "question": "Question: What redundancy multiplier (N+2, N+3) and buffer margins have been modelled in recent MELiSSA or BIOS-4-like integrated testbeds for 50+ year closure?",
+  "query": "aerospace civilization resilience deep space capability redundancy multiplier buffer margins been modelled recent melissa bios",
+  "sources": [
+    {
+      "source_id": "Arxiv-5d24fac2710af3ef",
+      "provider": "Arxiv",
+      "title": "This paper has been withdrawn",
+      "url": "http://arxiv.org/abs/cond-mat/0309395v2",
+      "doi": null,
+      "year": 2003,
+      "authors": [
+        "This paper has been withdrawn"
+      ],
+      "venue": "arXiv",
+      "summary": "This paper has been withdrawn"
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1895; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":1886,\"items\":[{\"DOI\":\"10.1109\\/space63117.20..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780971758-Aerospace-followup-1780925423-dc3d68751abb.json"
+}

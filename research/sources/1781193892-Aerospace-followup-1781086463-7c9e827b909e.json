@@ -1,0 +1,97 @@
+{
+  "timestamp_secs": 1781193892,
+  "task_id": "followup-1781086463-7c9e827b909e",
+  "domain": "Aerospace",
+  "question": "For the SpaceX Starship Mars campaign plan, what are the stated assumptions for vehicle commonality (e.g., tanker, crew, cargo variants), and are there published estimates for the production learning rate applied to the first 10 flights?",
+  "query": "aerospace civilization resilience deep space capability spacex starship mars campaign plan stated assumptions vehicle commonality",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-09c01f2f29c793da",
+      "provider": "Arxiv",
+      "title": "Joint vehicle state and parameters estimation via Twin-in-the-Loop observers",
+      "url": "http://arxiv.org/abs/2309.01461v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Federico Dettù",
+        "Simone Formentin",
+        "Sergio Matteo Savaresi"
+      ],
+      "venue": "arXiv",
+      "summary": "Vehicular control systems are required to be both extremely reliable and robust to different environmental conditions, e.g. load or tire-road friction. In this paper, we extend a new paradigm for state estimation, called Twin-in-the-Loop filtering (TiL-F), to the estimation of the unknown parameters describing the vehicle operating conditions. In such an approach, a digital-twin of the vehicle (usually already available to the car manufacturer) is employed on-board as a plant replica within a closed-loop scheme, and the observer gains are tuned purely from experimental data. The proposed appro..."
+    },
+    {
+      "source_id": "Arxiv-802f0ee3810c229f",
+      "provider": "Arxiv",
+      "title": "Space Weather Observations, Modeling, and Alerts in Support of Human Exploration of Mars",
+      "url": "http://arxiv.org/abs/2211.04021v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "James L. Green",
+        "Chuanfei Dong",
+        "Michael Hesse",
+        "C. Alex Young",
+        "Vladimir Airapetian"
+      ],
+      "venue": "arXiv",
+      "summary": "Space weather observations and modeling at Mars have begun but they must be significantly increased to support the future of Human Exploration on the Red Planet. A comprehensive space weather understanding of a planet without a global magnetosphere and a thin atmosphere is very different from our situation at Earth so there is substantial fundamental research remaining. It is expected that the development of suitable models will lead to a comprehensive operational Mars space weather alert (MSWA) system that would provide rapid dissemination of information to Earth controllers, astronauts in tr..."
+    },
+    {
+      "source_id": "Crossref-e70703a0303f013b",
+      "provider": "Crossref",
+      "title": "The Space Taxi Race",
+      "url": "https://doi.org/10.1007/978-3-030-99181-4_7",
+      "doi": "10.1007/978-3-030-99181-4_7",
+      "year": 2022,
+      "authors": [
+        "Erik Seedhouse"
+      ],
+      "venue": "SpaceX",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-3c8408eca21ac29f",
+      "provider": "Crossref",
+      "title": "Starship",
+      "url": "https://doi.org/10.1007/978-3-030-99181-4_9",
+      "doi": "10.1007/978-3-030-99181-4_9",
+      "year": 2022,
+      "authors": [
+        "Erik Seedhouse"
+      ],
+      "venue": "SpaceX",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-5bbca314c00cf2e3",
+      "provider": "Crossref",
+      "title": "The Rise of SpaceX",
+      "url": "https://doi.org/10.1007/978-3-030-99181-4_10",
+      "doi": "10.1007/978-3-030-99181-4_10",
+      "year": 2022,
+      "authors": [
+        "Erik Seedhouse"
+      ],
+      "venue": "SpaceX",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781193892-Aerospace-followup-1781086463-7c9e827b909e.json"
+}

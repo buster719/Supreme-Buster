@@ -1,0 +1,66 @@
+{
+  "timestamp_secs": 1781451969,
+  "task_id": "followup-1781087132-790a94ff67de",
+  "domain": "Aerospace",
+  "question": "What are the defined test protocols and validation environments (vacuum chambers, thermal cycles, dust simulation facilities) for TRL 5-7 assessments of Mars docking hardware?",
+  "query": "aerospace civilization resilience deep space capability defined test protocols validation environments vacuum chambers thermal cycles",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-d958bdfd833eaac7",
+      "provider": "Arxiv",
+      "title": "Outgassing rate comparison of seven geometrically similar vacuum chambers of different materials and heat treatments",
+      "url": "http://arxiv.org/abs/2009.10560v2",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "James A. Fedchak",
+        "Julia K. Scherschligt",
+        "Sefer Avdiaj",
+        "Daniel S. Barker",
+        "Stephen P. Eckel",
+        "Ben Bowers",
+        "Scott OConnell",
+        "Perry Henderson"
+      ],
+      "venue": "arXiv",
+      "summary": "We have measured the water and hydrogen outgassing rates of seven vacuum chambers of identical geometry but constructed of different materials and heat treatments. Chambers of five different materials were tested: 304L, 316L, and 316LN stainless steels; titanium (ASTM grade 2); and 6061 aluminum. In addition, chambers constructed of 316L and 316LN stainless steel were subjected to a vacuum-fire process, where they were heated to approximately 950 °C for 24 hours while under vacuum; these two chambers are designated as 316L-XHV and 316LN-XHV. All chambers were of identical geometry and made by ..."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 373; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":7840,\"items\":[{\"DOI\":\"10.3403\\/30446969\",\"tit..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781451969-Aerospace-followup-1781087132-790a94ff67de.json"
+}

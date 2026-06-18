@@ -1,0 +1,147 @@
+{
+  "timestamp_secs": 1781190928,
+  "task_id": "followup-1781085800-5bdeb2b05f79",
+  "domain": "Aerospace",
+  "question": "Do any of these studies explicitly couple the Monte Carlo output of resource yield uncertainty to a parametric crew-size analysis to find a minimum viable crew?",
+  "query": "aerospace civilization resilience deep space capability studies explicitly couple monte carlo output resource yield uncertainty",
+  "sources": [
+    {
+      "source_id": "Arxiv-a4cfa7f650d226f2",
+      "provider": "Arxiv",
+      "title": "A Multilevel Monte Carlo Asymptotic-Preserving Particle Method for Kinetic Equations in the Diffusion Limit",
+      "url": "http://arxiv.org/abs/1902.04347v4",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Emil Løvbak",
+        "Giovanni Samaey",
+        "Stefan Vandewalle"
+      ],
+      "venue": "arXiv",
+      "summary": "We propose a multilevel Monte Carlo method for a particle-based asymptotic-preserving scheme for kinetic equations. Kinetic equations model transport and collision of particles in a position-velocity phase-space. With a diffusive scaling, the kinetic equation converges to an advection-diffusion equation in the limit of zero mean free path. Classical particle-based techniques suffer from a strict time-step restriction to maintain stability in this limit. Asymptotic-preserving schemes provide a solution to this time step restriction, but introduce a first-order error in the time step size. We de..."
+    },
+    {
+      "source_id": "Arxiv-3a95af2f31c5c572",
+      "provider": "Arxiv",
+      "title": "Metropolis Methods for Quantum Monte Carlo Simulations",
+      "url": "http://arxiv.org/abs/physics/0306182v1",
+      "doi": null,
+      "year": 2003,
+      "authors": [
+        "D. M. Ceperley"
+      ],
+      "venue": "arXiv",
+      "summary": "Since its first description fifty years ago, the Metropolis Monte Carlo method has been used in a variety of different ways for the simulation of continuum quantum many-body systems. This paper will consider some of the generalizations of the Metropolis algorithm employed in quantum Monte Carlo: Variational Monte Carlo, dynamical methods for projector monte carlo ({\\it i.e.} diffusion Monte Carlo with rejection), multilevel sampling in path integral Monte Carlo, the sampling of permutations, cluster methods for lattice models, the penalty method for coupled electron-ionic systems and the Bayes..."
+    },
+    {
+      "source_id": "Arxiv-10d9b3e725a2e0b7",
+      "provider": "Arxiv",
+      "title": "Monte Carlo uncertainty estimation for wavelength calibration",
+      "url": "http://arxiv.org/abs/1012.2631v2",
+      "doi": null,
+      "year": 2010,
+      "authors": [
+        "Thang H. L.",
+        "Nguyen D. D.",
+        "Dung D. N."
+      ],
+      "venue": "arXiv",
+      "summary": "CIPM published the Supplement I for GUM in 2008 as not only an alternative approach to estimate the uncertainty for a given calibration measurement but also as a proper uncertainty estimation one, whenever any of the conditions imposed in GUM which must be satisfied does not hold [1, 2]. Before the introduction of the new approach in the Supplement I, namely Monte Carlo (MC) method, the GUM rules have been always applied even if in cases where the mentioned conditions were not fulfilled. After or even before the official introduction of this MC method, a number of published papers in uncertain..."
+    },
+    {
+      "source_id": "OpenAlex-c9393ba4e3ca4761",
+      "provider": "OpenAlex",
+      "title": "Bio-inspired computation: Where we stand and what's next",
+      "url": "https://doi.org/10.1016/j.swevo.2019.04.008",
+      "doi": "https://doi.org/10.1016/j.swevo.2019.04.008",
+      "year": 2019,
+      "authors": [
+        "Javier Del Ser",
+        "Eneko Osaba",
+        "Daniel Molina",
+        "Xin‐She Yang",
+        "Sancho Salcedo‐Sanz",
+        "David Camacho",
+        "Swagatam Das",
+        "Ponnuthurai Nagaratnam Suganthan"
+      ],
+      "venue": "Swarm and Evolutionary Computation",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-e424fb5227afb122",
+      "provider": "OpenAlex",
+      "title": "Review: machine learning approaches for diverse alloy systems",
+      "url": "https://doi.org/10.1007/s10853-025-11154-4",
+      "doi": "https://doi.org/10.1007/s10853-025-11154-4",
+      "year": 2025,
+      "authors": [
+        "Arafat Rahman",
+        "Md Sojib Hossain",
+        "Abdullah Siddique"
+      ],
+      "venue": "Journal of Materials Science",
+      "summary": "Abstract The integration of machine learning (ML) into alloy design has revolutionized the discovery and optimization of advanced materials by enabling high-throughput, data-driven methodologies. This review systematically examines recent advancements in ML applications across diverse alloy systems, including steels, aluminum alloys, magnesium alloys, nickel-based superalloys, high-entropy alloys (HEAs), shape memory alloys, and metallic glasses. We categorize ML approaches into supervised, unsupervised, and reinforcement learning paradigms, detailing their specific implementations for propert..."
+    },
+    {
+      "source_id": "OpenAlex-e7b318decefd7d54",
+      "provider": "OpenAlex",
+      "title": "Cyber-physical systems security: A comprehensive review of anomaly detection techniques",
+      "url": "https://doi.org/10.1016/j.iot.2026.101938",
+      "doi": "https://doi.org/10.1016/j.iot.2026.101938",
+      "year": 2026,
+      "authors": [
+        "Danial Abshari",
+        "Meera Sridhar"
+      ],
+      "venue": "Internet of Things",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-7eb9efe6d5e83022",
+      "provider": "Crossref",
+      "title": "Improving Monte Carlo Dropout Uncertainty Estimation with Stable Output Layers",
+      "url": "https://doi.org/10.2139/ssrn.5186051",
+      "doi": "10.2139/ssrn.5186051",
+      "year": 2025,
+      "authors": [
+        "Suhan Son",
+        "Junhee Seok"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b2477b6a81e57585",
+      "provider": "Crossref",
+      "title": "Predictive uncertainty analysis using null-space Monte Carlo&amp;#160;",
+      "url": "https://doi.org/10.5194/egusphere-egu24-1745",
+      "doi": "10.5194/egusphere-egu24-1745",
+      "year": 2025,
+      "authors": [
+        "Husam Baalousha",
+        "Marwan Fahs",
+        "Anis Younes"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-3e51cb2fa5b7db4b",
+      "provider": "Crossref",
+      "title": "Model Uncertainty in Deep Learning Simulation of Daily Streamflow with Monte Carlo Dropout",
+      "url": "https://doi.org/10.5194/egusphere-egu21-9145",
+      "doi": "10.5194/egusphere-egu21-9145",
+      "year": 2021,
+      "authors": [
+        "Sadegh Sadeghi Tabas",
+        "Vidya Samadi"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781190928-Aerospace-followup-1781085800-5bdeb2b05f79.json"
+}

@@ -1,0 +1,94 @@
+{
+  "timestamp_secs": 1781075902,
+  "task_id": "followup-1780938230-cd2c8dec700c",
+  "domain": "Genetics",
+  "question": "How do mandatory counseling requirements interact with existing practical barriers (time off work, transportation, childcare, language) in populations already underserved by clinical genetics?",
+  "query": "genetics safety human flourishing genome editing mandatory counseling requirements interact existing practical barriers time work",
+  "sources": [
+    {
+      "source_id": "OpenAlex-6905a907d77bb9aa",
+      "provider": "OpenAlex",
+      "title": "Proceedings of the 7th International Scientific and Practical Conference «Recent Scientific Investigation»",
+      "url": "http://dx.doi.org/10.51582/interconf.2024.190",
+      "doi": "https://doi.org/10.51582/interconf.2024.190",
+      "year": 2024,
+      "authors": [],
+      "venue": null,
+      "summary": "This issue of Scientific Collection «InterConf» contains the materials of the International Scientific and Practical Conference. The conference provides an interdisciplinary forum for researchers, practitioners and scholars to present and discuss the most recent innovations and developments in modern science. The aim of conference is to enable academics, researchers, practitioners and college students to publish their research findings, ideas, developments, and innovations."
+    },
+    {
+      "source_id": "OpenAlex-47070b6bf864c659",
+      "provider": "OpenAlex",
+      "title": "OECD Annual Report 2002",
+      "url": "https://doi.org/10.1787/annrep-2002-en",
+      "doi": "https://doi.org/10.1787/annrep-2002-en",
+      "year": 2002,
+      "authors": [
+        "OECD"
+      ],
+      "venue": "The Annual report of the OECD/OECD annual report",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-bfb13c7d1e01fbae",
+      "provider": "OpenAlex",
+      "title": "Healthcare for Germline Genetically Modified People",
+      "url": "https://doi.org/10.2139/ssrn.4077149",
+      "doi": "https://doi.org/10.2139/ssrn.4077149",
+      "year": 2021,
+      "authors": [
+        "Kelsey Crocker"
+      ],
+      "venue": "SSRN Electronic Journal",
+      "summary": "Genome editing technologies, such as CRISPR/Cas9, are progressing rapidly. The birth of germline genetically edited individuals in China, the progression of somatic gene editing in clinical trials, the shift in expert stakeholders’ openness towards germline gene editing, and the inconsistent implementation of policies governing these technologies across jurisdictions, suggest more that a growing number of genetically edited humans will likely be born in the future. My research will examine healthcare workers’ perception of, and suggested practices to care for, germline genetically edited indiv..."
+    },
+    {
+      "source_id": "Crossref-125eebef290f47c0",
+      "provider": "Crossref",
+      "title": "Recovering Practical Wisdom as a Guide for Human Flourishing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0014",
+      "doi": "10.1093/oso/9780190940362.003.0014",
+      "year": 2019,
+      "authors": [
+        "Celia Deane-Drummond"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "error sending request for url (https://export.arxiv.org/api/query?search_query=all%3Agenetics+safety+human+flourishing+genome+editing+mandatory+counseling+requirements+interact+existing+practical+barriers+time+work&start=0&max_results=3&sor..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781075902-Genetics-followup-1780938230-cd2c8dec700c.json"
+}

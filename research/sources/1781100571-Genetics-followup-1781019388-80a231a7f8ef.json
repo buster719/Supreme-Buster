@@ -1,0 +1,139 @@
+{
+  "timestamp_secs": 1781100571,
+  "task_id": "followup-1781019388-80a231a7f8ef",
+  "domain": "Genetics",
+  "question": "How does the UK's statutory definition compare to the clinical criteria used in the licensed research or treatment programs?",
+  "query": "genetics safety human flourishing genome editing statutory definition compare clinical criteria used licensed research treatment",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-baa9417de97fcd9a",
+      "provider": "Arxiv",
+      "title": "Selection Induced Contrast Estimate (SICE) Effect: An Attempt to Quantify the Impact of Some Patient Selection Criteria in Randomized Clinical Trials",
+      "url": "http://arxiv.org/abs/2001.02036v1",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Junshui Ma",
+        "Daniel J. Holder"
+      ],
+      "venue": "arXiv",
+      "summary": "Defining the Inclusion/Exclusion (I/E) criteria of a trial is one of the most important steps during a trial design. Increasingly complex I/E criteria potentially create information imbalance and transparency issues between the people who design and run the trials and those who consume the information produced by the trials. In order to better understand and quantify the impact of a category of I/E criteria on observed treatment effects, a concept, named the Selection Induced Contrast Estimate (SICE) effect, is introduced and formulated in this paper. The SICE effect can exist in controlled cl..."
+    },
+    {
+      "source_id": "OpenAlex-ebd97c5048ba064c",
+      "provider": "OpenAlex",
+      "title": "Equitable Research Partnerships",
+      "url": "https://doi.org/10.1007/978-3-030-15745-6",
+      "doi": "https://doi.org/10.1007/978-3-030-15745-6",
+      "year": 2019,
+      "authors": [
+        "Doris Schroeder",
+        "Kate Chatfield",
+        "Michelle Singh",
+        "Roger Chennells",
+        "Peter Herissone-Kelly"
+      ],
+      "venue": "SpringerBriefs in research and innovation governance",
+      "summary": "This book highlights the development of a Global Code of Conduct for Research in Resource-Poor Settings. Using values of fairness, honesty, care and respect, the code and learning materials describe how Equitable Research Partnerships are possible in a globalized world despite economic inequality."
+    },
+    {
+      "source_id": "OpenAlex-1b8e96aac4cbeff9",
+      "provider": "OpenAlex",
+      "title": "The Risks and Ethics of Human Gene Editing",
+      "url": "https://doi.org/10.1007/978-3-658-46979-5",
+      "doi": "https://doi.org/10.1007/978-3-658-46979-5",
+      "year": 2025,
+      "authors": [
+        "Madeleine Hayenhjelm",
+        "Christer Nordlund"
+      ],
+      "venue": "Technikzukünfte, Wissenschaft und Gesellschaft",
+      "summary": "About This BookThis book is about the risks and the ethics of human germline gene editing, i.e., the possibility to make heritable changes to the DNA of early human embryos or germ cells.Is there something particularly morally problematic about editing the human germline?Is there something unique about germline editing, and, if so, does this suggest that we ought not to edit the human germline, or only in particular circumstances or for particular purposes?What would be a wise and responsible approach to editing the human germline from a moral perspective?The book has three broad aims.First, t..."
+    },
+    {
+      "source_id": "OpenAlex-bb3c02c9b99dc292",
+      "provider": "OpenAlex",
+      "title": "Open Science: the Very Idea",
+      "url": "https://doi.org/10.1007/978-94-024-2115-6",
+      "doi": "https://doi.org/10.1007/978-94-024-2115-6",
+      "year": 2021,
+      "authors": [
+        "Frank Miedema"
+      ],
+      "venue": null,
+      "summary": "This Open Access book discusses Open Science, the problems of science and the different movements to improve the societal impact of science and research."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781100571-Genetics-followup-1781019388-80a231a7f8ef.json"
+}

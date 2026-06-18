@@ -1,0 +1,150 @@
+{
+  "timestamp_secs": 1780932717,
+  "task_id": "followup-1780914427-86ce9af4c560",
+  "domain": "BrainComputerInterface",
+  "question": "How does cognitive load or dual-task interference affect P300 and motor imagery reliability when the user simultaneously performs an AI-cooperative task?",
+  "query": "brain computer interface human AI cooperation risks cognitive load dual task interference affect p300 motor imagery",
+  "sources": [
+    {
+      "source_id": "Arxiv-6c9985ba8e2d2418",
+      "provider": "Arxiv",
+      "title": "Cognitive Amplification vs Cognitive Delegation in Human-AI Systems: A Metric Framework",
+      "url": "http://arxiv.org/abs/2603.18677v2",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Eduardo Di Santi"
+      ],
+      "venue": "arXiv",
+      "summary": "Artificial intelligence is increasingly embedded in human decision making. In some cases, it enhances human reasoning. In others, it fosters excessive cognitive dependence. This paper introduces a conceptual and mathematical framework to distinguish cognitive amplification, where AI improves hybrid human AI performance while preserving human expertise, from cognitive delegation, where reasoning is progressively outsourced to the AI system, risking long term atrophy of human capabilities. We define four operational metrics: the Cognitive Amplification Index, or CAI star, which measures collabor..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "OpenAlex-6781e0e4f707a7f8",
+      "provider": "OpenAlex",
+      "title": "Current development of biosensing technologies towards diagnosis of mental diseases",
+      "url": "https://doi.org/10.3389/fbioe.2023.1190211",
+      "doi": "https://doi.org/10.3389/fbioe.2023.1190211",
+      "year": 2023,
+      "authors": [
+        "Yuhan Zheng",
+        "Chen Liu",
+        "Nai Yeen Gavin Lai",
+        "Qingfeng Wang",
+        "Qinghua Xia",
+        "Xu Sun",
+        "Sheng Zhang"
+      ],
+      "venue": "Frontiers in Bioengineering and Biotechnology",
+      "summary": "The biosensor is an instrument that converts the concentration of biomarkers into electrical signals for detection. Biosensing technology is non-invasive, lightweight, automated, and biocompatible in nature. These features have significantly advanced medical diagnosis, particularly in the diagnosis of mental disorder in recent years. The traditional method of diagnosing mental disorders is time-intensive, expensive, and subject to individual interpretation. It involves a combination of the clinical experience by the psychiatrist and the physical symptoms and self-reported scales provided by th..."
+    },
+    {
+      "source_id": "OpenAlex-55b9e01f4bbdf82a",
+      "provider": "OpenAlex",
+      "title": "Effect of Interruptions and Cognitive Demand on Mental Workload: A Critical Review",
+      "url": "http://dx.doi.org/10.1109/access.2024.3383142",
+      "doi": "https://doi.org/10.1109/access.2024.3383142",
+      "year": 2024,
+      "authors": [
+        "Nitin Koundal",
+        "Abdualrhman Abdalhadi",
+        "Maged S. Al-Quraishi",
+        "Irraivan Elamvazuthi",
+        "Mahdiyeh Sadat Moosavi",
+        "Christophe Guillet",
+        "Frédéric Mérienne",
+        "Mohamad Naufal Mohamad Saad"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Worker safety and productivity are crucial for effective job management. Interruptions to an individual’s work environment and their impact on mental health can have adverse effects. One prospective instrument for assessing and calculating an individual’s mental state in an interrupted scenario and cognitive demand levels is the use of physiological computing devices in conjunction with behavioral and subjective measurements. This study sought to address how to gather and compute data on individuals’ cognitive states in interrupted work settings through critical analysis. Thirty-three papers w..."
+    },
+    {
+      "source_id": "OpenAlex-63ed1e2b2f95856e",
+      "provider": "OpenAlex",
+      "title": "Neural ERP Mesh: Brain-Computer Interfaces for Cognitive ERP Navigation in High-Stakes Medical Environments",
+      "url": "https://doi.org/10.52783/jisem.v10i63s.14111",
+      "doi": "https://doi.org/10.52783/jisem.v10i63s.14111",
+      "year": 2025,
+      "authors": [
+        "Bhimalinga Reddy Bangaru"
+      ],
+      "venue": "Journal of Information Systems Engineering & Management",
+      "summary": "The provision of current healthcare is more and more dependent on the use of enterprise resource planning software to organize the work of enterprises, but sterile healthcare environments pose the most basic challenges to the conventional interface interaction. Medical workers in surgery, cleanroom, and emergency units need to have access to patient records, inventory data, and clinical guidelines instantly, with no loss of sterile technique or uninterrupted emphasis on the procedure. Brain-computer interfaces hold the promise of being transformative because they directly connect the neural-co..."
+    },
+    {
+      "source_id": "Crossref-917c53f04f06fb5c",
+      "provider": "Crossref",
+      "title": "Multi-Task EEGNet-TCN Decoder of Motor Imagery and Cognitive State in Motor Imagery BCI",
+      "url": "https://doi.org/10.1109/bci69045.2026.11435078",
+      "doi": "10.1109/bci69045.2026.11435078",
+      "year": 2026,
+      "authors": [
+        "Da-Hyeon Sim",
+        "Won-Sik Oh",
+        "Dong-Hwa Jeong"
+      ],
+      "venue": "2026 14th International Conference on Brain-Computer Interface (BCI)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-207d20e41e73cbf5",
+      "provider": "Crossref",
+      "title": "The effects of visual distractors on cognitive load in a motor imagery brain-computer interface",
+      "url": "https://doi.org/10.1016/j.bbr.2019.112240",
+      "doi": "10.1016/j.bbr.2019.112240",
+      "year": 2020,
+      "authors": [
+        "Zahra Emami",
+        "Tom Chau"
+      ],
+      "venue": "Behavioural Brain Research",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-439f827dae370637",
+      "provider": "Crossref",
+      "title": "Do Motor–Cognitive and Motor–Motor Dual-Task Training Differently Affect Dual-Task Interference in Individuals With Intellectual Disability?",
+      "url": "https://doi.org/10.1123/apaq.2024-0044",
+      "doi": "10.1123/apaq.2024-0044",
+      "year": 2024,
+      "authors": [
+        "Rihab Borji",
+        "Rym Baccouch",
+        "Rabeb Laatar",
+        "Sirine Falhi",
+        "Sonia Sahli",
+        "Haithem Rebai"
+      ],
+      "venue": "Adapted Physical Activity Quarterly",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780932717-BrainComputerInterface-followup-1780914427-86ce9af4c560.json"
+}

@@ -1,0 +1,117 @@
+{
+  "timestamp_secs": 1780915027,
+  "task_id": "followup-1780907891-7afc7809a37c",
+  "domain": "MaterialsScience",
+  "question": "Can strain‑ or twist‑engineering of van der Waals heterostructures yield a room‑temperature Chern insulator with gate‑tunable topological phase transition; if so, what is the minimal energy per switch?",
+  "query": "materials science fusion robotics aerospace computation strain twist engineering waals heterostructures yield room temperature chern",
+  "sources": [
+    {
+      "source_id": "Arxiv-5d0f4aaaed8ae9d2",
+      "provider": "Arxiv",
+      "title": "Hunting for Room Temperature Superconductors",
+      "url": "http://arxiv.org/abs/2503.02216v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Huiqian Luo"
+      ],
+      "venue": "arXiv",
+      "summary": "Room temperature superconductivity, as one of the famous jewels on the crown of physics, has attracted continuous attention and unremitting efforts from numerous scientists. In recent years, more and more reports on room temperature superconductivity evoke many anticipations, but results remain controversial. Here, we introduce the characteristics of superconducting phenomena and propose 10 feasible paths to achieve room-temperature superconductivity in the future. This is an Editorial of The Innovation Materials in Feb. 2025."
+    },
+    {
+      "source_id": "Arxiv-bb13b6a1387d06f1",
+      "provider": "Arxiv",
+      "title": "Magnetic Anisotropy in Two-dimensional van der Waals Magnetic Materials and Their Heterostructures: Importance, Mechanisms, and Opportunities",
+      "url": "http://arxiv.org/abs/2508.04952v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Yusheng Hou",
+        "Ruqian Wu"
+      ],
+      "venue": "arXiv",
+      "summary": "Two-dimensional (2D) magnetism in atomically thin van der Waals (vdW) monolayers and heterostructures has attracted significant attention due to its promising potential for next-generation spintronic and quantum technologies. A key factor in stabilizing long-range magnetic order in these systems is magnetic anisotropy, which plays a crucial role in overcoming the limitations imposed by the Mermin-Wagner theorem. This review provides a comprehensive theoretical and experimental overview of the importance of magnetic anisotropy in enabling intrinsic 2D magnetism and shaping the electronic, magne..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "OpenAlex-9dc497703aa7d04b",
+      "provider": "OpenAlex",
+      "title": "Frontiers of Materials Research: A Decadal Survey",
+      "url": "https://doi.org/10.2172/1556101",
+      "doi": "https://doi.org/10.2172/1556101",
+      "year": 2019,
+      "authors": [
+        "L. H. Greene",
+        "T. C. Lubensky",
+        "Matthew Tirrell",
+        "P. M. Chaikin",
+        "Hong Ding",
+        "K. T. Faber",
+        "Paula T. Hammond",
+        "Christine E. Heckle"
+      ],
+      "venue": null,
+      "summary": "Modern materials science builds on knowledge from physics, chemistry, biology, mathematics, computer and data science, and engineering sciences to enable us to understand, control, and expand the material world. Although it is anchored in inquiry-based fundamental science, materials research is strongly focused on discovering and producing reliable and economically viable materials, from super alloys to polymer composites, that are used in a vast array of products essential to today’s societies and economies. Frontiers of Materials Research: A Decadal Survey is aimed at documenting the status ..."
+    },
+    {
+      "source_id": "OpenAlex-ef95aca4ec2c7443",
+      "provider": "OpenAlex",
+      "title": "The 2D Materials Roadmap",
+      "url": "https://research.manchester.ac.uk/en/publications/d4b92bae-e4f0-461d-ae49-dcf7011a2bd8",
+      "doi": "https://doi.org/10.48550/arxiv.2503.22476",
+      "year": 2025,
+      "authors": [
+        "Wencai Ren",
+        "Peter Bøggild",
+        "Joan M. Redwing",
+        "Kostya S. Novoselov",
+        "Luzhao Sun",
+        "Yue Qi",
+        "Kaicheng Jia",
+        "Zhongfan Liu"
+      ],
+      "venue": "Research Explorer (The University of Manchester)",
+      "summary": "Over the past two decades, 2D materials have rapidly evolved into a diverse and expanding family of material platforms. Many members of this materials class have demonstrated their potential to deliver transformative impact on fundamental research and technological applications across different fields. In this roadmap, we provide an overview of the key aspects of 2D material research and development, spanning synthesis, properties and commercial applications. We specifically present roadmaps for high impact 2D materials, including graphene and its derivatives, transition metal dichalcogenides,..."
+    },
+    {
+      "source_id": "OpenAlex-e1a56aa95eadbe54",
+      "provider": "OpenAlex",
+      "title": "The 2022 applied physics by pioneering women: a roadmap",
+      "url": "http://dx.doi.org/10.1088/1361-6463/ac82f9",
+      "doi": "https://doi.org/10.1088/1361-6463/ac82f9",
+      "year": 2023,
+      "authors": [
+        "Begoña Abad Mayor",
+        "Kirstin Alberi",
+        "Katherine E. Ayers",
+        "Sushmee Badhulika",
+        "Chunmei Ban",
+        "H. Béa",
+        "Fanny Béron",
+        "Julie M. Cairney"
+      ],
+      "venue": "Journal of Physics D Applied Physics",
+      "summary": "Abstract Women have made significant contributions to applied physics research and development, and their participation is vital to continued progress. Recognizing these contributions is important for encouraging increased involvement and creating an equitable environment in which women can thrive. This Roadmap on Women in Applied Physics, written by women scientists and engineers, is intended to celebrate women’s accomplishments, highlight established and early career researchers enlarging the boundaries in their respective fields, and promote increased visibility for the impact women have on..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 413; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":427831,\"items\":[{\"DOI\":\"10.1021\\/acs.nanolett..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780915027-MaterialsScience-followup-1780907891-7afc7809a37c.json"
+}

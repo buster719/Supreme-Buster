@@ -1,0 +1,146 @@
+{
+  "timestamp_secs": 1780983204,
+  "task_id": "followup-1780932741-a24d33fbd309",
+  "domain": "BrainComputerInterface",
+  "question": "What experimental paradigms from human‑factors research (e.g., NASA‑TLX, n‑back, driving simulators) best translate to a controlled AI‑cooperative BCI task without losing ecological validity?",
+  "query": "brain computer interface human AI cooperation risks experimental paradigms factors research nasa back driving simulators best",
+  "sources": [
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-76fbb2711ea3e82d",
+      "provider": "Arxiv",
+      "title": "Spatial Tactile Brain-Computer Interface Paradigm Applying Vibration Stimuli to Large Areas of User's Back",
+      "url": "http://arxiv.org/abs/1404.4226v1",
+      "doi": null,
+      "year": 2014,
+      "authors": [
+        "Takumi Kodama",
+        "Shoji Makino",
+        "Tomasz M. Rutkowski"
+      ],
+      "venue": "arXiv",
+      "summary": "We aim at an augmentation of communication abilities of amyotrophic lateral sclerosis (ALS) patients by creating a brain-computer interface (BCI) which can control a computer or other device by using only brain activity. As a method, we use a stimulus-driven BCI based on vibration stimuli delivered via a gaming pad to the user's back. We identify P300 responses from brain activity data in response to the vibration stimuli. The user's intentions are classified according to the P300 responses recorded in the EEG. From the results of the psychophysical and online BCI experiments, we are able to c..."
+    },
+    {
+      "source_id": "OpenAlex-1adeb3d38b0c22a7",
+      "provider": "OpenAlex",
+      "title": "Digital Twin: Values, Challenges and Enablers From a Modeling Perspective",
+      "url": "https://doi.org/10.1109/access.2020.2970143",
+      "doi": "https://doi.org/10.1109/access.2020.2970143",
+      "year": 2020,
+      "authors": [
+        "Adil Rasheed",
+        "Omer San",
+        "Trond Kvamsdal"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Digital twin can be defined as a virtual representation of a physical asset enabled through data and simulators for real-time prediction, optimization, monitoring, controlling, and improved decision making. Recent advances in computational pipelines, multiphysics solvers, artificial intelligence, big data cybernetics, data processing and management tools bring the promise of digital twins and their impact on society closer to reality. Digital twinning is now an important and emerging trend in many applications. Also referred to as a computational megamodel, device shadow, mirrored system, avat..."
+    },
+    {
+      "source_id": "OpenAlex-0c31fed9622c7e8f",
+      "provider": "OpenAlex",
+      "title": "The resurrection of digital triplet: A cognitive pillar of human-machine integration at the dawn of industry 5.0",
+      "url": "https://doi.org/10.1016/j.jksuci.2023.101846",
+      "doi": "https://doi.org/10.1016/j.jksuci.2023.101846",
+      "year": 2023,
+      "authors": [
+        "Hassan Alimam",
+        "Giovanni Mazzuto",
+        "Nicola Tozzi",
+        "Filippo Emanuele Ciarapica",
+        "Maurizio Bevilacqua"
+      ],
+      "venue": "Journal of King Saud University - Computer and Information Sciences",
+      "summary": "The integration of AI technology with digital transformation has profoundly shaped the evolution towards digital triplet architecture, grounded in human-centric methodologies. By infusing human intellectual activities into both physical and cyberspace, innovative links between humans and machines are established. Despite limitations in transitioning from tangible human presence to the digital realm in cyberspace, extensive efforts are underway to harness emotional, visual, and oral responses, thereby enhancing the reasoning and predictive capabilities of digital twins. These advancements aim t..."
+    },
+    {
+      "source_id": "OpenAlex-b04137f58b6f9896",
+      "provider": "OpenAlex",
+      "title": "A Contextual Multimodal System for Increasing Situation Awareness and Takeover Quality in Conditionally Automated Driving",
+      "url": "https://doi.org/10.1109/access.2023.3236814",
+      "doi": "https://doi.org/10.1109/access.2023.3236814",
+      "year": 2023,
+      "authors": [
+        "Marine Capallera",
+        "Quentin Meteier",
+        "Emmanuel de Salis",
+        "Marino Widmer",
+        "Leonardo Angelini",
+        "Stefano Carrino",
+        "Andreas Sonderegger",
+        "Omar Abou Khaled"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Advanced driver assistances are becoming increasingly common in commercial cars, not only to assist but also to free drivers from manual driving whenever possible. Soon, drivers should be allowed to engage in non-driving-related tasks. The fact that responsibility for driving is shifting from humans to machines must be considered in the development of these assistances in order to guarantee safety and trust. In this article, we introduce AdVitam (for Advanced Driver-Vehicle Interaction to Make future driving safer), an autonomous system aiming at maintaining driver’s situation awareness and op..."
+    },
+    {
+      "source_id": "Crossref-32ad0497867f7ae7",
+      "provider": "Crossref",
+      "title": "Driving Simulators for Research",
+      "url": "https://doi.org/10.1201/9781315609126-2",
+      "doi": "10.1201/9781315609126-2",
+      "year": 2017,
+      "authors": [
+        "Gary Burnett",
+        "Catherine Harvey",
+        "Richard Donkor"
+      ],
+      "venue": "Simulators for Transportation Human Factors",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-ae92435e469a699c",
+      "provider": "Crossref",
+      "title": "Back Matter",
+      "url": "https://doi.org/10.1049/pbtr024e_bm",
+      "doi": "10.1049/pbtr024e_bm",
+      "year": 2021,
+      "authors": [],
+      "venue": "Driving Simulators for the Evaluation of Human-Machine Interfaces in Assisted and Automated Vehicles",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780983204-BrainComputerInterface-followup-1780932741-a24d33fbd309.json"
+}

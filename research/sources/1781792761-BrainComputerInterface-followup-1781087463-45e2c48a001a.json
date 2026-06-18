@@ -1,0 +1,115 @@
+{
+  "timestamp_secs": 1781792761,
+  "task_id": "followup-1781087463-45e2c48a001a",
+  "domain": "BrainComputerInterface",
+  "question": "How does the co-adaptation depth (how much the user's neural patterns have reorganized around the decoder) correlate with subjective trust disruption upon removal?",
+  "query": "brain computer interface human AI cooperation risks adaptation depth much user neural patterns reorganized around decoder",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-4a390b9f509da643",
+      "provider": "Arxiv",
+      "title": "Dynamic Neural Communication: Convergence of Computer Vision and Brain-Computer Interface",
+      "url": "http://arxiv.org/abs/2411.09211v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Ji-Ha Park",
+        "Seo-Hyun Lee",
+        "Soowon Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "arXiv",
+      "summary": "Interpreting human neural signals to decode static speech intentions such as text or images and dynamic speech intentions such as audio or video is showing great potential as an innovative communication tool. Human communication accompanies various features, such as articulatory movements, facial expressions, and internal speech, all of which are reflected in neural signals. However, most studies only generate short or fragmented outputs, while providing informative communication by leveraging various features from neural signals remains challenging. In this study, we introduce a dynamic neura..."
+    },
+    {
+      "source_id": "OpenAlex-278a853ccc4cec43",
+      "provider": "OpenAlex",
+      "title": "Brain-Machine Interfaces to Assist the Blind",
+      "url": "https://doi.org/10.3389/fnhum.2021.638887",
+      "doi": "https://doi.org/10.3389/fnhum.2021.638887",
+      "year": 2021,
+      "authors": [
+        "Maurice Ptito",
+        "Maxime Bleau",
+        "Ismaël Djerourou",
+        "Samuel Paré",
+        "F. Schneider",
+        "Daniel‐Robert Chebat"
+      ],
+      "venue": "Frontiers in Human Neuroscience",
+      "summary": "The loss or absence of vision is probably one of the most incapacitating events that can befall a human being. The importance of vision for humans is also reflected in brain anatomy as approximately one third of the human brain is devoted to vision. It is therefore unsurprising that throughout history many attempts have been undertaken to develop devices aiming at substituting for a missing visual capacity. In this review, we present two concepts that have been prevalent over the last two decades. The first concept is sensory substitution, which refers to the use of another sensory modality to..."
+    },
+    {
+      "source_id": "OpenAlex-0da872c9621f39d3",
+      "provider": "OpenAlex",
+      "title": "Virtual Reality Cognitive Gaming Based on Brain Computer Interfacing: A Narrative Review",
+      "url": "https://doi.org/10.1109/access.2023.3247133",
+      "doi": "https://doi.org/10.1109/access.2023.3247133",
+      "year": 2023,
+      "authors": [
+        "Marios Hadjiaros",
+        "Kleanthis Neokleous",
+        "Andria Shimi",
+        "Marios N. Avraamides",
+        "Constantinos S. Pattichis"
+      ],
+      "venue": "IEEE Access",
+      "summary": "The present article explores the most popular approaches and the best practices for the design and implementation of cognitive gaming interventions that combine Brain Computer Interface (BCI) systems with Virtual Reality (VR). We focus on interventions that target cognitive skills related to perception, visuospatial attention and visuospatial memory. To this purpose, we review the techniques and algorithms that are commonly used for data pre-processing, feature extraction, and classification in such interventions. We discuss issues related to BCI-VR Cognitive Gaming, including the BCI paradigm..."
+    },
+    {
+      "source_id": "OpenAlex-3775c89c144885ec",
+      "provider": "OpenAlex",
+      "title": "Towards next-generation diagnostic pathology: AI-empowered label-free multiphoton microscopy",
+      "url": "https://doi.org/10.1038/s41377-024-01597-w",
+      "doi": "https://doi.org/10.1038/s41377-024-01597-w",
+      "year": 2024,
+      "authors": [
+        "Shu Wang",
+        "Junlin Pan",
+        "Xiao Zhang",
+        "Yueying Li",
+        "Wenxi Liu",
+        "Ruolan Lin",
+        "Xingfu Wang",
+        "Deyong Kang"
+      ],
+      "venue": "Light Science & Applications",
+      "summary": "Diagnostic pathology, historically dependent on visual scrutiny by experts, is essential for disease detection. Advances in digital pathology and developments in computer vision technology have led to the application of artificial intelligence (AI) in this field. Despite these advancements, the variability in pathologists' subjective interpretations of diagnostic criteria can lead to inconsistent outcomes. To meet the need for precision in cancer therapies, there is an increasing demand for accurate pathological diagnoses. Consequently, traditional diagnostic pathology is evolving towards \"nex..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 5869; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":43679,\"items\":[{\"DOI\":\"10.5220\\/000650240050..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781792761-BrainComputerInterface-followup-1781087463-45e2c48a001a.json"
+}

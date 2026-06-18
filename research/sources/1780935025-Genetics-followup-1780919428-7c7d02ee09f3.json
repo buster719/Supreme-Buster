@@ -1,0 +1,144 @@
+{
+  "timestamp_secs": 1780935025,
+  "task_id": "followup-1780919428-7c7d02ee09f3",
+  "domain": "Genetics",
+  "question": "Have any legal challenges or parliamentary debates clarified the intended scope or ambiguities of “serious mitochondrial disease” under the Human Fertilisation and Embryology Act 2008 (as amended)?",
+  "query": "genetics safety human flourishing genome editing legal challenges parliamentary debates clarified intended scope ambiguities serious",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-226a2f16099c99b2",
+      "provider": "Arxiv",
+      "title": "Who is we? Disambiguating the referents of first person plural pronouns in parliamentary debates",
+      "url": "http://arxiv.org/abs/2205.14182v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ines Rehbein",
+        "Josef Ruppenhofer",
+        "Julian Bernauer"
+      ],
+      "venue": "arXiv",
+      "summary": "This paper investigates the use of first person plural pronouns as a rhetorical device in political speeches. We present an annotation schema for disambiguating pronoun references and use our schema to create an annotated corpus of debates from the German Bundestag. We then use our corpus to learn to automatically resolve pronoun referents in parliamentary debates. We explore the use of data augmentation with weak supervision to further expand our corpus and report preliminary results."
+    },
+    {
+      "source_id": "OpenAlex-f2b16d2026b72398",
+      "provider": "OpenAlex",
+      "title": "Governing stem cells: regenerative medicine in Europe - the vision and recommendations from the EUCelLEX project",
+      "url": "https://openalex.org/W3033301530",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "Jessica Bell",
+        "Natalie Bordag",
+        "Pascal Borry",
+        "Jasper Bovenberg",
+        "Georges Dagher",
+        "Jasjote Grewal",
+        "Nils Hoppe",
+        "Rosario Isasi"
+      ],
+      "venue": "Oxford University Research Archive (ORA) (University of Oxford)",
+      "summary": "focussing on molecular pathology of metabolic liver diseases and cancer as well as biobanking"
+    },
+    {
+      "source_id": "OpenAlex-2e14f4a8b696d11c",
+      "provider": "OpenAlex",
+      "title": "Unpacking the notion of “serious” genetic conditions : towards an operational and adaptive framework for prenatal and reproductive decision-making",
+      "url": "https://hdl.handle.net/1866/44839",
+      "doi": "https://doi.org/10.71781/34718",
+      "year": 2026,
+      "authors": [
+        "Erika Kleiderman"
+      ],
+      "venue": "Open MIND",
+      "summary": "Naviguer le concept de maladie génétique grave a des implications tant sur le plan politique que pratique. La gravité d'une maladie génétique est au cœur des analyses éthiques et politiques des technologies génomiques émergentes, et sert de pierre angulaire ainsi que de « filtre » pour de nombreuses politiques publiques et normes cliniques. Elle délimite les applications cliniques éthiquement appropriées et légalement admissibles de ces technologies, rendant la clarté définitionnelle et conceptuelle à la fois opportune et importante, particulièrement dans le contexte de la prise de décision pr..."
+    },
+    {
+      "source_id": "OpenAlex-e229ac32aa09977a",
+      "provider": "OpenAlex",
+      "title": "Cell sources of advanced-therapy medicinal products (ATMPs):Report and recommendations",
+      "url": "https://hdl.handle.net/20.500.14018/26611",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "Varju, Márton",
+        "Jasper, Bovenberg",
+        "Sándor, Judit"
+      ],
+      "venue": "Open Research (Auckland University of Technology)",
+      "summary": "In Work Package 2, our aim was to answer to the following questions: what 18 are the interactions between EU and national legislation and the procurement of human (embryonic, foetal, and adult) stem cells for research, innovation and therapy and what are the effects of the application and implementation of that legislation on human stem cell procurement. Our main research methods included legal and comparative legal analysis which were applied in an empirical setting reflecting on the scientific and technological state of play in the domain. Our work was carried out with the specific end in mi..."
+    },
+    {
+      "source_id": "Crossref-138bbe68531c6aaf",
+      "provider": "Crossref",
+      "title": "Genome Editing and the Law",
+      "url": "https://doi.org/10.1007/978-3-658-22660-2_2",
+      "doi": "10.1007/978-3-658-22660-2_2",
+      "year": 2018,
+      "authors": [
+        "Stephan Rixen"
+      ],
+      "venue": "Technikzukünfte, Wissenschaft und Gesellschaft / Futures of Technology, Science and Society",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-2b00783c131859da",
+      "provider": "Crossref",
+      "title": "Human germline genome editing",
+      "url": "https://doi.org/10.58248/pn611",
+      "doi": "10.58248/pn611",
+      "year": 2020,
+      "authors": [
+        "Parliamentary Office of Science and Technology",
+        "Amarpreet Kaur",
+        "Peter Border"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780935025-Genetics-followup-1780919428-7c7d02ee09f3.json"
+}

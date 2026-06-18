@@ -1,0 +1,146 @@
+{
+  "timestamp_secs": 1780979999,
+  "task_id": "followup-1780930200-e332be3c9feb",
+  "domain": "BrainComputerInterface",
+  "question": "Does individual neural variability—such as differences in alpha-band power—moderate the benefit of dynamic doubt displays on trust calibration?",
+  "query": "brain computer interface human AI cooperation risks individual neural variability such differences alpha band power moderate",
+  "sources": [
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-4a390b9f509da643",
+      "provider": "Arxiv",
+      "title": "Dynamic Neural Communication: Convergence of Computer Vision and Brain-Computer Interface",
+      "url": "http://arxiv.org/abs/2411.09211v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Ji-Ha Park",
+        "Seo-Hyun Lee",
+        "Soowon Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "arXiv",
+      "summary": "Interpreting human neural signals to decode static speech intentions such as text or images and dynamic speech intentions such as audio or video is showing great potential as an innovative communication tool. Human communication accompanies various features, such as articulatory movements, facial expressions, and internal speech, all of which are reflected in neural signals. However, most studies only generate short or fragmented outputs, while providing informative communication by leveraging various features from neural signals remains challenging. In this study, we introduce a dynamic neura..."
+    },
+    {
+      "source_id": "OpenAlex-262faacc668a4796",
+      "provider": "OpenAlex",
+      "title": "Electroencephalogram based brain-computer interface: Applications, challenges, and opportunities",
+      "url": "https://doi.org/10.1007/s11042-023-15653-x",
+      "doi": "https://doi.org/10.1007/s11042-023-15653-x",
+      "year": 2023,
+      "authors": [
+        "Hitesh Yadav",
+        "Surita Maini"
+      ],
+      "venue": "Multimedia Tools and Applications",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-6314692b79d7ad62",
+      "provider": "OpenAlex",
+      "title": "Cognitive and Affective Brain–Computer Interfaces for Improving Learning Strategies and Enhancing Student Capabilities: A Systematic Literature Review",
+      "url": "https://doi.org/10.1109/access.2021.3115263",
+      "doi": "https://doi.org/10.1109/access.2021.3115263",
+      "year": 2021,
+      "authors": [
+        "Nuraini Jamil",
+        "Abdelkader Nasreddine Belkacem",
+        "Sofía Ouhbi",
+        "Christoph Guger"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Brain–computer interface (BCI) technology has the potential to positively contribute to the educational learning environment, which faces many challenges and shortcomings. Cognitive and affective BCIs can offer a deep understanding of brain mechanisms, which may improve learning strategies and increase brain-based skills. They can offer a better empirical foundation for teaching–learning methodologies, including adjusting learning content based on brain workload, measuring student interest of a topic, or even helping students focus on specific tasks. The latest findings from emerging BCI techn..."
+    },
+    {
+      "source_id": "OpenAlex-d2b0a17cebe33070",
+      "provider": "OpenAlex",
+      "title": "Brain imaging and human nutrition: which measures to use in intervention studies?",
+      "url": "https://doi.org/10.1017/s0007114513001384",
+      "doi": "https://doi.org/10.1017/s0007114513001384",
+      "year": 2013,
+      "authors": [
+        "Stéphane Sizonenko",
+        "Claudio Babiloni",
+        "Eveline A. de Bruin",
+        "Elizabeth Isaacs",
+        "Lena S. Jönsson",
+        "David O. Kennedy",
+        "Marie E. Latulippe",
+        "M. Hasan Mohajeri"
+      ],
+      "venue": "British Journal Of Nutrition",
+      "summary": "The present review describes brain imaging technologies that can be used to assess the effects of nutritional interventions in human subjects. Specifically, we summarise the biological relevance of their outcome measures, practical use and feasibility, and recommended use in short- and long-term nutritional studies. The brain imaging technologies described consist of MRI, including diffusion tensor imaging, magnetic resonance spectroscopy and functional MRI, as well as electroencephalography/magnetoencephalography, near-IR spectroscopy, positron emission tomography and single-photon emission c..."
+    },
+    {
+      "source_id": "Crossref-501d435eff546139",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface",
+      "url": "https://doi.org/10.1007/978-3-319-24612-3_300341",
+      "doi": "10.1007/978-3-319-24612-3_300341",
+      "year": 2020,
+      "authors": [],
+      "venue": "Encyclopedia of Personality and Individual Differences",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-ea38e22cfd57c891",
+      "provider": "Crossref",
+      "title": "Band power features correlate with performance in auditory brain-computer interface",
+      "url": "https://doi.org/10.3389/conf.fnhum.2011.207.00109",
+      "doi": "10.3389/conf.fnhum.2011.207.00109",
+      "year": 2011,
+      "authors": [
+        "Tangermann Michael"
+      ],
+      "venue": "Frontiers in Human Neuroscience",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-9e986dcbf5807310",
+      "provider": "Crossref",
+      "title": "Mindfulness Improves Brain Computer Interface Performance by Increasing Control over Neural Activity in the Alpha Band",
+      "url": "https://doi.org/10.1101/2020.04.13.039081",
+      "doi": "10.1101/2020.04.13.039081",
+      "year": 2020,
+      "authors": [
+        "James R. Stieger",
+        "Stephen Engel",
+        "Haiteng Jiang",
+        "Christopher C. Cline",
+        "Mary Jo Kreitzer",
+        "Bin He"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780979999-BrainComputerInterface-followup-1780930200-e332be3c9feb.json"
+}

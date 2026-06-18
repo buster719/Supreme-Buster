@@ -1,0 +1,17 @@
+{
+  "timestamp_secs": 1781256864,
+  "provider": "DuckDuckGoHtml",
+  "task_id": null,
+  "query": "agentic AI research safety 2026",
+  "results": [
+    {
+      "rank": 1,
+      "title": "[2603.11088] The Attack and Defense Landscape of Agentic AI: A ...",
+      "url": "https://arxiv.org/abs/2603.11088",
+      "snippet": "This paper presents the first systematic and comprehensive survey of AI agent security, including an analysis of the design space, attack landscape, and defense mechanisms for secure AI agent systems. We further conduct case studies to point out existing gaps in securing agentic AI systems and identify open challenges in this emerging domain."
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "..\\research\\web\\search\\1781256864-manual.json"
+}

@@ -1,0 +1,135 @@
+{
+  "timestamp_secs": 1781166484,
+  "task_id": "followup-1781081698-803aa9f5c43f",
+  "domain": "Genetics",
+  "question": "For embryo selection from a small batch (e.g., 5 embryos), what is the theoretical distribution of the expected gain after correcting for winner's curse and ancestry mismatch?",
+  "query": "genetics safety human flourishing genome editing embryo selection small batch embryos theoretical distribution expected gain",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-2c9118fa707c0ed6",
+      "provider": "Arxiv",
+      "title": "Automated Measurements of Key Morphological Features of Human Embryos for IVF",
+      "url": "http://arxiv.org/abs/2006.00067v2",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Brian D. Leahy",
+        "Won-Dong Jang",
+        "Helen Y. Yang",
+        "Robbert Struyven",
+        "Donglai Wei",
+        "Zhe Sun",
+        "Kylie R. Lee",
+        "Charlotte Royston"
+      ],
+      "venue": "arXiv",
+      "summary": "A major challenge in clinical In-Vitro Fertilization (IVF) is selecting the highest quality embryo to transfer to the patient in the hopes of achieving a pregnancy. Time-lapse microscopy provides clinicians with a wealth of information for selecting embryos. However, the resulting movies of embryos are currently analyzed manually, which is time consuming and subjective. Here, we automate feature extraction of time-lapse microscopy of human embryos with a machine-learning pipeline of five convolutional neural networks (CNNs). Our pipeline consists of (1) semantic segmentation of the regions of ..."
+    },
+    {
+      "source_id": "OpenAlex-64661d6ec14923bd",
+      "provider": "OpenAlex",
+      "title": "Genome engineering in large animals for agricultural and biomedical applications",
+      "url": "http://purl.umn.edu/159250",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Wenfang Tan"
+      ],
+      "venue": "University of Minnesota Digital Conservancy (University of Minnesota)",
+      "summary": "University of Minnesota Ph.D. dissertation. August 2013. Major: Animal Sciences. Advisor: Scott C. Fahrenkrug. 1 computer file (PDF); vi, 226 pages."
+    },
+    {
+      "source_id": "OpenAlex-fc3bb1ae19a73454",
+      "provider": "OpenAlex",
+      "title": "Transforming Mice: Technique and communication in the making of transgenic animals, 1974-1988",
+      "url": "https://www.repository.cam.ac.uk/handle/1810/252737",
+      "doi": "https://doi.org/10.17863/cam.16164",
+      "year": 2015,
+      "authors": [
+        "Dmitriy Myelnikov"
+      ],
+      "venue": "Apollo (University of Cambridge)",
+      "summary": "I am extremely grateful to the Wellcome Trust who made this work possible through a generous doctoral studentship; the Raymond and Edith Williamson Fund at the University of Cambridge for contributing to the cost of overseas fees; and Emmanuel College, for being a second home for such a long time and for helping out with travel funds."
+    },
+    {
+      "source_id": "OpenAlex-9323b641d2e84036",
+      "provider": "OpenAlex",
+      "title": "Annual Report 2006 - 個人別教育研究報告 -",
+      "url": "https://teapot.lib.ocha.ac.jp/records/5294",
+      "doi": null,
+      "year": 2007,
+      "authors": [
+        "国立大学法人お茶の水女子大学"
+      ],
+      "venue": "Institutional Repositories DataBase (IRDB)",
+      "summary": "20 120 218 22 122 220 24 222 26 124 224 126 28 128 226 30 130 32 132 34 228 36 134 230 38 136 232 40 138 234 42 140 236 44 142 238 46"
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-a5b1207d33a7e613",
+      "provider": "Crossref",
+      "title": "Chromosomal status of human embryos",
+      "url": "https://doi.org/10.3109/9780203089712-22",
+      "doi": "10.3109/9780203089712-22",
+      "year": 2007,
+      "authors": [],
+      "venue": "Human Preimplantation Embryo Selection",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-cc8416b63f45204c",
+      "provider": "Crossref",
+      "title": "Morphometric analysis of human embryos",
+      "url": "https://doi.org/10.3109/9780203089712-12",
+      "doi": "10.3109/9780203089712-12",
+      "year": 2007,
+      "authors": [],
+      "venue": "Human Preimplantation Embryo Selection",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781166484-Genetics-followup-1781081698-803aa9f5c43f.json"
+}

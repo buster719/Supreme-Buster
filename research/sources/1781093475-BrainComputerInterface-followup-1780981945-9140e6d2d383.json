@@ -1,0 +1,148 @@
+{
+  "timestamp_secs": 1781093475,
+  "task_id": "followup-1780981945-9140e6d2d383",
+  "domain": "BrainComputerInterface",
+  "question": "What concrete definitions of “effective bandwidth” have been proposed that separate user-intent information from machine-projected intent in shared-autonomy BCI?",
+  "query": "brain computer interface human AI cooperation risks concrete definitions effective bandwidth been proposed separate user intent",
+  "sources": [
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-76fbb2711ea3e82d",
+      "provider": "Arxiv",
+      "title": "Spatial Tactile Brain-Computer Interface Paradigm Applying Vibration Stimuli to Large Areas of User's Back",
+      "url": "http://arxiv.org/abs/1404.4226v1",
+      "doi": null,
+      "year": 2014,
+      "authors": [
+        "Takumi Kodama",
+        "Shoji Makino",
+        "Tomasz M. Rutkowski"
+      ],
+      "venue": "arXiv",
+      "summary": "We aim at an augmentation of communication abilities of amyotrophic lateral sclerosis (ALS) patients by creating a brain-computer interface (BCI) which can control a computer or other device by using only brain activity. As a method, we use a stimulus-driven BCI based on vibration stimuli delivered via a gaming pad to the user's back. We identify P300 responses from brain activity data in response to the vibration stimuli. The user's intentions are classified according to the P300 responses recorded in the EEG. From the results of the psychophysical and online BCI experiments, we are able to c..."
+    },
+    {
+      "source_id": "OpenAlex-7718e2dbd85c9e51",
+      "provider": "OpenAlex",
+      "title": "A Metaverse: Taxonomy, Components, Applications, and Open Challenges",
+      "url": "https://doi.org/10.1109/access.2021.3140175",
+      "doi": "https://doi.org/10.1109/access.2021.3140175",
+      "year": 2022,
+      "authors": [
+        "Sangmin Park",
+        "Young‐Gab Kim"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Unlike previous studies on the Metaverse based on Second Life, the current Metaverse is based on the social value of Generation Z that online and offline selves are not different. With the technological development of deep learning-based high-precision recognition models and natural generation models, Metaverse is being strengthened with various factors, from mobile-based always-on access to connectivity with reality using virtual currency. The integration of enhanced social activities and neural-net methods requires a new definition of Metaverse suitable for the present, different from the pr..."
+    },
+    {
+      "source_id": "OpenAlex-4ddc06bf3f449c0a",
+      "provider": "OpenAlex",
+      "title": "The Rise and Potential of Large Language Model Based Agents: A Survey",
+      "url": "http://arxiv.org/abs/2309.07864",
+      "doi": "https://doi.org/10.48550/arxiv.2309.07864",
+      "year": 2023,
+      "authors": [
+        "Zhiheng Xi",
+        "Wen-Xiang Chen",
+        "Xin Guo",
+        "Wei He",
+        "Yiwen Ding",
+        "Boyang Hong",
+        "Ming Zhang",
+        "Junzhe Wang"
+      ],
+      "venue": "arXiv (Cornell University)",
+      "summary": "For a long time, humanity has pursued artificial intelligence (AI) equivalent to or surpassing the human level, with AI agents considered a promising vehicle for this pursuit. AI agents are artificial entities that sense their environment, make decisions, and take actions. Many efforts have been made to develop intelligent agents, but they mainly focus on advancement in algorithms or training strategies to enhance specific capabilities or performance on particular tasks. Actually, what the community lacks is a general and powerful model to serve as a starting point for designing AI agents that..."
+    },
+    {
+      "source_id": "OpenAlex-bd43da3a21c0932c",
+      "provider": "OpenAlex",
+      "title": "Survey on 6G Frontiers: Trends, Applications, Requirements, Technologies and Future Research",
+      "url": "https://doi.org/10.1109/ojcoms.2021.3071496",
+      "doi": "https://doi.org/10.1109/ojcoms.2021.3071496",
+      "year": 2021,
+      "authors": [
+        "Chamitha de Alwis",
+        "Anshuman Kalla",
+        "Quoc‐Viet Pham",
+        "Pardeep Kumar",
+        "Kapal Dev",
+        "Won‐Joo Hwang",
+        "Madhusanka Liyanage"
+      ],
+      "venue": "IEEE Open Journal of the Communications Society",
+      "summary": "Emerging applications such as Internet of Everything, Holographic Telepresence, collaborative robots, and space and deep-sea tourism are already highlighting the limitations of existing fifth-generation (5G) mobile networks. These limitations are in terms of data-rate, latency, reliability, availability, processing, connection density and global coverage, spanning over ground, underwater and space. The sixth-generation (6G) of mobile networks are expected to burgeon in the coming decade to address these limitations. The development of 6G vision, applications, technologies and standards has alr..."
+    },
+    {
+      "source_id": "Crossref-76b25321840d8c50",
+      "provider": "Crossref",
+      "title": "The Proposed Graphical User Interface (GUI)",
+      "url": "https://doi.org/10.1016/b978-0-12-801543-8.00004-1",
+      "doi": "10.1016/b978-0-12-801543-8.00004-1",
+      "year": 2015,
+      "authors": [
+        "Vaibhav Gandhi"
+      ],
+      "venue": "Brain-Computer Interfacing for Assistive Robotics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-672880e7c129f8c9",
+      "provider": "Crossref",
+      "title": "What is a User Interface, again? A Survey of Definitions of User Interface",
+      "url": "https://doi.org/10.1145/3565494.3565504",
+      "doi": "10.1145/3565494.3565504",
+      "year": 2022,
+      "authors": [
+        "Leonel Vinicio Morales Díaz"
+      ],
+      "venue": "Proceedings of the 9th Mexican International Conference on Human-Computer Interaction",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781093475-BrainComputerInterface-followup-1780981945-9140e6d2d383.json"
+}

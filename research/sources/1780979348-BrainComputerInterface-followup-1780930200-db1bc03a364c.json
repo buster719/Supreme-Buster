@@ -1,0 +1,109 @@
+{
+  "timestamp_secs": 1780979348,
+  "task_id": "followup-1780930200-db1bc03a364c",
+  "domain": "BrainComputerInterface",
+  "question": "Can human subjects trained with dynamic doubt feedback transfer better trust calibration to a *different* BCI paradigm (e.g., P300 speller to motor imagery) than those taught with static explanations?",
+  "query": "brain computer interface human AI cooperation risks subjects trained dynamic doubt feedback transfer better trust calibration",
+  "sources": [
+    {
+      "source_id": "Arxiv-5a5ed0703a3c1355",
+      "provider": "Arxiv",
+      "title": "Confidence-Aware Subject-to-Subject Transfer Learning for Brain-Computer Interface",
+      "url": "http://arxiv.org/abs/2112.09243v2",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Dong-Kyun Han",
+        "Serkan Musellim",
+        "Dong-Young Kim",
+        "Ji-Hoon Jeong"
+      ],
+      "venue": "arXiv",
+      "summary": "The inter/intra-subject variability of electroencephalography (EEG) makes the practical use of the brain-computer interface (BCI) difficult. In general, the BCI system requires a calibration procedure to tune the model every time the system is used. This problem is recognized as a major obstacle to BCI, and to overcome it, approaches based on transfer learning (TL) have recently emerged. However, many BCI paradigms are limited in that they consist of a structure that shows labels first and then measures \"imagery\", the negative effects of source subjects containing data that do not contain cont..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "OpenAlex-c21e0483d1170b89",
+      "provider": "OpenAlex",
+      "title": "AI for Decision Support: Balancing Accuracy, Transparency, and Trust Across Sectors",
+      "url": "https://doi.org/10.3390/info15110725",
+      "doi": "https://doi.org/10.3390/info15110725",
+      "year": 2024,
+      "authors": [
+        "Attila Kővári"
+      ],
+      "venue": "Information",
+      "summary": "This study seeks to understand the key success factors that underpin efficiency, transparency, and user trust in automated decision support systems (DSS) that leverage AI technologies across industries. The aim of this study is to facilitate more accurate decision-making with such AI-based DSS, as well as build trust through the need for visibility and explainability by increasing user acceptance. This study primarily examines the nature of AI-based DSS adoption and the challenges of maintaining system transparency and improving accuracy. The results provide practical guidance for professional..."
+    },
+    {
+      "source_id": "OpenAlex-adf707f739a0c6d9",
+      "provider": "OpenAlex",
+      "title": "Human-in-the-Loop Reinforcement Learning: A Survey and Position on Requirements, Challenges, and Opportunities",
+      "url": "https://doi.org/10.1613/jair.1.15348",
+      "doi": "https://doi.org/10.1613/jair.1.15348",
+      "year": 2024,
+      "authors": [
+        "Carl Orge Retzlaff",
+        "Srijita Das",
+        "Christabel Wayllace",
+        "Payam Mousavi",
+        "Mohammad Afshari",
+        "Tianpei Yang",
+        "Anna Saranti",
+        "Alessa Angerschmid"
+      ],
+      "venue": "Journal of Artificial Intelligence Research",
+      "summary": "Artificial intelligence (AI) and especially reinforcement learning (RL) have the potential to enable agents to learn and perform tasks autonomously with superhuman performance. However, we consider RL as fundamentally a Human-in-the-Loop (HITL) paradigm, even when an agent eventually performs its task autonomously. In cases where the reward function is challenging or impossible to define, HITL approaches are considered particularly advantageous. The application of Reinforcement Learning from Human Feedback (RLHF) in systems such as ChatGPT demonstrates the effectiveness of optimizing for user ..."
+    },
+    {
+      "source_id": "OpenAlex-0f1729bc0213208d",
+      "provider": "OpenAlex",
+      "title": "Advanced Applications of Industrial Robotics: New Trends and Possibilities",
+      "url": "https://doi.org/10.3390/app12010135",
+      "doi": "https://doi.org/10.3390/app12010135",
+      "year": 2021,
+      "authors": [
+        "Andrius Dzedzickis",
+        "Jurga Subačiūtė-Žemaitienė",
+        "Ernestas Šutinys",
+        "Urtė Samukaitė-Bubnienė",
+        "Vytautas Bučinskas"
+      ],
+      "venue": "Applied Sciences",
+      "summary": "This review is dedicated to the advanced applications of robotic technologies in the industrial field. Robotic solutions in areas with non-intensive applications are presented, and their implementations are analysed. We also provide an overview of survey publications and technical reports, classified by application criteria, and the development of the structure of existing solutions, and identify recent research gaps. The analysis results reveal the background to the existing obstacles and problems. These issues relate to the areas of psychology, human nature, special artificial intelligence (..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 918; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":32110,\"items\":[{\"DOI\":\"10.2139\\/ssrn.6037994\"..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780979348-BrainComputerInterface-followup-1780930200-db1bc03a364c.json"
+}

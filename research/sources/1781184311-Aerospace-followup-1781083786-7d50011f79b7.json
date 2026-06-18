@@ -1,0 +1,73 @@
+{
+  "timestamp_secs": 1781184311,
+  "task_id": "followup-1781083786-7d50011f79b7",
+  "domain": "Aerospace",
+  "question": "Are there stat.AP papers on reliability/survival modelling of life-support components that bridge to habitat-scale closure analysis?",
+  "query": "aerospace civilization resilience deep space capability there stat papers reliability survival modelling life support components",
+  "sources": [
+    {
+      "source_id": "OpenAlex-cb8077e6c3b24c9f",
+      "provider": "OpenAlex",
+      "title": "National security implications of Chinese FDIs: United Kingdom, Germany, Italy and France as host states (2006-2016)",
+      "url": "http://hdl.handle.net/11385/203395",
+      "doi": "https://doi.org/10.13119/11385_203395",
+      "year": 2020,
+      "authors": [
+        "Letizia Zingoni"
+      ],
+      "venue": "IRIS - Institutional Research Information System (Libera Università Internazionale degli Studi Sociali Guido Carli)",
+      "summary": "National Security threats of inward FDIs. Chinese authoritarian capitalism and outward investment behavior. National security and political implications of Chinese OFDIs."
+    },
+    {
+      "source_id": "Crossref-bb5a986bdacdd0fa",
+      "provider": "Crossref",
+      "title": "Space biological and human survival: Investigations into plants, animals, microorganisms and their components and bioregenerative life support systems",
+      "url": "https://doi.org/10.1016/j.lssr.2024.10.007",
+      "doi": "10.1016/j.lssr.2024.10.007",
+      "year": 2025,
+      "authors": [
+        "Lin Cheng",
+        "Yitong Li",
+        "Jing Yan"
+      ],
+      "venue": "Life Sciences in Space Research",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-4187909ec2e953be",
+      "provider": "Crossref",
+      "title": "Estimation of multicomponent system reliability for inverse Weibull distribution using survival signature",
+      "url": "https://doi.org/10.1007/s00362-024-01588-4",
+      "doi": "10.1007/s00362-024-01588-4",
+      "year": 2024,
+      "authors": [
+        "Nabakumar Jana",
+        "Samadrita Bera"
+      ],
+      "venue": "Statistical Papers",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-9fc16a09264b0605",
+      "provider": "Crossref",
+      "title": "Adaptive Telemedicine for Cognitive Resilience in Space",
+      "url": "https://doi.org/10.52202/080556-0010",
+      "doi": "10.52202/080556-0010",
+      "year": 2025,
+      "authors": [
+        "Krishna Bulchandani",
+        "Harsh Kumar"
+      ],
+      "venue": "Space Bioastronautics, Space Medicine, Life Support Systems",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "HTTP status client error (429 Unknown Error) for url (https://export.arxiv.org/api/query?search_query=all%3Aaerospace+civilization+resilience+deep+space+capability+there+stat+papers+reliability+survival+modelling+life+support+components&sta..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781184311-Aerospace-followup-1781083786-7d50011f79b7.json"
+}

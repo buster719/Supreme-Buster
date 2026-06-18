@@ -1,0 +1,151 @@
+{
+  "timestamp_secs": 1781095157,
+  "task_id": "followup-1780982269-cba800412c2c",
+  "domain": "BrainComputerInterface",
+  "question": "How does the latency distribution of evoked vs. spontaneous signals constrain real‑time control bandwidth in continuous‑output BCIs?",
+  "query": "brain computer interface human AI cooperation risks latency distribution evoked spontaneous signals constrain real time control",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-98465386b012307f",
+      "provider": "OpenAlex",
+      "title": "Signal propagation in complex networks",
+      "url": "https://doi.org/10.1016/j.physrep.2023.03.005",
+      "doi": "https://doi.org/10.1016/j.physrep.2023.03.005",
+      "year": 2023,
+      "authors": [
+        "Peng Ji",
+        "Jiachen Ye",
+        "Yu Mu",
+        "Wei Lin",
+        "Yang Tian",
+        "Chittaranjan Hens",
+        "Matjaž Perc",
+        "Yang Tang"
+      ],
+      "venue": "Physics Reports",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-6c073379124d4387",
+      "provider": "OpenAlex",
+      "title": "Advances of deep learning in electrical impedance tomography image reconstruction",
+      "url": "https://doi.org/10.3389/fbioe.2022.1019531",
+      "doi": "https://doi.org/10.3389/fbioe.2022.1019531",
+      "year": 2022,
+      "authors": [
+        "Tao Zhang",
+        "Xiang Tian",
+        "XueChao Liu",
+        "Jianan Ye",
+        "Feng Fu",
+        "Xuetao Shi",
+        "Ruigang Liu",
+        "Canhua Xu"
+      ],
+      "venue": "Frontiers in Bioengineering and Biotechnology",
+      "summary": "Electrical impedance tomography (EIT) has been widely used in biomedical research because of its advantages of real-time imaging and nature of being non-invasive and radiation-free. Additionally, it can reconstruct the distribution or changes in electrical properties in the sensing area. Recently, with the significant advancements in the use of deep learning in intelligent medical imaging, EIT image reconstruction based on deep learning has received considerable attention. This study introduces the basic principles of EIT and summarizes the application progress of deep learning in EIT image re..."
+    },
+    {
+      "source_id": "OpenAlex-0de85efe54d107e1",
+      "provider": "OpenAlex",
+      "title": "30th Annual Computational Neuroscience Meeting: CNS*2021–Meeting Abstracts",
+      "url": "https://doi.org/10.1007/s10827-021-00801-9",
+      "doi": "https://doi.org/10.1007/s10827-021-00801-9",
+      "year": 2021,
+      "authors": [
+        "Arora, K.",
+        "Zulfiqar, I.",
+        "Schultheiss, H.",
+        "De Martino, F.",
+        "Gulban, O.F.",
+        "Lage-Castellanos, A.",
+        "Moerel, M."
+      ],
+      "venue": "Journal of Computational Neuroscience",
+      "summary": "The human brain is a complex organ characterized by heterogeneous patterns of interconnections. Non-invasive imaging techniques now allow for these patterns to be carefully and comprehensively mapped in individual humans, paving the way for a better understanding of how wiring supports cognitive processes. While a large body of work now focuses on descriptive statistics to characterize these wiring patterns, a critical open question lies in how the organization of these networks constrains the potential repertoire of brain dynamics. Here I describe an approach for understanding how perturbatio..."
+    },
+    {
+      "source_id": "Crossref-730602f0b9b891d7",
+      "provider": "Crossref",
+      "title": "Real-time Human-like Robot Control based on Brain-Computer Interface",
+      "url": "https://doi.org/10.1109/ihsh51661.2021.9378751",
+      "doi": "10.1109/ihsh51661.2021.9378751",
+      "year": 2021,
+      "authors": [
+        "Abdelkader Nasreddine Belkacem"
+      ],
+      "venue": "2020 2nd International Workshop on Human-Centric Smart Environments for Health and Well-being (IHSH)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b727ec9c82bc7521",
+      "provider": "Crossref",
+      "title": "REAL TIME BRAIN COMPUTER INTERFACE SYSTEM for CONTROL APPLICATION",
+      "url": "https://doi.org/10.37896/jxu14.5/218",
+      "doi": "10.37896/jxu14.5/218",
+      "year": 2020,
+      "authors": [],
+      "venue": "Journal of Xidian University",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-9783b74c704be5ff",
+      "provider": "Crossref",
+      "title": "Development of Real-Time Brain-Computer Interface System for Robot Control",
+      "url": "https://doi.org/10.2139/ssrn.4402771",
+      "doi": "10.2139/ssrn.4402771",
+      "year": 2023,
+      "authors": [
+        "Yang An",
+        "Johnny Wong",
+        "Sai Ho Ling"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781095157-BrainComputerInterface-followup-1780982269-cba800412c2c.json"
+}

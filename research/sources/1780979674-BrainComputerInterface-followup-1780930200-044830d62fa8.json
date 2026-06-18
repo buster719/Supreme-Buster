@@ -1,0 +1,144 @@
+{
+  "timestamp_secs": 1780979674,
+  "task_id": "followup-1780930200-044830d62fa8",
+  "domain": "BrainComputerInterface",
+  "question": "Would dynamic transparency about ignored signal features cause cognitive overload or alarm fatigue in long-duration BCI use, negating its benefit?",
+  "query": "brain computer interface human AI cooperation risks dynamic transparency ignored signal features cause cognitive overload alarm",
+  "sources": [
+    {
+      "source_id": "Arxiv-6c9985ba8e2d2418",
+      "provider": "Arxiv",
+      "title": "Cognitive Amplification vs Cognitive Delegation in Human-AI Systems: A Metric Framework",
+      "url": "http://arxiv.org/abs/2603.18677v2",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Eduardo Di Santi"
+      ],
+      "venue": "arXiv",
+      "summary": "Artificial intelligence is increasingly embedded in human decision making. In some cases, it enhances human reasoning. In others, it fosters excessive cognitive dependence. This paper introduces a conceptual and mathematical framework to distinguish cognitive amplification, where AI improves hybrid human AI performance while preserving human expertise, from cognitive delegation, where reasoning is progressively outsourced to the AI system, risking long term atrophy of human capabilities. We define four operational metrics: the Cognitive Amplification Index, or CAI star, which measures collabor..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "OpenAlex-44501b690f9d3b74",
+      "provider": "OpenAlex",
+      "title": "Identification and classification of risk factors for human-robot collaboration from a system-wide perspective",
+      "url": "https://doi.org/10.1016/j.cie.2021.107827",
+      "doi": "https://doi.org/10.1016/j.cie.2021.107827",
+      "year": 2021,
+      "authors": [
+        "Nicole Berx",
+        "Wilm Decré",
+        "Ido Morag",
+        "Peter Chemweno",
+        "Liliane Pintelon"
+      ],
+      "venue": "Computers & Industrial Engineering",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-adf707f739a0c6d9",
+      "provider": "OpenAlex",
+      "title": "Human-in-the-Loop Reinforcement Learning: A Survey and Position on Requirements, Challenges, and Opportunities",
+      "url": "https://doi.org/10.1613/jair.1.15348",
+      "doi": "https://doi.org/10.1613/jair.1.15348",
+      "year": 2024,
+      "authors": [
+        "Carl Orge Retzlaff",
+        "Srijita Das",
+        "Christabel Wayllace",
+        "Payam Mousavi",
+        "Mohammad Afshari",
+        "Tianpei Yang",
+        "Anna Saranti",
+        "Alessa Angerschmid"
+      ],
+      "venue": "Journal of Artificial Intelligence Research",
+      "summary": "Artificial intelligence (AI) and especially reinforcement learning (RL) have the potential to enable agents to learn and perform tasks autonomously with superhuman performance. However, we consider RL as fundamentally a Human-in-the-Loop (HITL) paradigm, even when an agent eventually performs its task autonomously. In cases where the reward function is challenging or impossible to define, HITL approaches are considered particularly advantageous. The application of Reinforcement Learning from Human Feedback (RLHF) in systems such as ChatGPT demonstrates the effectiveness of optimizing for user ..."
+    },
+    {
+      "source_id": "OpenAlex-131ed1035835f0e8",
+      "provider": "OpenAlex",
+      "title": "Human–machine interaction towards Industry 5.0: Human-centric smart manufacturing",
+      "url": "https://doi.org/10.1016/j.dte.2024.100013",
+      "doi": "https://doi.org/10.1016/j.dte.2024.100013",
+      "year": 2024,
+      "authors": [
+        "Jialu Yang",
+        "Ying Liu",
+        "Phillip L. Morgan"
+      ],
+      "venue": "Digital engineering.",
+      "summary": "Since the concept of Industry 5.0 was proposed, the emphasis on human–machine​ interaction (HMI) in industrial scenarios has continued to increase. HMI is part of the factory’s development towards Industry 5.0, mainly because HMI can help realise the human-centric vision. At the same time, to achieve the sustainable and resilient goals proposed by Industry 5.0, green, smart, and more advanced technologies are also considered important driving factors for factories to achieve Industry 5.0. Human-centric smart manufacturing (HCSM) factories that integrate HMI with advanced technologies are expec..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-06f8642facb9b06d",
+      "provider": "Crossref",
+      "title": "When AI Assistance Becomes Cognitive Overload: Understanding and Managing \"Brain Fry\" in the Modern Workplace",
+      "url": "https://doi.org/10.70175/hclreview.2020.31.4.5",
+      "doi": "10.70175/hclreview.2020.31.4.5",
+      "year": 2026,
+      "authors": [
+        "Jonathan H. Westover"
+      ],
+      "venue": "Human Capital Leadership Review",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780979674-BrainComputerInterface-followup-1780930200-044830d62fa8.json"
+}

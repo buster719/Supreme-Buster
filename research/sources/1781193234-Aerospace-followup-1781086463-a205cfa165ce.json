@@ -1,0 +1,112 @@
+{
+  "timestamp_secs": 1781193234,
+  "task_id": "followup-1781086463-a205cfa165ce",
+  "domain": "Aerospace",
+  "question": "How do integration and testing costs scale differently from production costs for modular versus custom designs in complex, safety-critical systems?",
+  "query": "aerospace civilization resilience deep space capability integration testing costs scale differently production modular versus custom",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-044503353d50b93d",
+      "provider": "Arxiv",
+      "title": "Comparative Resilience Notions and Vertex Attack Tolerance of Scale-Free Networks",
+      "url": "http://arxiv.org/abs/1404.0103v1",
+      "doi": null,
+      "year": 2014,
+      "authors": [
+        "John Matta",
+        "Jeffrey Borwey",
+        "Gunes Ercal"
+      ],
+      "venue": "arXiv",
+      "summary": "We are concerned with an appropriate mathematical measure of resilience in the face of targeted node attacks for arbitrary degree networks, and subsequently comparing the resilience of different scale-free network models with the proposed measure. We strongly motivate our resilience measure termed \\emph{vertex attack tolerance} (VAT), which is denoted mathematically as $τ(G) = \\min_{S \\subset V} \\frac{|S|}{|V-S-C_{max}(V-S)|+1}$, where $C_{max}(V-S)$ is the largest connected component in $V-S$. We attempt a thorough comparison of VAT with several existing resilience notions: conductance, verte..."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    },
+    {
+      "source_id": "OpenAlex-a3cbc11c163904e8",
+      "provider": "OpenAlex",
+      "title": "Economic and Social Aspects of the Space Sector Development Based on the Modified Structure–Conduct–Performance Framework",
+      "url": "https://doi.org/10.3390/world6020079",
+      "doi": "https://doi.org/10.3390/world6020079",
+      "year": 2025,
+      "authors": [
+        "Michał Pietrzak"
+      ],
+      "venue": "World",
+      "summary": "Background: The global space economy has grown remarkably, witnessing a 10-fold increase in active satellites during the last 15 years. This growth was accompanied by both the increase in geopolitical tensions feeding huge investments (the New Space Race), on the one hand, and the transformation, shifting from a domain historically dominated by government-led programs to one partially energized by commercial players and innovative business models (“New Space”), on the other hand. Objective: To assess the space economy’s current state and future prospects by considering its economic and social ..."
+    },
+    {
+      "source_id": "OpenAlex-fd08983a0216a5ab",
+      "provider": "OpenAlex",
+      "title": "Exploring Challenges and Opportunities in Manufacturing and Intelligence for Future Robotics",
+      "url": "https://doi.org/10.1007/s12541-025-01318-2",
+      "doi": "https://doi.org/10.1007/s12541-025-01318-2",
+      "year": 2025,
+      "authors": [
+        "Jun Young Choi",
+        "Semin Ahn",
+        "Do–Hyeon Kim",
+        "Jun Heo",
+        "Won-Jae Yun",
+        "Sungjin Hong",
+        "Sung-Hoon Bae",
+        "Sung‐Hoon Ahn"
+      ],
+      "venue": "International Journal of Precision Engineering and Manufacturing",
+      "summary": "Abstract This paper offers a forward-looking perspective on the challenges and opportunities shaping the future of robotics, drawing insights from both established and emerging research. It addresses two pivotal dimensions: the complexities of manufacturing and the integration of intelligence within robotic systems. On the manufacturing front, key elements such as structural materials, manufacturing processes, assembly methodologies, sensors, actuators, and power systems are explored. Simultaneously, the paper evaluates the evolution of robotic intelligence, focusing on frameworks for autonomo..."
+    },
+    {
+      "source_id": "OpenAlex-dbcf2aa80eb8f06f",
+      "provider": "OpenAlex",
+      "title": "Precursors to a 'Good' Bioeconomy in 2125: Making Sense of Bioeconomy & Justice Horizons. First Foresight Report of the BioEcoJust Project",
+      "url": "https://www.utupub.fi/handle/10024/148181",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Amos Taylor",
+        "Raleigh Balcom",
+        "Ana María Botella Nicolás",
+        "Sofi Kurki",
+        "Marianna Birmoser Ferreira-Aulu",
+        "Markku Wilenius"
+      ],
+      "venue": "UTUPub (University of Turku)",
+      "summary": "The Bioeconomy today is a field full of promise, brimming with potentially transformative solutions, and developments still only in their infancy. The aim of this report has been to convey the findings of the BioEcoJust foresight research to date, and especially to highlight the core critical thinking involved in approaching the future of the bioeconomy for the next 100 years. The BioEconomy and Justice (BioEcoJust) is funded by the Academy of Finland BioFuture 2025 programme and aims to develop a future-oriented ethical and justice framework useful in assessing long-term bioeconomy developmen..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 2066; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":4406,\"items\":[{\"abstract\":\"<jats:p>The domes..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781193234-Aerospace-followup-1781086463-a205cfa165ce.json"
+}

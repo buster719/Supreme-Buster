@@ -1,0 +1,59 @@
+{
+  "timestamp_secs": 1781188941,
+  "task_id": "followup-1781085124-3fcbfd9ae693",
+  "domain": "Aerospace",
+  "question": "Has anyone modeled stochastic closure (e.g., Markov-switching open/closed states) in the context of ISRU (In-Situ Resource Utilization) supply chains for lunar or Mars habitats specifically?",
+  "query": "aerospace civilization resilience deep space capability anyone modeled stochastic closure markov switching open closed states",
+  "sources": [
+    {
+      "source_id": "Arxiv-7d56acb1bce9d696",
+      "provider": "Arxiv",
+      "title": "Markov Switching",
+      "url": "http://arxiv.org/abs/2002.03598v1",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Yong Song",
+        "Tomasz Woźniak"
+      ],
+      "venue": "arXiv",
+      "summary": "Markov switching models are a popular family of models that introduces time-variation in the parameters in the form of their state- or regime-specific values. Importantly, this time-variation is governed by a discrete-valued latent stochastic process with limited memory. More specifically, the current value of the state indicator is determined only by the value of the state indicator from the previous period, thus the Markov property, and the transition matrix. The latter characterizes the properties of the Markov process by determining with what probability each of the states can be visited n..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-f3be93c33ea6ee89",
+      "provider": "Arxiv",
+      "title": "Identification Verification for Structural Vector Autoregressions with Sparse Heterogeneous Markov Switching Heteroskedasticity",
+      "url": "http://arxiv.org/abs/2603.16035v1",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Fei Shang",
+        "Tomasz Woźniak"
+      ],
+      "venue": "arXiv",
+      "summary": "We propose a structural vector autoregressive model with a new and flexible specification of the volatility process which we call Sparse Heterogeneous Markov-Switching Heteroskedasticity. In this model, the conditional variance of each structural shock changes in time according to its own Markov process. Additionally, it features a sparse representation of Markov processes, in which the number of regimes is set to exceed that of the data-generating process, with some regimes allowed to have zero occurrences throughout the sample. We complement these developments with a definition of a new dist..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 2078; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":2925,\"items\":[{\"DOI\":\"10.2139\\/ssrn.6778924\"..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781188941-Aerospace-followup-1781085124-3fcbfd9ae693.json"
+}

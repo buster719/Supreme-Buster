@@ -1,0 +1,138 @@
+{
+  "timestamp_secs": 1781020816,
+  "task_id": "followup-1780936960-f524d61e153f",
+  "domain": "Genetics",
+  "question": "What small local computation, simulation, or table could Buster run next to test part of this question: Would trans-ancestry fine-mapping with diverse biobanks consistently recover causal variants that single-ancestry GWAS miss??",
+  "query": "genetics safety human flourishing genome editing small local computation simulation table test part trans ancestry",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-cfb16ead6fc6d226",
+      "provider": "Arxiv",
+      "title": "Population genetics models of local ancestry",
+      "url": "http://arxiv.org/abs/1202.4811v2",
+      "doi": null,
+      "year": 2012,
+      "authors": [
+        "Simon Gravel"
+      ],
+      "venue": "arXiv",
+      "summary": "Migrations have played an important role in shaping the genetic diversity of human populations. Understanding genomic data thus requires careful modeling of historical gene flow. Here we consider the effect of relatively recent population structure and gene flow, and interpret genomes of individuals that have ancestry from multiple source populations as mosaics of segments originating from each population. We propose general and tractable models for describing the evolution of these patterns of local ancestry and their impact on genetic diversity. We focus on the length distribution of continu..."
+    },
+    {
+      "source_id": "OpenAlex-3b6f4bbdbfb594b8",
+      "provider": "OpenAlex",
+      "title": "The Embodied Microbiome",
+      "url": "http://dx.doi.org/10.34297/ajbsr.2023.20.002708",
+      "doi": "https://doi.org/10.34297/ajbsr.2023.20.002708",
+      "year": 2023,
+      "authors": [
+        "Rodney R. Dietert"
+      ],
+      "venue": "American Journal of Biomedical Science & Research",
+      "summary": "Microbes are the most prevalent and widely distributed life form on planet Earth. They are also cognitive organisms with memory and superior problem-solving skills that use quantum phase transitions during their remarkably effective gathering and dissemination of information. This narrative review explores the biological ramifications of human holobionts physically embodying the human microbiome and connecting to the Internet of Microbes (IOM) beyond our body. Within the narrative review, we consider:"
+    },
+    {
+      "source_id": "OpenAlex-b35283fe7eab5b0b",
+      "provider": "OpenAlex",
+      "title": "The Embodied Microbiome",
+      "url": "http://dx.doi.org/10.20944/preprints202308.2196.v1",
+      "doi": "https://doi.org/10.20944/preprints202308.2196.v1",
+      "year": 2023,
+      "authors": [
+        "Rodney R. Dietert",
+        "Janice M. Dietert"
+      ],
+      "venue": "Preprints.org",
+      "summary": "Microbes are the most prevalent and widely-distributed life form on planet Earth. They are also cognitive organisms with memory and superior problem-solving skills that use quantum phase transitions during their remarkably-effective gathering and dissemination of information. This narrative review explores the biological ramifications of human holobionts physically embodying the human microbiome and connecting to the Internet of Microbes (IOM) beyond our body. Within the review, we consider: 1) the ways in which our microbial co-partners exerted control over our ancestors and continue to influ..."
+    },
+    {
+      "source_id": "OpenAlex-40ad3578cd7dab08",
+      "provider": "OpenAlex",
+      "title": "Smart Nanosystems",
+      "url": "https://www.intechopen.com/books/12828",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Brajesh Kumar",
+        "Alexis Debut",
+        "Muhammad Rafique",
+        "Muhammad Nawaz Tahir",
+        "Muneeb Irshad"
+      ],
+      "venue": null,
+      "summary": "Nanoscience and nanotechnology are poised for continued growth due to their numerous benefits in everyday life, including applications in human health, food processing, environmental safety, and device engineering. Nanomaterials have been utilized unknowingly for thousands of years; for instance, gold nanoparticles were used in medicine and to stain drinking glasses. Biocompatible smart nanosystems can create multifunctional platforms for diverse technical and biomedical applications, such as sensing, environmental remediation, catalysis, biomedicine, and optoelectronics. In this book, esteeme..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781020816-Genetics-followup-1780936960-f524d61e153f.json"
+}

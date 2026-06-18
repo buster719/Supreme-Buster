@@ -1,0 +1,141 @@
+{
+  "timestamp_secs": 1781191254,
+  "task_id": "followup-1781085800-03747674db71",
+  "domain": "Aerospace",
+  "question": "Which specific NASA closed-loop life support system (e.g., for Moon or Mars) or ESA MELiSSA project phases have published Monte Carlo analyses propagating crop yield or physical-chemical regeneration uncertainty?",
+  "query": "aerospace civilization resilience deep space capability specific nasa closed loop life support system moon mars",
+  "sources": [
+    {
+      "source_id": "Arxiv-e80041a58e7c3419",
+      "provider": "Arxiv",
+      "title": "The moon and the origin of life",
+      "url": "http://arxiv.org/abs/astro-ph/0112399v1",
+      "doi": null,
+      "year": 2001,
+      "authors": [
+        "C. R. Benn"
+      ],
+      "venue": "arXiv",
+      "summary": "Earth is unusual in bearing life, and in having a large moon. A number of authors have suggested a possible connection between the two, e.g. through lunar stabilisation of the earth's obliquity, or through the effects of the oceanic tides. The various suggestions are reviewed."
+    },
+    {
+      "source_id": "Arxiv-802f0ee3810c229f",
+      "provider": "Arxiv",
+      "title": "Space Weather Observations, Modeling, and Alerts in Support of Human Exploration of Mars",
+      "url": "http://arxiv.org/abs/2211.04021v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "James L. Green",
+        "Chuanfei Dong",
+        "Michael Hesse",
+        "C. Alex Young",
+        "Vladimir Airapetian"
+      ],
+      "venue": "arXiv",
+      "summary": "Space weather observations and modeling at Mars have begun but they must be significantly increased to support the future of Human Exploration on the Red Planet. A comprehensive space weather understanding of a planet without a global magnetosphere and a thin atmosphere is very different from our situation at Earth so there is substantial fundamental research remaining. It is expected that the development of suitable models will lead to a comprehensive operational Mars space weather alert (MSWA) system that would provide rapid dissemination of information to Earth controllers, astronauts in tr..."
+    },
+    {
+      "source_id": "Arxiv-8d62aa98d1ea41f6",
+      "provider": "Arxiv",
+      "title": "Large Interferometer For Exoplanets (LIFE): IV. Ideal kernel-nulling array architectures for a space-based mid-infrared nulling interferometer",
+      "url": "http://arxiv.org/abs/2201.04891v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Jonah T. Hansen",
+        "Michael J. Ireland",
+        "the LIFE Collaboration"
+      ],
+      "venue": "arXiv",
+      "summary": "Aims: Optical interferometry from space for the purpose of detecting and characterising exoplanets is seeing a revival, specifically from missions such as the proposed Large Interferometer For Exoplanets (LIFE). A default assumption since the design studies of Darwin and TPF-I has been that the Emma X-array configuration is the optimal architecture for this goal. Here, we examine whether new advances in the field of nulling interferometry, such as the concept of kernel nulling, challenge this assumption. Methods: We develop a tool designed to derive the photon-limited signal to noise ratio of ..."
+    },
+    {
+      "source_id": "OpenAlex-87d07e76e48c28c8",
+      "provider": "OpenAlex",
+      "title": "Towards sustainable horizons: A comprehensive blueprint for Mars colonization",
+      "url": "https://doi.org/10.1016/j.heliyon.2024.e26180",
+      "doi": "https://doi.org/10.1016/j.heliyon.2024.e26180",
+      "year": 2024,
+      "authors": [
+        "Florian Neukart"
+      ],
+      "venue": "Heliyon",
+      "summary": "This paper thoroughly explores the feasibility, challenges, and proposed solutions for establishing a sustainable human colony on Mars. We quantitatively and qualitatively analyze the Martian environment, highlighting key challenges such as radiation exposure, which astronauts could experience at minimum levels of 0.66 sieverts during a round trip, and the complications arising from Mars' thin atmosphere and extreme temperature variations. Technological advancements are examined, including developing Martian concrete, which utilizes sulfur as a binding agent, and innovative life support strate..."
+    },
+    {
+      "source_id": "OpenAlex-1f63560b8131133f",
+      "provider": "OpenAlex",
+      "title": "On Mars as it is on Earth: Bioinspired technologies for sustainability on Earth are paving the way for a new era of space exploration",
+      "url": "https://doi.org/10.1063/5.0191443",
+      "doi": "https://doi.org/10.1063/5.0191443",
+      "year": 2024,
+      "authors": [
+        "Javier G. Fernandez",
+        "Shiwei Ng"
+      ],
+      "venue": "APL Materials",
+      "summary": "This Perspective explores the synergy between bioinspired technologies for sustainability on Earth and their application in space exploration. We focus on the parallels between the paradigm shift toward sustainable development on our planet and establishing permanent human settlements on Mars and the Moon. Informed by Earth’s ecological and technological progress, which emphasizes the critical need for efficiency and integration with the planet’s metabolic processes, the discussion revolves around the challenges and opportunities in creating self-sustaining communities in space. Specifically, ..."
+    },
+    {
+      "source_id": "OpenAlex-6e89a1ba448188f7",
+      "provider": "OpenAlex",
+      "title": "Space Economy and Sustainability: A Systematic Review",
+      "url": "https://doi.org/10.1002/sd.3383",
+      "doi": "https://doi.org/10.1002/sd.3383",
+      "year": 2025,
+      "authors": [
+        "Marianna Valente",
+        "Federico Caviggioli",
+        "Lara Agostini"
+      ],
+      "venue": "Sustainable Development",
+      "summary": "ABSTRACT The space economy is booming thanks to the increasing investment of government agencies, private companies, and venture capitalists. From the beginning of the New Space era, the array of actors involved in the development of technologies for extra‐terrestrial activities has increased, as well as the downstream applications that foster innovations on Earth. Space technologies promote growth and prosperity: they pose challenges and opportunities in terms of sustainability from multiple perspectives. In outer space, several issues can hinder launches or the capabilities of observing and ..."
+    },
+    {
+      "source_id": "Crossref-72e74ccb6b0352ac",
+      "provider": "Crossref",
+      "title": "Intelligent Integration of Moxie and Bio Regenerative Life Support System for Closed-Loop Habitat Sustainability on Mars",
+      "url": "https://doi.org/10.52202/080556-0011",
+      "doi": "10.52202/080556-0011",
+      "year": 2025,
+      "authors": [
+        "Divita Jain",
+        "Adrija Bandyopadhyay"
+      ],
+      "venue": "Space Bioastronautics, Space Medicine, Life Support Systems",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-52aff9e978b413ff",
+      "provider": "Crossref",
+      "title": "Architecture Robustness in NASA's Moon to Mars Capability Development - FY23 Data Results",
+      "url": "https://doi.org/10.1109/aero55745.2023.10115670",
+      "doi": "10.1109/aero55745.2023.10115670",
+      "year": 2023,
+      "authors": [
+        "Alexander Burg",
+        "Eric McVay",
+        "David Reeves"
+      ],
+      "venue": "2023 IEEE Aerospace Conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-18889707ed053ff0",
+      "provider": "Crossref",
+      "title": "Open-Loop Vs. Closed-Loop Life Support Systems",
+      "url": "https://doi.org/10.1007/978-3-030-52859-1_3",
+      "doi": "10.1007/978-3-030-52859-1_3",
+      "year": 2020,
+      "authors": [
+        "Erik Seedhouse"
+      ],
+      "venue": "Life Support Systems for Humans in Space",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781191254-Aerospace-followup-1781085800-03747674db71.json"
+}

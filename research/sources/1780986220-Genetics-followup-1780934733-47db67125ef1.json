@@ -1,0 +1,94 @@
+{
+  "timestamp_secs": 1780986220,
+  "task_id": "followup-1780934733-47db67125ef1",
+  "domain": "Genetics",
+  "question": "How do their definitions of “serious” account for variable penetrance, heteroplasmy levels, and genotype‑phenotype uncertainty in mitochondrial disorders?",
+  "query": "genetics safety human flourishing genome editing definitions serious account variable penetrance heteroplasmy levels genotype phenotype",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "Crossref-2ae8f80eca214339",
+      "provider": "Crossref",
+      "title": "The variable expressivity and incomplete penetrance of the twist-null heterozygous mouse phenotype resemble those of human Saethre-Chotzen syndrome",
+      "url": "https://doi.org/10.1093/hmg/7.6.945",
+      "doi": "10.1093/hmg/7.6.945",
+      "year": 1998,
+      "authors": [
+        "P Bourgeois"
+      ],
+      "venue": "Human Molecular Genetics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6fd858e700e19297",
+      "provider": "Crossref",
+      "title": "Genotype to phenotype: interpretation of the Human Genome Project",
+      "url": "https://doi.org/10.4324/9780203450420-1",
+      "doi": "10.4324/9780203450420-1",
+      "year": 2003,
+      "authors": [
+        "Sue Malcolm"
+      ],
+      "venue": "Genotype to Phenotype",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-d5e767ee75fb7d78",
+      "provider": "Crossref",
+      "title": "Genotype",
+      "url": "https://doi.org/10.32388/992897",
+      "doi": "10.32388/992897",
+      "year": 2019,
+      "authors": [
+        "National Human Genome Research Institute (NHGRI)"
+      ],
+      "venue": "Definitions",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780986220-Genetics-followup-1780934733-47db67125ef1.json"
+}

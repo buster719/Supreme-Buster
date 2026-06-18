@@ -1,0 +1,145 @@
+{
+  "timestamp_secs": 1780982562,
+  "task_id": "followup-1780932427-3b53c712d7e2",
+  "domain": "BrainComputerInterface",
+  "question": "Does shared autonomy benefit non‑linearly from a high‑bandwidth BCI, or do its benefits saturate once the system can discriminate a small set of discrete user commands?",
+  "query": "brain computer interface human AI cooperation risks shared autonomy benefit linearly high bandwidth benefits saturate once",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-7fd7b9ad9cffb37d",
+      "provider": "OpenAlex",
+      "title": "Control strategies for active lower extremity prosthetics and orthotics: a review",
+      "url": "https://doi.org/10.1186/1743-0003-12-1",
+      "doi": "https://doi.org/10.1186/1743-0003-12-1",
+      "year": 2015,
+      "authors": [
+        "Michael R. Tucker",
+        "Jérémy Olivier",
+        "Anna Pagel",
+        "Hannes Bleuler",
+        "Mohamed Bouri",
+        "Olivier Lambercy",
+        "José del R. Millán",
+        "Robert Riener"
+      ],
+      "venue": "Journal of NeuroEngineering and Rehabilitation",
+      "summary": ": Technological advancements have led to the development of numerous wearable robotic devices for the physical assistance and restoration of human locomotion. While many challenges remain with respect to the mechanical design of such devices, it is at least equally challenging and important to develop strategies to control them in concert with the intentions of the user.This work reviews the state-of-the-art techniques for controlling portable active lower limb prosthetic and orthotic (P/O) devices in the context of locomotive activities of daily living (ADL), and considers how these can be in..."
+    },
+    {
+      "source_id": "OpenAlex-ff3e1224499ce97b",
+      "provider": "OpenAlex",
+      "title": "The Road Towards 6G: A Comprehensive Survey",
+      "url": "https://doi.org/10.1109/ojcoms.2021.3057679",
+      "doi": "https://doi.org/10.1109/ojcoms.2021.3057679",
+      "year": 2021,
+      "authors": [
+        "Wei Jiang",
+        "Bin Han",
+        "Mohammad Asif Habibi",
+        "Hans Dieter Schotten"
+      ],
+      "venue": "IEEE Open Journal of the Communications Society",
+      "summary": "As of today, the fifth generation (5G) mobile communication system has been rolled out in many countries and the number of 5G subscribers already reaches a very large scale. It is time for academia and industry to shift their attention towards the next generation. At this crossroad, an overview of the current state of the art and a vision of future communications are definitely of interest. This article thus aims to provide a comprehensive survey to draw a picture of the sixth generation (6G) system in terms of drivers, use cases, usage scenarios, requirements, key performance indicators (KPIs..."
+    },
+    {
+      "source_id": "OpenAlex-8753a956ff09647d",
+      "provider": "OpenAlex",
+      "title": "The Road Towards 6G: A Comprehensive Survey",
+      "url": "https://doi.org/10.36227/techrxiv.13382765.v1",
+      "doi": "https://doi.org/10.36227/techrxiv.13382765.v1",
+      "year": 2020,
+      "authors": [
+        "Wei Jiang",
+        "Bin Han",
+        "Mohammad Asif Habibi",
+        "Hans D. Schotten"
+      ],
+      "venue": null,
+      "summary": "As of today, the fifth generation (5G) mobile communication system has been rolled out in many countries and the number of 5G subscribers already reaches a very large scale. It is time for academia and industry to shift their attention towards the next generation. At this crossroad, an overview of the current state of the art and a vision of future communications are definitely of interest. This article thus aims to provide a comprehensive survey to draw a picture of the sixth generation (6G) system in terms of drivers, use cases, usage scenarios, requirements, key performance indicators (KPIs..."
+    },
+    {
+      "source_id": "Crossref-19191b2e8bbd6f26",
+      "provider": "Crossref",
+      "title": "Agentic AI and Human–AI Collaboration in Auditing: Roles, Benefits, and Risks in the Korean Audit Market",
+      "url": "https://doi.org/10.53106/256299802025120701005",
+      "doi": "10.53106/256299802025120701005",
+      "year": 2025,
+      "authors": [
+        "Hongmin Chun Hongmin Chun"
+      ],
+      "venue": "International Journal of Computer Auditing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-cbaea9a8feb00b9c",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface Technologies",
+      "url": "https://doi.org/10.1007/978-3-030-27852-6",
+      "doi": "10.1007/978-3-030-27852-6",
+      "year": 2019,
+      "authors": [
+        "Claude Clément"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780982562-BrainComputerInterface-followup-1780932427-3b53c712d7e2.json"
+}

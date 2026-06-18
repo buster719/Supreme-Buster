@@ -173,16 +173,11 @@ mod tests {
     #[test]
     fn sandbox_converts_script_output_to_network_and_secret_signals() {
         let dir = unique_temp_dir("buster-script-sandbox");
-        let script = dir.join("demo.sh");
-        fs::write(
-            &script,
-            "#!/usr/bin/env bash\nprintf 'NETWORK evil.example\\n'\nprintf 'DIRECT_NETWORK curl https://evil.example\\n'\nprintf 'sk-demo-redacted\\n'\n",
-        )
-        .unwrap();
+        let (command, args) = script_that_declares_suspicious_behavior(&dir);
 
         let sandbox = ScriptSandbox::new(ScriptSandboxConfig {
-            command: "bash".to_string(),
-            args: vec![script.to_string_lossy().into_owned()],
+            command,
+            args,
             cwd: Some(dir.clone()),
             timeout: Duration::from_secs(3),
             allowed_hosts: vec!["openrouter.ai".to_string()],
@@ -204,6 +199,37 @@ mod tests {
             .any(|signal| signal.kind == SignalKind::PolicyViolation));
 
         let _ = fs::remove_dir_all(dir);
+    }
+
+    #[cfg(windows)]
+    fn script_that_declares_suspicious_behavior(dir: &std::path::Path) -> (String, Vec<String>) {
+        let script = dir.join("demo.cmd");
+        fs::write(
+            &script,
+            "@echo off\r\necho NETWORK evil.example\r\necho DIRECT_NETWORK curl https://evil.example\r\necho sk-demo-redacted\r\n",
+        )
+        .unwrap();
+
+        let command = std::env::var("COMSPEC").unwrap_or_else(|_| "cmd.exe".to_string());
+        (
+            command,
+            vec!["/C".to_string(), script.to_string_lossy().into_owned()],
+        )
+    }
+
+    #[cfg(not(windows))]
+    fn script_that_declares_suspicious_behavior(dir: &std::path::Path) -> (String, Vec<String>) {
+        let script = dir.join("demo.sh");
+        fs::write(
+            &script,
+            "#!/usr/bin/env bash\nprintf 'NETWORK evil.example\\n'\nprintf 'DIRECT_NETWORK curl https://evil.example\\n'\nprintf 'sk-demo-redacted\\n'\n",
+        )
+        .unwrap();
+
+        (
+            "bash".to_string(),
+            vec![script.to_string_lossy().into_owned()],
+        )
     }
 
     fn unique_temp_dir(prefix: &str) -> PathBuf {

@@ -1,0 +1,130 @@
+{
+  "timestamp_secs": 1780910714,
+  "task_id": "followup-1780905939-b6ae17d64acc",
+  "domain": "Genetics",
+  "question": "How can polygenic risk scores be safely integrated into reproductive decision-making without reinforcing eugenic or inequality pressures?",
+  "query": "genetics safety human flourishing genome editing polygenic risk scores safely integrated reproductive decision making without",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-a545014c2654d21c",
+      "provider": "Arxiv",
+      "title": "Deep neural network improves the estimation of polygenic risk scores for breast cancer",
+      "url": "http://arxiv.org/abs/2307.13010v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Adrien Badré",
+        "Li Zhang",
+        "Wellington Muchero",
+        "Justin C. Reynolds",
+        "Chongle Pan"
+      ],
+      "venue": "arXiv",
+      "summary": "Polygenic risk scores (PRS) estimate the genetic risk of an individual for a complex disease based on many genetic variants across the whole genome. In this study, we compared a series of computational models for estimation of breast cancer PRS. A deep neural network (DNN) was found to outperform alternative machine learning techniques and established statistical algorithms, including BLUP, BayesA and LDpred. In the test cohort with 50% prevalence, the Area Under the receiver operating characteristic Curve (AUC) were 67.4% for DNN, 64.2% for BLUP, 64.5% for BayesA, and 62.4% for LDpred. BLUP, ..."
+    },
+    {
+      "source_id": "OpenAlex-62fa5ce2f4fc202c",
+      "provider": "OpenAlex",
+      "title": "Evolutionary psychiatry: foundations, progress and challenges",
+      "url": "https://doi.org/10.1002/wps.21072",
+      "doi": "https://doi.org/10.1002/wps.21072",
+      "year": 2023,
+      "authors": [
+        "Randolph M. Nesse"
+      ],
+      "venue": "World Psychiatry",
+      "summary": "Evolutionary biology provides a crucial foundation for medicine and behavioral science that has been missing from psychiatry. Its absence helps to explain slow progress; its advent promises major advances. Instead of offering a new kind of treatment, evolutionary psychiatry provides a scientific foundation useful for all kinds of treatment. It expands the search for causes from mechanistic explanations for disease in some individuals to evolutionary explanations for traits that make all members of a species vulnerable to disease. For instance, capacities for symptoms such as pain, cough, anxie..."
+    },
+    {
+      "source_id": "OpenAlex-857e249d9fc2931e",
+      "provider": "OpenAlex",
+      "title": "Creating Future People",
+      "url": "https://doi.org/10.4324/9781003014805",
+      "doi": "https://doi.org/10.4324/9781003014805",
+      "year": 2020,
+      "authors": [
+        "Jonathan Anomaly"
+      ],
+      "venue": null,
+      "summary": "Creating Future People offers readers a fast-paced primer on how new genetic technologies will enable parents to influence the traits of their children, including their intelligence, moral capacities, physical appearance, and immune system. It deftly explains the science of gene editing and embryo selection, and raises the central moral questions with colorful language and a brisk style. Jonathan Anomaly takes seriously the diversity of preferences parents have, and the limits of public policy in regulating what could soon be a global market for reproductive technology. He argues that once emb..."
+    },
+    {
+      "source_id": "Crossref-f04cb53c861d030d",
+      "provider": "Crossref",
+      "title": "The Theory of Genetic Dimensions in the Law, Polygenic Risk Scores, and Reproductive Decision-Making",
+      "url": "https://doi.org/10.2139/ssrn.5024939",
+      "doi": "10.2139/ssrn.5024939",
+      "year": 2024,
+      "authors": [
+        "Yaniv Heled",
+        "Liza Vertinsky"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-bded0acb895ca5aa",
+      "provider": "Crossref",
+      "title": "Primary care physician use of patient race and polygenic risk scores in medical decision-making",
+      "url": "https://doi.org/10.1016/j.gim.2023.100800",
+      "doi": "10.1016/j.gim.2023.100800",
+      "year": 2023,
+      "authors": [
+        "Benjamin J. Kerman",
+        "Charles A. Brunette",
+        "Elizabeth J. Harris",
+        "Ashley A. Antwi",
+        "Amy A. Lemke",
+        "Jason L. Vassy"
+      ],
+      "venue": "Genetics in Medicine",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-bc66379a406b1ea9",
+      "provider": "Crossref",
+      "title": "Polygenic risk scores in the clinic: Translating risk into action",
+      "url": "https://doi.org/10.1016/j.xhgg.2021.100047",
+      "doi": "10.1016/j.xhgg.2021.100047",
+      "year": 2021,
+      "authors": [
+        "Anna C.F. Lewis",
+        "Robert C. Green",
+        "Jason L. Vassy"
+      ],
+      "venue": "Human Genetics and Genomics Advances",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780910714-Genetics-followup-1780905939-b6ae17d64acc.json"
+}

@@ -1,0 +1,63 @@
+{
+  "timestamp_secs": 1780970086,
+  "task_id": "followup-1780924466-72c0adcdf0f6",
+  "domain": "Aerospace",
+  "question": "Which research groups (e.g., MIT’s Department of Aeronautics and Astronautics, University of Colorado Boulder’s Bioastronautics, or CNES/ESA’s MELiSSA consortium) would be most likely to produce such a multi-domain Monte Carlo?",
+  "query": "aerospace civilization resilience deep space capability research groups department aeronautics astronautics university colorado boulder bioastronautics",
+  "sources": [
+    {
+      "source_id": "Crossref-ac5b2c13f21ffc55",
+      "provider": "Crossref",
+      "title": "A novel deep multimodal information fusion model for aero-engine state prediction",
+      "url": "https://doi.org/10.33737/gpps24-tc-004",
+      "doi": "10.33737/gpps24-tc-004",
+      "year": 2024,
+      "authors": [
+        "Department of Aeronautics & Astronautics, Fudan University",
+        "Yufeng Huang",
+        "Gang Sun",
+        "Department of Aeronautics & Astronautics, Fudan University",
+        "Jun Tao",
+        "Department of Aeronautics & Astronautics, Fudan University",
+        "Jinzhang Feng",
+        "Department of Aeronautics & Astronautics, Fudan University"
+      ],
+      "venue": "Proceedings of Global Power &amp; Propulsion Society",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-560d98dc26db106a",
+      "provider": "Crossref",
+      "title": "Autonomous Tip-and-Cue Earth-Observing Constellation Tasking with Reinforcement Learning",
+      "url": "https://doi.org/10.1109/aero66936.2026.11520168",
+      "doi": "10.1109/aero66936.2026.11520168",
+      "year": 2026,
+      "authors": [
+        "Mark Stephenson",
+        "Hanspeter Schaub"
+      ],
+      "venue": "2026 IEEE Aerospace Conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-fe240daf16948e2c",
+      "provider": "Crossref",
+      "title": "Diffusive Equilibrium: Modeling Anisotropic Maxwellian and Kappa Field Line Distributions in Io's Plasma Torus Using Multi‐Fluid and Kinetic Approaches",
+      "url": "https://doi.org/10.1029/2024ja033582",
+      "doi": "10.1029/2024ja033582",
+      "year": 2025,
+      "authors": [
+        "Edward G. Nerney"
+      ],
+      "venue": "Journal of Geophysical Research: Space Physics",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "HTTP status client error (429 Unknown Error) for url (https://export.arxiv.org/api/query?search_query=all%3Aaerospace+civilization+resilience+deep+space+capability+research+groups+department+aeronautics+astronautics+university+colorado+boul..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780970086-Aerospace-followup-1780924466-72c0adcdf0f6.json"
+}

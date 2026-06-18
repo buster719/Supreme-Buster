@@ -1,0 +1,12 @@
+{
+  "name": "internal-comms",
+  "status": "Active",
+  "source": "https://raw.githubusercontent.com/anthropics/skills/main/skills/internal-comms/SKILL.md",
+  "version": 3,
+  "created_at_secs": 1781529592,
+  "updated_at_secs": 1781801840,
+  "last_reviewed_at_secs": 1781801316,
+  "risk_notes": [
+    "installed from external markdown; inferred risk Level3ToolUse / L3; requested activation=false; final status=Active"
+  ]
+}

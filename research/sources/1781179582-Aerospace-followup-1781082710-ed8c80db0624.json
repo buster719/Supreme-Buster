@@ -1,0 +1,93 @@
+{
+  "timestamp_secs": 1781179582,
+  "task_id": "followup-1781082710-ed8c80db0624",
+  "domain": "Aerospace",
+  "question": "What published studies or protocols explicitly compare SERF or NV-centre sensor performance across different labs using a standardized test sequence or benchmark dataset?",
+  "query": "aerospace civilization resilience deep space capability published studies protocols explicitly compare serf centre sensor performance",
+  "sources": [
+    {
+      "source_id": "Arxiv-dded4b938008de9d",
+      "provider": "Arxiv",
+      "title": "Verification of Space Weather Forecasts issued by the Met Office Space Weather Operations Centre",
+      "url": "http://arxiv.org/abs/1804.02985v1",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "Michael A. Sharpe",
+        "Sophie A. Murray"
+      ],
+      "venue": "arXiv",
+      "summary": "The Met Office Space Weather Operations Centre was founded in 2014 and part of its remit is a daily Space Weather Technical Forecast to help the UK build resilience to space weather impacts; guidance includes four day geo-magnetic storm forecasts (GMSF) and X-ray flare forecasts (XRFF). It is crucial for forecasters, users, modelers and stakeholders to understand the strengths and weaknesses of these forecasts; therefore, it is important to verify against the most reliable truth data source available. The present study contains verification results for XRFFs using GOES-15 satellite data and GM..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-3418555e9e84d6a6",
+      "provider": "Arxiv",
+      "title": "Memorization in Deep Neural Networks: Does the Loss Function matter?",
+      "url": "http://arxiv.org/abs/2107.09957v2",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Deep Patel",
+        "P. S. Sastry"
+      ],
+      "venue": "arXiv",
+      "summary": "Deep Neural Networks, often owing to the overparameterization, are shown to be capable of exactly memorizing even randomly labelled data. Empirical studies have also shown that none of the standard regularization techniques mitigate such overfitting. We investigate whether the choice of the loss function can affect this memorization. We empirically show, with benchmark data sets MNIST and CIFAR-10, that a symmetric loss function, as opposed to either cross-entropy or squared error loss, results in significant improvement in the ability of the network to resist such overfitting. We then provide..."
+    },
+    {
+      "source_id": "Crossref-e3b0b0a877a0faeb",
+      "provider": "Crossref",
+      "title": "Performance comparison of wireless sensor network standard protocols in an aerospace environment: ISA100.11a and ZigBee Pro",
+      "url": "https://doi.org/10.1109/aero.2012.6187218",
+      "doi": "10.1109/aero.2012.6187218",
+      "year": 2012,
+      "authors": [
+        "R. S. Wagner",
+        "R. J. Barton"
+      ],
+      "venue": "2012 IEEE Aerospace Conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-f71212604ad01488",
+      "provider": "Crossref",
+      "title": "Railroad Timetables:",
+      "url": "https://doi.org/10.2307/j.ctv12fw89w.47",
+      "doi": "10.2307/j.ctv12fw89w.47",
+      "year": 2016,
+      "authors": [],
+      "venue": "In Space We Read Time",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-67b39629252981c7",
+      "provider": "Crossref",
+      "title": "Deep space optical link ARQ performance analysis",
+      "url": "https://doi.org/10.1109/aero.2016.7500874",
+      "doi": "10.1109/aero.2016.7500874",
+      "year": 2016,
+      "authors": [
+        "Loren Clare",
+        "Gregory Miles"
+      ],
+      "venue": "2016 IEEE Aerospace Conference",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781179582-Aerospace-followup-1781082710-ed8c80db0624.json"
+}

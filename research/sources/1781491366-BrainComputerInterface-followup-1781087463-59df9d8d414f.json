@@ -1,0 +1,147 @@
+{
+  "timestamp_secs": 1781491366,
+  "task_id": "followup-1781087463-59df9d8d414f",
+  "domain": "BrainComputerInterface",
+  "question": "Is there a critical window of adaptation depth beyond which removal produces irreversible neural strategy changes that permanently alter the trust baseline?",
+  "query": "brain computer interface human AI cooperation risks there critical window adaptation depth beyond removal produces irreversible",
+  "sources": [
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-0f2f7c7af7234c61",
+      "provider": "OpenAlex",
+      "title": "Complex systems in the spotlight: next steps after the 2021 Nobel Prize in Physics",
+      "url": "https://doi.org/10.1088/2632-072x/ac7f75",
+      "doi": "https://doi.org/10.1088/2632-072x/ac7f75",
+      "year": 2023,
+      "authors": [
+        "Ginestra Bianconi",
+        "Àlex Arenas",
+        "Jacob Biamonte",
+        "Lincoln D. Carr",
+        "B. Kahng",
+        "János Kertész",
+        "Jürgen Kurths",
+        "Linyuan Lü"
+      ],
+      "venue": "Journal of Physics Complexity",
+      "summary": "Abstract The 2021 Nobel Prize in Physics recognized the fundamental role of complex systems in the natural sciences. In order to celebrate this milestone, this editorial presents the point of view of the editorial board of JPhys Complexity on the achievements, challenges, and future prospects of the field. To distinguish the voice and the opinion of each editor, this editorial consists of a series of editor perspectives and reflections on few selected themes. A comprehensive and multi-faceted view of the field of complexity science emerges. We hope and trust that this open discussion will be o..."
+    },
+    {
+      "source_id": "OpenAlex-bf1013e88aaf09f4",
+      "provider": "OpenAlex",
+      "title": "The ethics of creating artificial superintelligence: a global risk perspective",
+      "url": "https://doi.org/10.1007/s43681-025-00793-7",
+      "doi": "https://doi.org/10.1007/s43681-025-00793-7",
+      "year": 2025,
+      "authors": [
+        "Jean-Sébastien Dessureault",
+        "Robert Lamontagne",
+        "Pierre-Olivier Parisé"
+      ],
+      "venue": "AI and Ethics",
+      "summary": "Abstract As artificial intelligence (AI) continues its exponential growth and nears the threshold of artificial general intelligence (AGI), it is timely and urgent to initiate reflections on artificial superintelligence (ASI), which may emerge rapidly after AGI. While ASI remains hypothetical, its potential emergence could be abrupt and profoundly transformative, necessitating proactive ethical and strategic inquiry. This paper proposes a multidimensional reflection on ASI, not only in its technical form but also in relation to humanity and the planetary context. It seeks to answer the questio..."
+    },
+    {
+      "source_id": "OpenAlex-3275156abb8ab3d4",
+      "provider": "OpenAlex",
+      "title": "Effective Mitigations for Systemic Risks from General-Purpose AI",
+      "url": "https://lirias.kuleuven.be/handle/20.500.12942/785426",
+      "doi": "https://doi.org/10.48550/arxiv.2412.02145",
+      "year": 2024,
+      "authors": [
+        "Risto Uuk",
+        "Brouwer, Annemieke",
+        "Tim Schreier",
+        "Noemi Dreksler",
+        "Valeria Pulignano",
+        "Rishi Bommasani"
+      ],
+      "venue": "Lirias",
+      "summary": "The systemic risks posed by general-purpose AI models are a growing concern, yet the effectiveness of mitigations remains underexplored. Previous research has proposed frameworks for risk mitigation, but has left gaps in our understanding of the perceived effectiveness of measures for mitigating systemic risks. Our study addresses this gap by evaluating how experts perceive different mitigations that aim to reduce the systemic risks of general-purpose AI models. We surveyed 76 experts whose expertise spans AI safety; critical infrastructure; democratic processes; chemical, biological, radiolog..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-33f0f55bcad41638",
+      "provider": "Crossref",
+      "title": "Brain–Computer Interface (BCI)",
+      "url": "https://doi.org/10.1201/9781003390695-14",
+      "doi": "10.1201/9781003390695-14",
+      "year": 2025,
+      "authors": [
+        "Alan Tang"
+      ],
+      "venue": "Safeguarding the Future",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781491366-BrainComputerInterface-followup-1781087463-59df9d8d414f.json"
+}

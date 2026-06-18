@@ -1,0 +1,145 @@
+{
+  "timestamp_secs": 1781189602,
+  "task_id": "followup-1781085463-6fda56166830",
+  "domain": "Aerospace",
+  "question": "What small local computation, simulation, or table could Buster run next to test part of this question: Has the NASA Human Research Program or the Advanced Exploration Systems division published a probabilistic integrated model that couples ISRU production variability to consumable buffer sizing and crew risk thresholds??",
+  "query": "aerospace civilization resilience deep space capability small local computation simulation table test part nasa research",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-271830c019de5052",
+      "provider": "Arxiv",
+      "title": "NASA and the Search for Technosignatures: A Report from the NASA Technosignatures Workshop",
+      "url": "http://arxiv.org/abs/1812.08681v2",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "NASA Technosignatures Workshop Participants"
+      ],
+      "venue": "arXiv",
+      "summary": "This report is the product of the NASA Technosignatures Workshop held at the Lunar and Planetary Institute in Houston, Texas, in September 2018. This workshop was convened by NASA for the organization to learn more about the current field and state of the art of searches for technosignatures, and what role NASA might play in these searches in the future. The report, written by the workshop participants, summarizes the material presented at the workshop and incorporates additional inputs from the participants. Section 1 explains the scope and purpose of the document, provides general background..."
+    },
+    {
+      "source_id": "Arxiv-462c50a03618a716",
+      "provider": "Arxiv",
+      "title": "Confidence intervals for normalised citation counts: Can they delimit underlying research capability?",
+      "url": "http://arxiv.org/abs/1710.08708v1",
+      "doi": null,
+      "year": 2017,
+      "authors": [
+        "Mike Thelwall"
+      ],
+      "venue": "arXiv",
+      "summary": "Normalised citation counts are routinely used to assess the average impact of research groups or nations. There is controversy over whether confidence intervals for them are theoretically valid or practically useful. In response, this article introduces the concept of a group's underlying research capability to produce impactful research. It then investigates whether confidence intervals could delimit the underlying capability of a group in practice. From 123120 confidence interval comparisons for the average citation impact of the national outputs of ten countries within 36 individual large m..."
+    },
+    {
+      "source_id": "OpenAlex-ca8061fee7efee1a",
+      "provider": "OpenAlex",
+      "title": "Satellite Remote Sensing for Water Resources Management: Potential for Supporting Sustainable Development in Data‐Poor Regions",
+      "url": "https://doi.org/10.1029/2017wr022437",
+      "doi": "https://doi.org/10.1029/2017wr022437",
+      "year": 2018,
+      "authors": [
+        "Justin Sheffield",
+        "Eric F. Wood",
+        "Ming Pan",
+        "Hylke E. Beck",
+        "Gabriele Coccia",
+        "Aleix Serrat‐Capdevila",
+        "Koen Verbist"
+      ],
+      "venue": "Water Resources Research",
+      "summary": "Abstract Water resources management (WRM) for sustainable development presents many challenges in areas with sparse in situ monitoring networks. The exponential growth of satellite based information over the past decade provides unprecedented opportunities to support and improve WRM. Furthermore, traditional barriers to the access and usage of satellite data are lowering as technological innovations provide opportunities to manage and deliver this wealth of information to a wider audience. We review data needs for WRM and the role that satellite remote sensing can play to fill gaps and enhance..."
+    },
+    {
+      "source_id": "OpenAlex-97bd229b828323e9",
+      "provider": "OpenAlex",
+      "title": "Enhancing Smart Agriculture by Implementing Digital Twins: A Comprehensive Review",
+      "url": "https://doi.org/10.3390/s23167128",
+      "doi": "https://doi.org/10.3390/s23167128",
+      "year": 2023,
+      "authors": [
+        "Nikolaos Peladarinos",
+        "Dimitrios Piromalis",
+        "Vasileios Cheimaras",
+        "Efthymios Tserepas",
+        "Radu Munteanu",
+        "Panagiotis Papageorgas"
+      ],
+      "venue": "Sensors",
+      "summary": "Digital Twins serve as virtual counterparts, replicating the characteristics and functionalities of tangible objects, processes, or systems within the digital space, leveraging their capability to simulate and forecast real-world behavior. They have found valuable applications in smart farming, facilitating a comprehensive virtual replica of a farm that encompasses vital aspects such as crop cultivation, soil composition, and prevailing weather conditions. By amalgamating data from diverse sources, including soil, plants condition, environmental sensor networks, meteorological predictions, and..."
+    },
+    {
+      "source_id": "OpenAlex-fd7e4e092a3b7c14",
+      "provider": "OpenAlex",
+      "title": "Product Development 2040",
+      "url": "https://doi.org/10.35199/report.pd2040",
+      "doi": "https://doi.org/10.35199/report.pd2040",
+      "year": 2020,
+      "authors": [
+        "Ola Isaksson",
+        "Claudia Eckert"
+      ],
+      "venue": null,
+      "summary": "Based on a series of interviews carried out in 2018 with experienced European engineers and a workshop with Product development experts from over twenty leading Swedish company and academics researching and teaching product development, trends and their expected impact on engineering design can be identified. While engineering design practise in 2040 will in many ways be like today, several clear trends for the next 20 years are already visible and are likely to grow stronger."
+    },
+    {
+      "source_id": "Crossref-bfc372f31757148f",
+      "provider": "Crossref",
+      "title": "Light scattering by pure seawater: Effect of pressure",
+      "url": "https://doi.org/10.1016/j.dsr.2019.03.009",
+      "doi": "10.1016/j.dsr.2019.03.009",
+      "year": 2019,
+      "authors": [
+        "Lianbo Hu",
+        "Xiaodong Zhang",
+        "Mary Jane Perry"
+      ],
+      "venue": "Deep Sea Research Part I: Oceanographic Research Papers",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-eb3e854683909f84",
+      "provider": "Crossref",
+      "title": "Validation of Small Satellite Dynamics Simulation Modules using ASTERIA Flight Data",
+      "url": "https://doi.org/10.1109/aero50100.2021.9438349",
+      "doi": "10.1109/aero50100.2021.9438349",
+      "year": 2021,
+      "authors": [
+        "David Sternberg",
+        "Swati Mohan"
+      ],
+      "venue": "2021 IEEE Aerospace Conference (50100)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-2f17c9b920888b58",
+      "provider": "Crossref",
+      "title": "Logarithmic minimum test for independence in three-way contingency table of small sizes",
+      "url": "https://doi.org/10.1080/00949655.2021.1908286",
+      "doi": "10.1080/00949655.2021.1908286",
+      "year": 2021,
+      "authors": [
+        "Piotr Sulewski"
+      ],
+      "venue": "Journal of Statistical Computation and Simulation",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781189602-Aerospace-followup-1781085463-6fda56166830.json"
+}

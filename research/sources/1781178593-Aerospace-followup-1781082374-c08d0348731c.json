@@ -1,0 +1,113 @@
+{
+  "timestamp_secs": 1781178593,
+  "task_id": "followup-1781082374-c08d0348731c",
+  "domain": "Aerospace",
+  "question": "Are there any meta-analyses or systematic reviews specifically comparing the performance and reproducibility of different soft computing paradigms (e.g., neural networks, SVMs, fuzzy logic, ensemble methods) for NDT data interpretation in aerospace?",
+  "query": "aerospace civilization resilience deep space capability there meta analyses systematic reviews specifically comparing performance reproducibility",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-e0bf8b7a501673ef",
+      "provider": "Arxiv",
+      "title": "Challenges in systematic reviews and meta-analyses of mediation analyses",
+      "url": "http://arxiv.org/abs/2103.12227v1",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Tat-Thang Vo",
+        "Stijn Vansteelandt"
+      ],
+      "venue": "arXiv",
+      "summary": "Systematic reviews and meta-analyses of mediation studies are increasingly being implemented in practice. Nonetheless, the methodology for conducting such review and analysis is still in a development phase, with much room for improvement. In this paper, we highlight and discuss challenges that investigators face in mediation systematic reviews and meta-analyses, then propose ways of accommodating these in practice."
+    },
+    {
+      "source_id": "Arxiv-3801f0fec6bd2526",
+      "provider": "Arxiv",
+      "title": "Learn to Accumulate Evidence from All Training Samples: Theory and Practice",
+      "url": "http://arxiv.org/abs/2306.11113v2",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Pandey",
+        "Qi Yu"
+      ],
+      "venue": "arXiv",
+      "summary": "Evidential deep learning, built upon belief theory and subjective logic, offers a principled and computationally efficient way to turn a deterministic neural network uncertainty-aware. The resultant evidential models can quantify fine-grained uncertainty using the learned evidence. To ensure theoretically sound evidential models, the evidence needs to be non-negative, which requires special activation functions for model training and inference. This constraint often leads to inferior predictive performance compared to standard softmax models, making it challenging to extend them to many large-..."
+    },
+    {
+      "source_id": "OpenAlex-c9393ba4e3ca4761",
+      "provider": "OpenAlex",
+      "title": "Bio-inspired computation: Where we stand and what's next",
+      "url": "https://doi.org/10.1016/j.swevo.2019.04.008",
+      "doi": "https://doi.org/10.1016/j.swevo.2019.04.008",
+      "year": 2019,
+      "authors": [
+        "Javier Del Ser",
+        "Eneko Osaba",
+        "Daniel Molina",
+        "Xin‐She Yang",
+        "Sancho Salcedo‐Sanz",
+        "David Camacho",
+        "Swagatam Das",
+        "Ponnuthurai Nagaratnam Suganthan"
+      ],
+      "venue": "Swarm and Evolutionary Computation",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-0c6b6299f4a787a7",
+      "provider": "OpenAlex",
+      "title": "Bio-inspired designs: leveraging biological brilliance in mechanical engineering—an overview",
+      "url": "https://doi.org/10.1007/s13205-024-04153-w",
+      "doi": "https://doi.org/10.1007/s13205-024-04153-w",
+      "year": 2024,
+      "authors": [
+        "Gururaj Fattepur",
+        "Arun Y. Patil",
+        "Piyush Kumar",
+        "Anil Kumar",
+        "Chandrashekhar Hegde",
+        "I. G. Siddhalingeshwar",
+        "Raman Kumar",
+        "T. M. Yunus Khan"
+      ],
+      "venue": "3 Biotech",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-2a4087d8b4264654",
+      "provider": "OpenAlex",
+      "title": "H-Workload 2018: 2nd International Symposium on Human Mental Workload: Models and Applications",
+      "url": "https://arrow.dit.ie/hwork18/1",
+      "doi": "https://doi.org/10.21427/0gj9-wb95",
+      "year": 2021,
+      "authors": [
+        "Luca Longo",
+        "Maria Chiara Leva"
+      ],
+      "venue": "ARROW@Dublin Institute of Technology (Dublin Institute of Technology)",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1052; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":436203,\"items\":[{\"DOI\":\"10.1016\\/j.smrv.2022..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781178593-Aerospace-followup-1781082374-c08d0348731c.json"
+}

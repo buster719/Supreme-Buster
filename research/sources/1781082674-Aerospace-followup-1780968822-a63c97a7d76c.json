@@ -1,0 +1,65 @@
+{
+  "timestamp_secs": 1781082674,
+  "task_id": "followup-1780968822-a63c97a7d76c",
+  "domain": "Aerospace",
+  "question": "For quantum magnetometer arrays (SERF, NV-centre), are there shared multi-lab validation datasets like the PTB magnetic test site or QMagen?",
+  "query": "aerospace civilization resilience deep space capability quantum magnetometer arrays serf centre there shared multi validation",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-9bfb0a9c5194ae78",
+      "provider": "Arxiv",
+      "title": "Precision Magnetometers for Aerospace Applications",
+      "url": "http://arxiv.org/abs/2106.15843v1",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "James S. Bennett",
+        "Brian E. Vyhnalek",
+        "Hamish Greenall",
+        "Elizabeth M. Bridge",
+        "Fernando Gotardo",
+        "Stefan Forstner",
+        "Glen I. Harris",
+        "Félix A. Miranda"
+      ],
+      "venue": "arXiv",
+      "summary": "Aerospace technologies are crucial for modern civilization; space-based infrastructure underpins weather forecasting, communications, terrestrial navigation and logistics, planetary observations, solar monitoring, and other indispensable capabilities. Extraplanetary exploration -- including orbital surveys and (more recently) roving, flying, or submersible unmanned vehicles -- is also a key scientific and technological frontier, believed by many to be paramount to the long-term survival and prosperity of humanity. All of these aerospace applications require reliable control of the craft and th..."
+    },
+    {
+      "source_id": "Arxiv-dded4b938008de9d",
+      "provider": "Arxiv",
+      "title": "Verification of Space Weather Forecasts issued by the Met Office Space Weather Operations Centre",
+      "url": "http://arxiv.org/abs/1804.02985v1",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "Michael A. Sharpe",
+        "Sophie A. Murray"
+      ],
+      "venue": "arXiv",
+      "summary": "The Met Office Space Weather Operations Centre was founded in 2014 and part of its remit is a daily Space Weather Technical Forecast to help the UK build resilience to space weather impacts; guidance includes four day geo-magnetic storm forecasts (GMSF) and X-ray flare forecasts (XRFF). It is crucial for forecasters, users, modelers and stakeholders to understand the strengths and weaknesses of these forecasts; therefore, it is important to verify against the most reliable truth data source available. The present study contains verification results for XRFFs using GOES-15 satellite data and GM..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 802; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":161184,\"items\":[{\"DOI\":\"10.2139\\/ssrn.5929408..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781082674-Aerospace-followup-1780968822-a63c97a7d76c.json"
+}

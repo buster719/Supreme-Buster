@@ -1,0 +1,61 @@
+{
+  "timestamp_secs": 1781086767,
+  "task_id": "followup-1780972781-bbc8f390233f",
+  "domain": "Aerospace",
+  "question": "– How does the failure recovery time for a standardized interface degrade under cumulative Mars‑transit radiation, compared with well‑characterized mission‑unique adapters?",
+  "query": "aerospace civilization resilience deep space capability failure recovery time standardized interface degrade under cumulative mars",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-9048fb95d0c8fb77",
+      "provider": "Arxiv",
+      "title": "Resilient Topology-Aware Coordination for Dynamic 3D UAV Networks under Node Failure",
+      "url": "http://arxiv.org/abs/2602.10029v2",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Chuan-Chi Lai"
+      ],
+      "venue": "arXiv",
+      "summary": "Ensuring continuous service coverage under unexpected hardware failures is a fundamental challenge for 3D Aerial-Ground Integrated Networks. Although Multi-Agent Reinforcement Learning facilitates autonomous coordination, traditional architectures often lack resilience to sudden topology deformations. This paper proposes the Topology-Aware Graph MAPPO (TAG-MAPPO) framework to enhance system survivability through autonomous 3D spatial reconfiguration. Our framework integrates graph-based feature aggregation with a residual ego-state fusion mechanism to capture intricate inter-agent dependencies..."
+    },
+    {
+      "source_id": "Arxiv-802f0ee3810c229f",
+      "provider": "Arxiv",
+      "title": "Space Weather Observations, Modeling, and Alerts in Support of Human Exploration of Mars",
+      "url": "http://arxiv.org/abs/2211.04021v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "James L. Green",
+        "Chuanfei Dong",
+        "Michael Hesse",
+        "C. Alex Young",
+        "Vladimir Airapetian"
+      ],
+      "venue": "arXiv",
+      "summary": "Space weather observations and modeling at Mars have begun but they must be significantly increased to support the future of Human Exploration on the Red Planet. A comprehensive space weather understanding of a planet without a global magnetosphere and a thin atmosphere is very different from our situation at Earth so there is substantial fundamental research remaining. It is expected that the development of suitable models will lead to a comprehensive operational Mars space weather alert (MSWA) system that would provide rapid dissemination of information to Earth controllers, astronauts in tr..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 2731; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":12108,\"items\":[{\"abstract\":\"<jats:p>Many hig..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781086767-Aerospace-followup-1780972781-bbc8f390233f.json"
+}

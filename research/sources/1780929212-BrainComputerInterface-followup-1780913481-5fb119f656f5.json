@@ -1,0 +1,141 @@
+{
+  "timestamp_secs": 1780929212,
+  "task_id": "followup-1780913481-5fb119f656f5",
+  "domain": "BrainComputerInterface",
+  "question": "Which individual difference measures (e.g., neuroticism, privacy concern, tech self-efficacy) best predict vulnerability to BCI-driven trust miscalibration?",
+  "query": "brain computer interface human AI cooperation risks individual difference measures neuroticism privacy concern tech self efficacy",
+  "sources": [
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-d8ea0ed0da573f66",
+      "provider": "OpenAlex",
+      "title": "Citizens Versus the Internet: Confronting Digital Challenges With Cognitive Tools",
+      "url": "https://doi.org/10.1177/1529100620946707",
+      "doi": "https://doi.org/10.1177/1529100620946707",
+      "year": 2020,
+      "authors": [
+        "Anastasia Kozyreva",
+        "Stephan Lewandowsky",
+        "Ralph Hertwig"
+      ],
+      "venue": "Gothic.net",
+      "summary": "The Internet has evolved into a ubiquitous and indispensable digital environment in which people communicate, seek information, and make decisions. Despite offering various benefits, online environments are also replete with smart, highly adaptive choice architectures designed primarily to maximize commercial interests, capture and sustain users' attention, monetize user data, and predict and influence future behavior. This online landscape holds multiple negative consequences for society, such as a decline in human autonomy, rising incivility in online conversation, the facilitation of politi..."
+    },
+    {
+      "source_id": "OpenAlex-f8051f9b351b2804",
+      "provider": "OpenAlex",
+      "title": "Online Social Deception and Its Countermeasures: A Survey",
+      "url": "https://doi.org/10.1109/access.2020.3047337",
+      "doi": "https://doi.org/10.1109/access.2020.3047337",
+      "year": 2020,
+      "authors": [
+        "Zhen Guo",
+        "Jin-Hee Cho",
+        "Ing-Ray Chen",
+        "Srijan Sengupta",
+        "Michin Hong",
+        "Tanushree Mitra"
+      ],
+      "venue": "IEEE Access",
+      "summary": "We are living in an era when online communication over social network services (SNSs) have become an indispensable part of people's everyday lives. As a consequence, online social deception (OSD) in SNSs has emerged as a serious threat in cyberspace, particularly for users vulnerable to such cyberattacks. Cyber attackers have exploited the sophisticated features of SNSs to carry out harmful OSD activities, such as financial fraud, privacy threat, or sexual/labor exploitation. Therefore, it is critical to understand OSD and develop effective countermeasures against OSD for building trustworthy ..."
+    },
+    {
+      "source_id": "OpenAlex-2a4d6cd7dcd65b62",
+      "provider": "OpenAlex",
+      "title": "Exploring Facilitators and Barriers to Managers’ Adoption of AI-Based Systems in Decision Making: A Systematic Review",
+      "url": "https://doi.org/10.3390/ai5040123",
+      "doi": "https://doi.org/10.3390/ai5040123",
+      "year": 2024,
+      "authors": [
+        "Silvia Marocco",
+        "Barbara Barbieri",
+        "Alessandra Talamo"
+      ],
+      "venue": "AI",
+      "summary": "Introduction—Decision making (DM) is a fundamental responsibility for managers, with significant implications for organizational performance and strategic direction. The increasing complexity of modern business environments, along with the recognition of human reasoning limitations related to cognitive and emotional biases, has led to a heightened interest in harnessing emerging technologies like Artificial Intelligence (AI) to enhance DM processes. However, a notable disparity exists between the potential of AI and its actual adoption within organizations, revealing skepticism and practical c..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-33f0f55bcad41638",
+      "provider": "Crossref",
+      "title": "Brain–Computer Interface (BCI)",
+      "url": "https://doi.org/10.1201/9781003390695-14",
+      "doi": "10.1201/9781003390695-14",
+      "year": 2025,
+      "authors": [
+        "Alan Tang"
+      ],
+      "venue": "Safeguarding the Future",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780929212-BrainComputerInterface-followup-1780913481-5fb119f656f5.json"
+}

@@ -1,0 +1,149 @@
+{
+  "timestamp_secs": 1780980321,
+  "task_id": "followup-1780930200-95756edf28bc",
+  "domain": "BrainComputerInterface",
+  "question": "How does the temporal granularity of dynamic transparency (continuous uncertainty overlay vs. discrete doubt messages) affect BCI-assisted decision accuracy and over-trust in closed-loop motor rehabilitation tasks?",
+  "query": "brain computer interface human AI cooperation risks temporal granularity dynamic transparency continuous uncertainty overlay discrete doubt",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-4a390b9f509da643",
+      "provider": "Arxiv",
+      "title": "Dynamic Neural Communication: Convergence of Computer Vision and Brain-Computer Interface",
+      "url": "http://arxiv.org/abs/2411.09211v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Ji-Ha Park",
+        "Seo-Hyun Lee",
+        "Soowon Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "arXiv",
+      "summary": "Interpreting human neural signals to decode static speech intentions such as text or images and dynamic speech intentions such as audio or video is showing great potential as an innovative communication tool. Human communication accompanies various features, such as articulatory movements, facial expressions, and internal speech, all of which are reflected in neural signals. However, most studies only generate short or fragmented outputs, while providing informative communication by leveraging various features from neural signals remains challenging. In this study, we introduce a dynamic neura..."
+    },
+    {
+      "source_id": "OpenAlex-2cff56fe4de8dde2",
+      "provider": "OpenAlex",
+      "title": "Speculative Computing: Instruments for Interpretive Scholarship",
+      "url": "https://doi.org/10.18130/v3tv58",
+      "doi": "https://doi.org/10.18130/v3tv58",
+      "year": 2004,
+      "authors": [
+        "Bethany Nowviskie"
+      ],
+      "venue": "Libra",
+      "summary": "Like many modern humanities computing projects, Ramon Llull’s Ars Magna, a system ofinscripted, manipulable wheels dating to the thirteenth century, asserts that interpretation can be aided by mechanism without being generated mathematically or mechanically. That this assertion is sometimes lost on the larger academic community is not simply a failure of the devices scholar-technologists produce (although, as the work outlined here seeks to demonstrate, we could do a better job of anticipating and incorporating patently interpretive or subjective forms of interaction on the part of our users i..."
+    },
+    {
+      "source_id": "OpenAlex-e832de42dd923ed9",
+      "provider": "OpenAlex",
+      "title": "The Green and the Blue",
+      "url": "https://doi.org/10.5771/9783495998335",
+      "doi": "https://doi.org/10.5771/9783495998335",
+      "year": 2022,
+      "authors": [
+        "Floridi, Luciano 1964-",
+        "Noller, Jörg 1984-",
+        "Nomos Verlagsgesellschaft"
+      ],
+      "venue": "Verlag Karl Alber eBooks",
+      "summary": "How can Europe benefit politically and socially from the possibilities of digitization and overcome its crises, which have plagued it so much in recent times? How can it realize a \"human project\" and the unity of \"green\" ecology and \"blue\" information technology? In this volume, Luciano Floridi presents a synthesis of his theses on how digitalization affects everyday political and social phenomena, and how it is now not so much things as their relations that are gaining importance. With critical contributions by Manfred Broy, Markus Gabriel, Armin Grunwald, Ruth Hagengruber, Alexander Kriebitz..."
+    },
+    {
+      "source_id": "OpenAlex-1ceec6d37d966d54",
+      "provider": "OpenAlex",
+      "title": "An Outlook into the Future of Egocentric Vision",
+      "url": "http://arxiv.org/abs/2308.07123",
+      "doi": "https://doi.org/10.48550/arxiv.2308.07123",
+      "year": 2023,
+      "authors": [
+        "Chiara Plizzari",
+        "Gabriele Goletto",
+        "Antonino Furnari",
+        "Siddhant Bansal",
+        "Francesco Ragusa",
+        "Giovanni Maria Farinella",
+        "Dima Damen",
+        "Tatiana Tommasi"
+      ],
+      "venue": "arXiv (Cornell University)",
+      "summary": "What will the future be? We wonder! In this survey, we explore the gap between current research in egocentric vision and the ever-anticipated future, where wearable computing, with outward facing cameras and digital overlays, is expected to be integrated in our every day lives. To understand this gap, the article starts by envisaging the future through character-based stories, showcasing through examples the limitations of current technology. We then provide a mapping between this future and previously defined research tasks. For each task, we survey its seminal works, current state-of-the-art..."
+    },
+    {
+      "source_id": "Crossref-5a111c8aff8d8ad9",
+      "provider": "Crossref",
+      "title": "Layers of Doubt: Typology of Temporal Uncertainty in Dynamic Diffusion Networks",
+      "url": "https://doi.org/10.1109/uncertaintyvisualization68947.2025.00012",
+      "doi": "10.1109/uncertaintyvisualization68947.2025.00012",
+      "year": 2025,
+      "authors": [
+        "T. Baumgartl",
+        "V. Filipov",
+        "S. Rajendran",
+        "S. Miksch",
+        "D. Archambault",
+        "A. Arleo",
+        "T. von Landesberger"
+      ],
+      "venue": "2025 IEEE Workshop on Uncertainty Visualization: Unraveling Relationships of Uncertainty, AI, and Decision-Making",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780980321-BrainComputerInterface-followup-1780930200-95756edf28bc.json"
+}

@@ -1,0 +1,123 @@
+{
+  "timestamp_secs": 1780909063,
+  "task_id": "followup-1780905233-0af786a248a8",
+  "domain": "MaterialsScience",
+  "question": "What are the top three unresolved degradation mechanisms in tungsten-based plasma-facing components under helium-ash loading, and is there a consensus on the dominant failure mode (blistering, fuzz formation, grain-boundary embrittlement)?",
+  "query": "materials science fusion robotics aerospace computation three unresolved degradation mechanisms tungsten based plasma facing components",
+  "sources": [
+    {
+      "source_id": "Arxiv-65961ff8759d4649",
+      "provider": "Arxiv",
+      "title": "Correlation length scalings in fusion edge plasma turbulence computations",
+      "url": "http://arxiv.org/abs/1109.1997v1",
+      "doi": null,
+      "year": 2011,
+      "authors": [
+        "Stefan J. Konzett",
+        "Dirk Reiser",
+        "Alexander Kendl"
+      ],
+      "venue": "arXiv",
+      "summary": "The effect of changes in plasma parameters, that are characteristic near or at an L-H transition in fusion edge plasmas, on fluctuation correlation lengths are analysed by means of drift-Alfven turbulence computations. Scalings by density gradient length, collisionality, plasma beta, and by an imposed shear flow are considered. It is found that strongly sheared flows lead to the appearence of long-range correlations in electrostatic potential fluctuations parallel and perpendicular to the magnetic field."
+    },
+    {
+      "source_id": "Arxiv-f1eb8292f58d1002",
+      "provider": "Arxiv",
+      "title": "How much laser power can propagate through fusion plasma?",
+      "url": "http://arxiv.org/abs/physics/0512271v3",
+      "doi": null,
+      "year": 2005,
+      "authors": [
+        "Pavel M. Lushnikov",
+        "Harvey A. Rose"
+      ],
+      "venue": "arXiv",
+      "summary": "Propagation of intense laser beams is crucial for inertial confinement fusion, which requires precise beam control to achieve the compression and heating necessary to ignite the fusion reaction. The National Ignition Facility (NIF), where fusion will be attempted, is now under construction. Control of intense beam propagation may be ruined by laser beam self-focusing. We have identified the maximum laser beam power that can propagate through fusion plasma without significant self-focusing and have found excellent agreement with recent experimental data, and suggest a way to increase that maxim..."
+    },
+    {
+      "source_id": "Arxiv-acb8113c5460c10a",
+      "provider": "Arxiv",
+      "title": "2022 Review of Data-Driven Plasma Science",
+      "url": "http://arxiv.org/abs/2205.15832v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Rushil Anirudh",
+        "Rick Archibald",
+        "M. Salman Asif",
+        "Markus M. Becker",
+        "Sadruddin Benkadda",
+        "Peer-Timo Bremer",
+        "Rick H. S. Budé",
+        "C. S. Chang"
+      ],
+      "venue": "arXiv",
+      "summary": "Data science and technology offer transformative tools and methods to science. This review article highlights latest development and progress in the interdisciplinary field of data-driven plasma science (DDPS). A large amount of data and machine learning algorithms go hand in hand. Most plasma data, whether experimental, observational or computational, are generated or collected by machines today. It is now becoming impractical for humans to analyze all the data manually. Therefore, it is imperative to train machines to analyze and interpret (eventually) such data as intelligently as humans bu..."
+    },
+    {
+      "source_id": "OpenAlex-75a1c8d5ef9a3916",
+      "provider": "OpenAlex",
+      "title": "Technical, Economic and Societal Effects of Manufacturing 4.0",
+      "url": "https://doi.org/10.1007/978-3-030-46103-4",
+      "doi": "https://doi.org/10.1007/978-3-030-46103-4",
+      "year": 2020,
+      "authors": [
+        "Mikael Collan",
+        "Karl-Erik Michelsen"
+      ],
+      "venue": null,
+      "summary": "This open access book is among the first cross-disciplinary works about Manufacturing 4.0 with the technical, economic, and social aspects of the phenomenon. The material presented allows development of a holistic picture of where the manufacturing industry and the society is going in the future."
+    },
+    {
+      "source_id": "OpenAlex-58c6781cff389430",
+      "provider": "OpenAlex",
+      "title": "Technical, Economic and Societal Effects of Manufacturing 4.0",
+      "url": "https://directory.doabooks.org/handle/20.500.12854/37169",
+      "doi": null,
+      "year": 2020,
+      "authors": [],
+      "venue": "Directory of Open access Books (OAPEN Foundation)",
+      "summary": "This open access book is among the first cross-disciplinary works about Manufacturing 4.0. It includes chapters about the technical, the economic, and the social aspects of this important phenomenon. Together the material presented allows the reader to develop a holistic picture of where the manufacturing industry and the parts of the society that depend on it may be going in the future. Manufacturing 4.0 is not only a technical change, nor is it a purely technically driven change, but it is a societal change that has the potential to disrupt the way societies are constructed both in the posit..."
+    },
+    {
+      "source_id": "Crossref-c2dcd8280b87bf9e",
+      "provider": "Crossref",
+      "title": "24Chapter 2 Tungsten-based plasma-facing materials",
+      "url": "https://doi.org/10.1515/9783111556987-002",
+      "doi": "10.1515/9783111556987-002",
+      "year": 2025,
+      "authors": [],
+      "venue": "Tungsten in Nuclear Fusion Applications",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-5232bd0241c863d9",
+      "provider": "Crossref",
+      "title": "1Chapter 1 Fusion energy and plasma-facing materials",
+      "url": "https://doi.org/10.1515/9783111556987-001",
+      "doi": "10.1515/9783111556987-001",
+      "year": 2025,
+      "authors": [],
+      "venue": "Tungsten in Nuclear Fusion Applications",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-26af6374f5728574",
+      "provider": "Crossref",
+      "title": "The Tungsten-Based Plasma-Facing Materials",
+      "url": "https://doi.org/10.5772/intechopen.88029",
+      "doi": "10.5772/intechopen.88029",
+      "year": 2020,
+      "authors": [
+        "Tao Zhang",
+        "Zhuoming Xie",
+        "Changsong Liu",
+        "Ying Xiong"
+      ],
+      "venue": "Fusion Energy",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780909063-MaterialsScience-followup-1780905233-0af786a248a8.json"
+}

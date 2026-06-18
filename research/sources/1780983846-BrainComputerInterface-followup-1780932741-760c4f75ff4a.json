@@ -1,0 +1,144 @@
+{
+  "timestamp_secs": 1780983846,
+  "task_id": "followup-1780932741-760c4f75ff4a",
+  "domain": "BrainComputerInterface",
+  "question": "To what extent do individual differences in baseline cognitive load tolerance, working memory capacity, or BCI literacy moderate dual‑task interference effects in real‑world AI‑assisted scenarios?",
+  "query": "brain computer interface human AI cooperation risks extent individual differences baseline cognitive load tolerance working memory",
+  "sources": [
+    {
+      "source_id": "Arxiv-6c9985ba8e2d2418",
+      "provider": "Arxiv",
+      "title": "Cognitive Amplification vs Cognitive Delegation in Human-AI Systems: A Metric Framework",
+      "url": "http://arxiv.org/abs/2603.18677v2",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Eduardo Di Santi"
+      ],
+      "venue": "arXiv",
+      "summary": "Artificial intelligence is increasingly embedded in human decision making. In some cases, it enhances human reasoning. In others, it fosters excessive cognitive dependence. This paper introduces a conceptual and mathematical framework to distinguish cognitive amplification, where AI improves hybrid human AI performance while preserving human expertise, from cognitive delegation, where reasoning is progressively outsourced to the AI system, risking long term atrophy of human capabilities. We define four operational metrics: the Cognitive Amplification Index, or CAI star, which measures collabor..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "OpenAlex-cff00b12040a924e",
+      "provider": "OpenAlex",
+      "title": "Quo vadis artificial intelligence?",
+      "url": "https://doi.org/10.1007/s44163-022-00022-8",
+      "doi": "https://doi.org/10.1007/s44163-022-00022-8",
+      "year": 2022,
+      "authors": [
+        "Yuchen Jiang",
+        "Xiang Li",
+        "Hao Luo",
+        "Shen Yin",
+        "Okyay Kaynak"
+      ],
+      "venue": "Discover Artificial Intelligence",
+      "summary": "Abstract The study of artificial intelligence (AI) has been a continuous endeavor of scientists and engineers for over 65 years. The simple contention is that human-created machines can do more than just labor-intensive work; they can develop human-like intelligence. Being aware or not, AI has penetrated into our daily lives, playing novel roles in industry, healthcare, transportation, education, and many more areas that are close to the general public. AI is believed to be one of the major drives to change socio-economical lives. In another aspect, AI contributes to the advancement of state-o..."
+    },
+    {
+      "source_id": "OpenAlex-d2b0a17cebe33070",
+      "provider": "OpenAlex",
+      "title": "Brain imaging and human nutrition: which measures to use in intervention studies?",
+      "url": "https://doi.org/10.1017/s0007114513001384",
+      "doi": "https://doi.org/10.1017/s0007114513001384",
+      "year": 2013,
+      "authors": [
+        "Stéphane Sizonenko",
+        "Claudio Babiloni",
+        "Eveline A. de Bruin",
+        "Elizabeth Isaacs",
+        "Lena S. Jönsson",
+        "David O. Kennedy",
+        "Marie E. Latulippe",
+        "M. Hasan Mohajeri"
+      ],
+      "venue": "British Journal Of Nutrition",
+      "summary": "The present review describes brain imaging technologies that can be used to assess the effects of nutritional interventions in human subjects. Specifically, we summarise the biological relevance of their outcome measures, practical use and feasibility, and recommended use in short- and long-term nutritional studies. The brain imaging technologies described consist of MRI, including diffusion tensor imaging, magnetic resonance spectroscopy and functional MRI, as well as electroencephalography/magnetoencephalography, near-IR spectroscopy, positron emission tomography and single-photon emission c..."
+    },
+    {
+      "source_id": "OpenAlex-23ea6b976048d7df",
+      "provider": "OpenAlex",
+      "title": "Computer response to user frustration",
+      "url": "http://hdl.handle.net/1721.1/61838",
+      "doi": null,
+      "year": 1998,
+      "authors": [
+        "Jonathan Klein"
+      ],
+      "venue": "DSpace@MIT (Massachusetts Institute of Technology)",
+      "summary": "Thesis (S.M.)--Massachusetts Institute of Technology, School of Architecture and Planning, Program in Media Arts and Sciences, February 1999."
+    },
+    {
+      "source_id": "Crossref-b955879d0d6f3218",
+      "provider": "Crossref",
+      "title": "Individual Differences in Working Memory Capacity: How does cognitive load affect decision making?",
+      "url": "https://doi.org/10.1037/e722352011-185",
+      "doi": "10.1037/e722352011-185",
+      "year": 2008,
+      "authors": [
+        "Michael J. Montano",
+        "Ana M. Franco-Watkins"
+      ],
+      "venue": "PsycEXTRA Dataset",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-3956b504d516374c",
+      "provider": "Crossref",
+      "title": "Working Memory Load Effect on Negative Emotional Face Processing Depends on Individual Differences in Working Memory Capacity",
+      "url": "https://doi.org/10.22172/cogbio.2015.27.1.003",
+      "doi": "10.22172/cogbio.2015.27.1.003",
+      "year": 2015,
+      "authors": [
+        "ParkTaejin",
+        "김정희"
+      ],
+      "venue": "Korean Journal of Cognitive and Biological Psychology",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-a6ef9ebb71747140",
+      "provider": "Crossref",
+      "title": "Toward Cognitively Grounded AI: Can a Working Memory Interface Bridge Individual Differences and System Design?",
+      "url": "https://doi.org/10.32038/idle.2025.03.01",
+      "doi": "10.32038/idle.2025.03.01",
+      "year": 2025,
+      "authors": [
+        "Zhisheng (Edward) Wen",
+        "Richard L. Sparks",
+        "Hassan Mohebbi"
+      ],
+      "venue": "Individual Differences in Language Education: An International Journal",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780983846-BrainComputerInterface-followup-1780932741-760c4f75ff4a.json"
+}

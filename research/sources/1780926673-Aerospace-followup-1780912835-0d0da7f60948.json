@@ -1,0 +1,97 @@
+{
+  "timestamp_secs": 1780926673,
+  "task_id": "followup-1780912835-0d0da7f60948",
+  "domain": "Aerospace",
+  "question": "What are the minimum viable seed mass and power requirements for a lunar or Martian ISRU propellant plant as a function of available water-ice concentration, and how do they scale with expected flight frequency?",
+  "query": "aerospace civilization resilience deep space capability minimum viable seed mass power requirements lunar martian isru",
+  "sources": [
+    {
+      "source_id": "Arxiv-5f3d555c090e35ce",
+      "provider": "Arxiv",
+      "title": "Science from the Moon: The NASA/NLSI Lunar University Network for Astrophysics Research (LUNAR)",
+      "url": "http://arxiv.org/abs/0909.1509v1",
+      "doi": null,
+      "year": 2009,
+      "authors": [
+        "Jack O. Burns",
+        "the LUNAR Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Moon is a unique platform for fundamental astrophysical measurements of gravitation, the Sun, and the Universe. Lacking a permanent ionosphere and, on the farside, shielded from terrestrial radio emissions, a radio telescope on the Moon will be an unparalleled heliospheric and astrophysical observatory. Crucial stages in particle acceleration near the Sun can be imaged and tracked. The evolution of the Universe before and during the formation of the first stars will be traced, yielding high precision cosmological constraints. Lunar Laser Ranging of the Earth-Moon distance provides extremel..."
+    },
+    {
+      "source_id": "Arxiv-f8dcf3c04a1d6bf0",
+      "provider": "Arxiv",
+      "title": "Mapping Disruption Sources in the Power Grid and Implications for Resilience",
+      "url": "http://arxiv.org/abs/2207.08146v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Maureen S. Golan",
+        "Javad Mohammadi"
+      ],
+      "venue": "arXiv",
+      "summary": "Developing models and metrics that can address resilience against disruptions is vital to ensure power grid reliability and that adequate recovery and adaptation mechanisms are in place. In this paper, we propose a novel disruption mapping approach and apply it to the publicly available U.S. Department of Energy DOE-417 Electric Emergency and Disturbance Report to holistically analyze the origin of anomalous events and their propagation through the cyber, physical and human domains. We show that capturing the disruption process onset has implications for quantifying, mitigating, and reporting ..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Crossref-655f626e051fc998",
+      "provider": "Crossref",
+      "title": "ISRU Implications for Lunar and Martian Plume Effects",
+      "url": "https://doi.org/10.2514/6.2009-1204",
+      "doi": "10.2514/6.2009-1204",
+      "year": 2009,
+      "authors": [
+        "Philip Metzger",
+        "Xiaoyi Li",
+        "Christopher Immer",
+        "John Lane"
+      ],
+      "venue": "47th AIAA Aerospace Sciences Meeting including The New Horizons Forum and Aerospace Exposition",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-208ee2f89f44755e",
+      "provider": "Crossref",
+      "title": "Solar Thermal Power System for Lunar ISRU Applications: Result of ISRU Analog Test, Mauna Kea, HI",
+      "url": "https://doi.org/10.2514/6.2010-8902",
+      "doi": "10.2514/6.2010-8902",
+      "year": 2010,
+      "authors": [
+        "Takashi Nakamura",
+        "Benjamin Smith"
+      ],
+      "venue": "AIAA SPACE 2010 Conference &amp; Exposition",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-71151580858cd834",
+      "provider": "Crossref",
+      "title": "Solar Power System for Lunar ISRU Applications",
+      "url": "https://doi.org/10.2514/6.2010-1162",
+      "doi": "10.2514/6.2010-1162",
+      "year": 2010,
+      "authors": [
+        "Takashi Nakamura",
+        "Benjamin Smith"
+      ],
+      "venue": "48th AIAA Aerospace Sciences Meeting Including the New Horizons Forum and Aerospace Exposition",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780926673-Aerospace-followup-1780912835-0d0da7f60948.json"
+}

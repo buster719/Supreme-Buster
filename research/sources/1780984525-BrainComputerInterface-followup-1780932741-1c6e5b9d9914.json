@@ -1,0 +1,112 @@
+{
+  "timestamp_secs": 1780984525,
+  "task_id": "followup-1780932741-1c6e5b9d9914",
+  "domain": "BrainComputerInterface",
+  "question": "How do secondary cognitive tasks that simulate AI-cooperative decision-making (e.g., target discrimination, semantic judgement, working memory) differentially degrade P300 vs. motor imagery BCI accuracy, and is the degradation modality‑specific?",
+  "query": "brain computer interface human AI cooperation risks secondary cognitive tasks simulate cooperative decision making target discrimination",
+  "sources": [
+    {
+      "source_id": "Arxiv-6c9985ba8e2d2418",
+      "provider": "Arxiv",
+      "title": "Cognitive Amplification vs Cognitive Delegation in Human-AI Systems: A Metric Framework",
+      "url": "http://arxiv.org/abs/2603.18677v2",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Eduardo Di Santi"
+      ],
+      "venue": "arXiv",
+      "summary": "Artificial intelligence is increasingly embedded in human decision making. In some cases, it enhances human reasoning. In others, it fosters excessive cognitive dependence. This paper introduces a conceptual and mathematical framework to distinguish cognitive amplification, where AI improves hybrid human AI performance while preserving human expertise, from cognitive delegation, where reasoning is progressively outsourced to the AI system, risking long term atrophy of human capabilities. We define four operational metrics: the Cognitive Amplification Index, or CAI star, which measures collabor..."
+    },
+    {
+      "source_id": "Arxiv-d6478d22697555cf",
+      "provider": "Arxiv",
+      "title": "Narrowing Action Choices with AI Improves Human Sequential Decisions",
+      "url": "http://arxiv.org/abs/2510.16097v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Eleni Straitouri",
+        "Stratis Tsirtsis",
+        "Ander Artola Velasco",
+        "Manuel Gomez-Rodriguez"
+      ],
+      "venue": "arXiv",
+      "summary": "Recent work has shown that, in classification tasks, it is possible to design decision support systems that do not require human experts to understand when to cede agency to a classifier or when to exercise their own agency to achieve complementarity$\\unicode{x2014}$experts using these systems make more accurate predictions than those made by the experts or the classifier alone. The key principle underpinning these systems reduces to adaptively controlling the level of human agency, by design. Can we use the same principle to achieve complementarity in sequential decision making tasks? In this..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "OpenAlex-636f75355234ece4",
+      "provider": "OpenAlex",
+      "title": "Opponency Revisited: Competition and Cooperation Between Dopamine and Serotonin",
+      "url": "https://doi.org/10.1038/npp.2010.151",
+      "doi": "https://doi.org/10.1038/npp.2010.151",
+      "year": 2010,
+      "authors": [
+        "Y-Lan Boureau",
+        "Peter Dayan"
+      ],
+      "venue": "Neuropsychopharmacology",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-d1cad25e8f9f8759",
+      "provider": "OpenAlex",
+      "title": "Hybrid-augmented intelligence: collaboration and cognition",
+      "url": "https://doi.org/10.1631/fitee.1700053",
+      "doi": "https://doi.org/10.1631/fitee.1700053",
+      "year": 2017,
+      "authors": [
+        "Nanning Zheng",
+        "Ziyi Liu",
+        "Pengju Ren",
+        "Yongqiang Ma",
+        "Shitao Chen",
+        "Siyu Yu",
+        "Jianru Xue",
+        "Badong Chen"
+      ],
+      "venue": "Frontiers of Information Technology & Electronic Engineering",
+      "summary": "The long-term goal of artificial intelligence (AI) is to make machines learn and think like human beings. Due to the high levels of uncertainty and vulnerability in human life and the open-ended nature of problems that humans are facing, no matter how intelligent machines are, they are unable to completely replace humans. Therefore, it is necessary to introduce human cognitive capabilities or human-like cognitive models into AI systems to develop a new form of AI, that is, hybrid-augmented intelligence. This form of AI or machine intelligence is a feasible and important developing model. Hybri..."
+    },
+    {
+      "source_id": "OpenAlex-54c00ccd837a156d",
+      "provider": "OpenAlex",
+      "title": "Seven HCI Grand Challenges",
+      "url": "https://doi.org/10.1080/10447318.2019.1619259",
+      "doi": "https://doi.org/10.1080/10447318.2019.1619259",
+      "year": 2019,
+      "authors": [
+        "Constantine Stephanidis",
+        "Gavriel Salvendy",
+        "Margherita Antona",
+        "Jessie Y. C. Chen",
+        "Jianming Dong",
+        "Vincent G. Duffy",
+        "Xiaowen Fang",
+        "Cali Fidopiastis"
+      ],
+      "venue": "International Journal of Human-Computer Interaction",
+      "summary": "Published with license by Taylor &amp; Francis Group, LLC. This article aims to investigate the Grand Challenges which arise in the current and emerging landscape of rapid technological evolution towards more intelligent interactive technologies, coupled with increased and widened societal needs, as well as individual and collective expectations that HCI, as a discipline, is called upon to address. A perspective oriented to humane and social values is adopted, formulating the challenges in terms of the impact of emerging intelligent interactive technologies on human life both at the individual..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 255; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":65201,\"items\":[{\"DOI\":\"10.1117\\/12.2664157.63..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780984525-BrainComputerInterface-followup-1780932741-1c6e5b9d9914.json"
+}

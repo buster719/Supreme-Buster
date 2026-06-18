@@ -1,0 +1,145 @@
+{
+  "timestamp_secs": 1781087438,
+  "task_id": "followup-1780977449-4ae2b4c87b04",
+  "domain": "BrainComputerInterface",
+  "question": "What time‑course (minutes to days) does trust take to recover after removal of neural‑adaptive AI?",
+  "query": "brain computer interface human AI cooperation risks time course minutes days trust take recover removal neural",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-4a390b9f509da643",
+      "provider": "Arxiv",
+      "title": "Dynamic Neural Communication: Convergence of Computer Vision and Brain-Computer Interface",
+      "url": "http://arxiv.org/abs/2411.09211v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Ji-Ha Park",
+        "Seo-Hyun Lee",
+        "Soowon Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "arXiv",
+      "summary": "Interpreting human neural signals to decode static speech intentions such as text or images and dynamic speech intentions such as audio or video is showing great potential as an innovative communication tool. Human communication accompanies various features, such as articulatory movements, facial expressions, and internal speech, all of which are reflected in neural signals. However, most studies only generate short or fragmented outputs, while providing informative communication by leveraging various features from neural signals remains challenging. In this study, we introduce a dynamic neura..."
+    },
+    {
+      "source_id": "OpenAlex-23ea6b976048d7df",
+      "provider": "OpenAlex",
+      "title": "Computer response to user frustration",
+      "url": "http://hdl.handle.net/1721.1/61838",
+      "doi": null,
+      "year": 1998,
+      "authors": [
+        "Jonathan Klein"
+      ],
+      "venue": "DSpace@MIT (Massachusetts Institute of Technology)",
+      "summary": "Thesis (S.M.)--Massachusetts Institute of Technology, School of Architecture and Planning, Program in Media Arts and Sciences, February 1999."
+    },
+    {
+      "source_id": "OpenAlex-cea3a43dc4b6f99d",
+      "provider": "OpenAlex",
+      "title": "GCCE 2023 Abstract Book",
+      "url": "https://doi.org/10.1109/gcce59613.2023.10315362",
+      "doi": "https://doi.org/10.1109/gcce59613.2023.10315362",
+      "year": 2023,
+      "authors": [
+        "Zitong Kong",
+        "Yue Zhang",
+        "Nobuo Funabiki",
+        "Yuan-Zhi Huo",
+        "Dwinanda Harahap",
+        "Khaing Hsu",
+        "Soe Aung",
+        "Xiqin Lu"
+      ],
+      "venue": null,
+      "summary": "Traditionally, portrait drawing has been a basic skill of painting. To help novices practice drawing portraits using digital technologies, we have developed a Portrait Drawing Learning Assistant System (PDLAS). By providing the auxiliary lines of a human face, PDLAS can guide portrait drawing of novices. In this paper, we propose an algorithm to generate the auxiliary lines from a given face photo. It adopts OpenCV and OpenPose with Python, which have been commonly used in computer vision studies including human pose estimations, to extract facial features that are necessary for generating the..."
+    },
+    {
+      "source_id": "OpenAlex-14ea4b36de12789e",
+      "provider": "OpenAlex",
+      "title": "AN OVERVIEW ON “MEMORY DYSFUNCTION, TYPES OF MEMORY, AND ITS CLINICAL DISORDERS”",
+      "url": "https://doi.org/10.22159/ajpcr.2016.v9s3.14195",
+      "doi": "https://doi.org/10.22159/ajpcr.2016.v9s3.14195",
+      "year": 2016,
+      "authors": [
+        "Rohit Jaysing Bhor"
+      ],
+      "venue": "Asian Journal of Pharmaceutical and Clinical Research",
+      "summary": "ABSTRACTAll things considered, memory debilitation is ordinarily seen by doctors in different controls including neurology, psychiatry, pharmaceutical, andsurgery. Memory misfortune is frequently the most crippling element of numerous disarranges, hindering the typical every day exercises of thepatients, and significantly influencing their families. A few recognitions about memory, for example, the ideas of “short term” and “long haul” haveoffered route to a more refined understanding and enhanced order frameworks. These progressions result from neuropsychological investigationsof patients wit..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-2b5a64ee44962dbd",
+      "provider": "Crossref",
+      "title": "Neural Ensemble of Thought: Toward Human–like AI through Brain–inspired Reasoning",
+      "url": "https://doi.org/10.1109/bci69045.2026.11435047",
+      "doi": "10.1109/bci69045.2026.11435047",
+      "year": 2026,
+      "authors": [
+        "Hyeon-Taek Han",
+        "Dae-Hyeok Lee",
+        "Sung-Jin Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "2026 14th International Conference on Brain-Computer Interface (BCI)",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781087438-BrainComputerInterface-followup-1780977449-4ae2b4c87b04.json"
+}

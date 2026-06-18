@@ -1,0 +1,723 @@
+[page 1]
+arXiv:1508.03695v1  [quant-ph]  15 Aug 2015
+An introduction to Fault-tolerant Quantum Computing
+∗
+Alexandru Paler
+University of Passau
+Innstr. 43
+Passau, Germany, 94032
+alexandru.paler@uni-passau.de
+Simon J. Devitt
+Ochanomizu University
+2-1-1, Otsuka, Bunkyo-ku
+Tokyo, 112-8610, Japan
+devitt1@mac.com
+ABSTRACT
+In this paper we provide a basic introduction of the core
+ideas and theories surrounding fault-tolerant quantum com -
+putation. These concepts underly the theoretical frame-
+work of large-scale quantum computation and communica-
+tions and are the driving force for many recent experimental
+eﬀorts to construct small to medium sized arrays of con-
+trollable quantum bits. We examine the basic principals
+of redundant quantum encoding, required to protect quan-
+tum bits from errors generated from both imprecise con-
+trol and environmental interactions and then examine the
+principals of fault-tolerance from largely a classical fra me-
+work. As quantum fault-tolerance essentially is avoiding t he
+uncontrollable cascade of errors caused by the interaction
+of quantum-bits, these concepts can be directly mapped to
+quantum information.
+Categories and Subject Descriptors
+H.4 [Information Systems Applications ]: Miscellaneous;
+D.2.8 [ Software Engineering ]: Metrics— complexity mea-
+sures, performance measures
+General Terms
+Quantum Information, Quantum Error Correction
+Keywords
+ACM proceedings, LATEX, text tagging
+1. INTRODUCTION
+Fault-tolerant, error corrected, digital quantum computi ng
+underpins a signiﬁcant worldwide eﬀort to construct viable ,
+commercial quantum computing systems [7]. The size of
+such error corrected machines is somewhat daunting for a
+ﬁeld that has only managed to experimentally fabricate ar-
+rays of up to about ten functional quantum-bits (qubits)
+∗(Does NOT produce the permission block, copyright
+information nor page numbering). For use with
+ACM
+PROC ARTICLE-SP.CLS. Supported by ACM.
+[4, 3]. However, the theoretical framework for fault-toler ant
+quantum computing has existed for nearly 20 years and is
+very well understood and quantum computing is competing
+with the vast classical computing power currently in exis-
+tence. It would be unreasonable to believe (even given the
+apparent computational power quantum information pro-
+cessing has over classical computing), that a small, error
+prone array of qubits could computationally outperform a
+classical system comprising of potentially millions of com -
+puting cores, each itself containing billions (or even tril lions)
+of transistors.
+Fault-tolerant quantum computing refers to the framework
+of ideas that allow qubits to be protected from quantum
+errors introduced by poor control or environmental interac -
+tions (Quantum Error Correction, QEC) and the appropri-
+ate design of quantum circuits to implement both QEC and
+encoded logic operations in a way to avoid these errors cas-
+cading through quantum circuits [8]. By avoiding a cascade
+of errors, there becomes a point (when the fundamental ac-
+curacy of individual qubits is high enough), where QEC is
+correcting more errors than are being created. Once this
+threshold has been achieved, expanding the size of the pro-
+tective quantum will exponentially decrease the failure of
+the encoded information and allows us to achieve arbitraril y
+long quantum algorithms implemented with noisy devices.
+In this paper we will provide a basic introduction to some
+of the key principals of QEC and then pivot into a discus-
+sion about fault-tolerance that have been investigated in t he
+classical computing world. As the goal of fault-tolerance i s
+to prevent errors to cascade uncontrollably, a large amount
+of classical work can be easily transferred to the quantum
+world.
+2. QUANTUM COMPUTING
+In this section we present the basic mathematical framework
+for qubits, quantum gate operations and quantum circuits.
+Further details can be found in a number of papers [2] and
+books [8] both from the physics community and the com-
+puter science community.
+Quantum circuits represent and manipulate information in
+qubits. A single qubit has an associated quantum state |ψ⟩ =
+(α0,α 1)T = α0 |0⟩ +α1 |1⟩. Here, |0⟩ = (1, 0)T and |1⟩ =
+(0, 1)T are quantum analogons of classical logic values 0 and
+1, respectively. α0 and α1 are complex numbers called am-
+plitudes with |α0|2 + |α1|2 = 1.
+
+[page 2]
+Quantum measurement is deﬁned with respect to a basis
+and yields one of the basis vectors with a probability re-
+lated to the amplitudes of the quantum state. Common
+measurements are known as Z- and X-measurements. Z-
+measurement is deﬁned with respect to basis ( |0⟩, |1⟩). Ap-
+plying a Z-measurement to a qubit in state |ψ⟩ = α0 |0⟩ +
+α1 |1⟩ yields |0⟩ with probability |α0|2 and |1⟩ with prob-
+ability |α1|2. Moreover, the state |ψ⟩ collapses into the
+measured state (i.e. only the components of |ψ⟩ consistent
+with the measurement result remains). X-measurement is
+deﬁned with respect to the basis ( |+⟩, |−⟩), where |±⟩ =
+1
+√
+2 (|0⟩ ± |1⟩).
+A state may be modiﬁed by applying single-qubit quantum
+gates. Each quantum gate corresponds to a complex unitary
+matrix, and gate function is given by multiplying that ma-
+trix with the quantum state. The application of X gate to a
+state results in a bit ﬂip : X(α0,α 1)T = (α1,α 0)T . The ap-
+plication of the Z gate results in a phase ﬂip : Z(α0,α 1)T =
+(α0, −α1)T . A Y = iXZ gate can be thought of as both
+a bit-ﬂip and a phase-ﬂip together on an individual qubit.
+These three gates are important in the context of quantum
+errors.
+The exponentiation of the Pauli matrices results in the ro-
+tational gates Rx,Ry,Rz parameterised by the angle of the
+rotation [8]. Hence the bit ﬂip is a rotation by π around
+the X-axis, implying that X =Rx(π), and the phase-ﬂip is
+a rotation by π around the Z-axis, such that Z = Rz(π).
+The Hadamard gate is H = Rz(π/2)Rx(π/2)Rz(π/2) and
+can be used to take a computational state {ket0, |1⟩} into
+superposition states, {|±⟩ = (|0⟩ ± |1⟩)/
+√
+2, a state with no
+classical analogue
+In the context of fault-tolerant quantum computation, only
+one interaction gate is needed; the controlled-not (CNOT)
+gate. The CNOT gate is the quantum analogue of a binary
+XOR operation and is designed to bit-ﬂip the state of a
+target qubit, conditional on the state of a control qubit. Th is
+gate can be employed on certain quantum states to prepare
+entangled states . For example, CNOT( |0⟩ + |1⟩) |0⟩/
+√
+2 =
+(|00⟩ + |11⟩)/
+√
+2. This state, known as a Bell state has
+the property that measuring one of the qubits produces a
+random result ( |0⟩ or |1⟩ with a 50:50 probability), but once
+the state of one qubit is measured, the state of the other
+qubit is also determined.
+It is well known that the ability to perform arbitrary rota-
+tions around two orthogonal axis (e.g. Rz(θ1) and Rx(θ2)
+for arbitrary {θ1,θ 2}) and to couple arbitrary pairs of qubits
+with a CNOT gate is suﬃcient to realise any N -qubit unitary
+operation. This gate set is therefore quantum universal.
+3. ERRORS AND QUANTUM ERROR COR-
+RECTING CODES
+There are two important diﬀerences between classical error
+correction and quantum error correction. The ﬁrst is the
+no-cloning theorem [11], which states that is is impossible
+to perfectly copy an unknown quantum state. i.e. there is no
+operation that satisﬁes U |ψ⟩ |0⟩ = |ψ⟩ |ψ⟩ for an unknown
+|ψ⟩. Therefore, we are unable to protect arbitrary quan-
+tum states against errors by simply making multiple copies.
+Secondly, any measurement of an arbitrary quantum state
+will collapse the wavefunction describing the state. Hence
+protecting errors in an encoded piece of quantum informa-
+tion by measuring a certain subset of the encoded block will
+irrevocably destroy the information content of that state.
+Therefore we need a slightly new mechanism to protect en-
+coded quantum information.
+The foundation of quantum error correction is still based on
+classical coding theory, however we need to design codes in
+a slightly diﬀerent manner. This is due both to the restric-
+tions of what we can theoretically do with quantum infor-
+mation, but also due to the possible errors that can aﬀect
+qubits. Unlike classical bits, which can only experience a ﬂ ip
+between |0⟩ ↔ | 1⟩, qubits can also experience phase errors
+(|0⟩+ |1⟩)/
+√
+2 ↔ (|0⟩ − |1⟩)/
+√
+2. Additionally, errors do not
+occur in a discrete manner. They are most often continuous
+errors, such as a rotation around the X axis by some an-
+gle ǫ or some incoherent (non-unitary) error caused by the
+interaction with the outside environment.
+Due to expedience we will only present the formalism for
+coherent errors , those that can be represented by a uni-
+tary gate. In this case, an error operator, E, acting on
+a qubit, |ψ⟩ can be decomposed into a linear superposi-
+tion of X gates, Z gates and both Y = iXZ , E |ψ⟩ =
+a1 |ψ⟩+a2X |ψ⟩+a3Z |ψ⟩+ia4XZ |ψ⟩. If we could magically
+measure if an X and/or Z error occurred on a qubits (via
+some type of quantum measurement), the state would col-
+lapse to the state {|ψ⟩,X |ψ⟩,Z |ψ⟩,XZ |ψ⟩} with a prob-
+ability of {|a1|2, |a2|2, |a3|2, |a4|2}. This converts a possible
+continuous quantum error into a discrete X and/or Z gate.
+While the errors themselves are continuous (for very small
+errors, |a1|2 ≈ 1), this determination of what type of error
+has occurred converts small errors into discrete bit- or pha se-
+errors with small amplitudes converted to small probabilit ies
+for such results to be observed. The question is, how do we
+detect if some type of discrete error has occurred?
+This detection occurs through the idea of redundant encod-
+ing with two classical codes. One is designed to detect X-
+errors and one is designed to detect Z-errors without having
+to, necessarily, decode the codespace. Detecting an error
+indirectly for bit-ﬂips is commonplace in classical comput er
+science and was usurped for the quantum regime. The sim-
+plest example is the bit-ﬂip code, with basis states given
+by |0⟩L = |0⟩⊗N and |1⟩ = |1⟩⊗N , where the ⊗N notation
+simply meaning N copies of the qubit. The basic idea is
+that given a given codiﬁed, N , the number of physical ﬂips
+needed to turn |0⟩L ↔ | 1⟩L scales linearly with N . Again,
+in the quantum regime, we are not allowed to directly mea-
+sure any subset of qubits in the code block. So we need a
+diﬀerent method to identify errors. In the context of the bit
+ﬂip code, we notice a certain property, namely that for both
+basis states, pairwise bit-parity in the code block is even ( i.e.
+calculating the parity of any two bits via modulo addition
+for the |0⟩L and |1⟩L state is even). If such a comparison
+ever results in an odd value, we know an error has occurred
+without actually knowing if we started with the |0⟩L or |1⟩L
+state. This is what we need. Therefore, we need a way
+to calculate the parity of any two qubits in the code block
+without directly measuring the qubits themselves. We can
+do this via the circuit in Fig. ??. This circuit introduces
+
+[page 3]
+an ancilla qubit that is initialised, interacted with a pair of
+qubits in the code block and measured. The result of the
+measurement on the ancilla (either |0⟩ or |1⟩) will determine
+the parity of the two qubits (odd or even), and also force
+these two qubits to be in an even or odd parity state if they
+were not beforehand.
+The principal of a codespace within quantum computation
+is to construct encoded codewords that are always in cer-
+tain, well deﬁned parity states regardless of the state of
+the encoded information. Physical errors will then perturb
+encoded information away from these well deﬁned parities
+which can be detected without determining any information
+regarding the encoding.
+Returning back to the example of a redundancy code, the
+two encoded states |0⟩L and |1⟩L are constructed to be even
+parity states of any pairwise Z operators. i.e. applying
+the operator ZiZj for any i,j ∈ N returns the same state,
+ZiZj |0, 1⟩L = |0, 1⟩L. Bit ﬂip errors result in states which
+violate this condition. For example, a bit-ﬂip on qubit one
+of the encoded block will result in Z1Zj |0, 1⟩L = − |0, 1⟩L,
+∀j. Hence if we measure the parity of any of these operators
+and we ﬁnd an odd result, we know that some type of error
+has occurred. Determining a location for the error and how
+many unique errors we can identify depends on the size of
+the code block, N . The parity of pairwise checks of the
+ZiZi+1 operator will allow us to uniquely locate individual
+errors and the number of errors we can successfully correct
+scales linearly with the number of qubits in the code block.
+For N qubits, we are able to uniquely correct ( N − 1)/2
+errors.
+This example illustrates how we handle bit-ﬂip errors withi n
+quantum information, what about phase errors? In quantum
+information, phase-ﬂip errors work exactly the same way as
+bit-ﬂip errors if we take our compuational states as |±⟩ =
+(|0⟩ ± |1⟩)/
+√
+2. i.e. a Z-error will take |+⟩ ↔ |−⟩ . Hence
+if we used a redundancy code of the form |0⟩L = |+⟩⊗N
+and |1⟩L = |−⟩⊗N and instead of checking the parity of
+the ZiZi+1 operator, we check the parities of the XiXi+1
+operator for i, ∈ (N − 1), then everything works exactly
+the same way. Therefore, a redundancy code either using
+|0, 1⟩ or |+, −⟩ states will allow us to either protect encoded
+information against X-errors or Z-errors. A full quantum
+error correction code therefore combines two classical cod es,
+independently responsible for bit-errors and phase-error s.
+The Shor code is the simplest example of this [9]. In the
+Shor code we essentially have one redundancy code embed-
+ded within another. The code encodes a single qubit of
+information into nine physical qubits. The basis states are
+given by,
+|0⟩L = 1
+2
+√
+2
+(|000⟩ + |111⟩)(|000⟩ + |111⟩)(|000⟩ + |111⟩)
+|1⟩L = 1
+2
+√
+2
+(|000⟩ − |111⟩)(|000⟩ − |111⟩)(|000⟩ − |111⟩)
+(1)
+We have three blocks of three qubits that eﬀectively act as a
+distance three redundancy code to correct bit ﬂips in the way
+that we described above. This allows us to correct a single
+bit ﬂip error in any one of the three blocks. In principal,
+this code can correct for three bit-ﬂip errors (provided eac h
+error occurs in a separate block), however in general, as
+two or more errors can occur in a single block the code is
+described as only having the capacity for correcting a singl e
+bit ﬂip error. Phase errors are corrected via the three block s
+and comparing the parity of pairwise blocks. Again, the
+code, in principal, can correct for more than one phase error
+(provided errors occur in speciﬁc locations), but in genera l
+only a single arbitrary error is deterministically correct able.
+4. FAULT-TOLERANCE
+The eﬀectiveness of QEC depends on how we implement
+quantum circuits to realise the correction code. As with
+classical computing, interactions between qubits during t he
+execution of the circuit leads to the copying of errors. If
+this happens in an uncontrolled manner, the QEC code is
+overwhelmed and the computation will fail. Therefore, we
+need to be very careful when designing circuits such that thi s
+does not occur. While there is not often a direct compari-
+son between classical and quantum information processing,
+the principals of fault-tolerance in a classical framework is
+easily transferable. We will therefore focus on some genera l
+principals of fault-tolerance in the classical world which can
+be mapped directly to quantum computing.
+5. SHORT PARALLEL TO DISTRIBUTED
+SYSTEMS
+The need for fault-tolerance in quantum computing can be
+introduced by drawing parallels with distributed systems.
+The following insights do not extend classical distributed
+systems to quantum ones [10], but propose the problem
+of quantum fault-tolerance to be formulated without intro-
+ducing quantum information and quantum computing. The
+discussion will focus on processes and communication over
+point-to-point links.
+The distributed system is modelled as crash-stop [1], such
+that the processes can crash and never return to live, there
+is at least one fault detector module in the system and the
+communication links are perfect (messages are not lost, du-
+plicated or inserted by fault). Additionally, the distribu ted
+system includes a fault corrector, which is informed by the
+fault detectors about faults requiring correction.
+The main target of fault-tolerance, as presented in these
+sections, is to control the propagation of faults between pro-
+cesses. The presentation will focus on describing the dis-
+tributed system elements, and the way these interact, but
+without delving into details about the liveness and safety
+properties of the presented protocols.
+5.1 The processes
+A process holds an abstract object q and a black-box that
+consists of a coin, two Boolean values and a real value τ .
+The black-box is a model for the process faults. The Boolean
+valuesb and p are the results of tossing the coin twice. The
+valuetrue indicates heads, and false stands for tails.
+None of the processes is aware of the Boolean values in-
+side the box. Furthermore, the processes do not control
+the black-box and the coin toss. The coin toss is randomly
+
+[page 4]
+performed (with a probability τ ), meaning that none, a sin-
+gle or both values are generated at undetermined execution
+points of the process. Therefore, there may be none or mul-
+tiple coin tosses during the lifetime of a process. In order t o
+simplify the modelling, the probability τ is equal for all the
+processes, and process failures are not correlated.
+The actual state of a process is computed by the function
+qa =q +b +p, where the + operation is the addition of the
+two possible random faults modelled as Boolean values A
+correct process is the one for which qa =q, while, if qa ̸=q,
+the process is called faulty. In the following, q will refer both
+to the object and to its state, depending on the context it is
+used in. It should be noted that object q is noncopyable 1,
+meaning that once constructed, it can be either transformed
+locally or through distributed computations, but cannot be
+copied between processes.
+During process initialisation it possible to initialise th e black-
+box values and to set the state of q to a state chosen from a
+discrete set sq ∈S. Once the black-box was set up, there is
+no guarantee that the values had not been changed by the
+coin tosses.
+A terminating process returns a state so ∈ S. During ter-
+mination, the current q is classiﬁed against all the S-states,
+and the closest so is returned. The classiﬁcation is proba-
+bilistic, meaning that if there is no state so for whichso =q,
+then it could happen that the returned state so is actually
+orthogonal to the state so′ that was classiﬁed as next to q.
+Once a process is terminated, it cannot be brought back to
+live and, if one would like to approximate the probability of
+q being in any of the states of S, the complete distributed
+computation has to be repeated. More ﬂexible initialisatio n
+and termination procedures could beneﬁt from a larger set
+S, but this will negatively impact the practicality of system
+implementation.
+5.2 Communication and operations
+The Boolean black-box values of a process can be either
+read and communicated to other processes, or updated by
+a second process. A single process is not able to read its
+values and correct them. Value correction is performed
+only through coordinated communication during a proce-
+dure similar to consensus [1].
+The processes are naive: if one of their Boolean values is
+considered heads, then the same happens to the other pro-
+cesses. The processes are also lazy, meaning that the com-
+munication of heads-values has an associated cost, such tha t
+cost(heads)=1 and cost(tails)=0.
+Ideally, every process should have its Boolean values alway s
+set to false (tails). For this reason, in general, the pro-
+cess avoids initialising their black-boxes with heads valu es.
+Processes are not byzantine, and each time one communi-
+cates, it will try, based on the process values, to convince i ts
+partener to either ﬂip or keep one of its values. More specif-
+ically, a communication step between two processes x andy
+1Similarly, in C++ a private copy constructor and copy as-
+signment operator are required for such classes.
+is performed in two rounds: ﬁrstly, x sends its b value to y
+requesting it to update its b value to bx ⊕by. Afterwards,
+process y sends its p value to x asking an update of its v
+value to vx ⊕vy. The ⊕ function models the behaviour of a
+coin ﬂip: the coin returns to its initial value after two ﬂips .
+During the third communication round the control process
+applies the distributed abstract operation e: the update of
+the state qy (target) is a function of state qx (control). The
+e-operation will not be detailed in the context of the analogy
+with distributed systems, and its cost is considered zero.
+Besides communicating and performing the distributed op-
+eration e, the process can perform local (intra-process) op-
+erations that transform the state of the local object q.
+5.3 Distributed processing
+As previously introduced, inter-process comunication is b oth
+an attempt to correct the black-box values and, at the same
+time, a distributed computation. The simplest distributed
+system executing a single communication step consists of
+two processes, which we will call the control and the tar-
+get. The control initiates the communication, thus is the
+requester during the ﬁrst communication round, and the
+target is the requester of the second communication round.
+Additionally, a process can be both control and target dur-
+ing separate communication steps.
+Generally, a distributed algorithm represens a series of in ter-
+process communication steps and local operations. There
+are at least two types of algorithms: 1) distributed cor-
+rection, where processes communicate only to correct their
+Boolean values; 2) distributed computation, in which pro-
+cesses try to solve a computational problem. Algorithms
+compliant with the ﬁrst option generally consist only of com -
+munication steps and no local operations. A well-deﬁned
+correction protocol (see Section 5.5) is the execution of co -
+ordinated communication. Distributed computations (the
+second option) include intra-process operations but negle ct
+(do not coordinate) the eﬀect of the two correction rounds in
+each communication step. The result is that uncoordinated
+correction can lead to propagation of faults : the heads values
+are being transferred, without the processes having notice d,
+from a faulty process to a correct one (see Section 5.7).
+5.4 Fault-tolerant processes
+In general, fault-tolerance is achieved by using an hierar-
+chic (layered) approach. Assuming the failure probability τ
+of a process, a set of two processes will fail simultaneously
+with probabilityτ 2. The introduction of redundancies is the
+key of achieving fault-tolerance, and there are two types of
+possible redundancies: 1) computational redundancy, wher e
+the same computation is repeated sequentially for multiple
+times; 2) resource redundancy, where multiple processes ar e
+abstracted as a single logical process and the component
+processes are executed in parallel.
+Computational redundancy is the equivalent to executing
+a distributed algorithm in epochs, and to guaranteeing that
+after a certain number of epochs a property of the algorithm
+is achieved. Resource redundancies are generally used when
+at least f faulty processes are needed to be tolerated. For
+example, the uniform epoch consensus algorithm from [1]
+requires N processes with N >2f .
+
+[page 5]
+Majorities (quorums [1]) are the most common option for
+checking the introduced redundancies. The simple major-
+ity (N/2 + 1) of N objects (processes, bits etc.) is used to
+introduce the fault-tolerant quantum computing in the fol-
+lowing: a fault-tolerant logical process is constructed fr om
+three (or more) component processes (called components),
+and the logical process is able to tolerate at most one faulty
+component. The computation of quorums is detailed in Sec-
+tion 5.8.
+Due to the fact that the q objects of each process are non-
+copyable increases the diﬃculty of implementing fault-tol erance
+through redundancy. Copying the q state of an existing
+process to a newly initialised one is not possible. As a re-
+sult, separate components are initialised into the same sta te
+q ∈S at the start of the distributed algorithm and exactly
+the same operations are applied on their objects.
+This work presents, without loss of generality, how the con-
+struction of logical processes is performed using triple-m odular
+redundancy (TMR) [6]. The logical state ql of a logical pro-
+cess is a sequence of n (in this work n = 3) component
+process states: ql = ∏ n
+i=0qi. Transforming ql represents the
+transformation of each qi.
+The repetition code is the TMR counterpart in the ﬁeld of
+error-checking and -correction methods. As a consequence,
+the logical state ql should be interpreted as the encoding
+of one of the component process states (the states of the
+components are equivalent). The repetition code can be
+replaced with more powerful codes like the Hamming code
+or surface codes [5], but this aspect is not further addresse d
+in this work.
+After constructing a logical process from three freshly ini -
+tialised processes, it is possible to compute the simple ma-
+jority of the b-values from every component’s black-box.
+Additionaly, after grouping three separate logical proces ses
+(lower-level) into another logical process (higher-level ), it
+is also possible to keep track of p-value majorities. Corre-
+spondingly, the highest-level logical process consists of nine
+components (lowest-level) grouped into three logical pro-
+cesses. There will be three b-value majorities and one p-
+value majority. This hierarchic construction where logica l
+constructs are embedded into one another is known as con-
+catenation, and has the advantage of polynomially lowering
+the failure probability of the resulting logical processes [8].
+5.5 Fault detectors
+The fault detectors used in the described distributed syste m
+are detecting faulty component processes. For each logical
+process there is a separate associated fault detector that i n-
+teracts with the components. A fault detector consists of
+a set of low-level processes (called ancillae) which are ini -
+tialised, used for communicating with the component pro-
+cesses and terminated. The output state of the ancillae is
+used to compute a syndrome: infer which component pro-
+cess is faulty. A fault detector contains also two variables :
+the Boolean faulty indicates if the associated logical process
+is faulty or not, and the integer pos points to the faulty
+component.
+Fault detectors can check either b-values (the components
+are controls and the ancillae targets) or p-values (the other
+way around, the components are targets and the ancillae
+controls). Once more, without loss of generality, the follo w-
+ing fault detectors will be responsible only for b-values.
+Ancillae are usual processes and can be aﬀected by faults,
+which are required not to propagate to the components. At
+the same time, as process failures are probabilistic, a set o f
+ancillae is used by the detector for reaching (with high prob -
+ability) a trustful decision about the logical process (see Sec-
+tion 5.8). A b-value detector responsible for a logical process
+protected against b-value faults has the process components
+as controls and the ancilla as target during the communica-
+tion steps. If the ancilla holds a p-value set to heads, this will
+propagate to the components, but it would not inﬂuence the
+b-value protection. Again, if the ancilla holds a b-value fault,
+this will not propagate given the communication protocol.
+A logical process could be faulty beyond correction when
+a majority of the components is faulty. Assuming that all
+the communication between the logical processes is transve r-
+sal (see Section 5.7), and because process faults are uncor-
+related, it would be improbable that such processes exist.
+Their existence would be a result of a high τ (called in the
+quantum computing literature the error threshold ), but can
+be mitigated by using more powerful encodings (e.g. sur-
+face code). Therefore, it is further assumed that the right
+encoding was chosen for the logical process states, and that
+faulty components form a minority.
+Computing a simple majority of correct processes from a set
+of components is equivalent to ﬁnding the faulty components
+forming a minority. For the distributed system example, a
+minority consists of at most one component. Two ancillae
+are required, the ﬁrst one compares the b-values between the
+ﬁrst and the second components, and the second ancilla the
+b-values between the second and the third components.
+The two ancillae are initialised in the same known state qa.
+Let the component b-values be b0,b 1,b 2; the ancilla output
+states after termination will be qa1 =qa+(ba1⊕b0⊕b1)+pa1,
+qa2 = qa + (ba2 ⊕b1 ⊕b2) +pa2. Considering that initially
+the ancillae are not faulty, the fault detector will extract two
+bits of information s1 =b0 ⊕b1 ands2 =b1 ⊕b2, indicating
+how theb-values compare pairwise between the components.
+The extension to faulty ancillae is presented in Section 5.8 .
+The syndrome bits s1 ands2 encode the index of the faulty
+component process. For s1 = s2 = 0 no faulty component
+exists, and the fault detector sets its faulty ﬂag to false. For
+all the other syndrome values, the detector sets faulty=true,
+and the faulty component index is computed by pos =s2 ∗
+2 +s1 − 1.
+5.6 Fault corrector
+The fault corrector communicates with all the fault dectors
+in the system, and has a global overview of all the faults
+that were detected during the execution of the distributed
+computation. The global perspective has the following ad-
+vantage: the corrector can observe if the modelled τ failure
+rates are valid or not; is the modelled failure rate to low?
+In the presence of faults (signalled by the detectors), the
+
+[page 6]
+fault corrector has two options: to either correct the fault s,
+or to try and track their eﬀect throught the distributed al-
+gorithm. The direct correction could introduce failures, a nd
+for this reason fault-tracking is more advantageous. Fault -
+tracking is performed based on commutativity properties:
+it is known how faults are transformed by both local and
+global operations. Hence, corrections are required only af ter
+the distributed computation was terminated and the output
+states were read out from the distributed system.
+5.7 Transversality
+The transversal application of a logical operation (local o r
+distributed) is its decomposition into (local or distribut ed)
+operations applied on the component processes. For exam-
+ple, the logical local operation Gl is the n-fold application
+of G on each of the n components.
+Faults are propagated by inter-process communication. In
+this section, propagation is illustrated by a distributed s ys-
+tem with two logical processes, each constructed from three
+component processes. Propagation will be mitigated by
+transversal communication.
+Let qc
+l be the logical state of the logical control, and qt
+l the
+state of the logical target. It is further assumed that in bot h
+logical processes (control and target) at most one componen t
+has its b-value set to heads. Once more, it should be noted
+that the processes are not aware of their values. The logical
+states were transformed by transversal logical operations re-
+sulting in three equivalent component states in each logica l
+process: qc
+0 =qc
+1 =qc
+2 and qt
+0 =qt
+1 =qt
+2.
+As the component states in both control and target are
+equivalent, transversal inter-process communication is i m-
+plemented by forming pairs between control and target com-
+ponents. There are two possibilities: 1) the same control
+component is paired with each target component (see Fig-
+ure ??); 2) each control component is paired with a diﬀerent
+target component (see Figure ??). The second scenario cor-
+responds to transversal inter-process communication.
+For the ﬁrst scenario, assuming that the component process
+0c (the component indexed 0 in control) is used, pairs of the
+following form ( control,target ) are built: (0 c, 0t), (0 c, 1c)
+and (0c, 2t). The three communication steps result in the up-
+datedb-values of the target components (bit =bit ⊕b0c ). As-
+sumingb0c is heads, the control fault was propagated to the
+target components. At this point it cannot be guaranteed
+that the logical target is protected against a component’s
+single heads b-value. Furthermore, the total cost of commu-
+nication between the logical process is c1 = 3 ×cost(heads).
+The second scenario, the transversal inter-process commun i-
+cation, could result in the following three pairs being form ed:
+(0c, 0t), (1 c, 1t), (2 c, 2t). Maintaining the assumption of the
+component 0 c being faulty in the b-value, after the three
+communication rounds only the state of 0 t would be nega-
+tively aﬀected (b0t =b0t ⊕b0c ). As a result, after executing
+this communication scenario, it can be guaranteed that the
+logical target is further protected against a single heads v alue
+of b. The total cost of communication between the logical
+process isc2 ≤ 1×cost(heads). Transversality minimises the
+communication cost between the logical processes, because
+c1 ≥c2.
+5.8 Computational redundancy
+Transversality is the key to constructing fault tolerant op -
+erations on logical processes, but is not applicable for mai n-
+taining a consistent set of component processes. A diﬀerent
+technique has to be devised. In the presentation of the pro-
+cess model it was mentioned that faults can occur any time:
+the black-box coin is tossed at random time points. The
+toss could happen before each local or distributed opera-
+tion. Faults are also allowed to occur before a process is
+terminated: after the last operation, but before returning
+its ﬁnal state.
+The solution is to continously check and correct every logical
+process in the system. Checking is performed by the fault
+detectors and corrections are applied by the fault correcto r.
+A detection round consists of multiple epochs, but a logical
+process is continously checked (multiple rounds).
+Section 5.5 introduced the fault detector and its use of an-
+cillae, but ancillae were considered correct. In the presen ce
+of faults, the syndrome bits could be incorrect and trig-
+ger an unnecessary correction that would introduce more
+faults. The solution is to repeat during a detection round
+the syndrome extraction procedure multiple times, similar
+to a sequence of epochs (an example of computational re-
+dundancy). Every epoch requires a new pair of ancillae,
+and the fault detector will perform majority voting between
+the three pairs of extracted syndrome bits.
+A freshly initialised process that was detected as being fau lty
+could be either corrected or directly terminated and a new
+process instance would need to be initialised. During the
+execution of a process (between local and distributed oper-
+ations), correction is the only option. Process operations
+could be delayed by the complete detection and correction
+procedures, because the detectors requires multiple execu -
+tions in order to achieve a probabilistically consistent de -
+cision. Thus, fault-tolerance introduces signiﬁcant reso urce
+and computational overheads.
+6. CONCLUSIONS
+7. ACKNOWLEDGEMENTS
+SJD acknowledges support from the JSPS Grant-in-aid for
+Challenging Exploratory Research and JSPS KAKENHI Kiban
+B 25280034
+8. REFERENCES
+[1] Christian Cachin, Rachid Guerraoui, and Lu ´ ıs
+Rodrigues. Introduction to reliable and secure
+distributed programming. Springer Science & Business
+Media, 2011.
+[2] S.J. Devitt, W.J. Munro, and K. Nemoto. Quantum
+error correction for beginners. Rep. Prog. Phys. ,
+76:076001, 2013.
+[3] S.J. Devitt, A.M. Stephens, W.J. Munro, and
+K. Nemoto. Requirements for fault-tolerant factoring
+on an atom-optics quantum computer. Nature
+Communications, 4:2524, 2013.
+[4] J. Kelly et.al. State preservation by repetitive error
+detection in a superconducting quantum circuit.
+
+[page 7]
+Nature (London), 519:66–69, 2015.
+[5] Austin G Fowler, Matteo Mariantoni, John M
+Martinis, and Andrew N Cleland. Surface codes:
+Towards practical large-scale quantum computation.
+Physical Review A , 86(3):032324, 2012.
+[6] Israel Koren and C Mani Krishna. Fault-tolerant
+systems. Morgan Kaufmann, 2010.
+[7] T. D. Ladd, F. Jelezko, R. Laﬂamme, Y. Nakamura,
+C. Monroe, and J.L. O’Brien. Quantum Computers.
+Nature (London), 464:45–53, 2010.
+[8] Michael A Nielsen and Isaac L Chuang. Quantum
+computation and quantum information . Cambridge
+university press, 2010.
+[9] P.W. Shor. Scheme for reducing decoherence in
+quantum computer memory. Phys. Rev. A. , 52:R2493,
+1995.
+[10] Rodney Van Meter. Quantum Networking . John Wiley
+& Sons, 2014.
+[11] W.K. Wooters and W.H. Zurek. A Single Quantum
+Cannot be Cloned. Nature (London), 299:802, 1982.

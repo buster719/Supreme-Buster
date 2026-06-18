@@ -1,0 +1,149 @@
+{
+  "timestamp_secs": 1781090104,
+  "task_id": "followup-1780978414-147903f6a0c0",
+  "domain": "BrainComputerInterface",
+  "question": "How does the timing of challenge (pre-action vs. post-action vs. mid-task) shift trust dynamics and subsequent BCI decoding accuracy?",
+  "query": "brain computer interface human AI cooperation risks timing challenge action post task shift trust dynamics subsequent",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-54c00ccd837a156d",
+      "provider": "OpenAlex",
+      "title": "Seven HCI Grand Challenges",
+      "url": "https://doi.org/10.1080/10447318.2019.1619259",
+      "doi": "https://doi.org/10.1080/10447318.2019.1619259",
+      "year": 2019,
+      "authors": [
+        "Constantine Stephanidis",
+        "Gavriel Salvendy",
+        "Margherita Antona",
+        "Jessie Y. C. Chen",
+        "Jianming Dong",
+        "Vincent G. Duffy",
+        "Xiaowen Fang",
+        "Cali Fidopiastis"
+      ],
+      "venue": "International Journal of Human-Computer Interaction",
+      "summary": "Published with license by Taylor &amp; Francis Group, LLC. This article aims to investigate the Grand Challenges which arise in the current and emerging landscape of rapid technological evolution towards more intelligent interactive technologies, coupled with increased and widened societal needs, as well as individual and collective expectations that HCI, as a discipline, is called upon to address. A perspective oriented to humane and social values is adopted, formulating the challenges in terms of the impact of emerging intelligent interactive technologies on human life both at the individual..."
+    },
+    {
+      "source_id": "OpenAlex-d8ca38000eba40a2",
+      "provider": "OpenAlex",
+      "title": "AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges",
+      "url": "https://doi.org/10.70777/si.v2i3.15161",
+      "doi": "https://doi.org/10.70777/si.v2i3.15161",
+      "year": 2025,
+      "authors": [
+        "Ranjan Sapkota",
+        "Konstantinos I. Roumeliotis",
+        "Manoj Karkee"
+      ],
+      "venue": "SuperIntelligence - Robotics - Safety & Alignment",
+      "summary": "This review critically distinguishes between AI Agents and Agentic AI, offering a structured, conceptual taxonomy, application mapping, and analysis of opportunities and challenges to clarify their divergent design philosophies and capabilities. We begin by outlining the search strategy and foundational definitions, characterizing AI Agents as modular systems driven and enabled by LLMs and LIMs for taskspecific automation. Generative AI is positioned as a precursor providing the foundation, with AI agents advancing through tool integration, prompt engineering, and reasoning enhancements. We th..."
+    },
+    {
+      "source_id": "OpenAlex-d8ea0ed0da573f66",
+      "provider": "OpenAlex",
+      "title": "Citizens Versus the Internet: Confronting Digital Challenges With Cognitive Tools",
+      "url": "https://doi.org/10.1177/1529100620946707",
+      "doi": "https://doi.org/10.1177/1529100620946707",
+      "year": 2020,
+      "authors": [
+        "Anastasia Kozyreva",
+        "Stephan Lewandowsky",
+        "Ralph Hertwig"
+      ],
+      "venue": "Gothic.net",
+      "summary": "The Internet has evolved into a ubiquitous and indispensable digital environment in which people communicate, seek information, and make decisions. Despite offering various benefits, online environments are also replete with smart, highly adaptive choice architectures designed primarily to maximize commercial interests, capture and sustain users' attention, monetize user data, and predict and influence future behavior. This online landscape holds multiple negative consequences for society, such as a decline in human autonomy, rising incivility in online conversation, the facilitation of politi..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b8fc210883aa1883",
+      "provider": "Crossref",
+      "title": "Trust-Aware Reflective Control for Fault-Resilient Dynamic Task Response in Human–Swarm Cooperation",
+      "url": "https://doi.org/10.3390/ai5010022",
+      "doi": "10.3390/ai5010022",
+      "year": 2024,
+      "authors": [
+        "Yibei Guo",
+        "Yijiang Pang",
+        "Joseph Lyons",
+        "Michael Lewis",
+        "Katia Sycara",
+        "Rui Liu"
+      ],
+      "venue": "AI",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781090104-BrainComputerInterface-followup-1780978414-147903f6a0c0.json"
+}

@@ -1,0 +1,20 @@
+{
+  "timestamp_secs": 1781183641,
+  "task_id": "followup-1781083454-60d78cd8b9f4",
+  "domain": "Aerospace",
+  "question": "Where can one find the NASA NDE benchmark datasets, and do any include magnetometer-based inspection data in a downloadable format?",
+  "query": "aerospace civilization resilience deep space capability find nasa benchmark datasets include magnetometer based inspection data",
+  "sources": [],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "error sending request for url (https://export.arxiv.org/api/query?search_query=all%3Aaerospace+civilization+resilience+deep+space+capability+find+nasa+benchmark+datasets+include+magnetometer+based+inspection+data&start=0&max_results=3&sortB..."
+    },
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 3639; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":37864,\"items\":[{\"DOI\":\"10.1002\\/essoar.10509..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781183641-Aerospace-followup-1781083454-60d78cd8b9f4.json"
+}

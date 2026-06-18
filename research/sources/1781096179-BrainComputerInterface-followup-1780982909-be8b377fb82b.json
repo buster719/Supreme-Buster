@@ -1,0 +1,157 @@
+{
+  "timestamp_secs": 1781096179,
+  "task_id": "followup-1780982909-be8b377fb82b",
+  "domain": "BrainComputerInterface",
+  "question": "Which predictive decoding paradigms (Kalman filter, recurrent neural network, deep intent‑prior) achieve the steepest ITR‑to‑performance curves, and under what latency constraints?",
+  "query": "brain computer interface human AI cooperation risks predictive decoding paradigms kalman filter recurrent neural network deep",
+  "sources": [
+    {
+      "source_id": "Arxiv-69e5635b1a58aa49",
+      "provider": "Arxiv",
+      "title": "Predicting concentration levels of air pollutants by transfer learning and recurrent neural network",
+      "url": "http://arxiv.org/abs/2502.01654v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Iat Hang Fong",
+        "Tengyue Li",
+        "Simon Fong",
+        "Raymond K. Wong",
+        "Antonio J. Tallón-Ballesteros"
+      ],
+      "venue": "arXiv",
+      "summary": "Air pollution (AP) poses a great threat to human health, and people are paying more attention than ever to its prediction. Accurate prediction of AP helps people to plan for their outdoor activities and aids protecting human health. In this paper, long-short term memory (LSTM) recurrent neural networks (RNNs) have been used to predict the future concentration of air pollutants (APS) in Macau. Additionally, meteorological data and data on the concentration of APS have been utilized. Moreover, in Macau, some air quality monitoring stations (AQMSs) have less observed data in quantity, and, at the..."
+    },
+    {
+      "source_id": "Arxiv-ca87539c45194064",
+      "provider": "Arxiv",
+      "title": "Towards Neurohaptics: Brain-Computer Interfaces for Decoding Intuitive Sense of Touch",
+      "url": "http://arxiv.org/abs/2012.06753v2",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Jeong-Hyun Cho",
+        "Ji-Hoon Jeong",
+        "Myoung-Ki Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "arXiv",
+      "summary": "Noninvasive brain-computer interface (BCI) is widely used to recognize users' intentions. Especially, BCI related to tactile and sensation decoding could provide various effects on many industrial fields such as manufacturing advanced touch displays, controlling robotic devices, and more immersive virtual reality or augmented reality. In this paper, we introduce haptic and sensory perception-based BCI systems called neurohaptics. It is a preliminary study for a variety of scenarios using actual touch and touch imagery paradigms. We designed a novel experimental environment and a device that co..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "OpenAlex-cff00b12040a924e",
+      "provider": "OpenAlex",
+      "title": "Quo vadis artificial intelligence?",
+      "url": "https://doi.org/10.1007/s44163-022-00022-8",
+      "doi": "https://doi.org/10.1007/s44163-022-00022-8",
+      "year": 2022,
+      "authors": [
+        "Yuchen Jiang",
+        "Xiang Li",
+        "Hao Luo",
+        "Shen Yin",
+        "Okyay Kaynak"
+      ],
+      "venue": "Discover Artificial Intelligence",
+      "summary": "Abstract The study of artificial intelligence (AI) has been a continuous endeavor of scientists and engineers for over 65 years. The simple contention is that human-created machines can do more than just labor-intensive work; they can develop human-like intelligence. Being aware or not, AI has penetrated into our daily lives, playing novel roles in industry, healthcare, transportation, education, and many more areas that are close to the general public. AI is believed to be one of the major drives to change socio-economical lives. In another aspect, AI contributes to the advancement of state-o..."
+    },
+    {
+      "source_id": "OpenAlex-1a55125a06a3a66a",
+      "provider": "OpenAlex",
+      "title": "FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing",
+      "url": "https://doi.org/10.1109/ojsp.2020.3036276",
+      "doi": "https://doi.org/10.1109/ojsp.2020.3036276",
+      "year": 2020,
+      "authors": [
+        "Feng Yin",
+        "Zhidi Lin",
+        "Qinglei Kong",
+        "Yue Xu",
+        "Deshi Li",
+        "Sergios Theodoridis",
+        "Shuguang Cui"
+      ],
+      "venue": "IEEE Open Journal of Signal Processing",
+      "summary": "In this overview paper, data-driven learning model-based cooperative localization and location data processing are considered, in line with the emerging machine learning and big data methods. We first review (1) state-of-the-art algorithms in the context of federated learning, (2) two widely used learning models, namely the deep neural network model and the Gaussian process model, and (3) various distributed model hyper-parameter optimization schemes. Then, we demonstrate various practical use cases that are summarized from a mixture of standard, newly published, and unpublished works, which c..."
+    },
+    {
+      "source_id": "OpenAlex-ae18f3e637f7985c",
+      "provider": "OpenAlex",
+      "title": "Multimedia Internet of Things: A Comprehensive Survey",
+      "url": "https://doi.org/10.1109/access.2020.2964280",
+      "doi": "https://doi.org/10.1109/access.2020.2964280",
+      "year": 2020,
+      "authors": [
+        "Ali Nauman",
+        "Yazdan Ahmad Qadri",
+        "Muhammad Amjad",
+        "Yousaf Bin Zikria",
+        "Muhammad Khalil Afzal",
+        "Sung Won Kim"
+      ],
+      "venue": "IEEE Access",
+      "summary": "The immense increase in multimedia-on-demand traffic that refers to audio, video, and images, has drastically shifted the vision of the Internet of Things (IoT) from scalar to Multimedia Internet of Things (M-IoT). IoT devices are constrained in terms of energy, computing, size, and storage memory. Delay-sensitive and bandwidth-hungry multimedia applications over constrained IoT networks require revision of IoT architecture for M-IoT. This paper provides a comprehensive survey of M-IoT with an emphasis on architecture, protocols, and applications. This article starts by providing a horizontal ..."
+    },
+    {
+      "source_id": "Crossref-956ce42f138c625f",
+      "provider": "Crossref",
+      "title": "Adaptive Spike-Based Kalman Filter for Neural Decoding in Brain-Machine Interface",
+      "url": "https://doi.org/10.1109/cac63892.2024.10864624",
+      "doi": "10.1109/cac63892.2024.10864624",
+      "year": 2024,
+      "authors": [
+        "Yuxuan Cai",
+        "Xi Liu"
+      ],
+      "venue": "2024 China Automation Congress (CAC)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-1ec982eb24e78c65",
+      "provider": "Crossref",
+      "title": "Deep Recurrent Neural Network and Point Process Filter Approaches in Multidimensional Neural Decoding Problems",
+      "url": "https://doi.org/10.1101/2020.08.10.244368",
+      "doi": "10.1101/2020.08.10.244368",
+      "year": 2020,
+      "authors": [
+        "Mohammad Reza Rezaei",
+        "Behzad Nazari",
+        "Saeid Sadri",
+        "Ali Yousefi"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-cc2865b3ea198623",
+      "provider": "Crossref",
+      "title": "Deep convolutional neural network for decoding motor imagery based brain computer interface",
+      "url": "https://doi.org/10.1109/icspcc.2017.8242581",
+      "doi": "10.1109/icspcc.2017.8242581",
+      "year": 2017,
+      "authors": [
+        "Jin Zhang",
+        "Chungang Yan",
+        "Xiaoliang Gong"
+      ],
+      "venue": "2017 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC)",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781096179-BrainComputerInterface-followup-1780982909-be8b377fb82b.json"
+}

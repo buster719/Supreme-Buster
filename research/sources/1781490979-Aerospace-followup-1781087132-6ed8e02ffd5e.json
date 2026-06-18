@@ -1,0 +1,106 @@
+{
+  "timestamp_secs": 1781490979,
+  "task_id": "followup-1781087132-6ed8e02ffd5e",
+  "domain": "Aerospace",
+  "question": "What specific thermal and dust environmental parameters (temperature range, radiation flux, dust grain size and composition) define the \"Mars-scale\" condition for which these standards are being evaluated?",
+  "query": "aerospace civilization resilience deep space capability specific thermal dust environmental parameters temperature range radiation flux",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    },
+    {
+      "source_id": "Arxiv-3418555e9e84d6a6",
+      "provider": "Arxiv",
+      "title": "Memorization in Deep Neural Networks: Does the Loss Function matter?",
+      "url": "http://arxiv.org/abs/2107.09957v2",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Deep Patel",
+        "P. S. Sastry"
+      ],
+      "venue": "arXiv",
+      "summary": "Deep Neural Networks, often owing to the overparameterization, are shown to be capable of exactly memorizing even randomly labelled data. Empirical studies have also shown that none of the standard regularization techniques mitigate such overfitting. We investigate whether the choice of the loss function can affect this memorization. We empirically show, with benchmark data sets MNIST and CIFAR-10, that a symmetric loss function, as opposed to either cross-entropy or squared error loss, results in significant improvement in the ability of the network to resist such overfitting. We then provide..."
+    },
+    {
+      "source_id": "OpenAlex-ca8061fee7efee1a",
+      "provider": "OpenAlex",
+      "title": "Satellite Remote Sensing for Water Resources Management: Potential for Supporting Sustainable Development in Data‐Poor Regions",
+      "url": "https://doi.org/10.1029/2017wr022437",
+      "doi": "https://doi.org/10.1029/2017wr022437",
+      "year": 2018,
+      "authors": [
+        "Justin Sheffield",
+        "Eric F. Wood",
+        "Ming Pan",
+        "Hylke E. Beck",
+        "Gabriele Coccia",
+        "Aleix Serrat‐Capdevila",
+        "Koen Verbist"
+      ],
+      "venue": "Water Resources Research",
+      "summary": "Abstract Water resources management (WRM) for sustainable development presents many challenges in areas with sparse in situ monitoring networks. The exponential growth of satellite based information over the past decade provides unprecedented opportunities to support and improve WRM. Furthermore, traditional barriers to the access and usage of satellite data are lowering as technological innovations provide opportunities to manage and deliver this wealth of information to a wider audience. We review data needs for WRM and the role that satellite remote sensing can play to fill gaps and enhance..."
+    },
+    {
+      "source_id": "OpenAlex-07eb34869499da74",
+      "provider": "OpenAlex",
+      "title": "The Cost of Lunar Landing Pads with a Trade Study of Construction Methods",
+      "url": "http://arxiv.org/abs/2205.00378",
+      "doi": "https://doi.org/10.48550/arxiv.2205.00378",
+      "year": 2022,
+      "authors": [
+        "Philip T. Metzger",
+        "Greg Autry"
+      ],
+      "venue": "arXiv (Cornell University)",
+      "summary": "This study estimates the cost of building lunar landing pads and examines whether any construction methods are economically superior to others. Some proposed methods require large amounts of mass transported from the Earth, others require high energy consumption on the lunar surface, and others have a long construction time. Each of these factors contributes direct and indirect costs to lunar activities. The most important economic variables turn out to be the transportation cost to the lunar surface and the magnitude of the program delay cost imposed by a construction method. The cost of a la..."
+    },
+    {
+      "source_id": "OpenAlex-966724d95324928b",
+      "provider": "OpenAlex",
+      "title": "Physical AI: Bridging the Sim-to-Real Divide Toward Embodied, Ethical, and Autonomous Intelligence",
+      "url": "https://doi.org/10.36227/techrxiv.176238257.73914361/v1",
+      "doi": "https://doi.org/10.36227/techrxiv.176238257.73914361/v1",
+      "year": 2025,
+      "authors": [
+        "Partha Pratim Ray"
+      ],
+      "venue": null,
+      "summary": "Physical Artificial Intelligence (Physical AI) delineates a new scientific frontier wherein cognition is not abstracted from the world but materially instantiated within it. It represents the fusion of algorithmic reasoning, embodied perception, and dynamic control into cyber–physical substrates capable of autonomous, safe, and ethically aligned interaction. In contrast to digital AI that operates solely over symbolic or pixel domains, Physical AI functions through closed perception–decision–action feedback loops governed by real-world physics, causality, and thermodynamic constraints. This ar..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 3861; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":19437,\"items\":[{\"abstract\":\"<jats:p>Designin..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781490979-Aerospace-followup-1781087132-6ed8e02ffd5e.json"
+}

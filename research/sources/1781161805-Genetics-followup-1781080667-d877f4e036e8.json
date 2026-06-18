@@ -1,0 +1,110 @@
+{
+  "timestamp_secs": 1781161805,
+  "task_id": "followup-1781080667-d877f4e036e8",
+  "domain": "Genetics",
+  "question": "Do any agent-based or evolutionary simulations explore how the widespread adoption of embryo selection for intelligence or height might alter trait variance in a population, relative to the known effects of historical public health interventions?",
+  "query": "genetics safety human flourishing genome editing agent based evolutionary simulations explore widespread adoption embryo selection",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-459154894f179e2a",
+      "provider": "Arxiv",
+      "title": "Genetic Programming-Based Evolutionary Deep Learning for Data-Efficient Image Classification",
+      "url": "http://arxiv.org/abs/2209.13233v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ying Bi",
+        "Bing Xue",
+        "Mengjie Zhang"
+      ],
+      "venue": "arXiv",
+      "summary": "Data-efficient image classification is a challenging task that aims to solve image classification using small training data. Neural network-based deep learning methods are effective for image classification, but they typically require large-scale training data and have major limitations such as requiring expertise to design network architectures and having poor interpretability. Evolutionary deep learning is a recent hot topic that combines evolutionary computation with deep learning. However, most evolutionary deep learning methods focus on evolving architectures of neural networks, which sti..."
+    },
+    {
+      "source_id": "OpenAlex-9377317d61e2bf39",
+      "provider": "OpenAlex",
+      "title": "Machine Learning and gene editing at the helm of a societal evolution",
+      "url": "http://dx.doi.org/10.7249/rra2838-1",
+      "doi": "https://doi.org/10.7249/rra2838-1",
+      "year": 2023,
+      "authors": [
+        "Sana Zakaria",
+        "Timothy Marler",
+        "Mark Cabling",
+        "Suzanne Genc",
+        "Artur Honich",
+        "Mann Virdee",
+        "Sam Stockwell"
+      ],
+      "venue": "RAND Corporation eBooks",
+      "summary": "Machine learning and gene editing present both benefits and risks that range from ethics to national security. These complex technologies have implications for many different sectors, and are further complicated by differences in advancements and policies in multiple geographic regions. This study focuses on how forward-looking policies can be developed in the US, UK, China and the EU to help manage beneficial use of technology advancements."
+    },
+    {
+      "source_id": "OpenAlex-c2802d43b84592f2",
+      "provider": "OpenAlex",
+      "title": "Weed for Thought : Using Arabidopsis thaliana to Understand Plant Biology",
+      "url": "http://hdl.handle.net/1871/10703",
+      "doi": null,
+      "year": 2007,
+      "authors": [
+        "Sabina Leonelli"
+      ],
+      "venue": "Digital Academic REpository of VU University Amsterdam (Vrije Universiteit Amsterdam)",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-03c7527872fdabfc",
+      "provider": "OpenAlex",
+      "title": "Biology Unlocked: Exploring Life from Cells to Ecosystems",
+      "url": "https://doi.org/10.62906/bs.book.380",
+      "doi": "https://doi.org/10.62906/bs.book.380",
+      "year": 2025,
+      "authors": [
+        "Muna Hadi Kadhem",
+        "Zahraa Sattar Jaber",
+        "Ban Star Saleh Jiyad Al-Dhalmi",
+        "Noorsan Taajeel Fattah",
+        "Aisha Mezher Fares"
+      ],
+      "venue": "Bright Sky Publications eBooks",
+      "summary": "Buy Biology Unlocked: Exploring Life from Cells to Ecosystems written by Muna Hadi Kadhem, Zahraa Sattar Jaber, Ban Star Saleh Jiyad Al-Dhalmi, Noorsan Taajeel Fattah and Aisha Mezher Fares at low price."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "error sending request for url (https://api.crossref.org/works?query=genetics+safety+human+flourishing+genome+editing+agent+based+evolutionary+simulations+explore+widespread+adoption+embryo+selection&rows=3&select=DOI%2Ctitle%2CURL%2Cauthor%..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781161805-Genetics-followup-1781080667-d877f4e036e8.json"
+}

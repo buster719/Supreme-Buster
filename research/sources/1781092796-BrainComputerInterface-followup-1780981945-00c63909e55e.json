@@ -1,0 +1,148 @@
+{
+  "timestamp_secs": 1781092796,
+  "task_id": "followup-1780981945-00c63909e55e",
+  "domain": "BrainComputerInterface",
+  "question": "How do model confidence and uncertainty in intent prediction influence the user’s residual control signals, and does that feed back into bandwidth measurements over time?",
+  "query": "brain computer interface human AI cooperation risks model confidence uncertainty intent prediction influence user residual control",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-76fbb2711ea3e82d",
+      "provider": "Arxiv",
+      "title": "Spatial Tactile Brain-Computer Interface Paradigm Applying Vibration Stimuli to Large Areas of User's Back",
+      "url": "http://arxiv.org/abs/1404.4226v1",
+      "doi": null,
+      "year": 2014,
+      "authors": [
+        "Takumi Kodama",
+        "Shoji Makino",
+        "Tomasz M. Rutkowski"
+      ],
+      "venue": "arXiv",
+      "summary": "We aim at an augmentation of communication abilities of amyotrophic lateral sclerosis (ALS) patients by creating a brain-computer interface (BCI) which can control a computer or other device by using only brain activity. As a method, we use a stimulus-driven BCI based on vibration stimuli delivered via a gaming pad to the user's back. We identify P300 responses from brain activity data in response to the vibration stimuli. The user's intentions are classified according to the P300 responses recorded in the EEG. From the results of the psychophysical and online BCI experiments, we are able to c..."
+    },
+    {
+      "source_id": "OpenAlex-2bd98a36b5ba58d2",
+      "provider": "OpenAlex",
+      "title": "An Introduction to Ethics in Robotics and AI",
+      "url": "https://doi.org/10.1007/978-3-030-51110-4",
+      "doi": "https://doi.org/10.1007/978-3-030-51110-4",
+      "year": 2020,
+      "authors": [
+        "Christoph Bartneck",
+        "Christoph Lütge",
+        "Alan R. Wagner",
+        "Sean Welsh"
+      ],
+      "venue": "SpringerBriefs in ethics",
+      "summary": "Briefs in Ethics envisions a series of short publications in areas such as business ethics, bioethics, science and engineering ethics, food and agricultural ethics, environmental ethics, human rights and the like. The intention is to present concise summaries of cutting-edge research and practical applications across a wide spectrum."
+    },
+    {
+      "source_id": "OpenAlex-0f1729bc0213208d",
+      "provider": "OpenAlex",
+      "title": "Advanced Applications of Industrial Robotics: New Trends and Possibilities",
+      "url": "https://doi.org/10.3390/app12010135",
+      "doi": "https://doi.org/10.3390/app12010135",
+      "year": 2021,
+      "authors": [
+        "Andrius Dzedzickis",
+        "Jurga Subačiūtė-Žemaitienė",
+        "Ernestas Šutinys",
+        "Urtė Samukaitė-Bubnienė",
+        "Vytautas Bučinskas"
+      ],
+      "venue": "Applied Sciences",
+      "summary": "This review is dedicated to the advanced applications of robotic technologies in the industrial field. Robotic solutions in areas with non-intensive applications are presented, and their implementations are analysed. We also provide an overview of survey publications and technical reports, classified by application criteria, and the development of the structure of existing solutions, and identify recent research gaps. The analysis results reveal the background to the existing obstacles and problems. These issues relate to the areas of psychology, human nature, special artificial intelligence (..."
+    },
+    {
+      "source_id": "OpenAlex-beb792cdd538f7c8",
+      "provider": "OpenAlex",
+      "title": "Neuromusculoskeletal model-informed machine learning-based control of a knee exoskeleton with uncertainties quantification",
+      "url": "https://doi.org/10.3389/fnins.2023.1254088",
+      "doi": "https://doi.org/10.3389/fnins.2023.1254088",
+      "year": 2023,
+      "authors": [
+        "Longbin Zhang",
+        "Xiaochen Zhang",
+        "Xueyu Zhu",
+        "Ruoli Wang",
+        "Elena M. Gutierrez-Farewik"
+      ],
+      "venue": "Frontiers in Neuroscience",
+      "summary": "Introduction: Research interest in exoskeleton assistance strategies that incorporate the user's torque capacity is growing rapidly. However, the predicted torque capacity from users often includes uncertainty from various sources, which can have a significant impact on the safety of the exoskeleton-user interface. Methods: To address this challenge, this paper proposes an adaptive control framework for a knee exoskeleton that uses muscle electromyography (EMG) signals and joint kinematics. The framework predicted the user's knee flexion/extension torque with confidence bounds to quantify the ..."
+    },
+    {
+      "source_id": "Crossref-f42b4f8710e36260",
+      "provider": "Crossref",
+      "title": "Brain Control: Human-computer Integration Control Based on Brain-computer Interface",
+      "url": "https://doi.org/10.3724/sp.j.1004.2013.00208",
+      "doi": "10.3724/sp.j.1004.2013.00208",
+      "year": 2014,
+      "authors": [
+        "Xing-Yu WANG",
+        "Jing JIN",
+        "Yu ZHANG",
+        "Bei WANG"
+      ],
+      "venue": "Acta Automatica Sinica",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-3b5c631c1e46ea4b",
+      "provider": "Crossref",
+      "title": "The Influence of Perceived Anthropomorphism and Social Presence on AI Interface User Experience: A Systematic Review",
+      "url": "https://doi.org/10.1080/10447318.2025.2575897",
+      "doi": "10.1080/10447318.2025.2575897",
+      "year": 2025,
+      "authors": [
+        "Brett Andrew Williams"
+      ],
+      "venue": "International Journal of Human–Computer Interaction",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781092796-BrainComputerInterface-followup-1780981945-00c63909e55e.json"
+}

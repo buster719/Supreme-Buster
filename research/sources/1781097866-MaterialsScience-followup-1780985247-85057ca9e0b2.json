@@ -1,0 +1,164 @@
+{
+  "timestamp_secs": 1781097866,
+  "task_id": "followup-1780985247-85057ca9e0b2",
+  "domain": "MaterialsScience",
+  "question": "– How does the columnar grain structure or residual porosity from powder‑bed fusion (PBF) or directed‑energy deposition (DED) affect capillary flow of B₂O₃ into cracks versus grain‑boundary oxidation damage?",
+  "query": "materials science fusion robotics aerospace computation columnar grain structure residual porosity powder fusion directed energy",
+  "sources": [
+    {
+      "source_id": "Arxiv-6f79ba1b4aa0294d",
+      "provider": "Arxiv",
+      "title": "Retrospective of the ARPA-E ALPHA fusion program",
+      "url": "http://arxiv.org/abs/1907.09921v2",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "C. L. Nehl",
+        "R. J. Umstattd",
+        "W. R. Regan",
+        "S. C. Hsu",
+        "P. B. McGrath"
+      ],
+      "venue": "arXiv",
+      "summary": "This paper provides a retrospective of the ALPHA (Accelerating Low-cost Plasma Heating and Assembly) fusion program of the Advanced Research Projects Agency-Energy (ARPA-E) of the U.S. Department of Energy. ALPHA's objective was to catalyze research and development efforts to enable substantially lower-cost pathways to economical fusion power. To do this in a targeted, focused program, ALPHA focused on advancing the science and technology of pulsed, intermediate-density fusion approaches, including magneto-inertial fusion and Z-pinch variants, that have the potential to scale to commercially v..."
+    },
+    {
+      "source_id": "Arxiv-a550f0dee388e844",
+      "provider": "Arxiv",
+      "title": "Large Synoptic Survey Telescope: Dark Energy Science Collaboration",
+      "url": "http://arxiv.org/abs/1211.0310v1",
+      "doi": null,
+      "year": 2012,
+      "authors": [
+        "LSST Dark Energy Science Collaboration"
+      ],
+      "venue": "arXiv",
+      "summary": "This white paper describes the LSST Dark Energy Science Collaboration (DESC), whose goal is the study of dark energy and related topics in fundamental physics with data from the Large Synoptic Survey Telescope (LSST). It provides an overview of dark energy science and describes the current and anticipated state of the field. It makes the case for the DESC by laying out a robust analytical framework for dark energy science that has been defined by its members and the comprehensive three-year work plan they have developed for implementing that framework. The analysis working groups cover five ke..."
+    },
+    {
+      "source_id": "Arxiv-5dae99761d245a9d",
+      "provider": "Arxiv",
+      "title": "Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision",
+      "url": "http://arxiv.org/abs/2504.02477v3",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Xiaofeng Han",
+        "Shunpeng Chen",
+        "Zenghuang Fu",
+        "Zhe Feng",
+        "Lue Fan",
+        "Dong An",
+        "Changwei Wang",
+        "Li Guo"
+      ],
+      "venue": "arXiv",
+      "summary": "Robot vision has greatly benefited from advancements in multimodal fusion techniques and vision-language models (VLMs). We adopt a task-oriented perspective to systematically review the applications and advancements of multimodal fusion methods and VLMs in the field of robot vision. For semantic scene understanding tasks, we categorize fusion approaches into encoder-decoder frameworks, attention-based architectures, and graph neural networks. Meanwhile, we also analyze the architectural characteristics and practical implementations of these fusion strategies in key tasks such as simultaneous l..."
+    },
+    {
+      "source_id": "OpenAlex-275e55497129ce8a",
+      "provider": "OpenAlex",
+      "title": "Metal Alloys for Fusion‐Based Additive Manufacturing",
+      "url": "https://doi.org/10.1002/adem.201700952",
+      "doi": "https://doi.org/10.1002/adem.201700952",
+      "year": 2018,
+      "authors": [
+        "Duyao Zhang",
+        "Shoujin Sun",
+        "Dong Qiu",
+        "Mark A. Gibson",
+        "Matthew S. Dargusch",
+        "Milan Brandt",
+        "Ma Qian",
+        "Mark Easton"
+      ],
+      "venue": "Advanced Engineering Materials",
+      "summary": "Metal additive manufacturing (AM) is an innovative manufacturing technique, which builds parts incrementally layer by layer. Thus, metal AM has inherent advantages in part complexity, time, and waste saving. However, due to its complex thermal cycle and rapid solidification during processing, the alloys well suit and commercially used for metal AM today are limited. Therefore, it is important to understand the alloying strategy and current progress with materials performance to consider alloy development for metal AM. This review presents the current range of alloys available for metal AM, inc..."
+    },
+    {
+      "source_id": "OpenAlex-d6da1305aa8c7ae1",
+      "provider": "OpenAlex",
+      "title": "<i>In-situ</i> measurement and monitoring methods for metal powder bed fusion: an updated review",
+      "url": "https://doi.org/10.1088/1361-6501/ac0b6b",
+      "doi": "https://doi.org/10.1088/1361-6501/ac0b6b",
+      "year": 2021,
+      "authors": [
+        "Marco Grasso",
+        "Afaf Remani",
+        "Andrew Dickins",
+        "Bianca Maria Colosimo",
+        "Richard Leach"
+      ],
+      "venue": "Measurement Science and Technology",
+      "summary": "Abstract The possibility of using a variety of sensor signals acquired during metal powder bed fusion processes, to support part and process qualification and for the early detection of anomalies and defects, has been continuously attracting an increasing interest. The number of research studies in this field has been characterised by significant growth in the last few years, with several advances and new solutions compared with first seminal works. Moreover, industrial powder bed fusion (PBF) systems are increasingly equipped with sensors and toolkits for data collection, visualisation and, i..."
+    },
+    {
+      "source_id": "OpenAlex-b3b63e7d0d7550e7",
+      "provider": "OpenAlex",
+      "title": "Invited review article: Strategies and processes for high quality wire arc additive manufacturing",
+      "url": "https://doi.org/10.1016/j.addma.2018.06.020",
+      "doi": "https://doi.org/10.1016/j.addma.2018.06.020",
+      "year": 2018,
+      "authors": [
+        "Chloe Cunningham",
+        "Joseph M. Flynn",
+        "Alborz Shokrani",
+        "Vimal Dhokia",
+        "Stephen T. Newman"
+      ],
+      "venue": "Additive manufacturing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-41f00540cbe32aca",
+      "provider": "Crossref",
+      "title": "Simulating the effect of grain structure and porosity on creep for powder bed fusion 316H",
+      "url": "https://doi.org/10.2172/2440432",
+      "doi": "10.2172/2440432",
+      "year": 2024,
+      "authors": [
+        "Sagar Bhatt",
+        "Shahmeer Baweja",
+        "Zuotao Zeng",
+        "Mark Messner"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-9add7d22b52e63b6",
+      "provider": "Crossref",
+      "title": "Hardened austenite steel with columnar sub-grain structure formed by laser melting",
+      "url": "https://doi.org/10.1016/j.msea.2014.12.018",
+      "doi": "10.1016/j.msea.2014.12.018",
+      "year": 2015,
+      "authors": [
+        "K. Saeidi",
+        "X. Gao",
+        "Y. Zhong",
+        "Z.J. Shen"
+      ],
+      "venue": "Materials Science and Engineering: A",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-8f50a50712c46115",
+      "provider": "Crossref",
+      "title": "Investigating the residual stress in additive manufacturing of combined process in powder bed fusion and directed energy deposition",
+      "url": "https://doi.org/10.1016/j.matpr.2021.05.200",
+      "doi": "10.1016/j.matpr.2021.05.200",
+      "year": 2021,
+      "authors": [
+        "M. Kumaran",
+        "V. Senthilkumar",
+        "C.T. Justus Panicker",
+        "R. Shishir"
+      ],
+      "venue": "Materials Today: Proceedings",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781097866-MaterialsScience-followup-1780985247-85057ca9e0b2.json"
+}

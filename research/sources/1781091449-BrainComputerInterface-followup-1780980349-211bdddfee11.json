@@ -1,0 +1,98 @@
+{
+  "timestamp_secs": 1781091449,
+  "task_id": "followup-1780980349-211bdddfee11",
+  "domain": "BrainComputerInterface",
+  "question": "Can a hybrid model that combines a low‑pass continuous uncertainty background with occasional high‑salience doubt messages outperform only‑continuous or only‑discrete designs?",
+  "query": "brain computer interface human AI cooperation risks hybrid model combines pass continuous uncertainty background occasional high",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-cdb83a8d9378bd0c",
+      "provider": "OpenAlex",
+      "title": "Profiting from innovation in the digital economy: Enabling technologies, standards, and licensing models in the wireless world",
+      "url": "https://doi.org/10.1016/j.respol.2017.01.015",
+      "doi": "https://doi.org/10.1016/j.respol.2017.01.015",
+      "year": 2018,
+      "authors": [
+        "David J. Teece"
+      ],
+      "venue": "Research Policy",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-23e69b4f83f9d65e",
+      "provider": "OpenAlex",
+      "title": "Advancing the Human Self",
+      "url": "https://doi.org/10.3726/b16974",
+      "doi": "https://doi.org/10.3726/b16974",
+      "year": 2020,
+      "authors": [
+        "Ewa Nowak"
+      ],
+      "venue": "Peter Lang D eBooks",
+      "summary": "Do technologies advance our self-identities, as they do our bodies, cognitive skills, and the next developmental stage called postpersonal? Did we already manage to be fully human, before becoming posthuman? Are we doomed to disintegration and episodic selfhood? This book examines the impact of radical technopoiesis on our selves from a multidisciplinary perspective, including the health humanities, phenomenology, the life sciences and humanoid AI (artificial intelligence) ethics. Surprisingly, our body representations show more plasticity than scholarly concepts and sociocultural narratives. ..."
+    },
+    {
+      "source_id": "OpenAlex-1347b22ad7ac16db",
+      "provider": "OpenAlex",
+      "title": "A comprehensive survey of ChatGPT: Advancements, applications, prospects, and challenges",
+      "url": "https://doi.org/10.1016/j.metrad.2023.100022",
+      "doi": "https://doi.org/10.1016/j.metrad.2023.100022",
+      "year": 2023,
+      "authors": [
+        "Anam Nazir",
+        "Ze Wang"
+      ],
+      "venue": "Meta-Radiology",
+      "summary": "Large Language Models (LLMs) especially when combined with Generative Pre-trained Transformers (GPT) represent a groundbreaking in natural language processing. In particular, ChatGPT, a state-of-the-art conversational language model with a user-friendly interface, has garnered substantial attention owing to its remarkable capability for generating human-like responses across a variety of conversational scenarios. This survey offers an overview of ChatGPT, delving into its inception, evolution, and key technology. We summarize the fundamental principles that underpin ChatGPT, encompassing its i..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1756; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":53288,\"items\":[{\"published-print\":{\"date-par..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781091449-BrainComputerInterface-followup-1780980349-211bdddfee11.json"
+}

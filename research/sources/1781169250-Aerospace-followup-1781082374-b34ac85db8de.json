@@ -1,0 +1,61 @@
+{
+  "timestamp_secs": 1781169250,
+  "task_id": "followup-1781082374-b34ac85db8de",
+  "domain": "Aerospace",
+  "question": "What are the most frequently cited failure modes: lack of generalization to new materials/geometries, sensitivity to noise in sensor data, or data scarcity leading to overfitting?",
+  "query": "aerospace civilization resilience deep space capability frequently cited failure modes lack generalization materials geometries sensitivity",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-ac5c436ddac674b3",
+      "provider": "Arxiv",
+      "title": "Solution of Physics-based Bayesian Inverse Problems with Deep Generative Priors",
+      "url": "http://arxiv.org/abs/2107.02926v2",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Dhruv V Patel",
+        "Deep Ray",
+        "Assad A Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "Inverse problems are ubiquitous in nature, arising in almost all areas of science and engineering ranging from geophysics and climate science to astrophysics and biomechanics. One of the central challenges in solving inverse problems is tackling their ill-posed nature. Bayesian inference provides a principled approach for overcoming this by formulating the inverse problem into a statistical framework. However, it is challenging to apply when inferring fields that have discrete representations of large dimensions (the so-called \"curse of dimensionality\") and/or when prior information is availab..."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 547; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":2964,\"items\":[{\"DOI\":\"10.32657\\/10356\\/180162..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781169250-Aerospace-followup-1781082374-b34ac85db8de.json"
+}

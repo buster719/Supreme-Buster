@@ -1,0 +1,154 @@
+{
+  "timestamp_secs": 1781093137,
+  "task_id": "followup-1780981945-92d2a89daa8d",
+  "domain": "BrainComputerInterface",
+  "question": "Under what conditions does personalisation improve task completion rate but reduce the measured information transfer rate, and does that trade-off appear in real BCI data?",
+  "query": "brain computer interface human AI cooperation risks under conditions personalisation improve task completion rate reduce measured",
+  "sources": [
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-cb30c2b4b5544d7b",
+      "provider": "OpenAlex",
+      "title": "Symbiotic human-robot collaborative assembly",
+      "url": "https://doi.org/10.1016/j.cirp.2019.05.002",
+      "doi": "https://doi.org/10.1016/j.cirp.2019.05.002",
+      "year": 2019,
+      "authors": [
+        "Lihui Wang",
+        "Robert X. Gao",
+        "József Váncza",
+        "Jörg Krüger",
+        "Xi Vincent Wang",
+        "Sotiris Makris",
+        "George Chryssolouris"
+      ],
+      "venue": "CIRP Annals",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-59d6bfdc78defa80",
+      "provider": "OpenAlex",
+      "title": "Speculative futures on ChatGPT and generative artificial intelligence (AI): A collective reflection from the educational landscape",
+      "url": "https://openalex.org/W4327672398",
+      "doi": "https://doi.org/10.5281/zenodo.7636568",
+      "year": 2023,
+      "authors": [
+        "Aras Bozkurt",
+        "J. Xiao",
+        "Steven Imanuel Lambert",
+        "A. Pazurek",
+        "H. Crompton",
+        "S. Koseoglu",
+        "Robert Farrow",
+        "Melissa Bond"
+      ],
+      "venue": "Dublin City University Open Access Institutional Repository (Dublin City University)",
+      "summary": "While ChatGPT has recently become very popular, AI has a long history and philosophy. This paper intends to explore the promises and pitfalls of the Generative Pre-trained Transformer (GPT) AI and potentially future technologies by adopting a speculative methodology. Speculative future narratives with a specific focus on educational contexts are provided in an attempt to identify emerging themes and discuss their implications for education in the 21st century. Affordances of (using) AI in Education (AIEd) and possible adverse effects are identified and discussed which emerge from the narrative..."
+    },
+    {
+      "source_id": "OpenAlex-d688a7d6f3d567ec",
+      "provider": "OpenAlex",
+      "title": "Proactive human–robot collaboration: Mutual-cognitive, predictable, and self-organising perspectives",
+      "url": "https://doi.org/10.1016/j.rcim.2022.102510",
+      "doi": "https://doi.org/10.1016/j.rcim.2022.102510",
+      "year": 2022,
+      "authors": [
+        "Shufei Li",
+        "Pai Zheng",
+        "Sichao Liu",
+        "Zuoxu Wang",
+        "Xi Vincent Wang",
+        "Lianyu Zheng",
+        "Lihui Wang"
+      ],
+      "venue": "Robotics and Computer-Integrated Manufacturing",
+      "summary": "Human–Robot Collaboration (HRC) has a pivotal role in smart manufacturing for strict requirements of human-centricity, sustainability, and resilience. However, existing HRC development mainly undertakes either a human-dominant or robot-dominant manner, where human and robotic agents reactively perform operations by following pre-defined instructions, thus far from an efficient integration of robotic automation and human cognition. The stiff human–robot relations fail to be qualified for complex manufacturing tasks and cannot ease the physical and psychological load of human operators. In respo..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-70174aa45ff2629c",
+      "provider": "Crossref",
+      "title": "A collaborative Brain-Computer Interface to improve human performance in a visual search task",
+      "url": "https://doi.org/10.1109/ner.2015.7146599",
+      "doi": "10.1109/ner.2015.7146599",
+      "year": 2015,
+      "authors": [
+        "Davide Valeriani",
+        "Riccardo Poli",
+        "Caterina Cinel"
+      ],
+      "venue": "2015 7th International IEEE/EMBS Conference on Neural Engineering (NER)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781093137-BrainComputerInterface-followup-1780981945-92d2a89daa8d.json"
+}

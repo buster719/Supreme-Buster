@@ -1,0 +1,110 @@
+{
+  "timestamp_secs": 1781160087,
+  "task_id": "followup-1781079581-c6db293336f1",
+  "domain": "Genetics",
+  "question": "What specific combinations of genetic architecture (e.g., high rare-variant contribution + high epistasis) empirically produce the largest discrepancy between population-based and within-family GWAS effect estimates?",
+  "query": "genetics safety human flourishing genome editing specific combinations genetic architecture high rare variant contribution epistasis",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-a02ceb7f29e5747e",
+      "provider": "Arxiv",
+      "title": "GREGoR: Accelerating Genomics for Rare Diseases",
+      "url": "http://arxiv.org/abs/2412.14338v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Moez Dawood",
+        "Ben Heavner",
+        "Marsha M. Wheeler",
+        "Rachel A. Ungar",
+        "Jonathan LoTempio",
+        "Laurens Wiel",
+        "Seth Berger",
+        "Jonathan A. Bernstein"
+      ],
+      "venue": "arXiv",
+      "summary": "Rare diseases are collectively common, affecting approximately one in twenty individuals worldwide. In recent years, rapid progress has been made in rare disease diagnostics due to advances in DNA sequencing, development of new computational and experimental approaches to prioritize genes and genetic variants, and increased global exchange of clinical and genetic data. However, more than half of individuals suspected to have a rare disease lack a genetic diagnosis. The Genomics Research to Elucidate the Genetics of Rare Diseases (GREGoR) Consortium was initiated to study thousands of challengi..."
+    },
+    {
+      "source_id": "Crossref-c2afd944b929a487",
+      "provider": "Crossref",
+      "title": "Unraveling the Human Tapestry",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0012",
+      "doi": "10.1093/oso/9780190940362.003.0012",
+      "year": 2019,
+      "authors": [
+        "Robert Sparrow"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-d16737d47824b954",
+      "provider": "Crossref",
+      "title": "A Rare Variant Association Test Based on Combinations of Single-Variant Tests",
+      "url": "https://doi.org/10.1002/gepi.21834",
+      "doi": "10.1002/gepi.21834",
+      "year": 2014,
+      "authors": [
+        "Qiuying Sha",
+        "Shuanglin Zhang"
+      ],
+      "venue": "Genetic Epidemiology",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-65836c2833c9c6a5",
+      "provider": "Crossref",
+      "title": "Widespread epistasis among beneficial genetic variants revealed by high-throughput genome editing",
+      "url": "https://doi.org/10.1101/2022.06.05.494911",
+      "doi": "10.1101/2022.06.05.494911",
+      "year": 2022,
+      "authors": [
+        "Roy Moh Lik Ang",
+        "Shi-An Anderson Chen",
+        "Alexander F. Kern",
+        "Yihua Xie",
+        "Hunter B. Fraser"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "OpenAlex",
+      "message": "error sending request for url (https://api.openalex.org/works?search=genetics+safety+human+flourishing+genome+editing+specific+combinations+genetic+architecture+high+rare+variant+contribution+epistasis&per-page=3&sort=relevance_score%3Adesc..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781160087-Genetics-followup-1781079581-c6db293336f1.json"
+}

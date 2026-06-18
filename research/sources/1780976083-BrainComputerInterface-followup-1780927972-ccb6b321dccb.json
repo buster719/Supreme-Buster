@@ -1,0 +1,94 @@
+{
+  "timestamp_secs": 1780976083,
+  "task_id": "followup-1780927972-ccb6b321dccb",
+  "domain": "BrainComputerInterface",
+  "question": "Which EEG/ECoG datasets include simultaneous behavioural or self-report ground truth that could be repurposed to measure unintended decoder behaviour?",
+  "query": "brain computer interface human AI cooperation risks ecog datasets include simultaneous behavioural self report ground truth",
+  "sources": [
+    {
+      "source_id": "OpenAlex-2f4be48c294c6a25",
+      "provider": "OpenAlex",
+      "title": "Artificial Intelligence in Science and Society: The Vision of USERN",
+      "url": "https://doi.org/10.1109/access.2025.3529357",
+      "doi": "https://doi.org/10.1109/access.2025.3529357",
+      "year": 2025,
+      "authors": [
+        "T. Dorigo",
+        "Gary D. Brown",
+        "Carlo Casonato",
+        "Artemi Cerdà",
+        "Joseph Ciarrochi",
+        "Mauro Da Lio",
+        "Nicole D’Souza",
+        "Nicolas R. Gauger"
+      ],
+      "venue": "IEEE Access",
+      "summary": "The recent rise in relevance and diffusion of Artificial Intelligence (AI)-based systems and the increasing number and power of applications of AI methods invites a profound reflection on the impact of these innovative systems on scientific research and society at large. The Universal Scientific Education and Research Network (USERN), an organization that promotes initiatives to support interdisciplinary science and education across borders and actively works to improve science policy, collects here the vision of its Advisory Board members, together with a selection of AI experts, to summarize..."
+    },
+    {
+      "source_id": "OpenAlex-743d20ae34f201be",
+      "provider": "OpenAlex",
+      "title": "Comparing different brain computer interface control tasks, across multiple online sessions",
+      "url": "https://hdl.handle.net/20.500.14783/15506",
+      "doi": "https://doi.org/10.48336/331",
+      "year": 2025,
+      "authors": [
+        "Erfan mansoori"
+      ],
+      "venue": "Open MIND",
+      "summary": "Motor imagery (MI)-based brain-computer interfaces (BCIs) offer a promising avenue for enabling communication and control in individuals with motor impairments. While prior studies have largely focused on decoding short, discrete MI trials, the feasibility of decoding MI tasks continuously over longer intervals - as would be needed in applications like wheelchair, drone, or avatar control - is less understood. This study examined the online classification of four MI tasks (Hand, Feet, Tongue, Singing) versus rest using EEG in such a simulated continuous control paradigm. Ten healthy participan..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-f5990db1c861a3b1",
+      "provider": "Crossref",
+      "title": "Frequency Component Selection for an ECoG-based Brain-Computer Interface. Auswahl von Frequenzkomponenten aus ECoG-Signalen zur Steuerung eines Brain Computer Interface",
+      "url": "https://doi.org/10.1515/bmte.2003.48.1-2.31",
+      "doi": "10.1515/bmte.2003.48.1-2.31",
+      "year": 2003,
+      "authors": [
+        "R. Scherer",
+        "B. Graimann",
+        "J. E. Huggins",
+        "S. R. Levine",
+        "G. Pfurtscheller"
+      ],
+      "venue": "Biomedizinische Technik/Biomedical Engineering",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "error sending request for url (https://export.arxiv.org/api/query?search_query=all%3Abrain+computer+interface+human+AI+cooperation+risks+ecog+datasets+include+simultaneous+behavioural+self+report+ground+truth&start=0&max_results=3&sortBy=re..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780976083-BrainComputerInterface-followup-1780927972-ccb6b321dccb.json"
+}

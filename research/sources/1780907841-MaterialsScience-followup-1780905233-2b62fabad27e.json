@@ -1,0 +1,119 @@
+{
+  "timestamp_secs": 1780907841,
+  "task_id": "followup-1780905233-2b62fabad27e",
+  "domain": "MaterialsScience",
+  "question": "Which 2D magnet or topological insulator has shown room-temperature quantum anomalous Hall effect in reproducible exfoliated devices with gate-tunable switching energy below 1 aJ?",
+  "query": "materials science fusion robotics aerospace computation magnet topological insulator shown room temperature quantum anomalous hall",
+  "sources": [
+    {
+      "source_id": "Arxiv-97f63d57d09a4de4",
+      "provider": "Arxiv",
+      "title": "Multiflavor Mott insulators in quantum materials and ultracold atoms",
+      "url": "http://arxiv.org/abs/2112.02630v2",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Gang V. Chen",
+        "Congjun Wu"
+      ],
+      "venue": "arXiv",
+      "summary": "Mott insulators with large and active (or multiflavor) local Hilbert spaces widely occur in quantum materials and ultracold atomic systems, and are dubbed \"multiflavor Mott insulators\". For these multiflavored Mott insulating materials, the spin-only description with the quadratic spin interactions is often insufficient to capture the major physical processes. In the situation with active orbitals, the Kugel-Khomskii superexchange model was then proposed. We briefly review this historical model and discuss the modern developments beyond the original spin-orbital context. These include and are ..."
+    },
+    {
+      "source_id": "Arxiv-529caceceafa3307",
+      "provider": "Arxiv",
+      "title": "From insulator to quantum Hall liquid at low magnetic fields",
+      "url": "http://arxiv.org/abs/cond-mat/0601490v2",
+      "doi": null,
+      "year": 2006,
+      "authors": [
+        "Tsai-Yu Huang",
+        "C. -T. Liang",
+        "Gil-Ho Kim",
+        "C. F. Huang",
+        "Chao-Ping Huang",
+        "Jyun-Ying Lin",
+        "Hsi-Sheng Goan",
+        "D. A. Ritchie"
+      ],
+      "venue": "arXiv",
+      "summary": "We have performed low-temperature transport measurements on a GaAs two-dimensional electron system at low magnetic fields. Multiple temperature-independent points and accompanying oscillations are observed in the longitudinal resistivity between the low-field insulator and the quantum Hall (QH) liquid. Our results support the existence of an intermediate regime, where the amplitudes of magneto-oscillations can be well described by conventional Shubnikov-de Haas theory, between the low-field insulator and QH liquid."
+    },
+    {
+      "source_id": "Arxiv-f0a8307dd3b1e512",
+      "provider": "Arxiv",
+      "title": "Progress and prospects in the quantum anomalous Hall effect",
+      "url": "http://arxiv.org/abs/2205.15226v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Hang Chi",
+        "Jagadeesh S. Moodera"
+      ],
+      "venue": "arXiv",
+      "summary": "The quantum anomalous Hall effect refers to the quantization of Hall effect in the absence of applied magnetic field. The quantum anomalous Hall effect is of topological nature and well suited for field-free resistance metrology and low-power information processing utilizing dissipationless chiral edge transport. In this Perspective, we provide an overview of the recent achievements as well as the materials challenges and opportunities, pertaining to engineering intrinsic/interfacial magnetic coupling, that are expected to propel future development of the field."
+    },
+    {
+      "source_id": "OpenAlex-3d0c9bf395a7ece6",
+      "provider": "OpenAlex",
+      "title": "The 2024 phononic crystals roadmap",
+      "url": "https://doi.org/10.1088/1361-6463/ad9ab2",
+      "doi": "https://doi.org/10.1088/1361-6463/ad9ab2",
+      "year": 2024,
+      "authors": [
+        "Yabin Jin",
+        "Daniel Torrent",
+        "B. Djafari-Rouhani",
+        "Liangshu He",
+        "Yanxun Xiang",
+        "Fu‐Zhen Xuan",
+        "Zhongming Gu",
+        "Haoran Xue"
+      ],
+      "venue": "Journal of Physics D Applied Physics",
+      "summary": "Abstract Over the past 3 decades, phononic crystals experienced revolutionary development for understanding and utilizing mechanical waves by exploring interaction between mechanical waves and structures. With the significant advances in manufacture technologies from nanoscale to macroscale, phononic crystals attract researchers from diverse disciplines to study abundant directions such as bandgaps, dispersion engineering, novel modes, reconfigurable control, efficient design algorithms and so on. The aim of this roadmap is to present the current state of the art, an overview of properties, fu..."
+    },
+    {
+      "source_id": "OpenAlex-56224dab905be065",
+      "provider": "OpenAlex",
+      "title": "AI-driven inverse design of materials: Past, present and future",
+      "url": "http://arxiv.org/abs/2411.09429",
+      "doi": "https://doi.org/10.48550/arxiv.2411.09429",
+      "year": 2024,
+      "authors": [
+        "Xu Han",
+        "Xin-De Wang",
+        "M. Xu",
+        "Feng Zhen",
+        "Yao, Bo-Wen",
+        "Peng-Jie Guo",
+        "Gao, Ze-Feng",
+        "Zhong-Yi Lu"
+      ],
+      "venue": "arXiv (Cornell University)",
+      "summary": "The discovery of advanced materials is the cornerstone of human technological development and progress. The structures of materials and their corresponding properties are essentially the result of a complex interplay of multiple degrees of freedom such as lattice, charge, spin, symmetry, and topology. This poses significant challenges for the inverse design methods of materials. Humans have long explored new materials through a large number of experiments and proposed corresponding theoretical systems to predict new material properties and structures. With the improvement of computational powe..."
+    },
+    {
+      "source_id": "OpenAlex-a829aaa3b72b887f",
+      "provider": "OpenAlex",
+      "title": "Research on Development Strategies for China&amp;rsquo;s Advanced Materials Industry",
+      "url": "https://doi.org/10.15302/j-sscae-2016.04.014",
+      "doi": "https://doi.org/10.15302/j-sscae-2016.04.014",
+      "year": 2016,
+      "authors": [
+        "Tu Hailing",
+        "Zhang Shirong",
+        "Tengfei Li"
+      ],
+      "venue": "Strategic Study of CAE",
+      "summary": "As a sector of strategic emerging industry, the advanced materials industry is vital for the socioeconomic development and security of the country. This paper describes the current status of the advanced materials industry both in China and abroad and discusses the challenges of the related enterprises. Finally, the authors propose the major development directions and put forth suggestions on government policies for promoting the advanced materials industry."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1309; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":111157,\"items\":[{\"DOI\":\"10.1017\\/97810090537..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780907841-MaterialsScience-followup-1780905233-2b62fabad27e.json"
+}

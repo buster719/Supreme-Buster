@@ -1,0 +1,24 @@
+{
+  "timestamp_secs": 1781080319,
+  "task_id": "followup-1780967858-19053601b07c",
+  "domain": "Genetics",
+  "question": "What is the empirical ratio of within-family PRS variance explained to population-level variance explained across major PGT-P traits (e.g., height, cognitive ability, T2D)?",
+  "query": "genetics safety human flourishing genome editing empirical ratio within family variance explained population level across",
+  "sources": [],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "error sending request for url (https://export.arxiv.org/api/query?search_query=all%3Agenetics+safety+human+flourishing+genome+editing+empirical+ratio+within+family+variance+explained+population+level+across&start=0&max_results=3&sortBy=rele..."
+    },
+    {
+      "provider": "OpenAlex",
+      "message": "error sending request for url (https://api.openalex.org/works?search=genetics+safety+human+flourishing+genome+editing+empirical+ratio+within+family+variance+explained+population+level+across&per-page=3&sort=relevance_score%3Adesc)"
+    },
+    {
+      "provider": "Crossref",
+      "message": "error sending request for url (https://api.crossref.org/works?query=genetics+safety+human+flourishing+genome+editing+empirical+ratio+within+family+variance+explained+population+level+across&rows=3&select=DOI%2Ctitle%2CURL%2Cauthor%2Cpublish..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781080319-Genetics-followup-1780967858-19053601b07c.json"
+}

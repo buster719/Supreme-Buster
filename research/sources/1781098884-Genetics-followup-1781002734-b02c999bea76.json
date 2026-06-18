@@ -1,0 +1,145 @@
+{
+  "timestamp_secs": 1781098884,
+  "task_id": "followup-1781002734-b02c999bea76",
+  "domain": "Genetics",
+  "question": "How does the Australian approach compare to the UK's clinical pathway—are there conditions Australia covers or excludes that the UK does not, and vice versa?",
+  "query": "genetics safety human flourishing genome editing australian approach compare clinical pathway there conditions australia covers",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-55dc72373b51bdc0",
+      "provider": "OpenAlex",
+      "title": "Public Engagement through Inclusive Deliberation: The Human Genome International Commission and Citizens’ Juries",
+      "url": "https://doi.org/10.1080/15265161.2022.2146786",
+      "doi": "https://doi.org/10.1080/15265161.2022.2146786",
+      "year": 2022,
+      "authors": [
+        "Naomi Scheinerman"
+      ],
+      "venue": "The American Journal of Bioethics",
+      "summary": "In this paper, I take seriously calls for public engagement in human genome editing decision-making by endorsing the convening of a \"Citizens Jury\" in conjunction with the International Commission on the Clinical Use of Human Germline Genome Editing's next summit scheduled for March 6-8, 2023. This institutional modification promises a more inclusive, deliberative, and impactful form of engagement than standard bioethics engagement opportunities, such as comment periods, by serving both normative and political purposes in the quest to offer moral guidance on gene editing. In examining evidence..."
+    },
+    {
+      "source_id": "OpenAlex-fcf4a15019fa78df",
+      "provider": "OpenAlex",
+      "title": "Gene Therapy for the Heart Lessons Learned and Future Perspectives",
+      "url": "https://doi.org/10.1161/circresaha.120.315855",
+      "doi": "https://doi.org/10.1161/circresaha.120.315855",
+      "year": 2020,
+      "authors": [
+        "Antonio Cannatà",
+        "Hashim Ali",
+        "Gianfranco Sinagra",
+        "Mauro Giacca"
+      ],
+      "venue": "Circulation Research",
+      "summary": "While clinical gene therapy celebrates its first successes, with several products already approved for clinical use and several hundreds in the final stages of the clinical approval pipeline, there is not a single gene therapy approach that has worked for the heart. Here, we review the past experience gained in the several cardiac gene therapy clinical trials that had the goal of inducing therapeutic angiogenesis in the ischemic heart and in the attempts at modulating cardiac function in heart failure. Critical assessment of the results so far achieved indicates that the efficiency of cardiac ..."
+    },
+    {
+      "source_id": "OpenAlex-090105d2b5256109",
+      "provider": "OpenAlex",
+      "title": "The neuroscience of positive emotions and affect: Implications for cultivating happiness and wellbeing",
+      "url": "https://doi.org/10.1016/j.neubiorev.2020.12.002",
+      "doi": "https://doi.org/10.1016/j.neubiorev.2020.12.002",
+      "year": 2020,
+      "authors": [
+        "Rebecca Alexander",
+        "Oriana R. Aragón",
+        "Jamila Bookwala",
+        "Nicolas Cherbuin",
+        "Justine M. Gatt",
+        "Ian J. Kahrilas",
+        "Niklas Kästner",
+        "A.B. Lawrence"
+      ],
+      "venue": "Neuroscience & Biobehavioral Reviews",
+      "summary": "This review paper provides an integrative account regarding neurophysiological correlates of positive emotions and affect that cumulatively contribute to the scaffolding for happiness and wellbeing in humans and other animals. This paper reviews the associations among neurotransmitters, hormones, brain networks, and cognitive functions in the context of positive emotions and affect. Consideration of lifespan developmental perspectives are incorporated, and we also examine the impact of healthy social relationships and environmental contexts on the modulation of positive emotions and affect. Th..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781098884-Genetics-followup-1781002734-b02c999bea76.json"
+}

@@ -1,0 +1,60 @@
+{
+  "timestamp_secs": 1781182947,
+  "task_id": "followup-1781083454-4a4c7a03ac27",
+  "domain": "Aerospace",
+  "question": "How do the data formats in benchmark datasets like RAPID or NASA's NDE repository compare to the proprietary outputs of commercial simulation software like CIVA?",
+  "query": "aerospace civilization resilience deep space capability data formats benchmark datasets like rapid nasa repository compare",
+  "sources": [
+    {
+      "source_id": "Crossref-5a7a7e75eadb4f5a",
+      "provider": "Crossref",
+      "title": "Automatic flood detection from Sentinel-1 data using Deep learning: Demonstration of NASA-ETCI Benchmark datasets.",
+      "url": "https://doi.org/10.1002/essoar.10509370.1",
+      "doi": "10.1002/essoar.10509370.1",
+      "year": 2021,
+      "authors": [
+        "Shagun Garg",
+        "Binayak Ghosh",
+        "Mahdi Motagh"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-5e2de3a7a89b8e00",
+      "provider": "Crossref",
+      "title": "An Agile Ethos for Rapid Space Capability Delivery",
+      "url": "https://doi.org/10.1109/aero63441.2025.11068628",
+      "doi": "10.1109/aero63441.2025.11068628",
+      "year": 2025,
+      "authors": [
+        "Barbara Braun",
+        "Patrick Stadter",
+        "Geoff Reber"
+      ],
+      "venue": "2025 IEEE Aerospace Conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-d4b8113a4f1c201e",
+      "provider": "Crossref",
+      "title": "FY2024 Science Data Repository Metrics Report",
+      "url": "https://doi.org/10.64631/bjdw5471",
+      "doi": "10.64631/bjdw5471",
+      "year": 2026,
+      "authors": [
+        "NASA Science Mission Directorate"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "HTTP status client error (429 Unknown Error) for url (https://export.arxiv.org/api/query?search_query=all%3Aaerospace+civilization+resilience+deep+space+capability+data+formats+benchmark+datasets+like+rapid+nasa+repository+compare&start=0&m..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781182947-Aerospace-followup-1781083454-4a4c7a03ac27.json"
+}

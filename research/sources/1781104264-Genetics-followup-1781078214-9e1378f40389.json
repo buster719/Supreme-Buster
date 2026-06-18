@@ -1,0 +1,144 @@
+{
+  "timestamp_secs": 1781104264,
+  "task_id": "followup-1781078214-9e1378f40389",
+  "domain": "Genetics",
+  "question": "Are there specific genetic variants or pathways where the mediation effect is notably stronger or weaker, suggesting a direct biological effect less amenable to behavioral modification?",
+  "query": "genetics safety human flourishing genome editing there specific genetic variants pathways mediation effect notably stronger",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-fbdd76b64a55f73e",
+      "provider": "OpenAlex",
+      "title": "Development of CRISPR-Cas systems for genome editing and beyond",
+      "url": "https://doi.org/10.1017/s0033583519000052",
+      "doi": "https://doi.org/10.1017/s0033583519000052",
+      "year": 2019,
+      "authors": [
+        "F. Zhang"
+      ],
+      "venue": "Quarterly Reviews of Biophysics",
+      "summary": "Abstract The development of clustered regularly interspaced short-palindromic repeat (CRISPR)-Cas systems for genome editing has transformed the way life science research is conducted and holds enormous potential for the treatment of disease as well as for many aspects of biotechnology. Here, I provide a personal perspective on the development of CRISPR-Cas9 for genome editing within the broader context of the field and discuss our work to discover novel Cas effectors and develop them into additional molecular tools. The initial demonstration of Cas9-mediated genome editing launched the develo..."
+    },
+    {
+      "source_id": "OpenAlex-4f4af7dcc4ea3d23",
+      "provider": "OpenAlex",
+      "title": "Ferroptosis in cancer: from molecular mechanisms to therapeutic strategies",
+      "url": "https://doi.org/10.1038/s41392-024-01769-5",
+      "doi": "https://doi.org/10.1038/s41392-024-01769-5",
+      "year": 2024,
+      "authors": [
+        "Qian Zhou",
+        "Yu Meng",
+        "Daishi Li",
+        "Lei Yao",
+        "Jiayuan Le",
+        "Yihuang Liu",
+        "Yuming Sun",
+        "Furong Zeng"
+      ],
+      "venue": "Signal Transduction and Targeted Therapy",
+      "summary": "Ferroptosis is a non-apoptotic form of regulated cell death characterized by the lethal accumulation of iron-dependent membrane-localized lipid peroxides. It acts as an innate tumor suppressor mechanism and participates in the biological processes of tumors. Intriguingly, mesenchymal and dedifferentiated cancer cells, which are usually resistant to apoptosis and traditional therapies, are exquisitely vulnerable to ferroptosis, further underscoring its potential as a treatment approach for cancers, especially for refractory cancers. However, the impact of ferroptosis on cancer extends beyond it..."
+    },
+    {
+      "source_id": "OpenAlex-7d644a19e4f7bebd",
+      "provider": "OpenAlex",
+      "title": "New Frontiers in Genetics, Gut Microbiota, and Immunity: A Rosetta Stone for the Pathogenesis of Inflammatory Bowel Disease",
+      "url": "https://doi.org/10.1155/2017/8201672",
+      "doi": "https://doi.org/10.1155/2017/8201672",
+      "year": 2017,
+      "authors": [
+        "Mingxia Zhou",
+        "Jing He",
+        "Yujie Shen",
+        "Cong Zhang",
+        "Jiazheng Wang",
+        "Yingwei Chen"
+      ],
+      "venue": "BioMed Research International",
+      "summary": "Inflammatory bowel disease (IBD), which encompasses ulcerative colitis (UC) and Crohn's disease (CD), is a complicated, uncontrolled, and multifactorial disorder characterized by chronic, relapsing, or progressive inflammatory conditions that may involve the entire gastrointestinal tract. The protracted nature has imposed enormous economic burdens on patients with IBD, and the treatment is far from optimal due to the currently limited comprehension of IBD pathogenesis. In spite of the exact etiology still remaining an enigma, four identified components, including personal genetic susceptibilit..."
+    },
+    {
+      "source_id": "Crossref-de87ba0e631c259f",
+      "provider": "Crossref",
+      "title": "Identification of genetic variants within specific regions of the human genome",
+      "url": "https://doi.org/10.4016/10192.01",
+      "doi": "10.4016/10192.01",
+      "year": 2009,
+      "authors": [],
+      "venue": "SciVee",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-c2afd944b929a487",
+      "provider": "Crossref",
+      "title": "Unraveling the Human Tapestry",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0012",
+      "doi": "10.1093/oso/9780190940362.003.0012",
+      "year": 2019,
+      "authors": [
+        "Robert Sparrow"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781104264-Genetics-followup-1781078214-9e1378f40389.json"
+}

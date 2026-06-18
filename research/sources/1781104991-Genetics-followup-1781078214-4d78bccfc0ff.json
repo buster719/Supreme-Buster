@@ -1,0 +1,122 @@
+{
+  "timestamp_secs": 1781104991,
+  "task_id": "followup-1781078214-4d78bccfc0ff",
+  "domain": "Genetics",
+  "question": "To what extent are the observed health behaviors themselves downstream of genetic predisposition (i.e., part of a genetic nurture or indirect effect) versus independently shaped by SES?",
+  "query": "genetics safety human flourishing genome editing extent observed health behaviors themselves downstream genetic predisposition part",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-5d661b58c17228c8",
+      "provider": "OpenAlex",
+      "title": "Creating Future People: The Ethics of Genetic Enhancement",
+      "url": "https://doi.org/10.4324/9781003014805",
+      "doi": "https://doi.org/10.4324/9781003014805",
+      "year": 2020,
+      "authors": [
+        "Jonathan Anomaly"
+      ],
+      "venue": null,
+      "summary": "Creating Future People offers readers a fast-paced primer on how new genetic technologies will enable parents to influence the traits of their children, including their intelligence, moral capacities, physical appearance, and immune system. It deftly explains the science of gene editing and embryo selection, and raises the central moral questions with colorful language and a brisk style. Jonathan Anomaly takes seriously the diversity of preferences parents have, and the limits of public policy in regulating what could soon be a global market for reproductive technology. He argues that once emb..."
+    },
+    {
+      "source_id": "OpenAlex-8d97026743fa0530",
+      "provider": "OpenAlex",
+      "title": "Creating Future People",
+      "url": "https://doi.org/10.4324/9781003464266",
+      "doi": "https://doi.org/10.4324/9781003464266",
+      "year": 2024,
+      "authors": [
+        "Jonathan Anomaly"
+      ],
+      "venue": null,
+      "summary": "Creating Future People offers readers a fast-paced primer on how advances in genetics will enable parents to influence the traits of their children, including their children’s intelligence, moral capacities, physical appearance, and immune system. It explains the science of gene editing and embryo selection and motivates the moral questions it raises by thinking about the strategic aspects of parental choice. Professor Anomaly takes seriously the diversity of preferences parents have, and the limits policymakers face in regulating what will soon be a global market for reproductive technology. ..."
+    },
+    {
+      "source_id": "Crossref-c2afd944b929a487",
+      "provider": "Crossref",
+      "title": "Unraveling the Human Tapestry",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0012",
+      "doi": "10.1093/oso/9780190940362.003.0012",
+      "year": 2019,
+      "authors": [
+        "Robert Sparrow"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781104991-Genetics-followup-1781078214-4d78bccfc0ff.json"
+}

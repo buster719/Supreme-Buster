@@ -1,0 +1,100 @@
+{
+  "timestamp_secs": 1780973416,
+  "task_id": "followup-1780926383-771607ea47f6",
+  "domain": "Aerospace",
+  "question": "To what extent does a shared orbital propellant depot (e.g. water from ISRU) create a non-linear reduction in total ΔV requirements for a fleet of 10 identical missions compared to each carrying its own fuel?",
+  "query": "aerospace civilization resilience deep space capability extent shared orbital propellant depot water isru create linear",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    },
+    {
+      "source_id": "Arxiv-3801f0fec6bd2526",
+      "provider": "Arxiv",
+      "title": "Learn to Accumulate Evidence from All Training Samples: Theory and Practice",
+      "url": "http://arxiv.org/abs/2306.11113v2",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Pandey",
+        "Qi Yu"
+      ],
+      "venue": "arXiv",
+      "summary": "Evidential deep learning, built upon belief theory and subjective logic, offers a principled and computationally efficient way to turn a deterministic neural network uncertainty-aware. The resultant evidential models can quantify fine-grained uncertainty using the learned evidence. To ensure theoretically sound evidential models, the evidence needs to be non-negative, which requires special activation functions for model training and inference. This constraint often leads to inferior predictive performance compared to standard softmax models, making it challenging to extend them to many large-..."
+    },
+    {
+      "source_id": "Crossref-a325643ea027d72f",
+      "provider": "Crossref",
+      "title": "Techniques for Integrated Thermal-Structural Design of an Orbital Propellant Depot",
+      "url": "https://doi.org/10.2514/6.2013-5495",
+      "doi": "10.2514/6.2013-5495",
+      "year": 2013,
+      "authors": [
+        "August T. Noevere",
+        "Alan W. Wilhite"
+      ],
+      "venue": "AIAA SPACE 2013 Conference and Exposition",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-fb4fc9a4885fe531",
+      "provider": "Crossref",
+      "title": "The Griffiths ISRU-Powered Plasma Hopper (IMPH)A Shear-Stabilized Electromagnetic Surface Hopper with ISRU Propellant Generation and Kelvin-Helmholtz Bounded Operation",
+      "url": "https://doi.org/10.61359/11.2106-2617",
+      "doi": "10.61359/11.2106-2617",
+      "year": 2026,
+      "authors": [
+        "Wayne Griffiths"
+      ],
+      "venue": "Acceleron Aerospace Journal",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-129b2842cda18faf",
+      "provider": "Crossref",
+      "title": "Performance of Existing Launch Vehicle Stages for Earth Departure with Refuel from Orbital Propellant Depot",
+      "url": "https://doi.org/10.2514/6.2014-4272",
+      "doi": "10.2514/6.2014-4272",
+      "year": 2014,
+      "authors": [
+        "Geoffrey L. Glidden",
+        "Alan W. Wilhite"
+      ],
+      "venue": "AIAA SPACE 2014 Conference and Exposition",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "OpenAlex",
+      "message": "error sending request for url (https://api.openalex.org/works?search=aerospace+civilization+resilience+deep+space+capability+extent+shared+orbital+propellant+depot+water+isru+create+linear&per-page=3&sort=relevance_score%3Adesc)"
+    }
+  ],
+  "bundle_path": "../research/sources/1780973416-Aerospace-followup-1780926383-771607ea47f6.json"
+}

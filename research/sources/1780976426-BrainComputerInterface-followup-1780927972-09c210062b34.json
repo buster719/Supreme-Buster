@@ -1,0 +1,108 @@
+{
+  "timestamp_secs": 1780976426,
+  "task_id": "followup-1780927972-09c210062b34",
+  "domain": "BrainComputerInterface",
+  "question": "Have any BCI research groups explicitly defined “alignment failure modes” (e.g. silent decoding drift, reward misspecification in closed-loop stimulation) as a benchmarkable problem?",
+  "query": "brain computer interface human AI cooperation risks research groups explicitly defined alignment failure modes silent decoding",
+  "sources": [
+    {
+      "source_id": "OpenAlex-d1ec1ddda81efa52",
+      "provider": "OpenAlex",
+      "title": "What is new with Artificial Intelligence? Human–agent interactions through the lens of social agency",
+      "url": "https://doi.org/10.3389/fpsyg.2022.954444",
+      "doi": "https://doi.org/10.3389/fpsyg.2022.954444",
+      "year": 2022,
+      "authors": [
+        "Marine Pagliari",
+        "Valérian Chambon",
+        "Bruno Berberian"
+      ],
+      "venue": "Frontiers in Psychology",
+      "summary": "In this article, we suggest that the study of social interactions and the development of a \"sense of agency\" in joint action can help determine the content of relevant explanations to be implemented in artificial systems to make them \"explainable.\" The introduction of automated systems, and more broadly of Artificial Intelligence (AI), into many domains has profoundly changed the nature of human activity, as well as the subjective experience that agents have of their own actions and their consequences - an experience that is commonly referred to as sense of agency. We propose to examine the em..."
+    },
+    {
+      "source_id": "OpenAlex-73440a241583b5bc",
+      "provider": "OpenAlex",
+      "title": "What is new with Artificial Intelligence? Human-agent interactions through the lens of social agency",
+      "url": "https://doi.org/10.31234/osf.io/a6fmr",
+      "doi": "https://doi.org/10.31234/osf.io/a6fmr",
+      "year": 2021,
+      "authors": [
+        "Marine PAGLIARI",
+        "Valérian Chambon",
+        "Bruno Berberian"
+      ],
+      "venue": null,
+      "summary": "The introduction of automated systems, and more broadly of Artificial Intelligence (AI), into many domains has profoundly changed the nature of human activity, as well as the subjective experience that agents have of their own actions and their consequences – an experience that is commonly referred to as \"sense of agency\" (SoA). In this review, we propose to examine the empirical evidence supporting this impact of automation on individuals’ sense of agency, and hence on measures as diverse as operator performance, system explicability and acceptability. Because of some of its key characteristi..."
+    },
+    {
+      "source_id": "OpenAlex-672b178051ecb464",
+      "provider": "OpenAlex",
+      "title": "A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research",
+      "url": "http://arxiv.org/abs/2401.14617",
+      "doi": "https://doi.org/10.48550/arxiv.2401.14617",
+      "year": 2024,
+      "authors": [
+        "Sicong Cao",
+        "Xiaobing Sun",
+        "Ratnadira Widyasari",
+        "David Lo",
+        "Xiaoxue Wu",
+        "Lili Bo",
+        "Jiale Zhang",
+        "Bin Li"
+      ],
+      "venue": "arXiv (Cornell University)",
+      "summary": "The remarkable achievements of Artificial Intelligence (AI) algorithms, particularly in Machine Learning (ML) and Deep Learning (DL), have fueled their extensive deployment across multiple sectors, including Software Engineering (SE). However, due to their black-box nature, these promising AI-driven SE models are still far from being deployed in practice. This lack of explainability poses unwanted risks for their applications in critical tasks, such as vulnerability detection, where decision-making transparency is of paramount importance. This paper endeavors to elucidate this interdisciplinar..."
+    },
+    {
+      "source_id": "Crossref-ab4351f2694e62b3",
+      "provider": "Crossref",
+      "title": "Decoding Human Prediction Errors for Human-Robot Value Alignment",
+      "url": "https://doi.org/10.1109/bci60775.2024.10480520",
+      "doi": "10.1109/bci60775.2024.10480520",
+      "year": 2024,
+      "authors": [
+        "Xin Xu",
+        "Sang Wan Lee"
+      ],
+      "venue": "2024 12th International Winter Conference on Brain-Computer Interface (BCI)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-7b1811eea0b8fc24",
+      "provider": "Crossref",
+      "title": "NeuroNet: A Brain-Sync AI Interface for Silent Communication and Seamless Human-Machine Integration",
+      "url": "https://doi.org/10.2139/ssrn.5377793",
+      "doi": "10.2139/ssrn.5377793",
+      "year": 2025,
+      "authors": [
+        "Shreyas Gayan"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "HTTP status client error (429 Unknown Error) for url (https://export.arxiv.org/api/query?search_query=all%3Abrain+computer+interface+human+AI+cooperation+risks+research+groups+explicitly+defined+alignment+failure+modes+silent+decoding&start..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780976426-BrainComputerInterface-followup-1780927972-09c210062b34.json"
+}

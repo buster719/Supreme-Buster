@@ -1,0 +1,104 @@
+{
+  "timestamp_secs": 1780933662,
+  "task_id": "followup-1780918498-295a98a188d4",
+  "domain": "MaterialsScience",
+  "question": "Do any additive‑manufactured diboride specimens show measurable post‑cycling toughness due to microstructural self‑healing?",
+  "query": "materials science fusion robotics aerospace computation additive manufactured diboride specimens show measurable post cycling toughness",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-9ae19d41503aa222",
+      "provider": "Arxiv",
+      "title": "Stress Flow Guided Non-Planar Print Trajectory Optimization for Additive Manufacturing of Anisotropic Polymers",
+      "url": "http://arxiv.org/abs/2301.04999v3",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Xavier Guidetti",
+        "Efe C. Balta",
+        "Yannick Nagel",
+        "Hang Yin",
+        "Alisa Rupenyan",
+        "John Lygeros"
+      ],
+      "venue": "arXiv",
+      "summary": "When manufacturing parts using material extrusion additive manufacturing and anisotropic polymers, the mechanical properties of a manufactured component are strongly dependent on the print trajectory orientation. We conduct non-planar slicing and optimize the print trajectories to maximize the alignment between the material deposition direction and the stress flow induced by a predefined load case. The trajectory optimization framework considers manufacturability constraints in the form of uniform layer height and line spacing. We demonstrate the method by manufacturing a load bearing mechanic..."
+    },
+    {
+      "source_id": "Arxiv-cb4a2b75f3add1aa",
+      "provider": "Arxiv",
+      "title": "Secure and secret cooperation in robotic swarms",
+      "url": "http://arxiv.org/abs/1904.09266v3",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Eduardo Castelló Ferrer",
+        "Thomas Hardjono",
+        "Alex 'Sandy' Pentland",
+        "Marco Dorigo"
+      ],
+      "venue": "arXiv",
+      "summary": "The importance of swarm robotics systems in both academic research and real-world applications is steadily increasing. However, to reach widespread adoption, new models that ensure the secure cooperation of large groups of robots need to be developed. This work introduces a novel method to encapsulate cooperative robotic missions in an authenticated data structure known as Merkle tree. With this method, operators can provide the \"blueprint\" of the swarm's mission without disclosing its raw data. In other words, data verification can be separated from data itself. We propose a system where robo..."
+    },
+    {
+      "source_id": "Crossref-9dfa092230b33f58",
+      "provider": "Crossref",
+      "title": "Post-processing treatments–microstructure–performance interrelationship of metal additive manufactured aerospace alloys: A review",
+      "url": "https://doi.org/10.1080/02670836.2022.2130530",
+      "doi": "10.1080/02670836.2022.2130530",
+      "year": 2023,
+      "authors": [
+        "Olatunji Oladimeji Ojo",
+        "Emel Taban"
+      ],
+      "venue": "Materials Science and Technology",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-2617e07a4d4714ca",
+      "provider": "Crossref",
+      "title": "Preclinical Testing of a Novel, Additive-Manufactured, Three-Dimensional Porous Titanium Structure",
+      "url": "https://doi.org/10.1520/stp163120190139",
+      "doi": "10.1520/stp163120190139",
+      "year": 2020,
+      "authors": [
+        "Erik Woodard",
+        "Zach Post",
+        "Mark Morrison"
+      ],
+      "venue": "Structural Integrity of Additive Manufactured Materials and Parts",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-4d007bc3a2e14c46",
+      "provider": "Crossref",
+      "title": "Enhancing the Performance Measures of Electrical Discharge Machining Using Additive Manufactured Copper Tool Electrode on Drilling Titanium Alloy Specimens",
+      "url": "https://doi.org/10.1115/imece2023-112922",
+      "doi": "10.1115/imece2023-112922",
+      "year": 2023,
+      "authors": [
+        "Ragavanantham Shanmugam",
+        "Muthuramalingam Thangaraj",
+        "Geethapriyan Thangamani",
+        "Monsuru Ramoni"
+      ],
+      "venue": "Volume 4: Advanced Materials: Design, Processing, Characterization and Applications; Advances in Aerospace Technology",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780933662-MaterialsScience-followup-1780918498-295a98a188d4.json"
+}

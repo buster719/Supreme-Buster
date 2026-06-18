@@ -1,0 +1,111 @@
+{
+  "timestamp_secs": 1781191581,
+  "task_id": "followup-1781086131-7741fc10c40b",
+  "domain": "Aerospace",
+  "question": "Have any aerospace risk models been applied to compare standardized vs. custom docking or communication systems across a fleet?",
+  "query": "aerospace civilization resilience deep space capability aerospace risk models been applied compare standardized custom docking",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-602b6db0afeda68e",
+      "provider": "Arxiv",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "url": "http://arxiv.org/abs/1710.05204v2",
+      "doi": null,
+      "year": 2017,
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "venue": "arXiv",
+      "summary": "We consider calculation of capital requirements when the underlying economic scenarios are determined by simulatable risk factors. In the respective nested simulation framework, the goal is to estimate portfolio tail risk, quantified via VaR or TVaR of a given collection of future economic scenarios representing factor levels at the risk horizon. Traditionally, evaluating portfolio losses of an outer scenario is done by computing a conditional expectation via inner-level Monte Carlo and is computationally expensive. We introduce several inter-related machine learning techniques to speed up thi..."
+    },
+    {
+      "source_id": "Arxiv-5d24fac2710af3ef",
+      "provider": "Arxiv",
+      "title": "This paper has been withdrawn",
+      "url": "http://arxiv.org/abs/cond-mat/0309395v2",
+      "doi": null,
+      "year": 2003,
+      "authors": [
+        "This paper has been withdrawn"
+      ],
+      "venue": "arXiv",
+      "summary": "This paper has been withdrawn"
+    },
+    {
+      "source_id": "OpenAlex-a3cbc11c163904e8",
+      "provider": "OpenAlex",
+      "title": "Economic and Social Aspects of the Space Sector Development Based on the Modified Structure–Conduct–Performance Framework",
+      "url": "https://doi.org/10.3390/world6020079",
+      "doi": "https://doi.org/10.3390/world6020079",
+      "year": 2025,
+      "authors": [
+        "Michał Pietrzak"
+      ],
+      "venue": "World",
+      "summary": "Background: The global space economy has grown remarkably, witnessing a 10-fold increase in active satellites during the last 15 years. This growth was accompanied by both the increase in geopolitical tensions feeding huge investments (the New Space Race), on the one hand, and the transformation, shifting from a domain historically dominated by government-led programs to one partially energized by commercial players and innovative business models (“New Space”), on the other hand. Objective: To assess the space economy’s current state and future prospects by considering its economic and social ..."
+    },
+    {
+      "source_id": "OpenAlex-fd08983a0216a5ab",
+      "provider": "OpenAlex",
+      "title": "Exploring Challenges and Opportunities in Manufacturing and Intelligence for Future Robotics",
+      "url": "https://doi.org/10.1007/s12541-025-01318-2",
+      "doi": "https://doi.org/10.1007/s12541-025-01318-2",
+      "year": 2025,
+      "authors": [
+        "Jun Young Choi",
+        "Semin Ahn",
+        "Do–Hyeon Kim",
+        "Jun Heo",
+        "Won-Jae Yun",
+        "Sungjin Hong",
+        "Sung-Hoon Bae",
+        "Sung‐Hoon Ahn"
+      ],
+      "venue": "International Journal of Precision Engineering and Manufacturing",
+      "summary": "Abstract This paper offers a forward-looking perspective on the challenges and opportunities shaping the future of robotics, drawing insights from both established and emerging research. It addresses two pivotal dimensions: the complexities of manufacturing and the integration of intelligence within robotic systems. On the manufacturing front, key elements such as structural materials, manufacturing processes, assembly methodologies, sensors, actuators, and power systems are explored. Simultaneously, the paper evaluates the evolution of robotic intelligence, focusing on frameworks for autonomo..."
+    },
+    {
+      "source_id": "OpenAlex-4fce07ba63edef67",
+      "provider": "OpenAlex",
+      "title": "TN - 8 - Dinte - Research for investment cooperation between Brazil and China",
+      "url": "http://doi.org/10.38116/tndinte08",
+      "doi": "https://doi.org/10.38116/tndinte08",
+      "year": 2022,
+      "authors": [
+        "Renato Baumann",
+        "Gilberto Libânio",
+        "Mário Joplin",
+        "Hugo Iasco",
+        "Scarlet Queen",
+        "Marcelo José Braga Nonnenberg",
+        "Mi Zhou",
+        "Xu Man"
+      ],
+      "venue": null,
+      "summary": "This report draws a general picture of the investment between China and Brazil. The Belt and Road Initiative (BRI) has been an important platform for the bilateral investment cooperation between the two countries, including in the policy coordination, facilities connectivity, unimpeded trade, financial integration and people-to-people bond. After its proposal in 2013, quite a lot of achievements show us the good effects of cooperation, which in turn attracts more interests of cooperation from other countries."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1192; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":26459,\"items\":[{\"abstract\":\"<jats:p>The dome..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781191581-Aerospace-followup-1781086131-7741fc10c40b.json"
+}

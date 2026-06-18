@@ -1,0 +1,114 @@
+{
+  "timestamp_secs": 1780913445,
+  "task_id": "followup-1780907552-234a9b0cf1f4",
+  "domain": "BrainComputerInterface",
+  "question": "How does human trust in AI change when the AI can read neural signals correlated with intention, emotional state, or cognitive load, and what experimental designs could isolate the BCI-mediated component from other interface factors?",
+  "query": "brain computer interface human AI cooperation risks trust change when read neural signals correlated intention emotional",
+  "sources": [
+    {
+      "source_id": "Arxiv-4a390b9f509da643",
+      "provider": "Arxiv",
+      "title": "Dynamic Neural Communication: Convergence of Computer Vision and Brain-Computer Interface",
+      "url": "http://arxiv.org/abs/2411.09211v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Ji-Ha Park",
+        "Seo-Hyun Lee",
+        "Soowon Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "arXiv",
+      "summary": "Interpreting human neural signals to decode static speech intentions such as text or images and dynamic speech intentions such as audio or video is showing great potential as an innovative communication tool. Human communication accompanies various features, such as articulatory movements, facial expressions, and internal speech, all of which are reflected in neural signals. However, most studies only generate short or fragmented outputs, while providing informative communication by leveraging various features from neural signals remains challenging. In this study, we introduce a dynamic neura..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "OpenAlex-7fd7b9ad9cffb37d",
+      "provider": "OpenAlex",
+      "title": "Control strategies for active lower extremity prosthetics and orthotics: a review",
+      "url": "https://doi.org/10.1186/1743-0003-12-1",
+      "doi": "https://doi.org/10.1186/1743-0003-12-1",
+      "year": 2015,
+      "authors": [
+        "Michael R. Tucker",
+        "Jérémy Olivier",
+        "Anna Pagel",
+        "Hannes Bleuler",
+        "Mohamed Bouri",
+        "Olivier Lambercy",
+        "José del R. Millán",
+        "Robert Riener"
+      ],
+      "venue": "Journal of NeuroEngineering and Rehabilitation",
+      "summary": ": Technological advancements have led to the development of numerous wearable robotic devices for the physical assistance and restoration of human locomotion. While many challenges remain with respect to the mechanical design of such devices, it is at least equally challenging and important to develop strategies to control them in concert with the intentions of the user.This work reviews the state-of-the-art techniques for controlling portable active lower limb prosthetic and orthotic (P/O) devices in the context of locomotive activities of daily living (ADL), and considers how these can be in..."
+    },
+    {
+      "source_id": "OpenAlex-d8ea0ed0da573f66",
+      "provider": "OpenAlex",
+      "title": "Citizens Versus the Internet: Confronting Digital Challenges With Cognitive Tools",
+      "url": "https://doi.org/10.1177/1529100620946707",
+      "doi": "https://doi.org/10.1177/1529100620946707",
+      "year": 2020,
+      "authors": [
+        "Anastasia Kozyreva",
+        "Stephan Lewandowsky",
+        "Ralph Hertwig"
+      ],
+      "venue": "Gothic.net",
+      "summary": "The Internet has evolved into a ubiquitous and indispensable digital environment in which people communicate, seek information, and make decisions. Despite offering various benefits, online environments are also replete with smart, highly adaptive choice architectures designed primarily to maximize commercial interests, capture and sustain users' attention, monetize user data, and predict and influence future behavior. This online landscape holds multiple negative consequences for society, such as a decline in human autonomy, rising incivility in online conversation, the facilitation of politi..."
+    },
+    {
+      "source_id": "OpenAlex-548b28732bd87888",
+      "provider": "OpenAlex",
+      "title": "On the Foundations of NeuroIS: Reflections on the Gmunden Retreat 2009",
+      "url": "https://doi.org/10.17705/1cais.02715",
+      "doi": "https://doi.org/10.17705/1cais.02715",
+      "year": 2010,
+      "authors": [
+        "René Riedl‬",
+        "Rajiv D. Banker",
+        "Izak Benbasat",
+        "Fred D. Davis",
+        "Alan R. Dennis",
+        "Angelika Dimoka",
+        "David Gefen",
+        "Alok Gupta"
+      ],
+      "venue": "Communications of the Association for Information Systems",
+      "summary": "This article reflects on the discussions of the fifteen participants (co-authors) of a retreat on the “Foundations of NeuroIS” that took place in Gmunden (Austria) in September 2009. In particular, this article offers initial answers to a set of research questions which are important for the foundations of NeuroIS, an emerging subfield within the IS discipline. The key questions discussed during the retreat that are addressed in this article are: (1) What is NeuroIS, and how does it relate to sister disciplines, such as neuroscience, neuroeconomics, and neuromarketing? (2) Which neuroscience t..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 2372; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":41288,\"items\":[{\"DOI\":\"10.1016\\/j.ijhcs.2026..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780913445-BrainComputerInterface-followup-1780907552-234a9b0cf1f4.json"
+}

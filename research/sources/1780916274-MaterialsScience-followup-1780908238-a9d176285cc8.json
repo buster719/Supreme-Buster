@@ -1,0 +1,98 @@
+{
+  "timestamp_secs": 1780916274,
+  "task_id": "followup-1780908238-a9d176285cc8",
+  "domain": "MaterialsScience",
+  "question": "Where does the reliability floor for sub-mm strain control in DEAs degrade due to electromechanical instability or electrode crack propagation, and how does pre-stretch affect it?",
+  "query": "materials science fusion robotics aerospace computation reliability floor strain control deas degrade electromechanical instability electrode",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-606473c39b080cc9",
+      "provider": "Arxiv",
+      "title": "DQ Robotics: a Library for Robot Modeling and Control",
+      "url": "http://arxiv.org/abs/1910.11612v3",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Bruno Vilhena Adorno",
+        "Murilo Marques Marinho"
+      ],
+      "venue": "arXiv",
+      "summary": "Dual quaternion algebra and its application to robotics have gained considerable interest in the last two decades. Dual quaternions have great geometric appeal and easily capture physical phenomena inside an algebraic framework that is useful for both robot modeling and control. Mathematical objects, such as points, lines, planes, infinite cylinders, spheres, coordinate systems, twists, and wrenches are all well defined as dual quaternions. Therefore, simple operators are used to represent those objects in different frames and operations such as inner products and cross products are used to ex..."
+    },
+    {
+      "source_id": "Arxiv-7c54850266c78eda",
+      "provider": "Arxiv",
+      "title": "On the role of Artificial Intelligence methods in modern force-controlled manufacturing robotic tasks",
+      "url": "http://arxiv.org/abs/2409.16828v3",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Vincenzo Petrone",
+        "Enrico Ferrentino",
+        "Pasquale Chiacchio"
+      ],
+      "venue": "arXiv",
+      "summary": "This position paper explores the integration of Artificial Intelligence (AI) into force-controlled robotic tasks within the scope of advanced manufacturing, a cornerstone of Industry 4.0. AI's role in enhancing robotic manipulators - key drivers in the Fourth Industrial Revolution - is rapidly leading to significant innovations in smart manufacturing. The objective of this article is to frame these innovations in practical force-controlled applications - e.g. deburring, polishing, and assembly tasks like peg-in-hole (PiH) - highlighting their necessity for maintaining high-quality production s..."
+    },
+    {
+      "source_id": "Crossref-1bc1896c07846213",
+      "provider": "Crossref",
+      "title": "Reliability-Adaptive Control of Aerospace Electromechanical Actuators with Coupled Degradation via Stochastic MPC",
+      "url": "https://doi.org/10.3390/math14040737",
+      "doi": "10.3390/math14040737",
+      "year": 2026,
+      "authors": [
+        "Le Qi"
+      ],
+      "venue": "Mathematics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-f17eab54ed2f5d20",
+      "provider": "Crossref",
+      "title": "Electrostatic ion-cyclotron instability and potential relaxation instability excited by a ring-button electrode",
+      "url": "https://doi.org/10.1088/0741-3335/29/2/012",
+      "doi": "10.1088/0741-3335/29/2/012",
+      "year": 1987,
+      "authors": [
+        "G Popa",
+        "M Sanduloviciu",
+        "E Lozneanu",
+        "R Schrittwieser"
+      ],
+      "venue": "Plasma Physics and Controlled Fusion",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-d03484be7165b3dc",
+      "provider": "Crossref",
+      "title": "Electromechanical Response of Large Strain Ferroelectric Actuators",
+      "url": "https://doi.org/10.1115/esda2008-59107",
+      "doi": "10.1115/esda2008-59107",
+      "year": 2008,
+      "authors": [
+        "Doron Shilo",
+        "Amir Mendelovich",
+        "Haika Drezner"
+      ],
+      "venue": "Volume 1: Advanced Energy Systems; Advanced and Digital Manufacturing; Advanced Materials; Aerospace",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780916274-MaterialsScience-followup-1780908238-a9d176285cc8.json"
+}

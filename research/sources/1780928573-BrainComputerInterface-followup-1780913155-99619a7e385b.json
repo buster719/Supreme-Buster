@@ -1,0 +1,105 @@
+{
+  "timestamp_secs": 1780928573,
+  "task_id": "followup-1780913155-99619a7e385b",
+  "domain": "BrainComputerInterface",
+  "question": "Which human-in-the-loop RL paradigms for BCI have been tested in longitudinal studies (>1 week) with able-bodied and disabled populations?",
+  "query": "brain computer interface human AI cooperation risks loop paradigms been tested longitudinal studies week able bodied",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-92d064b6a171fc70",
+      "provider": "Arxiv",
+      "title": "Airborne Ultrasonic Tactile Display Brain-computer Interface Paradigm",
+      "url": "http://arxiv.org/abs/1404.4184v1",
+      "doi": null,
+      "year": 2014,
+      "authors": [
+        "Katsuhiko Hamada",
+        "Hiromu Mori",
+        "Hiroyuki Shinoda",
+        "Tomasz M. Rutkowski"
+      ],
+      "venue": "arXiv",
+      "summary": "We study the extent to which contact-less and airborne ultrasonic tactile display (AUTD) stimuli delivered to the palms of a user can serve as a platform for a brain computer interface (BCI) paradigm. Six palm positions are used to evoke combined somatosensory brain responses, in order to define a novel contact-less tactile BCI. A comparison is made with classical attached vibrotactile transducers. Experiment results of subjects performing online experiments validate the novel BCI paradigm."
+    },
+    {
+      "source_id": "OpenAlex-a13eba0e740b07df",
+      "provider": "OpenAlex",
+      "title": "Present and future of gait assessment in clinical practice: Towards the application of novel trends and technologies",
+      "url": "https://doi.org/10.3389/fmedt.2022.901331",
+      "doi": "https://doi.org/10.3389/fmedt.2022.901331",
+      "year": 2022,
+      "authors": [
+        "Abdul Aziz Hulleck",
+        "Dhanya Menoth Mohan",
+        "Nada Abdallah",
+        "Marwan El‐Rich",
+        "Kinda Khalaf"
+      ],
+      "venue": "Frontiers in Medical Technology",
+      "summary": "Background: Despite being available for more than three decades, quantitative gait analysis remains largely associated with research institutions and not well leveraged in clinical settings. This is mostly due to the high cost/cumbersome equipment and complex protocols and data management/analysis associated with traditional gait labs, as well as the diverse training/experience and preference of clinical teams. Observational gait and qualitative scales continue to be predominantly used in clinics despite evidence of less efficacy of quantifying gait. Research objective: This study provides a s..."
+    },
+    {
+      "source_id": "OpenAlex-d8ca38000eba40a2",
+      "provider": "OpenAlex",
+      "title": "AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges",
+      "url": "https://doi.org/10.70777/si.v2i3.15161",
+      "doi": "https://doi.org/10.70777/si.v2i3.15161",
+      "year": 2025,
+      "authors": [
+        "Ranjan Sapkota",
+        "Konstantinos I. Roumeliotis",
+        "Manoj Karkee"
+      ],
+      "venue": "SuperIntelligence - Robotics - Safety & Alignment",
+      "summary": "This review critically distinguishes between AI Agents and Agentic AI, offering a structured, conceptual taxonomy, application mapping, and analysis of opportunities and challenges to clarify their divergent design philosophies and capabilities. We begin by outlining the search strategy and foundational definitions, characterizing AI Agents as modular systems driven and enabled by LLMs and LIMs for taskspecific automation. Generative AI is positioned as a precursor providing the foundation, with AI agents advancing through tool integration, prompt engineering, and reasoning enhancements. We th..."
+    },
+    {
+      "source_id": "OpenAlex-a0259f17a6903fb6",
+      "provider": "OpenAlex",
+      "title": "Loops, ladders and links: the recursivity of social and machine learning",
+      "url": "https://doi.org/10.1007/s11186-020-09409-x",
+      "doi": "https://doi.org/10.1007/s11186-020-09409-x",
+      "year": 2020,
+      "authors": [
+        "Marion Fourcade",
+        "Fleur Johns"
+      ],
+      "venue": "Theory and Society",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 2170; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":31767,\"items\":[{\"DOI\":\"10.4324\\/978042943081..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780928573-BrainComputerInterface-followup-1780913155-99619a7e385b.json"
+}

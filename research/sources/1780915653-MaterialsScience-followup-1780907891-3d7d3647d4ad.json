@@ -1,0 +1,79 @@
+{
+  "timestamp_secs": 1780915653,
+  "task_id": "followup-1780907891-3d7d3647d4ad",
+  "domain": "MaterialsScience",
+  "question": "Has any gate‑driven magnetisation reversal in a QAH insulator been demonstrated with write energy below 1 aJ in a device with a 2D channel, and what was the endurance?",
+  "query": "materials science fusion robotics aerospace computation gate driven magnetisation reversal insulator been demonstrated write energy",
+  "sources": [
+    {
+      "source_id": "Arxiv-a550f0dee388e844",
+      "provider": "Arxiv",
+      "title": "Large Synoptic Survey Telescope: Dark Energy Science Collaboration",
+      "url": "http://arxiv.org/abs/1211.0310v1",
+      "doi": null,
+      "year": 2012,
+      "authors": [
+        "LSST Dark Energy Science Collaboration"
+      ],
+      "venue": "arXiv",
+      "summary": "This white paper describes the LSST Dark Energy Science Collaboration (DESC), whose goal is the study of dark energy and related topics in fundamental physics with data from the Large Synoptic Survey Telescope (LSST). It provides an overview of dark energy science and describes the current and anticipated state of the field. It makes the case for the DESC by laying out a robust analytical framework for dark energy science that has been defined by its members and the comprehensive three-year work plan they have developed for implementing that framework. The analysis working groups cover five ke..."
+    },
+    {
+      "source_id": "Arxiv-844ce75f578038d0",
+      "provider": "Arxiv",
+      "title": "Scaling data-driven robotics with reward sketching and batch reinforcement learning",
+      "url": "http://arxiv.org/abs/1909.12200v3",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Serkan Cabi",
+        "Sergio Gómez Colmenarejo",
+        "Alexander Novikov",
+        "Ksenia Konyushkova",
+        "Scott Reed",
+        "Rae Jeong",
+        "Konrad Zolna",
+        "Yusuf Aytar"
+      ],
+      "venue": "arXiv",
+      "summary": "We present a framework for data-driven robotics that makes use of a large dataset of recorded robot experience and scales to several tasks using learned reward functions. We show how to apply this framework to accomplish three different object manipulation tasks on a real robot platform. Given demonstrations of a task together with task-agnostic recorded experience, we use a special form of human annotation as supervision to learn a reward function, which enables us to deal with real-world tasks where the reward signal cannot be acquired directly. Learned rewards are used in combination with a..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "OpenAlex-4601c7b009d5d6e2",
+      "provider": "OpenAlex",
+      "title": "Experiments in 3D Printing Electric Motors",
+      "url": "https://doi.org/10.20944/preprints202506.1560.v1",
+      "doi": "https://doi.org/10.20944/preprints202506.1560.v1",
+      "year": 2025,
+      "authors": [
+        "Alex Ellery",
+        "Abdurr Elaskri",
+        "M. Paranthaman",
+        "Fabrice Bernier"
+      ],
+      "venue": "Preprints.org",
+      "summary": "This paper catalogues a series of experiments we conducted to explore how to 3D print a DC electric motor. The individual parts of the electric motor were 3D printed but assembled by hand. First, we focused on the rotor with soft magnetic properties for which we adopted ProtoPastaTM which is a commercial off-the-shelf PLA filament incorporating iron particles. Second, we focused on the stator permanent magnets which were 3D printed through binder jetting. Third, we focused on the wire coils for which we adopted a form of laminated object manufacture of copper wire. The chief challenge was in 3..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 256; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":121340,\"items\":[{\"DOI\":\"10.1117\\/12.2635231.6..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780915653-MaterialsScience-followup-1780907891-3d7d3647d4ad.json"
+}

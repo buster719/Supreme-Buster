@@ -1,0 +1,142 @@
+{
+  "timestamp_secs": 1781020417,
+  "task_id": "followup-1780936647-dbf249e319cb",
+  "domain": "Genetics",
+  "question": "Which primary sources would most directly verify or falsify this answer about Genetics?",
+  "query": "genetics safety human flourishing genome editing primary sources verify falsify answer genetics",
+  "sources": [
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "Arxiv-0b10c4361b56f49d",
+      "provider": "Arxiv",
+      "title": "A Unified Model of Codon Reassignment in Alternative Genetic Codes",
+      "url": "http://arxiv.org/abs/q-bio/0410022v3",
+      "doi": null,
+      "year": 2004,
+      "authors": [
+        "Supratim Sengupta",
+        "Paul G. Higgs"
+      ],
+      "venue": "arXiv",
+      "summary": "Many modified genetic codes are found in specific genomes in which one or more codons have been reassigned to a different amino acid from that in the canonical code. We present a model that unifies four possible mechanisms for reassignment, based on the observation that reassignment involves a gain and a loss. The loss could be the deletion or loss of function of a tRNA or release factor. The gain could be the gain of a new type of tRNA for the reassigned codon, or the gain of function of an existing tRNA due to a mutation or a base modification. In the codon disappearance mechanism, the codon..."
+    },
+    {
+      "source_id": "OpenAlex-bb3c02c9b99dc292",
+      "provider": "OpenAlex",
+      "title": "Open Science: the Very Idea",
+      "url": "https://doi.org/10.1007/978-94-024-2115-6",
+      "doi": "https://doi.org/10.1007/978-94-024-2115-6",
+      "year": 2021,
+      "authors": [
+        "Frank Miedema"
+      ],
+      "venue": null,
+      "summary": "This Open Access book discusses Open Science, the problems of science and the different movements to improve the societal impact of science and research."
+    },
+    {
+      "source_id": "OpenAlex-9ac8ca9580bd2bec",
+      "provider": "OpenAlex",
+      "title": "The Era of Global Risk",
+      "url": "https://doi.org/10.11647/obp.0336",
+      "doi": "https://doi.org/10.11647/obp.0336",
+      "year": 2023,
+      "authors": [
+        "Beard, SJ",
+        "Rees, Martin",
+        "Richards, Catherine",
+        "Rios Rojas, Clarissa"
+      ],
+      "venue": "Open Book Publishers",
+      "summary": "This innovative and comprehensive collection of essays explores the biggest threats facing humanity in the 21st century; threats that cannot be contained or controlled and that have the potential to bring about human extinction and civilization collapse. Bringing together experts from many disciplines, it provides an accessible survey of what we know about these threats, how we can understand them better, and most importantly what can be done to manage them effectively."
+    },
+    {
+      "source_id": "OpenAlex-78be3242d42408ce",
+      "provider": "OpenAlex",
+      "title": "A sustainable balance between innovation and risk: How the “right to science” affects China’s medical biotechnology regulatory policy",
+      "url": "https://doi.org/10.1016/j.csbj.2024.04.027",
+      "doi": "https://doi.org/10.1016/j.csbj.2024.04.027",
+      "year": 2024,
+      "authors": [
+        "Yiping Han",
+        "Lindsay L. Fan",
+        "Yang Xue"
+      ],
+      "venue": "Computational and Structural Biotechnology Journal",
+      "summary": "Medical biotechnology is at the forefront of scientific progress, with humanity facing a critical juncture during the pandemic. However, to maximize these benefits, governments face the complex challenge of reconciling innovation and risk. A sustainable balance is critical, as extreme measures such as blanket bans on biotechnology research could hamper progress, while unfettered research could pose an existential threat. The need for effective regulation has become apparent in the context of recent controversies surrounding pharmaceutical biotechnology. Governments face the challenge of reconc..."
+    },
+    {
+      "source_id": "Crossref-c36a1889bfd50c8a",
+      "provider": "Crossref",
+      "title": "Gene Therapy and Genome Editing",
+      "url": "https://doi.org/10.4324/9781315406985-13",
+      "doi": "10.4324/9781315406985-13",
+      "year": 2016,
+      "authors": [],
+      "venue": "Human Genetics: The Basics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-79676d3ab7383209",
+      "provider": "Crossref",
+      "title": "CRISPR/Cas9 for genome editing: progress, implications and challenges",
+      "url": "https://doi.org/10.1093/hmg/ddu125",
+      "doi": "10.1093/hmg/ddu125",
+      "year": 2014,
+      "authors": [
+        "F. Zhang",
+        "Y. Wen",
+        "X. Guo"
+      ],
+      "venue": "Human Molecular Genetics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-38c86d9195d4be8a",
+      "provider": "Crossref",
+      "title": "“Ancestralization” of human pluripotent stem cells by multiplexed precise genome editing",
+      "url": "https://doi.org/10.1101/342311",
+      "doi": "10.1101/342311",
+      "year": 2018,
+      "authors": [
+        "Stephan Riesenberg",
+        "Tomislav Maricic",
+        "Svante Pääbo"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781020417-Genetics-followup-1780936647-dbf249e319cb.json"
+}

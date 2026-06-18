@@ -1,0 +1,111 @@
+{
+  "timestamp_secs": 1780909403,
+  "task_id": "followup-1780905613-c6833a9d44d9",
+  "domain": "Robotics",
+  "question": "Which safety standards (ISO 10218, ISO/TS 15066) map most directly to a software agent controlling human-operated tools, and where are their enforcement gaps?",
+  "query": "robotics safe physical world human compatible tools safety standards 10218 15066 software agent controlling operated tools",
+  "sources": [
+    {
+      "source_id": "Arxiv-e49d2eebce779e21",
+      "provider": "Arxiv",
+      "title": "On the efficacy of safety-related software standards",
+      "url": "http://arxiv.org/abs/1404.6805v1",
+      "doi": null,
+      "year": 2014,
+      "authors": [
+        "Mario Fusani",
+        "Giuseppe Lami"
+      ],
+      "venue": "arXiv",
+      "summary": "Difficulty of safety-related software standards to help producing software for safe systems is discussed. Some research activity and other actions are proposed to focus on and possibly resolve long-lasting related problems."
+    },
+    {
+      "source_id": "Arxiv-1481045d4c950302",
+      "provider": "Arxiv",
+      "title": "From Safety Standards to Safe Operation with Mobile Robotic Systems Deployment",
+      "url": "http://arxiv.org/abs/2502.20693v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Bruno Belzile",
+        "Tatiana Wanang-Siyapdjie",
+        "Sina Karimi",
+        "Rafael Gomes Braga",
+        "Ivanka Iordanova",
+        "David St-Onge"
+      ],
+      "venue": "arXiv",
+      "summary": "Mobile robotic systems are increasingly used in various work environments to support productivity. However, deploying robots in workplaces crowded by human workers and interacting with them results in safety challenges and concerns, namely robot-worker collisions and worker distractions in hazardous environments. Moreover, the literature on risk assessment as well as the standard specific to mobile platforms is rather limited. In this context, this paper first conducts a review of the relevant standards and methodologies and then proposes a risk assessment for the safe deployment of mobile rob..."
+    },
+    {
+      "source_id": "Arxiv-793b92c62ce1f6ff",
+      "provider": "Arxiv",
+      "title": "Safe Physical Human-Robot Interaction through Variable Impedance Control based on ISO/TS 15066",
+      "url": "http://arxiv.org/abs/2311.13814v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Armin Ghanbarzadeh",
+        "Esmaeil Najafi"
+      ],
+      "venue": "arXiv",
+      "summary": "The successful implementation of Physical Human-Robot Interaction in industrial environments depends on ensuring safe collaboration between human operators and robotic devices. This necessitates the adoption of measures that guarantee the safety of human operators in close proximity to robots, without constraining the speed and motion of the robotic systems. This paper proposes a novel variable impedance-based controller for cobots that ensures safe collaboration by adhering to the ISO/TS 15066 safety standard, namely power and force limiting mode, while achieving higher operational speeds. Th..."
+    },
+    {
+      "source_id": "OpenAlex-b74350268454a868",
+      "provider": "OpenAlex",
+      "title": "Collaborative robots in manufacturing and assembly systems: literature review and future research agenda",
+      "url": "https://doi.org/10.1007/s10845-023-02137-w",
+      "doi": "https://doi.org/10.1007/s10845-023-02137-w",
+      "year": 2023,
+      "authors": [
+        "Ali Keshvarparast",
+        "Daria Battini",
+        "Olga Battaïa",
+        "Amir Pirayesh"
+      ],
+      "venue": "Journal of Intelligent Manufacturing",
+      "summary": "Abstract Nowadays, considering the constant changes in customers’ demands, manufacturing systems tend to move more and more towards customization while ensuring the expected reactivity. In addition, more attention is given to the human factors to, on the one hand, create opportunities for improving the work conditions such as safety and, on the other hand, reduce the risks brought by new technologies such as job cannibalization. Meanwhile, Industry 4.0 offers new ways to facilitate this change by enhancing human–machine interactions using Collaborative Robots (Cobots). Recent research studies ..."
+    },
+    {
+      "source_id": "OpenAlex-f20a24ea435f68cb",
+      "provider": "OpenAlex",
+      "title": "A corroborative approach to verification and validation of human–robot teams",
+      "url": "https://doi.org/10.1177/0278364919883338",
+      "doi": "https://doi.org/10.1177/0278364919883338",
+      "year": 2019,
+      "authors": [
+        "Matt Webster",
+        "David Western",
+        "Dejanira Araiza-Illan",
+        "Clare Dixon",
+        "Kerstin Eder",
+        "Michael Fisher",
+        "Anthony G Pipe"
+      ],
+      "venue": "The International Journal of Robotics Research",
+      "summary": "We present an approach for the verification and validation (V&amp;V) of robot assistants in the context of human–robot interactions, to demonstrate their trustworthiness through corroborative evidence of their safety and functional correctness. Key challenges include the complex and unpredictable nature of the real world in which assistant and service robots operate, the limitations on available V&amp;V techniques when used individually, and the consequent lack of confidence in the V&amp;V results. Our approach, called corroborative V&amp;V, addresses these challenges by combining several diff..."
+    },
+    {
+      "source_id": "OpenAlex-baa87fffe34cf0bd",
+      "provider": "OpenAlex",
+      "title": "Cybersecurity of Robotic Systems: Leading Challenges and Robotic System Design Methodology",
+      "url": "https://doi.org/10.3390/electronics10222850",
+      "doi": "https://doi.org/10.3390/electronics10222850",
+      "year": 2021,
+      "authors": [
+        "Vibekananda Dutta",
+        "Teresa Zielińska"
+      ],
+      "venue": "Electronics",
+      "summary": "Recent years have seen a rapid development of the Internet of Things (IoT) and the growth of autonomous robotic applications which are using network communications. Accordingly, an increasing advancement of intelligent devices with wireless sensors (that means autonomous robotic platforms) operating in challenging environments makes robots a tangible reality in the near future. Unfortunately, as a result of technical development, security problems emerge, especially when considering human–robot collaboration. Two abnormalities often compromise the basic security of collaborative robotic fleets..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 283; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":40632,\"items\":[{\"DOI\":\"10.3403\\/30190902\",\"ti..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780909403-Robotics-followup-1780905613-c6833a9d44d9.json"
+}

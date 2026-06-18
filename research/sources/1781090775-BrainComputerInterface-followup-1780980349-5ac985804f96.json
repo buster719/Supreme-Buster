@@ -1,0 +1,154 @@
+{
+  "timestamp_secs": 1781090775,
+  "task_id": "followup-1780980349-5ac985804f96",
+  "domain": "BrainComputerInterface",
+  "question": "How can eye‑tracking or secondary physiological signals be used to adapt the granularity of uncertainty communication in real time?",
+  "query": "brain computer interface human AI cooperation risks tracking secondary physiological signals used adapt granularity uncertainty communication",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-4a390b9f509da643",
+      "provider": "Arxiv",
+      "title": "Dynamic Neural Communication: Convergence of Computer Vision and Brain-Computer Interface",
+      "url": "http://arxiv.org/abs/2411.09211v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Ji-Ha Park",
+        "Seo-Hyun Lee",
+        "Soowon Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "arXiv",
+      "summary": "Interpreting human neural signals to decode static speech intentions such as text or images and dynamic speech intentions such as audio or video is showing great potential as an innovative communication tool. Human communication accompanies various features, such as articulatory movements, facial expressions, and internal speech, all of which are reflected in neural signals. However, most studies only generate short or fragmented outputs, while providing informative communication by leveraging various features from neural signals remains challenging. In this study, we introduce a dynamic neura..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "OpenAlex-7e32be449e756030",
+      "provider": "OpenAlex",
+      "title": "Homecare Robotic Systems for Healthcare 4.0: Visions and Enabling Technologies",
+      "url": "https://doi.org/10.1109/jbhi.2020.2990529",
+      "doi": "https://doi.org/10.1109/jbhi.2020.2990529",
+      "year": 2020,
+      "authors": [
+        "Geng Yang",
+        "Zhibo Pang",
+        "M. Jamal Deen",
+        "Mianxiong Dong",
+        "Yuan‐Ting Zhang",
+        "Nigel H. Lovell",
+        "Amir M. Rahmani"
+      ],
+      "venue": "IEEE Journal of Biomedical and Health Informatics",
+      "summary": "Powered by the technologies that have originated from manufacturing, the fourth revolution of healthcare technologies is happening (Healthcare 4.0). As an example of such revolution, new generation homecare robotic systems (HRS) based on the cyber-physical systems (CPS) with higher speed and more intelligent execution are emerging. In this article, the new visions and features of the CPS-based HRS are proposed. The latest progress in related enabling technologies is reviewed, including artificial intelligence, sensing fundamentals, materials and machines, cloud computing and communication, as ..."
+    },
+    {
+      "source_id": "OpenAlex-4a386f9c2035a517",
+      "provider": "OpenAlex",
+      "title": "A Systematic Review on Fostering Appropriate Trust in Human-AI Interaction",
+      "url": "http://arxiv.org/abs/2311.06305",
+      "doi": "https://doi.org/10.48550/arxiv.2311.06305",
+      "year": 2023,
+      "authors": [
+        "Siddharth Mehrotra",
+        "Chadha Degachi",
+        "Oleksandra Vereschak",
+        "Catholijn M. Jonker",
+        "Myrthe L. Tielman"
+      ],
+      "venue": "arXiv (Cornell University)",
+      "summary": "Appropriate Trust in Artificial Intelligence (AI) systems has rapidly become an important area of focus for both researchers and practitioners. Various approaches have been used to achieve it, such as confidence scores, explanations, trustworthiness cues, or uncertainty communication. However, a comprehensive understanding of the field is lacking due to the diversity of perspectives arising from various backgrounds that influence it and the lack of a single definition for appropriate trust. To investigate this topic, this paper presents a systematic review to identify current practices in buil..."
+    },
+    {
+      "source_id": "OpenAlex-bd5f79dba01c8bf0",
+      "provider": "OpenAlex",
+      "title": "A Review on the Form and Complexity of Human–Robot Interaction in the Evolution of Autonomous Surgery",
+      "url": "https://doi.org/10.1002/aisy.202400197",
+      "doi": "https://doi.org/10.1002/aisy.202400197",
+      "year": 2024,
+      "authors": [
+        "Tangyou Liu",
+        "Jiaole Wang",
+        "Shing Wai Wong",
+        "Andrew Razjigaev",
+        "Susann Beier",
+        "Shuhua Peng",
+        "Thanh Nho",
+        "Shuang Song"
+      ],
+      "venue": "Advanced Intelligent Systems",
+      "summary": "As robotics and intelligence increasingly integrate into surgery, the pivotal role of human–robot interaction (HRI) in surgical procedures and outcomes becomes evident. However, debate rages over whether increasing robot autonomy will result in less human involvement. Some scholars assert that autonomy will reduce human participation, whereas others contend it will result in more complex interactions. To reveal the role of HRI in the evolution of autonomous surgery, this review systematically explores the HRI of robotic surgery with various levels of autonomy. The HRI is examined from both rob..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-d0c3d28b1cfe5cc5",
+      "provider": "Crossref",
+      "title": "Human–AI Co-Drawing: Studying Creative Efficacy and Eye Tracking in Observation and Cooperation",
+      "url": "https://doi.org/10.3390/app14188203",
+      "doi": "10.3390/app14188203",
+      "year": 2024,
+      "authors": [
+        "Yuying Pei",
+        "Linlin Wang",
+        "Chengqi Xue"
+      ],
+      "venue": "Applied Sciences",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781090775-BrainComputerInterface-followup-1780980349-5ac985804f96.json"
+}

@@ -1,0 +1,41 @@
+{
+  "timestamp_secs": 1781451618,
+  "provider": "DuckDuckGoHtml",
+  "task_id": "followup-1781087132-744990289f27",
+  "query": "How do micrometeoroid and orbital debris (MMOD) protection requirements for deep-space operations impact the mechanical and sealing design of these docking standards?",
+  "results": [
+    {
+      "rank": 1,
+      "title": "PDF Handbook for Designing MMOD Protection - NASA Technical Reports Server ...",
+      "url": "https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20090010053.pdf",
+      "snippet": "Handbook for Designing MMOD Protection Spacecraft are subject to micro-meteoroid and orbital debris (MMOD) impact damage which have the potential to degrade performance, shorten the mission, or result in catastrophic loss of the vehicle. Specific MMOD protection requirements are established by NASA for each spacecraft early in the program/project life, to ensure the spacecraft meets desired ..."
+    },
+    {
+      "rank": 2,
+      "title": "A review of shielding systems for protecting off-earth structures from ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0094576524003874",
+      "snippet": "Several requirements have been set for the design of the International Space Station regarding micrometeoroid and orbital debris protection in order to ensure crew safety and mission success."
+    },
+    {
+      "rank": 3,
+      "title": "Design and Development of Micrometeoroid and Orbital Debris Shielding ...",
+      "url": "https://link.springer.com/chapter/10.1007/978-981-96-8734-3_15",
+      "snippet": "Detailed study of MMOD (Micrometeoroid and Orbital Debris) impact on the critical systems are studied, an optimum MMOD protection shield is designed to improve spacecraft protection with respect to MMOD impact."
+    },
+    {
+      "rank": 4,
+      "title": "ARES | HyperVelocity Impact Technology | Reference Documents - NASA",
+      "url": "https://hvit.jsc.nasa.gov/reference-documents/",
+      "snippet": "Reference Documents Meteoroid & Orbital Debris Shielding This report is an overview of the meteoroid and orbital debris risk analysis process, shielding development, materials selection, ballistic limit equations, shielding applications, and an introduction to the meteoroid and orbital debris environments."
+    },
+    {
+      "rank": 5,
+      "title": "Optimisation of hybrid composite shields for hypervelocity Micro ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0273117724003211",
+      "snippet": "Abstract Advancements in space exploration over the last few decades have led to a sharp increase in Micro-Meteoroid and Orbital Debris (MMOD), with the associated increased risk of hypervelocity impact on satellites and space structures."
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/web/search/1781451618-followup-1781087132-744990289f27.json"
+}

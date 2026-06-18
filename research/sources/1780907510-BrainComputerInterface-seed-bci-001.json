@@ -1,0 +1,150 @@
+{
+  "timestamp_secs": 1780907510,
+  "task_id": "seed-bci-001",
+  "domain": "BrainComputerInterface",
+  "question": "What are the most credible paths and risks for brain-computer interfaces that improve human-AI cooperation?",
+  "query": "brain computer interface human AI cooperation risks credible paths risks brain computer interfaces improve cooperation",
+  "sources": [
+    {
+      "source_id": "Arxiv-baba6e314a5fd546",
+      "provider": "Arxiv",
+      "title": "Multi-command Tactile and Auditory Brain Computer Interface based on Head Position Stimulation",
+      "url": "http://arxiv.org/abs/1301.6357v2",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "H. Mori",
+        "Y. Matsumoto",
+        "Z. R. Struzik",
+        "K. Mori",
+        "S. Makino",
+        "D. Mandic",
+        "T. M. Rutkowski"
+      ],
+      "venue": "arXiv",
+      "summary": "We study the extent to which vibrotactile stimuli delivered to the head of a subject can serve as a platform for a brain computer interface (BCI) paradigm. Six head positions are used to evoke combined somatosensory and auditory (via the bone conduction effect) brain responses, in order to define a multimodal tactile and auditory brain computer interface (taBCI). Experimental results of subjects performing online taBCI, using stimuli with a moderately fast inter-stimulus interval (ISI), validate the taBCI paradigm, while the feasibility of the concept is illuminated through information transfe..."
+    },
+    {
+      "source_id": "Arxiv-ca87539c45194064",
+      "provider": "Arxiv",
+      "title": "Towards Neurohaptics: Brain-Computer Interfaces for Decoding Intuitive Sense of Touch",
+      "url": "http://arxiv.org/abs/2012.06753v2",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Jeong-Hyun Cho",
+        "Ji-Hoon Jeong",
+        "Myoung-Ki Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "arXiv",
+      "summary": "Noninvasive brain-computer interface (BCI) is widely used to recognize users' intentions. Especially, BCI related to tactile and sensation decoding could provide various effects on many industrial fields such as manufacturing advanced touch displays, controlling robotic devices, and more immersive virtual reality or augmented reality. In this paper, we introduce haptic and sensory perception-based BCI systems called neurohaptics. It is a preliminary study for a variety of scenarios using actual touch and touch imagery paradigms. We designed a novel experimental environment and a device that co..."
+    },
+    {
+      "source_id": "Arxiv-4a390b9f509da643",
+      "provider": "Arxiv",
+      "title": "Dynamic Neural Communication: Convergence of Computer Vision and Brain-Computer Interface",
+      "url": "http://arxiv.org/abs/2411.09211v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Ji-Ha Park",
+        "Seo-Hyun Lee",
+        "Soowon Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "arXiv",
+      "summary": "Interpreting human neural signals to decode static speech intentions such as text or images and dynamic speech intentions such as audio or video is showing great potential as an innovative communication tool. Human communication accompanies various features, such as articulatory movements, facial expressions, and internal speech, all of which are reflected in neural signals. However, most studies only generate short or fragmented outputs, while providing informative communication by leveraging various features from neural signals remains challenging. In this study, we introduce a dynamic neura..."
+    },
+    {
+      "source_id": "OpenAlex-a5368ee88515d91a",
+      "provider": "OpenAlex",
+      "title": "On the Road to 6G: Visions, Requirements, Key Technologies, and Testbeds",
+      "url": "https://doi.org/10.1109/comst.2023.3249835",
+      "doi": "https://doi.org/10.1109/comst.2023.3249835",
+      "year": 2023,
+      "authors": [
+        "Cheng‐Xiang Wang",
+        "Xiaohu You",
+        "Xiqi Gao",
+        "Xiuming Zhu",
+        "Zixin Li",
+        "Chuan Zhang",
+        "Haiming Wang",
+        "Yongming Huang"
+      ],
+      "venue": "IEEE Communications Surveys & Tutorials",
+      "summary": "Fifth generation (5G) mobile communication systems have entered the stage of commercial deployment, providing users with new services, improved user experiences as well as a host of novel opportunities to various industries. However, 5G still faces many challenges. To address these challenges, international industrial, academic, and standards organizations have commenced research on sixth generation (6G) wireless communication systems. A series of white papers and survey papers have been published, which aim to define 6G in terms of requirements, application scenarios, key technologies, etc. A..."
+    },
+    {
+      "source_id": "OpenAlex-cdb83a8d9378bd0c",
+      "provider": "OpenAlex",
+      "title": "Profiting from innovation in the digital economy: Enabling technologies, standards, and licensing models in the wireless world",
+      "url": "https://doi.org/10.1016/j.respol.2017.01.015",
+      "doi": "https://doi.org/10.1016/j.respol.2017.01.015",
+      "year": 2018,
+      "authors": [
+        "David J. Teece"
+      ],
+      "venue": "Research Policy",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-531c15be6a9653f3",
+      "provider": "OpenAlex",
+      "title": "Existential risks: analyzing human extinction scenarios and related hazards",
+      "url": "https://openalex.org/W1812041023",
+      "doi": null,
+      "year": 2002,
+      "authors": [
+        "Nick Bostrom"
+      ],
+      "venue": "Oxford University Research Archive (ORA) (University of Oxford)",
+      "summary": "Because of accelerating technological progress, humankind may be rapidly approaching a critical phase in its career. In addition to well-known threats such as nuclear holocaust, the prospects of radically transforming technologies like nanotech systems and machine intelligence present us with unprecedented opportunities and risks. Our future, and whether we will have a future at all, may well be determined by how we deal with these challenges. In the case of radically transforming technologies, a better understanding of the transition dynamics from a human to a &amp;quot;posthuman&amp;quot; so..."
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-74c3dec10a2d26e2",
+      "provider": "Crossref",
+      "title": "Brain–Computer Interface in Neurorehabilitation",
+      "url": "https://doi.org/10.1007/978-3-642-02091-9_9",
+      "doi": "10.1007/978-3-642-02091-9_9",
+      "year": 2009,
+      "authors": [
+        "Niels Birbaumer",
+        "Paul Sauseng"
+      ],
+      "venue": "The Frontiers Collection",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780907510-BrainComputerInterface-seed-bci-001.json"
+}

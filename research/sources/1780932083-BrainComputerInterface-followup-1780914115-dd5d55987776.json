@@ -1,0 +1,147 @@
+{
+  "timestamp_secs": 1780932083,
+  "task_id": "followup-1780914115-dd5d55987776",
+  "domain": "BrainComputerInterface",
+  "question": "How does decoding latency and dimensionality of motor intention scale with number of neural channels in invasive (Utah array, Neuropixels) vs. non‑invasive (EEG, fNIRS) recordings?",
+  "query": "brain computer interface human AI cooperation risks decoding latency dimensionality motor intention scale number neural channels",
+  "sources": [
+    {
+      "source_id": "Arxiv-4a390b9f509da643",
+      "provider": "Arxiv",
+      "title": "Dynamic Neural Communication: Convergence of Computer Vision and Brain-Computer Interface",
+      "url": "http://arxiv.org/abs/2411.09211v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Ji-Ha Park",
+        "Seo-Hyun Lee",
+        "Soowon Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "arXiv",
+      "summary": "Interpreting human neural signals to decode static speech intentions such as text or images and dynamic speech intentions such as audio or video is showing great potential as an innovative communication tool. Human communication accompanies various features, such as articulatory movements, facial expressions, and internal speech, all of which are reflected in neural signals. However, most studies only generate short or fragmented outputs, while providing informative communication by leveraging various features from neural signals remains challenging. In this study, we introduce a dynamic neura..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "OpenAlex-7fd7b9ad9cffb37d",
+      "provider": "OpenAlex",
+      "title": "Control strategies for active lower extremity prosthetics and orthotics: a review",
+      "url": "https://doi.org/10.1186/1743-0003-12-1",
+      "doi": "https://doi.org/10.1186/1743-0003-12-1",
+      "year": 2015,
+      "authors": [
+        "Michael R. Tucker",
+        "Jérémy Olivier",
+        "Anna Pagel",
+        "Hannes Bleuler",
+        "Mohamed Bouri",
+        "Olivier Lambercy",
+        "José del R. Millán",
+        "Robert Riener"
+      ],
+      "venue": "Journal of NeuroEngineering and Rehabilitation",
+      "summary": ": Technological advancements have led to the development of numerous wearable robotic devices for the physical assistance and restoration of human locomotion. While many challenges remain with respect to the mechanical design of such devices, it is at least equally challenging and important to develop strategies to control them in concert with the intentions of the user.This work reviews the state-of-the-art techniques for controlling portable active lower limb prosthetic and orthotic (P/O) devices in the context of locomotive activities of daily living (ADL), and considers how these can be in..."
+    },
+    {
+      "source_id": "OpenAlex-e43e4d0a62e725a3",
+      "provider": "OpenAlex",
+      "title": "A Graph Theory-Based Modeling of Functional Brain Connectivity Based on EEG: A Systematic Review in the Context of Neuroergonomics",
+      "url": "https://doi.org/10.1109/access.2020.3018995",
+      "doi": "https://doi.org/10.1109/access.2020.3018995",
+      "year": 2020,
+      "authors": [
+        "Lina Ismail",
+        "Waldemar Karwowski"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Graph theory analysis, a mathematical approach, has been applied in brain connectivity studies to explore the organization of network patterns. The computation of graph theory metrics enables the characterization of the stationary behavior of electroencephalogram (EEG) signals that cannot be explained by simple linear methods. The main purpose of this study was to systematically review the graph theory applications for mapping the functional connectivity of the EEG data in neuroergonomics. Moreover, this article proposes a pipeline for constructing an unweighted functional brain network from E..."
+    },
+    {
+      "source_id": "OpenAlex-a79656cbbb10a1a3",
+      "provider": "OpenAlex",
+      "title": "Detecting Human Driver Inattentive and Aggressive Driving Behavior Using Deep Learning: Recent Advances, Requirements and Open Challenges",
+      "url": "https://doi.org/10.1109/access.2020.2999829",
+      "doi": "https://doi.org/10.1109/access.2020.2999829",
+      "year": 2020,
+      "authors": [
+        "Monagi H. Alkinani",
+        "Wazir Zada Khan",
+        "Quratulain Arshad"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Human drivers have different driving styles, experiences, and emotions due to unique driving characteristics, exhibiting their own driving behaviors and habits. Various research efforts have approached the problem of detecting abnormal human driver behavior with the aid of capturing and analyzing the face of driver and vehicle dynamics via image and video processing but the traditional methods are not capable of capturing complex temporal features of driving behaviors. However, with the advent of deep learning algorithms, a significant amount of research has also been conducted to predict and ..."
+    },
+    {
+      "source_id": "Crossref-cc2865b3ea198623",
+      "provider": "Crossref",
+      "title": "Deep convolutional neural network for decoding motor imagery based brain computer interface",
+      "url": "https://doi.org/10.1109/icspcc.2017.8242581",
+      "doi": "10.1109/icspcc.2017.8242581",
+      "year": 2017,
+      "authors": [
+        "Jin Zhang",
+        "Chungang Yan",
+        "Xiaoliang Gong"
+      ],
+      "venue": "2017 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b02aeec0b9b64639",
+      "provider": "Crossref",
+      "title": "Channel Discriminability Analysis via Task-Related Projection Weights in Motor Intention Decoding",
+      "url": "https://doi.org/10.1109/bci69045.2026.11435079",
+      "doi": "10.1109/bci69045.2026.11435079",
+      "year": 2026,
+      "authors": [
+        "Jingyu Ma",
+        "Hao Jia"
+      ],
+      "venue": "2026 14th International Conference on Brain-Computer Interface (BCI)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-2f63367df967b56c",
+      "provider": "Crossref",
+      "title": "Data-efficient Motor Imagery Decoding in Real-time for the Cybathlon Brain-Computer Interface Race",
+      "url": "https://doi.org/10.5220/0006962400210032",
+      "doi": "10.5220/0006962400210032",
+      "year": 2018,
+      "authors": [
+        "Eduardo G. Ponferrada",
+        "Anastasia Sylaidi",
+        "A. Aldo Faisal"
+      ],
+      "venue": "Proceedings of the 6th International Congress on Neurotechnology, Electronics and Informatics",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780932083-BrainComputerInterface-followup-1780914115-dd5d55987776.json"
+}

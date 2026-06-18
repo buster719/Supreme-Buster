@@ -8,9 +8,18 @@ authors.workspace = true
 [dependencies]
 buster_body = { path = "../buster_body" }
 buster_free_will = { path = "../buster_free_will" }
+buster_skills = { path = "../buster_skills" }
+buster_tools = { path = "../buster_tools" }
 buster_value_model = { path = "../buster_value_model" }
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
+base64 = "0.22"
+ed25519-dalek = { version = "2", features = ["rand_core"] }
+hmac = "0.12"
+rand = "0.8"
+sha2 = "0.10"
+reqwest = { version = "0.12", default-features = false, features = ["blocking", "json", "rustls-tls"] }
+roxmltree = "0.20"
 
 [[bin]]
 name = "busterd"

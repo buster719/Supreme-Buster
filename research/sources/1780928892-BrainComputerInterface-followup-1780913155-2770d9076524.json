@@ -1,0 +1,141 @@
+{
+  "timestamp_secs": 1780928892,
+  "task_id": "followup-1780913155-2770d9076524",
+  "domain": "BrainComputerInterface",
+  "question": "What are the concrete mathematical formulations for mutual adaptation in co-adaptive BCIs, and how do they balance decoder plasticity with user learning stability?",
+  "query": "brain computer interface human AI cooperation risks concrete mathematical formulations mutual adaptation adaptive bcis they balance",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-4647114cb1572aa1",
+      "provider": "Arxiv",
+      "title": "Human-AI Teaming Using Large Language Models: Boosting Brain-Computer Interfacing (BCI) and Brain Research",
+      "url": "http://arxiv.org/abs/2501.01451v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Maryna Kapitonova",
+        "Tonio Ball"
+      ],
+      "venue": "arXiv",
+      "summary": "Recently, there is an increasing interest in using artificial intelligence (AI) to automate aspects of the research process, or even autonomously conduct the full research cycle from idea generation, over data analysis, to composing and evaluation of scientific manuscripts. Examples of working AI scientist systems have been demonstrated for computer science tasks and running molecular biology labs. While some approaches aim for full autonomy of the scientific AI, others rather aim for leveraging human-AI teaming. Here, we address how to adapt such approaches for boosting Brain-Computer Interfa..."
+    },
+    {
+      "source_id": "OpenAlex-6a09553e46bea805",
+      "provider": "OpenAlex",
+      "title": "Federated Learning for Healthcare Domain - Pipeline, Applications and Challenges",
+      "url": "https://doi.org/10.1145/3533708",
+      "doi": "https://doi.org/10.1145/3533708",
+      "year": 2022,
+      "authors": [
+        "Madhura Joshi",
+        "Ankit Pal",
+        "Malaikannan Sankarasubbu"
+      ],
+      "venue": "ACM Transactions on Computing for Healthcare",
+      "summary": "Federated learning is the process of developing machine learning models over datasets distributed across data centers such as hospitals, clinical research labs, and mobile devices while preventing data leakage. This survey examines previous research and studies on federated learning in the healthcare sector across a range of use cases and applications. Our survey shows what challenges, methods, and applications a practitioner should be aware of in the topic of federated learning. This paper aims to lay out existing research and list the possibilities of federated learning for healthcare indust..."
+    },
+    {
+      "source_id": "OpenAlex-262d417c1055f67e",
+      "provider": "OpenAlex",
+      "title": "Competency in Navigating Arbitrary Spaces as an Invariant for Analyzing Cognition in Diverse Embodiments",
+      "url": "https://doi.org/10.3390/e24060819",
+      "doi": "https://doi.org/10.3390/e24060819",
+      "year": 2022,
+      "authors": [
+        "Chris Fields",
+        "Michael Levin"
+      ],
+      "venue": "Entropy",
+      "summary": "One of the most salient features of life is its capacity to handle novelty and namely to thrive and adapt to new circumstances and changes in both the environment and internal components. An understanding of this capacity is central to several fields: the evolution of form and function, the design of effective strategies for biomedicine, and the creation of novel life forms via chimeric and bioengineering technologies. Here, we review instructive examples of living organisms solving diverse problems and propose competent navigation in arbitrary spaces as an invariant for thinking about the sca..."
+    },
+    {
+      "source_id": "OpenAlex-0fd1efa1ab827e7d",
+      "provider": "OpenAlex",
+      "title": "Trends of Human-Robot Collaboration in Industry Contexts: Handover, Learning, and Metrics",
+      "url": "https://doi.org/10.3390/s21124113",
+      "doi": "https://doi.org/10.3390/s21124113",
+      "year": 2021,
+      "authors": [
+        "Afonso Castro",
+        "Filipe Silva",
+        "Vítor Santos"
+      ],
+      "venue": "Sensors",
+      "summary": "Repetitive industrial tasks can be easily performed by traditional robotic systems. However, many other works require cognitive knowledge that only humans can provide. Human-Robot Collaboration (HRC) emerges as an ideal concept of co-working between a human operator and a robot, representing one of the most significant subjects for human-life improvement.The ultimate goal is to achieve physical interaction, where handing over an object plays a crucial role for an effective task accomplishment. Considerable research work had been developed in this particular field in recent years, where several..."
+    },
+    {
+      "source_id": "Crossref-354324eb1e058019",
+      "provider": "Crossref",
+      "title": "AI-Driven Adaptive BCIs for Personalized Therapy",
+      "url": "https://doi.org/10.4018/979-8-3373-6816-0.ch002",
+      "doi": "10.4018/979-8-3373-6816-0.ch002",
+      "year": 2025,
+      "authors": [
+        "A. Rajalakshmi",
+        "G. SudhaAnanthi",
+        "Mohammad Sabeer",
+        "T. C. Manjunath",
+        "Yasmeen",
+        "M. Meenakshi"
+      ],
+      "venue": "Brain-Computer Interfaces for Neurorehabilitation",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b77d9614158fbe59",
+      "provider": "Crossref",
+      "title": "Brain–Computer Interfaces (BCIs) in STEM Learning",
+      "url": "https://doi.org/10.5772/intechopen.1013817",
+      "doi": "10.5772/intechopen.1013817",
+      "year": 2026,
+      "authors": [
+        "Sandra Cano"
+      ],
+      "venue": "Artificial Intelligence",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-70e7d099ec367656",
+      "provider": "Crossref",
+      "title": "Usability of Transient VEPs in BCIs",
+      "url": "https://doi.org/10.5772/14171",
+      "doi": "10.5772/14171",
+      "year": 2011,
+      "authors": [
+        "Natsue Yoshimura",
+        "Naoaki Itakur"
+      ],
+      "venue": "Recent Advances in Brain-Computer Interface Systems",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780928892-BrainComputerInterface-followup-1780913155-2770d9076524.json"
+}

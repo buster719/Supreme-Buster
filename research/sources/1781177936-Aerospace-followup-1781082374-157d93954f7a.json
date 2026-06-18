@@ -1,0 +1,86 @@
+{
+  "timestamp_secs": 1781177936,
+  "task_id": "followup-1781082374-157d93954f7a",
+  "domain": "Aerospace",
+  "question": "In studies that report model training/testing splits, what is the common practice regarding the use of publicly available benchmark datasets versus proprietary, laboratory-generated data?",
+  "query": "aerospace civilization resilience deep space capability studies report model training testing splits common practice regarding",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-3801f0fec6bd2526",
+      "provider": "Arxiv",
+      "title": "Learn to Accumulate Evidence from All Training Samples: Theory and Practice",
+      "url": "http://arxiv.org/abs/2306.11113v2",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Pandey",
+        "Qi Yu"
+      ],
+      "venue": "arXiv",
+      "summary": "Evidential deep learning, built upon belief theory and subjective logic, offers a principled and computationally efficient way to turn a deterministic neural network uncertainty-aware. The resultant evidential models can quantify fine-grained uncertainty using the learned evidence. To ensure theoretically sound evidential models, the evidence needs to be non-negative, which requires special activation functions for model training and inference. This constraint often leads to inferior predictive performance compared to standard softmax models, making it challenging to extend them to many large-..."
+    },
+    {
+      "source_id": "Arxiv-8c21b20b139c512c",
+      "provider": "Arxiv",
+      "title": "Testing Deep Learning Models: A First Comparative Study of Multiple Testing Techniques",
+      "url": "http://arxiv.org/abs/2202.12139v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Mohit Kumar Ahuja",
+        "Arnaud Gotlieb",
+        "Helge Spieker"
+      ],
+      "venue": "arXiv",
+      "summary": "Deep Learning (DL) has revolutionized the capabilities of vision-based systems (VBS) in critical applications such as autonomous driving, robotic surgery, critical infrastructure surveillance, air and maritime traffic control, etc. By analyzing images, voice, videos, or any type of complex signals, DL has considerably increased the situation awareness of these systems. At the same time, while relying more and more on trained DL models, the reliability and robustness of VBS have been challenged and it has become crucial to test thoroughly these models to assess their capabilities and potential ..."
+    },
+    {
+      "source_id": "OpenAlex-d5ca13f0ec1c0829",
+      "provider": "OpenAlex",
+      "title": "Remote sensing of maize intercropping: a multi-sensor approach",
+      "url": "https://doi.org/10.3990/1.9789036564748",
+      "doi": "https://doi.org/10.3990/1.9789036564748",
+      "year": 2025,
+      "authors": [
+        "Mbali Mahlayeye"
+      ],
+      "venue": null,
+      "summary": "Cropping patterns, particularly intercropping - cultivating two or more crops within the same field, are prevalent in smallholder farming systems, enabling farmers to optimize land use, improve soil fertility, and increase resilience to environmental pressures such as pests, diseases, and climate extremes. When implemented effectively, intercropping promotes biodiversity and stabilizes yields. However, the diversity of crops and their interactions in intercropped fields make monitoring crop growth and estimating crop yields challenging. The dynamic and diverse nature of these practices often g..."
+    },
+    {
+      "source_id": "OpenAlex-d947247e0b4fc939",
+      "provider": "OpenAlex",
+      "title": "Bir işe alım platformunda eşleştirme algoritmalarının performanslarının değerlendirilmesi : Çok kriterli karar verme yaklaşım",
+      "url": "https://hdl.handle.net/11424/297251",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Osman Kavafoğlu"
+      ],
+      "venue": "Marmara University Open Access System",
+      "summary": "Gelişen teknoloji ve imkanlar insan kaynakları yönetiminin organizasyonlar için önemini ve değerini artırmıştır. İnsan kaynakları yönetimi personel seçimi, maaş yönetimi, performans yönetimi, çalışanlara sağlanan faydaların yönetimi, çalışanların gelişimi ve eğitimlerinin yönetimi, strateji yönetimi, iş pazarı analizini ve personel kazanımı ve çıkışı fonksiyonlarını içermektedir. Bu tezde insan kaynakları yönetiminin personel seçimi fonksiyonunun üzerinde durulmuştur. İnsan kaynakları teknolojileri, süreçlerini iyileştirmek ve kolaylaştırmak için yapay zeka ve makine öğrenmesi çözümlerini uygu..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 331; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":15179,\"items\":[{\"DOI\":\"10.7717\\/peerj-cs.2649..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781177936-Aerospace-followup-1781082374-157d93954f7a.json"
+}

@@ -1,0 +1,95 @@
+{
+  "timestamp_secs": 1780974074,
+  "task_id": "followup-1780926701-c85f45e8c481",
+  "domain": "Aerospace",
+  "question": "What is the mass‑sensitivity of the answer to assumptions about lunar night power (fission vs regenerative fuel cells with ISRU O₂/H₂), microwave sintering of landing pads (to mitigate plume‑regolith interaction), and autonomous excavation reliability?",
+  "query": "aerospace civilization resilience deep space capability mass sensitivity answer assumptions lunar night power fission regenerative",
+  "sources": [
+    {
+      "source_id": "Arxiv-5f3d555c090e35ce",
+      "provider": "Arxiv",
+      "title": "Science from the Moon: The NASA/NLSI Lunar University Network for Astrophysics Research (LUNAR)",
+      "url": "http://arxiv.org/abs/0909.1509v1",
+      "doi": null,
+      "year": 2009,
+      "authors": [
+        "Jack O. Burns",
+        "the LUNAR Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Moon is a unique platform for fundamental astrophysical measurements of gravitation, the Sun, and the Universe. Lacking a permanent ionosphere and, on the farside, shielded from terrestrial radio emissions, a radio telescope on the Moon will be an unparalleled heliospheric and astrophysical observatory. Crucial stages in particle acceleration near the Sun can be imaged and tracked. The evolution of the Universe before and during the formation of the first stars will be traced, yielding high precision cosmological constraints. Lunar Laser Ranging of the Earth-Moon distance provides extremel..."
+    },
+    {
+      "source_id": "Arxiv-e17cac1e130e5b8c",
+      "provider": "Arxiv",
+      "title": "Microscopic Description of Nuclear Fission: Fission Barrier Heights of Even-Even Actinides",
+      "url": "http://arxiv.org/abs/1301.7587v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "J. McDonnell",
+        "N. Schunck",
+        "W. Nazarewicz"
+      ],
+      "venue": "arXiv",
+      "summary": "We evaluate the performance of modern nuclear energy density functionals for predicting inner and outer fission barrier heights and energies of fission isomers of even-even actinides. For isomer energies and outer barrier heights, we find that the self-consistent theory at the HFB level is capable of providing quantitative agreement with empirical data."
+    },
+    {
+      "source_id": "Arxiv-f8dcf3c04a1d6bf0",
+      "provider": "Arxiv",
+      "title": "Mapping Disruption Sources in the Power Grid and Implications for Resilience",
+      "url": "http://arxiv.org/abs/2207.08146v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Maureen S. Golan",
+        "Javad Mohammadi"
+      ],
+      "venue": "arXiv",
+      "summary": "Developing models and metrics that can address resilience against disruptions is vital to ensure power grid reliability and that adequate recovery and adaptation mechanisms are in place. In this paper, we propose a novel disruption mapping approach and apply it to the publicly available U.S. Department of Energy DOE-417 Electric Emergency and Disturbance Report to holistically analyze the origin of anomalous events and their propagation through the cyber, physical and human domains. We show that capturing the disruption process onset has implications for quantifying, mitigating, and reporting ..."
+    },
+    {
+      "source_id": "Crossref-f7a29434e3379dc6",
+      "provider": "Crossref",
+      "title": "Design and TRL5 Test of the Regenerative Fuel Cell System (RFCS) for Lunar Night Survival",
+      "url": "https://doi.org/10.52202/078370-0025",
+      "doi": "10.52202/078370-0025",
+      "year": 2024,
+      "authors": [
+        "Alessandro Bacchini"
+      ],
+      "venue": "IAF Space Power Symposium",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-9ab04e25159e0b51",
+      "provider": "Crossref",
+      "title": "Enabling Sustained Lunar Presence: Advances and Innovations in Radioisotope Power Systems for Surviving the Lunar Night",
+      "url": "https://doi.org/10.1109/aero63441.2025.11068477",
+      "doi": "10.1109/aero63441.2025.11068477",
+      "year": 2025,
+      "authors": [
+        "Jacob Matthews",
+        "Alex Gilbert"
+      ],
+      "venue": "2025 IEEE Aerospace Conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-70e71a13f48eeb5e",
+      "provider": "Crossref",
+      "title": "Lunar Power Transmission for Fission Surface Power",
+      "url": "https://doi.org/10.13182/nets22-38744",
+      "doi": "10.13182/nets22-38744",
+      "year": 2022,
+      "authors": [
+        "Christopher Barth",
+        "David Pike"
+      ],
+      "venue": "Nuclear and Emerging Technologies for Space  (NETS-2022)",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780974074-Aerospace-followup-1780926701-c85f45e8c481.json"
+}

@@ -1,0 +1,105 @@
+{
+  "timestamp_secs": 1781164610,
+  "task_id": "followup-1781081359-9fa764d661d2",
+  "domain": "Genetics",
+  "question": "To what degree does assortative mating for a trait inflate the additive genetic variance estimated from unrelated individuals, and how does this translate to PRS predictive accuracy?",
+  "query": "genetics safety human flourishing genome editing degree assortative mating trait inflate additive genetic variance estimated",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-60d2a8617fecbc74",
+      "provider": "Arxiv",
+      "title": "The Multivariate SEM-PGS Model: Using Polygenic Scores to Investigate Cross-Trait Genetic Nurture and Assortative Mating",
+      "url": "http://arxiv.org/abs/2510.00353v2",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Xuanyu Lyu",
+        "Jared Balbona",
+        "Tong Chen",
+        "Matthew C. Keller"
+      ],
+      "venue": "arXiv",
+      "summary": "Genetic nurture effects and assortative mating (AM) occur across many human behaviors and can bias estimates from traditional genetic models. These influences are typically studied univariately, within the same trait. However, estimation of cross-trait genetic nurture effects and cross-trait AM remains underexplored due to the absence of suitable approaches. To address this, we developed a multivariate extension of the SEM-PGS model for datasets with genotyped and phenotyped parents and offspring, enabling joint estimation of within-trait and cross-trait genetic and environmental influences. B..."
+    },
+    {
+      "source_id": "OpenAlex-17a6e35d55ec8d2d",
+      "provider": "OpenAlex",
+      "title": "The Bell Curve at 30: A Closer Look at the Within- and Between-Group IQ Genetic Evidence",
+      "url": "https://doi.org/10.31234/osf.io/jz7ku",
+      "doi": "https://doi.org/10.31234/osf.io/jz7ku",
+      "year": 2024,
+      "authors": [
+        "Jay Joseph",
+        "Ken Richardson"
+      ],
+      "venue": null,
+      "summary": "The year 2024 marks 30 years since the publication of The Bell Curve: Intelligence and Class Structure in American Life by Richard Herrnstein and Charles Murray. The book created a storm of controversy after its 1994 publication, including its authors’ claim that it is “highly likely…that both genes and the environment have something to do with racial differences” in mean IQ scores between U.S. Whites and Blacks (African Americans). In this review, we evaluate not only Herrnstein and Murray’s ethnic-differences claims, but also the evidence they cited in support of “substantial” within-group I..."
+    },
+    {
+      "source_id": "OpenAlex-86d8cf8263148e28",
+      "provider": "OpenAlex",
+      "title": "Homosexual",
+      "url": "https://doi.org/10.1007/978-3-031-17299-1_301960",
+      "doi": "https://doi.org/10.1007/978-3-031-17299-1_301960",
+      "year": 2023,
+      "authors": [
+        "Filomena Maggino"
+      ],
+      "venue": null,
+      "summary": "Halal accreditation DefinitionHalal certification is a document (e.g., logo, marking, or certificate) released by an Islamic Halalcertifying organization, which guarantees that food products, in line with particular certifying agencies, are permitted by the Islamic dietary guidelines in terms of quality assurance and lifestyle choices. Hbusiness, sustainable animal breeding, and ecological economics (Talib, Hamid, & Ai Chin, 2015b), demonstrating their concept as close as possible to environmental sustainability and corporate social responsibility.However, the main requirements for ensuring in..."
+    },
+    {
+      "source_id": "OpenAlex-81ad07162442a0fc",
+      "provider": "OpenAlex",
+      "title": "Healthy People 2010",
+      "url": "https://doi.org/10.1007/978-3-031-17299-1_1274",
+      "doi": "https://doi.org/10.1007/978-3-031-17299-1_1274",
+      "year": 2023,
+      "authors": [
+        "Cindy H. P. Sit",
+        "Catherine M. Capio",
+        "Bruce Abernethy",
+        "Thomas L. McKenzie"
+      ],
+      "venue": null,
+      "summary": "Halal accreditation DefinitionHalal certification is a document (e.g., logo, marking, or certificate) released by an Islamic Halalcertifying organization, which guarantees that food products, in line with particular certifying agencies, are permitted by the Islamic dietary guidelines in terms of quality assurance and lifestyle choices. Hbusiness, sustainable animal breeding, and ecological economics (Talib, Hamid, & Ai Chin, 2015b), demonstrating their concept as close as possible to environmental sustainability and corporate social responsibility.However, the main requirements for ensuring in..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 315; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":20117,\"items\":[{\"DOI\":\"10.7554\\/elife.49212.0..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781164610-Genetics-followup-1781081359-9fa764d661d2.json"
+}

@@ -1,0 +1,99 @@
+{
+  "timestamp_secs": 1780916901,
+  "task_id": "followup-1780908238-fcbb547c4f61",
+  "domain": "MaterialsScience",
+  "question": "Has any group directly compared CNT yarn muscles and DEAs on a common task metric such as work density (J/kg) or strain rate under equivalent load?",
+  "query": "materials science fusion robotics aerospace computation group compared yarn muscles deas common task metric such",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-258bf2672dc2b35e",
+      "provider": "Arxiv",
+      "title": "Task Adaptation in Industrial Human-Robot Interaction: Leveraging Riemannian Motion Policies",
+      "url": "http://arxiv.org/abs/2406.17333v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Mike Allenspach",
+        "Michael Pantic",
+        "Rik Girod",
+        "Lionel Ott",
+        "Roland Siegwart"
+      ],
+      "venue": "arXiv",
+      "summary": "In real-world industrial environments, modern robots often rely on human operators for crucial decision-making and mission synthesis from individual tasks. Effective and safe collaboration between humans and robots requires systems that can adjust their motion based on human intentions, enabling dynamic task planning and adaptation. Addressing the needs of industrial applications, we propose a motion control framework that (i) removes the need for manual control of the robot's movement; (ii) facilitates the formulation and combination of complex tasks; and (iii) allows the seamless integration..."
+    },
+    {
+      "source_id": "Arxiv-0fddb2678649d107",
+      "provider": "Arxiv",
+      "title": "Pulsar Science with the SKA Observatory",
+      "url": "http://arxiv.org/abs/2512.16152v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Bhal Chandra Joshi",
+        "Aris Karastergiou",
+        "Marta Burgay",
+        "The SKA pulsar science working group"
+      ],
+      "venue": "arXiv",
+      "summary": "The large instantaneous sensitivity, a wide frequency coverage and flexible observation modes with large number of beams in the sky are the main features of the SKA observatory's two telescopes, the SKA-Low and the SKA-Mid, which are located on two different continents. Owing to these capabilities, the SKAO telescopes are going to be a game-changer for radio astronomy in general and pulsar astronomy in particular. The eleven articles in this special issue on pulsar science with the SKA Observatory describe its impact on different areas of pulsar science. In this lead article, a brief descripti..."
+    },
+    {
+      "source_id": "Crossref-9de61264c836eca3",
+      "provider": "Crossref",
+      "title": "RcppColMetric: Efficient Column-Wise Metric Computation Against Common Vector",
+      "url": "https://doi.org/10.32614/cran.package.rcppcolmetric",
+      "doi": "10.32614/cran.package.rcppcolmetric",
+      "year": 2025,
+      "authors": [
+        "Xiurui Zhu"
+      ],
+      "venue": "CRAN: Contributed Packages",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-30dd240cfd48e3e2",
+      "provider": "Crossref",
+      "title": "Twist-coiled yarn artificial muscles",
+      "url": "https://doi.org/10.1016/b978-0-443-21467-7.00016-4",
+      "doi": "10.1016/b978-0-443-21467-7.00016-4",
+      "year": 2026,
+      "authors": [
+        "Menghe Miao"
+      ],
+      "venue": "Yarn Twisting Dynamics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-0e2a51bd8a0c6b63",
+      "provider": "Crossref",
+      "title": "Multi Similarity Metric Fusion in Graph-Based Semi-Supervised Learning",
+      "url": "https://doi.org/10.3390/computation7010015",
+      "doi": "10.3390/computation7010015",
+      "year": 2019,
+      "authors": [
+        "Saeedeh Bahrami",
+        "Alireza Bosaghzadeh",
+        "Fadi Dornaika"
+      ],
+      "venue": "Computation",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780916901-MaterialsScience-followup-1780908238-fcbb547c4f61.json"
+}

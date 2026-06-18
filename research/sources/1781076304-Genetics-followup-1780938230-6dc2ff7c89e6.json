@@ -1,0 +1,114 @@
+{
+  "timestamp_secs": 1781076304,
+  "task_id": "followup-1780938230-6dc2ff7c89e6",
+  "domain": "Genetics",
+  "question": "What are the known uptake rates for polygenic risk score (PRS) disclosure in lower-SES groups when genetic counseling is offered as an optional versus mandatory prerequisite?",
+  "query": "genetics safety human flourishing genome editing known uptake rates polygenic risk score disclosure lower groups",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-ea52eab78ee5888f",
+      "provider": "Arxiv",
+      "title": "Human-Precision Medicine Interaction: Public Perceptions of Polygenic Risk Score for Genetic Health Prediction",
+      "url": "http://arxiv.org/abs/2501.19405v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Yuhao Sun",
+        "Albert Tenesa",
+        "John Vines"
+      ],
+      "venue": "arXiv",
+      "summary": "Precision Medicine (PM) transforms the traditional \"one-drug-fits-all\" paradigm by customising treatments based on individual characteristics, and is an emerging topic for HCI research on digital health. A key element of PM, the Polygenic Risk Score (PRS), uses genetic data to predict an individual's disease risk. Despite its potential, PRS faces barriers to adoption, such as data inclusivity, psychological impact, and public trust. We conducted a mixed-methods study to explore how people perceive PRS, formed of surveys (n=254) and interviews (n=11) with UK-based participants. The interviews w..."
+    },
+    {
+      "source_id": "OpenAlex-f2166f8167c57605",
+      "provider": "OpenAlex",
+      "title": "A public dialogue on genomic medicine: time for a new social contract?",
+      "url": "https://pure.qub.ac.uk/en/publications/3490c745-06fd-4338-976f-64f7723e17ca",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Sarah Castell",
+        "Graham Bukowski",
+        "Helen McAneney"
+      ],
+      "venue": "Research Portal (Queen's University Belfast)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-e1c09db1ac81f029",
+      "provider": "Crossref",
+      "title": "Genome-wide association study and polygenic risk score analysis for hearing measures in children",
+      "url": "https://doi.org/10.1101/2020.07.22.215376",
+      "doi": "10.1101/2020.07.22.215376",
+      "year": 2020,
+      "authors": [
+        "Judith Schmitz",
+        "Filippo Abbondanza",
+        "Silvia Paracchini"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-a865dea757c3d186",
+      "provider": "Crossref",
+      "title": "Genome-wide association studies of polygenic risk score-derived phenotypes may lead to inflated false positive rates",
+      "url": "https://doi.org/10.1101/2022.09.10.507410",
+      "doi": "10.1101/2022.09.10.507410",
+      "year": 2022,
+      "authors": [
+        "Emil Uffelmann",
+        "Danielle Posthuma",
+        "Wouter J. Peyrot"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-2919cdacea4a5fd6",
+      "provider": "Crossref",
+      "title": "Genetic distance informs polygenic score predictive accuracy",
+      "url": "https://doi.org/10.1016/j.tig.2023.07.002",
+      "doi": "10.1016/j.tig.2023.07.002",
+      "year": 2023,
+      "authors": [
+        "Genevieve L. Wojcik"
+      ],
+      "venue": "Trends in Genetics",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781076304-Genetics-followup-1780938230-6dc2ff7c89e6.json"
+}

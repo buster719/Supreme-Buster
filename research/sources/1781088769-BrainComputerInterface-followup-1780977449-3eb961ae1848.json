@@ -1,0 +1,150 @@
+{
+  "timestamp_secs": 1781088769,
+  "task_id": "followup-1780977449-3eb961ae1848",
+  "domain": "BrainComputerInterface",
+  "question": "How does BCI adaptation change the user’s sensorimotor internal model during long-term closed‑loop use?",
+  "query": "brain computer interface human AI cooperation risks adaptation change user sensorimotor internal model during long term",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-029b7296c4d24de7",
+      "provider": "Arxiv",
+      "title": "Towards Responsible AI: A Design Space Exploration of Human-Centered Artificial Intelligence User Interfaces to Investigate Fairness",
+      "url": "http://arxiv.org/abs/2206.00474v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Yuri Nakao",
+        "Lorenzo Strappelli",
+        "Simone Stumpf",
+        "Aisha Naseer",
+        "Daniele Regoli",
+        "Giulia Del Gamba"
+      ],
+      "venue": "arXiv",
+      "summary": "With Artificial intelligence (AI) to aid or automate decision-making advancing rapidly, a particular concern is its fairness. In order to create reliable, safe and trustworthy systems through human-centred artificial intelligence (HCAI) design, recent efforts have produced user interfaces (UIs) for AI experts to investigate the fairness of AI models. In this work, we provide a design space exploration that supports not only data scientists but also domain experts to investigate AI fairness. Using loan applications as an example, we held a series of workshops with loan officers and data scienti..."
+    },
+    {
+      "source_id": "OpenAlex-5231c93146c81ede",
+      "provider": "OpenAlex",
+      "title": "Brain–computer interfaces: the innovative key to unlocking neurological conditions",
+      "url": "https://doi.org/10.1097/js9.0000000000002022",
+      "doi": "https://doi.org/10.1097/js9.0000000000002022",
+      "year": 2024,
+      "authors": [
+        "Hongyu Zhang",
+        "Le Jiao",
+        "Songxiang Yang",
+        "Haopeng Li",
+        "Xinzhan Jiang",
+        "Jing Feng",
+        "Shuhuai Zou",
+        "Qiang Xu"
+      ],
+      "venue": "International Journal of Surgery",
+      "summary": "Neurological disorders such as Parkinson's disease, stroke, and spinal cord injury can pose significant threats to human mortality, morbidity, and functional independence. Brain-Computer Interface (BCI) technology, which facilitates direct communication between the brain and external devices, emerges as an innovative key to unlocking neurological conditions, demonstrating significant promise in this context. This comprehensive review uniquely synthesizes the latest advancements in BCI research across multiple neurological disorders, offering an interdisciplinary perspective on both clinical ap..."
+    },
+    {
+      "source_id": "OpenAlex-4cd97ae6c8a4d820",
+      "provider": "OpenAlex",
+      "title": "Six Human-Centered Artificial Intelligence Grand Challenges",
+      "url": "https://doi.org/10.1080/10447318.2022.2153320",
+      "doi": "https://doi.org/10.1080/10447318.2022.2153320",
+      "year": 2023,
+      "authors": [
+        "Özlem Özmen Garibay",
+        "Brent Winslow",
+        "Salvatore Andolina",
+        "Margherita Antona",
+        "Anja Bodenschatz",
+        "Constantinos K. Coursaris",
+        "Gregory Falco",
+        "Stephen M. Fiore"
+      ],
+      "venue": "International Journal of Human-Computer Interaction",
+      "summary": "Widespread adoption of artificial intelligence (AI) technologies is substantially affecting the human condition in ways that are not yet well understood. Negative unintended consequences abound including the perpetuation and exacerbation of societal inequalities and divisions via algorithmic decision making. We present six grand challenges for the scientific community to create AI technologies that are human-centered, that is, ethical, fair, and enhance the human condition. These grand challenges are the result of an international collaboration across academia, industry and government and repr..."
+    },
+    {
+      "source_id": "OpenAlex-262faacc668a4796",
+      "provider": "OpenAlex",
+      "title": "Electroencephalogram based brain-computer interface: Applications, challenges, and opportunities",
+      "url": "https://doi.org/10.1007/s11042-023-15653-x",
+      "doi": "https://doi.org/10.1007/s11042-023-15653-x",
+      "year": 2023,
+      "authors": [
+        "Hitesh Yadav",
+        "Surita Maini"
+      ],
+      "venue": "Multimedia Tools and Applications",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-07408543c5caed70",
+      "provider": "Crossref",
+      "title": "Model-based User-Interface Adaptation by Exploiting Situations, Emotions and Software Patterns",
+      "url": "https://doi.org/10.5220/0006502400500059",
+      "doi": "10.5220/0006502400500059",
+      "year": 2017,
+      "authors": [
+        "Christian Märtin",
+        "Christian Herdin",
+        "Jürgen Engel"
+      ],
+      "venue": "Proceedings of the International Conference on Computer-Human Interaction Research and Applications",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-045144f78ac31c31",
+      "provider": "Crossref",
+      "title": "Short-term friendly and long-term hostile?",
+      "url": "https://doi.org/10.1145/800276.810970",
+      "doi": "10.1145/800276.810970",
+      "year": 1981,
+      "authors": [
+        "John C. Klensin"
+      ],
+      "venue": "Proceedings of the joint conference on Easier and more productive use of computer systems. (Part - II) Human interface and the user interface -",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-a9f9c266fe3c8c5d",
+      "provider": "Crossref",
+      "title": "Review for \"Characterization of the electrode-tissue interface during long-term deep brain stimulation in the 6-OHDA rat model of Parkinson's disease\"",
+      "url": "https://doi.org/10.1088/1741-2552/ae668d/v1/review1",
+      "doi": "10.1088/1741-2552/ae668d/v1/review1",
+      "year": 2026,
+      "authors": [],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781088769-BrainComputerInterface-followup-1780977449-3eb961ae1848.json"
+}

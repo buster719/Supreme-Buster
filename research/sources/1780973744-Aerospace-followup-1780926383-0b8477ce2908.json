@@ -1,0 +1,65 @@
+{
+  "timestamp_secs": 1780973744,
+  "task_id": "followup-1780926383-0b8477ce2908",
+  "domain": "Aerospace",
+  "question": "Which specific mission failure modes in deep-space logistics show the largest drop in probability when fleet size increases from 1 to ≥10 per synodic window—propulsion, ECLSS, navigation, comms, or surface ops?",
+  "query": "aerospace civilization resilience deep space capability specific mission failure modes deep space logistics show largest",
+  "sources": [
+    {
+      "source_id": "Crossref-99b6512faa4ff582",
+      "provider": "Crossref",
+      "title": "Logistics needs for potential deep space mission scenarios post Asteroid Redirect crewed Mission",
+      "url": "https://doi.org/10.1109/aero.2015.7119161",
+      "doi": "10.1109/aero.2015.7119161",
+      "year": 2015,
+      "authors": [
+        "Pedro Lopez",
+        "Eric Schultz",
+        "Bryan Mattfeld",
+        "Chel Stromgren",
+        "Kandyce Goodliff"
+      ],
+      "venue": "2015 IEEE Aerospace Conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-5acdd6dafe4cb1ea",
+      "provider": "Crossref",
+      "title": "Deep Space Climate Observatory: The DSCOVR mission",
+      "url": "https://doi.org/10.1109/aero.2012.6187025",
+      "doi": "10.1109/aero.2012.6187025",
+      "year": 2012,
+      "authors": [
+        "Joe Burt",
+        "B. Smith"
+      ],
+      "venue": "2012 IEEE Aerospace Conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-026a789cf87d8e88",
+      "provider": "Crossref",
+      "title": "Deep space navigation mission design and analysis tool",
+      "url": "https://doi.org/10.1109/aero.2014.6836172",
+      "doi": "10.1109/aero.2014.6836172",
+      "year": 2014,
+      "authors": [
+        "Ksenia Kolcio",
+        "Paul Graven"
+      ],
+      "venue": "2014 IEEE Aerospace Conference",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "error sending request for url (https://export.arxiv.org/api/query?search_query=all%3Aaerospace+civilization+resilience+deep+space+capability+specific+mission+failure+modes+deep+space+logistics+show+largest&start=0&max_results=3&sortBy=relev..."
+    },
+    {
+      "provider": "OpenAlex",
+      "message": "error sending request for url (https://api.openalex.org/works?search=aerospace+civilization+resilience+deep+space+capability+specific+mission+failure+modes+deep+space+logistics+show+largest&per-page=3&sort=relevance_score%3Adesc)"
+    }
+  ],
+  "bundle_path": "../research/sources/1780973744-Aerospace-followup-1780926383-0b8477ce2908.json"
+}

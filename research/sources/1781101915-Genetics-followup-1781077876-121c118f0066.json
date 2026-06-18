@@ -1,0 +1,141 @@
+{
+  "timestamp_secs": 1781101915,
+  "task_id": "followup-1781077876-121c118f0066",
+  "domain": "Genetics",
+  "question": "What is the state of evidence from studies where PRS information was disclosed as part of a research biobank, but the individual's primary care physician was not notified or integrated into the feedback loop?",
+  "query": "genetics safety human flourishing genome editing state evidence studies information disclosed part research biobank individual",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-bdcae91d16b05928",
+      "provider": "Arxiv",
+      "title": "Human in the Loop: Interactive Passive Automata Learning via Evidence-Driven State-Merging Algorithms",
+      "url": "http://arxiv.org/abs/1707.09430v1",
+      "doi": null,
+      "year": 2017,
+      "authors": [
+        "Christian A. Hammerschmidt",
+        "Radu State",
+        "Sicco Verwer"
+      ],
+      "venue": "arXiv",
+      "summary": "We present an interactive version of an evidence-driven state-merging (EDSM) algorithm for learning variants of finite state automata. Learning these automata often amounts to recovering or reverse engineering the model generating the data despite noisy, incomplete, or imperfectly sampled data sources rather than optimizing a purely numeric target function. Domain expertise and human knowledge about the target domain can guide this process, and typically is captured in parameter settings. Often, domain expertise is subconscious and not expressed explicitly. Directly interacting with the learni..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "OpenAlex-8942972b3adab493",
+      "provider": "OpenAlex",
+      "title": "Personalised Medicine, Individual Choice and the Common Good",
+      "url": "https://doi.org/10.1017/9781108590600",
+      "doi": "https://doi.org/10.1017/9781108590600",
+      "year": 2018,
+      "authors": [
+        "van Beers, B.C.",
+        "Sterckx, Sigrid",
+        "Dickenson, Donna"
+      ],
+      "venue": "Cambridge University Press eBooks",
+      "summary": "This is a volume of twelve essays concerning the fundamental tension in personalised medicine between individual choice and the common good."
+    },
+    {
+      "source_id": "OpenAlex-2137fd52973a4a0d",
+      "provider": "OpenAlex",
+      "title": "A four-part working bibliography of neuroethics: Part 4 - Ethical issues in clinical and social applications of neuroscience",
+      "url": "https://doi.org/10.1186/s13010-017-0043-y",
+      "doi": "https://doi.org/10.1186/s13010-017-0043-y",
+      "year": 2017,
+      "authors": [
+        "Kira Becker",
+        "John R. Shook",
+        "Martina Darragh",
+        "James Giordano"
+      ],
+      "venue": "Philosophy Ethics and Humanities in Medicine",
+      "summary": "BACKGROUND: As a discipline, neuroethics addresses a range of questions and issues generated by basic neuroscientific research (inclusive of studies of putative neurobiological processes involved in moral and ethical cognition and behavior), and its use and meanings in the clinical and social spheres. Here, we present Part 4 of a four-part bibliography of the neuroethics literature focusing on clinical and social applications of neuroscience, to include: the treatment-enhancement discourse; issues arising in neurology, psychiatry, and pain care; neuroethics education and training; neuroethics ..."
+    },
+    {
+      "source_id": "OpenAlex-f647b15aea05d618",
+      "provider": "OpenAlex",
+      "title": "Standardised Data on Initiatives – STARDIT: Beta Version",
+      "url": "https://doi.org/10.31219/osf.io/w5xj6",
+      "doi": "https://doi.org/10.31219/osf.io/w5xj6",
+      "year": 2021,
+      "authors": [
+        "Jack Nunn",
+        "Thomas Shafee"
+      ],
+      "venue": null,
+      "summary": "Plain English summaryAll major problems, including complex global problems such as air pollution and pandemics, require reliable data sharing between disciplines in order to respond effectively. Such problems require evidence-informed collaborative methods, multidisciplinary research and interventions in which the people who are affected are involved in every stage. However, there is currently no standardised way to share information about initiatives and problem-solving across and between fields such as health, environment, basic science, manufacturing, education, media and international deve..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781101915-Genetics-followup-1781077876-121c118f0066.json"
+}

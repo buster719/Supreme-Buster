@@ -1,0 +1,15 @@
+{
+  "timestamp_secs": 1781525140,
+  "provider": "DuckDuckGoHtml",
+  "task_id": "chat-1781525140",
+  "query": "NEAR Protocol 的官方文档是什么，并告诉我到了什么。",
+  "results": [],
+  "errors": [
+    {
+      "provider": "DuckDuckGoHtml",
+      "message": "DuckDuckGo returned a bot challenge or non-result page"
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/web/search/1781525140-chat-1781525140.json"
+}

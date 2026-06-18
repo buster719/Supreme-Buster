@@ -1,0 +1,139 @@
+{
+  "timestamp_secs": 1781078176,
+  "task_id": "followup-1780966274-d31af920f7a2",
+  "domain": "Genetics",
+  "question": "How strongly do medication adherence, screening uptake, and lifestyle changes mediate the PRS–outcome relationship, and what portion of that mediation is attributable to baseline SES gradients rather than the score itself?",
+  "query": "genetics safety human flourishing genome editing strongly medication adherence screening uptake lifestyle changes mediate outcome",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-c4f895fb508c4769",
+      "provider": "OpenAlex",
+      "title": "Gut microbiota and cardiovascular disease: opportunities and challenges",
+      "url": "https://doi.org/10.1186/s40168-020-00821-0",
+      "doi": "https://doi.org/10.1186/s40168-020-00821-0",
+      "year": 2020,
+      "authors": [
+        "Negin Kazemian",
+        "Morteza Mahmoudi",
+        "Frank Halperin",
+        "Joseph C. Wu",
+        "Sepideh Pakpour"
+      ],
+      "venue": "Microbiome",
+      "summary": "Coronary artery disease (CAD) is the most common health problem worldwide and remains the leading cause of morbidity and mortality. Over the past decade, it has become clear that the inhabitants of our gut, the gut microbiota, play a vital role in human metabolism, immunity, and reactions to diseases, including CAD. Although correlations have been shown between CAD and the gut microbiota, demonstration of potential causal relationships is much more complex and challenging. In this review, we will discuss the potential direct and indirect causal roots between gut microbiota and CAD development ..."
+    },
+    {
+      "source_id": "OpenAlex-88f9f0fb075783ee",
+      "provider": "OpenAlex",
+      "title": "Parkinson’s Disease: Bridging Gaps, Building Biomarkers, and Reimagining Clinical Translation",
+      "url": "https://doi.org/10.3390/cells14151161",
+      "doi": "https://doi.org/10.3390/cells14151161",
+      "year": 2025,
+      "authors": [
+        "Masaru Tanaka"
+      ],
+      "venue": "Cells",
+      "summary": "Parkinson's disease (PD), a progressive neurodegenerative disorder, imposes growing clinical and socioeconomic burdens worldwide. Despite landmark discoveries in dopamine biology and α-synuclein pathology, translating mechanistic insights into effective, personalized interventions remains elusive. Recent advances in molecular profiling, neuroimaging, and computational modeling have broadened the understanding of PD as a multifactorial systems disorder rather than a purely dopaminergic condition. However, critical gaps persist in diagnostic precision, biomarker standardization, and the translat..."
+    },
+    {
+      "source_id": "OpenAlex-b87449f2fd6ff88b",
+      "provider": "OpenAlex",
+      "title": "Parkinson’s Disease: Bridging Gaps, Building Biomarkers, and Reimagining Clinical Translation",
+      "url": "https://doi.org/10.20944/preprints202506.2099.v2",
+      "doi": "https://doi.org/10.20944/preprints202506.2099.v2",
+      "year": 2025,
+      "authors": [
+        "Masaru Tanaka"
+      ],
+      "venue": "Preprints.org",
+      "summary": "Parkinson’s disease (PD), a progressive neurodegenerative disorder, imposes growing clinical and socioeconomic burdens worldwide. Despite landmark discoveries in dopamine biology and α-synuclein pathology, translating mechanistic insights into effective, personalized interventions remains elusive. Recent advances in molecular profiling, neuroimaging, and computational modeling have broadened the understanding of PD as a multifactorial systems disorder rather than a purely dopaminergic condition. However, critical gaps persist in diagnostic precision, biomarker standardization, and the translat..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781078176-Genetics-followup-1780966274-d31af920f7a2.json"
+}

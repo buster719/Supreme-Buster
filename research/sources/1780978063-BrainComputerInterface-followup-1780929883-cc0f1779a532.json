@@ -1,0 +1,140 @@
+{
+  "timestamp_secs": 1780978063,
+  "task_id": "followup-1780929883-cc0f1779a532",
+  "domain": "BrainComputerInterface",
+  "question": "Does a hybrid approach that adapts silently by default but explains its adaptation reasoning on request maintain higher trust than either pure challenge or pure silent adaptation?",
+  "query": "brain computer interface human AI cooperation risks hybrid approach adapts silently default explains adaptation reasoning request",
+  "sources": [
+    {
+      "source_id": "Arxiv-c508dbc9b1fffed3",
+      "provider": "Arxiv",
+      "title": "Navigating the State of Cognitive Flow: Context-Aware AI Interventions for Effective Reasoning Support",
+      "url": "http://arxiv.org/abs/2504.16021v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Dinithi Dissanayake",
+        "Suranga Nanayakkara"
+      ],
+      "venue": "arXiv",
+      "summary": "Flow theory describes an optimal cognitive state where individuals experience deep focus and intrinsic motivation when a task's difficulty aligns with their skill level. In AI-augmented reasoning, interventions that disrupt the state of cognitive flow can hinder rather than enhance decision-making. This paper proposes a context-aware cognitive augmentation framework that adapts interventions based on three key contextual factors: type, timing, and scale. By leveraging multimodal behavioral cues (e.g., gaze behavior, typing hesitation, interaction speed), AI can dynamically adjust cognitive sup..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "OpenAlex-d8ca38000eba40a2",
+      "provider": "OpenAlex",
+      "title": "AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges",
+      "url": "https://doi.org/10.70777/si.v2i3.15161",
+      "doi": "https://doi.org/10.70777/si.v2i3.15161",
+      "year": 2025,
+      "authors": [
+        "Ranjan Sapkota",
+        "Konstantinos I. Roumeliotis",
+        "Manoj Karkee"
+      ],
+      "venue": "SuperIntelligence - Robotics - Safety & Alignment",
+      "summary": "This review critically distinguishes between AI Agents and Agentic AI, offering a structured, conceptual taxonomy, application mapping, and analysis of opportunities and challenges to clarify their divergent design philosophies and capabilities. We begin by outlining the search strategy and foundational definitions, characterizing AI Agents as modular systems driven and enabled by LLMs and LIMs for taskspecific automation. Generative AI is positioned as a precursor providing the foundation, with AI agents advancing through tool integration, prompt engineering, and reasoning enhancements. We th..."
+    },
+    {
+      "source_id": "OpenAlex-8d7793cfbce02724",
+      "provider": "OpenAlex",
+      "title": "Design patterns for human-AI co-learning: A wizard-of-Oz evaluation in an urban-search-and-rescue task",
+      "url": "https://doi.org/10.1016/j.ijhcs.2022.102831",
+      "doi": "https://doi.org/10.1016/j.ijhcs.2022.102831",
+      "year": 2022,
+      "authors": [
+        "Tjeerd Schoonderwoerd",
+        "Emma M. van Zoelen",
+        "Karel Van den Bosch",
+        "Mark A. Neerincx"
+      ],
+      "venue": "International Journal of Human-Computer Studies",
+      "summary": "The rapid advancement of technology empowered by artificial intelligence is believed to intensify the collaboration between humans and AI as team partners. Successful collaboration requires partners to learn about each other and about the task. This human-AI co-learning can be achieved by presenting situations that enable partners to share knowledge and experiences. In this paper we describe the development and implementation of a task context and procedures for studying co-learning. More specifically, we designed specific sequences of interactions that aim to initiate and facilitate the co-le..."
+    },
+    {
+      "source_id": "OpenAlex-e6457d3311e9ccf9",
+      "provider": "OpenAlex",
+      "title": "AI ethics and higher education : good practice and guidance for educators, learners, and institutions",
+      "url": "https://doi.org/10.58863/20.500.12424/4146302",
+      "doi": "https://doi.org/10.58863/20.500.12424/4146302",
+      "year": 2022,
+      "authors": [
+        "Green, Erin",
+        "Singh, Divya",
+        "Chia, Roland 1960-"
+      ],
+      "venue": "Globethics.net eBooks",
+      "summary": "Artificial intelligence (AI) is exerting unprecedented pressure on the global higher educational landscape in transforming recruitment processes, subverting traditional pedagogy, and creating new research and institutional opportunities.These technologies require contextual and global ethical analysis so that they maybe developed and deployed in higher education in just and responsible ways.To-date, these efforts have been largely focused on small parts of the educational environments leaving most of the world out of an essential contribution.This volume acts as a corrective to this and contri..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-2b5a64ee44962dbd",
+      "provider": "Crossref",
+      "title": "Neural Ensemble of Thought: Toward Human–like AI through Brain–inspired Reasoning",
+      "url": "https://doi.org/10.1109/bci69045.2026.11435047",
+      "doi": "10.1109/bci69045.2026.11435047",
+      "year": 2026,
+      "authors": [
+        "Hyeon-Taek Han",
+        "Dae-Hyeok Lee",
+        "Sung-Jin Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "2026 14th International Conference on Brain-Computer Interface (BCI)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-d181940bc02c621c",
+      "provider": "Crossref",
+      "title": "DEFAULT REASONING BY EPISTEMIC LOGIC",
+      "url": "https://doi.org/10.1017/cbo9780511569852.006",
+      "doi": "10.1017/cbo9780511569852.006",
+      "year": 1995,
+      "authors": [],
+      "venue": "Epistemic Logic for AI and Computer Science",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780978063-BrainComputerInterface-followup-1780929883-cc0f1779a532.json"
+}

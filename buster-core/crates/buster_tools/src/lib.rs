@@ -7,6 +7,10 @@
 
 use std::collections::BTreeMap;
 use std::fmt;
+use std::fs;
+use std::fs::OpenOptions;
+use std::io::Write;
+use std::path::{Path, PathBuf};
 use std::time::{SystemTime, UNIX_EPOCH};
 
 use buster_body::host_api::{BodyScope, ChangeLevel, RiskLine};
@@ -22,14 +26,14 @@ use sha2::Sha256;
 
 type HmacSha256 = Hmac<Sha256>;
 
-#[derive(Debug, Clone, Copy, PartialEq, Eq, PartialOrd, Ord)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq, PartialOrd, Ord, Serialize, Deserialize)]
 pub enum ToolPermission {
     ReadOnly,
     WorkspaceWrite,
     DangerFullAccess,
 }
 
-#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
 pub enum ToolSource {
     Builtin,
     Runtime,
@@ -37,7 +41,7 @@ pub enum ToolSource {
     ExternalCli,
 }
 
-#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
 pub enum ToolStatus {
     Draft,
     Active,
@@ -128,7 +132,7 @@ impl ToolManifest {
     }
 }
 
-#[derive(Debug, Clone, PartialEq, Eq)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
 pub struct ToolActionRule {
     pub action: String,
     pub required_permission: ToolPermission,
@@ -245,6 +249,303 @@ impl fmt::Display for ToolRegistryError {
 }
 
 impl std::error::Error for ToolRegistryError {}
+
+#[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
+pub struct ToolRegistryEntry {
+    pub name: String,
+    pub description: String,
+    pub runtime_kind: String,
+    pub required_permission: ToolPermission,
+    pub capability: String,
+    pub required_network_hosts: Vec<String>,
+    pub required_secrets: Vec<String>,
+    pub source: ToolSource,
+    pub status: ToolStatus,
+    pub governance_level: u8,
+    pub risk_line: String,
+    pub action_rules: Vec<ToolActionRule>,
+    pub input_schema: Value,
+    pub budget: ResourceBudget,
+    pub updated_at_secs: u64,
+    pub last_used_at_secs: Option<u64>,
+    pub use_count: u64,
+    pub failure_count: u64,
+    pub quarantined_reason: Option<String>,
+}
+
+#[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
+pub struct ToolRegistrySnapshot {
+    pub updated_at_secs: u64,
+    pub entries: Vec<ToolRegistryEntry>,
+}
+
+impl Default for ToolRegistrySnapshot {
+    fn default() -> Self {
+        Self {
+            updated_at_secs: now_secs(),
+            entries: Vec::new(),
+        }
+    }
+}
+
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+pub struct ToolEvent {
+    pub timestamp_secs: u64,
+    pub kind: ToolEventKind,
+    pub tool_name: Option<String>,
+    pub summary: String,
+    pub governance_level: u8,
+}
+
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
+pub enum ToolEventKind {
+    RegistryScanned,
+    ToolViewed,
+    ToolQueried,
+    ToolUsed,
+    ToolQuarantined,
+}
+
+#[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
+pub struct ToolView {
+    pub entry: ToolRegistryEntry,
+}
+
+#[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
+pub struct ToolUseReceipt {
+    pub entry: ToolRegistryEntry,
+    pub result: ToolActionResult,
+    pub summary: String,
+    pub audit_path: PathBuf,
+}
+
+#[derive(Debug, Clone)]
+pub struct ToolWorkspace {
+    root: PathBuf,
+}
+
+impl ToolWorkspace {
+    pub fn new(root: impl Into<PathBuf>) -> Self {
+        Self { root: root.into() }
+    }
+
+    pub fn ensure_layout(&self) -> Result<(), ToolWorkspaceError> {
+        fs::create_dir_all(self.root.join("tools").join("installed"))?;
+        fs::create_dir_all(self.root.join("tools").join("generated"))?;
+        fs::create_dir_all(self.root.join("tools").join("archive"))?;
+        fs::create_dir_all(self.root.join("state"))?;
+        fs::create_dir_all(self.root.join("audit"))?;
+        Ok(())
+    }
+
+    pub fn refresh_registry(&self) -> Result<ToolRegistrySnapshot, ToolWorkspaceError> {
+        self.ensure_layout()?;
+        let previous = self.read_registry().unwrap_or_default();
+        let mut entries = builtin_tool_manifests()
+            .into_iter()
+            .map(|manifest| entry_from_manifest(manifest, &previous))
+            .collect::<Vec<_>>();
+        entries.sort_by(|left, right| left.name.cmp(&right.name));
+        let snapshot = ToolRegistrySnapshot {
+            updated_at_secs: now_secs(),
+            entries,
+        };
+        self.write_registry(&snapshot)?;
+        self.append_event(&ToolEvent {
+            timestamp_secs: now_secs(),
+            kind: ToolEventKind::RegistryScanned,
+            tool_name: None,
+            summary: format!("scanned {} tool(s)", snapshot.entries.len()),
+            governance_level: 3,
+        })?;
+        Ok(snapshot)
+    }
+
+    pub fn read_registry(&self) -> Result<ToolRegistrySnapshot, ToolWorkspaceError> {
+        let raw = fs::read_to_string(self.registry_path())?;
+        serde_json::from_str(&raw).map_err(ToolWorkspaceError::Json)
+    }
+
+    pub fn query_tools(&self, query: &str) -> Result<Vec<ToolRegistryEntry>, ToolWorkspaceError> {
+        let registry = self.registry_or_scan()?;
+        let needle = query.trim().to_ascii_lowercase();
+        let matches = registry
+            .entries
+            .into_iter()
+            .filter(|entry| {
+                needle.is_empty()
+                    || entry.name.to_ascii_lowercase().contains(&needle)
+                    || entry.description.to_ascii_lowercase().contains(&needle)
+                    || entry.capability.to_ascii_lowercase().contains(&needle)
+                    || entry
+                        .required_network_hosts
+                        .iter()
+                        .any(|host| host.to_ascii_lowercase().contains(&needle))
+                    || entry
+                        .action_rules
+                        .iter()
+                        .any(|rule| rule.action.to_ascii_lowercase().contains(&needle))
+            })
+            .collect::<Vec<_>>();
+        self.append_event(&ToolEvent {
+            timestamp_secs: now_secs(),
+            kind: ToolEventKind::ToolQueried,
+            tool_name: None,
+            summary: format!(
+                "tool query `{}` returned {} result(s)",
+                query,
+                matches.len()
+            ),
+            governance_level: 3,
+        })?;
+        Ok(matches)
+    }
+
+    pub fn view_tool(&self, name: &str) -> Result<ToolView, ToolWorkspaceError> {
+        let registry = self.registry_or_scan()?;
+        let entry =
+            find_entry(&registry, name).ok_or_else(|| ToolWorkspaceError::ToolNotFound {
+                name: name.to_string(),
+            })?;
+        self.append_event(&ToolEvent {
+            timestamp_secs: now_secs(),
+            kind: ToolEventKind::ToolViewed,
+            tool_name: Some(entry.name.clone()),
+            summary: "tool manifest viewed for possible use".to_string(),
+            governance_level: entry.governance_level,
+        })?;
+        Ok(ToolView { entry })
+    }
+
+    pub fn record_use(
+        &self,
+        name: &str,
+        result: ToolActionResult,
+        summary: impl Into<String>,
+    ) -> Result<ToolUseReceipt, ToolWorkspaceError> {
+        let summary = summary.into();
+        let mut registry = self.registry_or_scan()?;
+        let index =
+            find_entry_index(&registry, name).ok_or_else(|| ToolWorkspaceError::ToolNotFound {
+                name: name.to_string(),
+            })?;
+        registry.entries[index].use_count = registry.entries[index].use_count.saturating_add(1);
+        registry.entries[index].last_used_at_secs = Some(now_secs());
+        if result != ToolActionResult::Success {
+            registry.entries[index].failure_count =
+                registry.entries[index].failure_count.saturating_add(1);
+        }
+        if registry.entries[index].failure_count >= 3
+            && registry.entries[index].status == ToolStatus::Active
+        {
+            registry.entries[index].status = ToolStatus::Quarantined;
+            registry.entries[index].quarantined_reason =
+                Some("three recorded non-successful tool uses".to_string());
+            self.append_event(&ToolEvent {
+                timestamp_secs: now_secs(),
+                kind: ToolEventKind::ToolQuarantined,
+                tool_name: Some(registry.entries[index].name.clone()),
+                summary: registry.entries[index]
+                    .quarantined_reason
+                    .clone()
+                    .unwrap_or_else(|| "tool quarantined".to_string()),
+                governance_level: registry.entries[index].governance_level,
+            })?;
+        }
+        registry.updated_at_secs = now_secs();
+        let entry = registry.entries[index].clone();
+        self.write_registry(&registry)?;
+        let record = serde_json::json!({
+            "timestamp_secs": now_secs(),
+            "tool_name": entry.name,
+            "result": result,
+            "summary": summary,
+            "use_count": entry.use_count,
+            "failure_count": entry.failure_count,
+            "status": entry.status,
+        });
+        append_jsonl(&self.audit_path(), &record)?;
+        self.append_event(&ToolEvent {
+            timestamp_secs: now_secs(),
+            kind: ToolEventKind::ToolUsed,
+            tool_name: Some(entry.name.clone()),
+            summary: "tool use recorded".to_string(),
+            governance_level: entry.governance_level,
+        })?;
+        Ok(ToolUseReceipt {
+            entry,
+            result,
+            summary,
+            audit_path: self.audit_path(),
+        })
+    }
+
+    pub fn runtime_registry(&self) -> Result<ToolRegistry, ToolWorkspaceError> {
+        let snapshot = self.registry_or_scan()?;
+        let mut registry = ToolRegistry::new();
+        for manifest in builtin_tool_manifests() {
+            let status = find_entry(&snapshot, &manifest.name)
+                .map(|entry| entry.status)
+                .unwrap_or(manifest.status);
+            let mut manifest = manifest;
+            manifest.status = status;
+            registry.replace(manifest);
+        }
+        Ok(registry)
+    }
+
+    fn registry_or_scan(&self) -> Result<ToolRegistrySnapshot, ToolWorkspaceError> {
+        self.read_registry().or_else(|_| self.refresh_registry())
+    }
+
+    fn write_registry(&self, registry: &ToolRegistrySnapshot) -> Result<(), ToolWorkspaceError> {
+        atomic_write(
+            &self.registry_path(),
+            &serde_json::to_string_pretty(registry).map_err(ToolWorkspaceError::Json)?,
+        )
+    }
+
+    fn append_event(&self, event: &ToolEvent) -> Result<(), ToolWorkspaceError> {
+        append_jsonl(&self.events_path(), event)
+    }
+
+    fn registry_path(&self) -> PathBuf {
+        self.root.join("state").join("tool-registry.json")
+    }
+
+    fn events_path(&self) -> PathBuf {
+        self.root.join("audit").join("tool-events.jsonl")
+    }
+
+    fn audit_path(&self) -> PathBuf {
+        self.root.join("audit").join("tool-use.jsonl")
+    }
+}
+
+#[derive(Debug)]
+pub enum ToolWorkspaceError {
+    Io(std::io::Error),
+    Json(serde_json::Error),
+    ToolNotFound { name: String },
+}
+
+impl fmt::Display for ToolWorkspaceError {
+    fn fmt(&self, formatter: &mut fmt::Formatter<'_>) -> fmt::Result {
+        match self {
+            Self::Io(error) => write!(formatter, "tool workspace I/O error: {error}"),
+            Self::Json(error) => write!(formatter, "tool workspace JSON error: {error}"),
+            Self::ToolNotFound { name } => write!(formatter, "tool `{name}` not found"),
+        }
+    }
+}
+
+impl std::error::Error for ToolWorkspaceError {}
+
+impl From<std::io::Error> for ToolWorkspaceError {
+    fn from(error: std::io::Error) -> Self {
+        Self::Io(error)
+    }
+}
 
 #[derive(Debug, Clone, PartialEq)]
 pub struct ToolInvocation {
@@ -1018,6 +1319,282 @@ pub fn feishu_lark_cli_tool() -> ToolManifest {
     ])
 }
 
+pub fn builtin_tool_manifests() -> Vec<ToolManifest> {
+    vec![
+        builtin_http_post_json_tool(vec![
+            "api.xiaomimimo.com".to_string(),
+            "openrouter.ai".to_string(),
+        ]),
+        external_cli_tool(
+            "cli.node_version",
+            "Check Node.js availability with a read-only CLI smoke command",
+            "cli.node_version",
+            ToolPermission::ReadOnly,
+        ),
+        ToolManifest::new(
+            "research.source_fetch",
+            "Fetch research source metadata from arXiv, OpenAlex, and Crossref through BodyGate preflight",
+            RuntimeKind::Tool,
+            "research.source_fetch",
+        )
+        .active()
+        .with_permission(ToolPermission::ReadOnly)
+        .with_source(ToolSource::Builtin)
+        .with_network_hosts([
+            "export.arxiv.org",
+            "api.openalex.org",
+            "api.crossref.org",
+            "doi.org",
+        ])
+        .with_budget(ResourceBudget {
+            max_wall_clock_ms: Some(60_000),
+            max_network_bytes: Some(2 * 1024 * 1024),
+            ..ResourceBudget::default()
+        }),
+        ToolManifest::new(
+            "research.web_search",
+            "Search the public web through DuckDuckGo/Bing HTML search as an untrusted evidence-lead tool",
+            RuntimeKind::Tool,
+            "research.web_search",
+        )
+        .active()
+        .with_permission(ToolPermission::ReadOnly)
+        .with_source(ToolSource::Builtin)
+        .with_network_hosts(["duckduckgo.com", "html.duckduckgo.com", "bing.com", "www.bing.com"])
+        .with_action_rules([
+            ToolActionRule::new("search", ToolPermission::ReadOnly)
+                .with_max_invocations(1)
+                .with_max_chars(500),
+        ])
+        .with_budget(ResourceBudget {
+            max_wall_clock_ms: Some(30_000),
+            max_network_bytes: Some(2 * 1024 * 1024),
+            ..ResourceBudget::default()
+        }),
+        ToolManifest::new(
+            "arena.devfun",
+            "Compete in DevFun Arena through Buster's local Arena harness",
+            RuntimeKind::Tool,
+            "arena.devfun",
+        )
+        .active()
+        .with_permission(ToolPermission::WorkspaceWrite)
+        .with_source(ToolSource::Builtin)
+        .with_network_hosts(["arena.dev.fun"])
+        .with_secrets(["arena_api_key"])
+        .with_action_rules([
+            ToolActionRule::new("status", ToolPermission::ReadOnly).with_max_invocations(1),
+            ToolActionRule::new("competitions", ToolPermission::ReadOnly).with_max_invocations(1),
+            ToolActionRule::new("fetch_skill", ToolPermission::WorkspaceWrite)
+                .with_targets(["skills/installed/devfun-arena"])
+                .with_max_invocations(3),
+            ToolActionRule::new("heartbeat", ToolPermission::ReadOnly).with_max_invocations(1),
+            ToolActionRule::new("strategy_update", ToolPermission::WorkspaceWrite)
+                .with_targets(["state/arena-strategy.json", ".arena-poker-state"])
+                .with_max_invocations(1),
+            ToolActionRule::new("eval_start", ToolPermission::WorkspaceWrite)
+                .with_targets([".arena-poker-state"])
+                .with_max_invocations(1),
+            ToolActionRule::new("eval_tick", ToolPermission::WorkspaceWrite)
+                .with_targets([".arena-poker-state"])
+                .with_max_invocations(1),
+            ToolActionRule::new("register", ToolPermission::WorkspaceWrite)
+                .with_targets([".arena-credentials"])
+                .with_max_invocations(1),
+        ])
+        .with_budget(ResourceBudget {
+            max_wall_clock_ms: Some(120_000),
+            max_network_bytes: Some(4 * 1024 * 1024),
+            ..ResourceBudget::default()
+        }),
+        ToolManifest::new(
+            "research.paperqa",
+            "Run PaperQA2 over Buster's bounded local paper corpus for cited literature QA",
+            RuntimeKind::Tool,
+            "research.paperqa",
+        )
+        .active()
+        .with_permission(ToolPermission::ReadOnly)
+        .with_source(ToolSource::ExternalCli)
+        .with_network_hosts([
+            "api.openai.com",
+            "openrouter.ai",
+            "api.xiaomimimo.com",
+            "api.crossref.org",
+            "api.semanticscholar.org",
+            "api.openalex.org",
+            "api.unpaywall.org",
+        ])
+        .with_secrets([
+            "llm_api_key",
+            "openai_api_key",
+            "openrouter_api_key",
+            "xiaomi_mimo_api_key",
+            "crossref_api_key",
+            "semantic_scholar_api_key",
+        ])
+        .with_action_rules([
+            ToolActionRule::new("doctor", ToolPermission::ReadOnly).with_max_invocations(1),
+            ToolActionRule::new("ask", ToolPermission::ReadOnly)
+                .with_targets(["research/paperqa/papers"])
+                .with_max_invocations(1)
+                .with_max_chars(1_200),
+            ToolActionRule::new("search", ToolPermission::ReadOnly)
+                .with_targets(["research/paperqa/papers"])
+                .with_max_invocations(1)
+                .with_max_chars(500),
+        ])
+        .with_budget(ResourceBudget {
+            max_wall_clock_ms: Some(240_000),
+            max_network_bytes: Some(16 * 1024 * 1024),
+            max_tokens: Some(8_000),
+            ..ResourceBudget::default()
+        }),
+        ToolManifest::new(
+            "research.paper_acquire",
+            "Discover and download legal open-access PDFs into Buster's PaperQA corpus",
+            RuntimeKind::Tool,
+            "research.paper_acquire",
+        )
+        .active()
+        .with_permission(ToolPermission::WorkspaceWrite)
+        .with_source(ToolSource::Builtin)
+        .with_network_hosts([
+            "export.arxiv.org",
+            "arxiv.org",
+            "api.openalex.org",
+            "api.crossref.org",
+        ])
+        .with_action_rules([
+            ToolActionRule::new("discover", ToolPermission::ReadOnly)
+                .with_max_invocations(1)
+                .with_max_chars(1_200),
+            ToolActionRule::new("download_open_pdf", ToolPermission::WorkspaceWrite)
+                .with_targets(["research/paperqa/papers"])
+                .with_max_invocations(5),
+        ])
+        .with_budget(ResourceBudget {
+            max_wall_clock_ms: Some(180_000),
+            max_network_bytes: Some(64 * 1024 * 1024),
+            ..ResourceBudget::default()
+        }),
+        ToolManifest::new(
+            "research.paper_brief",
+            "Read extracted open-paper text and write a traceable research brief through BodyGate",
+            RuntimeKind::ExternalLlm,
+            "research.paper_brief",
+        )
+        .active()
+        .with_permission(ToolPermission::WorkspaceWrite)
+        .with_source(ToolSource::Builtin)
+        .with_network_hosts(["configured_llm_endpoint"])
+        .with_secrets(["llm_api_key", "openrouter_api_key", "xiaomi_mimo_api_key"])
+        .with_action_rules([
+            ToolActionRule::new("select_extracted_text", ToolPermission::ReadOnly)
+                .with_targets(["research/paperqa/extracted", "research/paperqa/manifest.jsonl"])
+                .with_max_invocations(1),
+            ToolActionRule::new("brief", ToolPermission::WorkspaceWrite)
+                .with_targets(["research/paperqa/briefs"])
+                .with_max_invocations(1)
+                .with_max_chars(42_000),
+        ])
+        .with_budget(ResourceBudget {
+            max_wall_clock_ms: Some(120_000),
+            max_network_bytes: Some(2 * 1024 * 1024),
+            max_tokens: Some(3_000),
+            ..ResourceBudget::default()
+        }),
+        feishu_lark_cli_tool(),
+    ]
+}
+
+fn entry_from_manifest(
+    manifest: ToolManifest,
+    previous: &ToolRegistrySnapshot,
+) -> ToolRegistryEntry {
+    let old = previous
+        .entries
+        .iter()
+        .find(|entry| entry.name == manifest.name);
+    let status = old.map(|entry| entry.status).unwrap_or(manifest.status);
+    ToolRegistryEntry {
+        name: manifest.name,
+        description: manifest.description,
+        runtime_kind: runtime_kind_name(manifest.runtime_kind).to_string(),
+        required_permission: manifest.required_permission,
+        capability: manifest.capability,
+        required_network_hosts: manifest.required_network_hosts,
+        required_secrets: manifest.required_secrets,
+        source: manifest.source,
+        status,
+        governance_level: governance_level_for_permission(manifest.required_permission),
+        risk_line: format!("{:?}", risk_line_for(manifest.required_permission)),
+        action_rules: manifest.action_rules,
+        input_schema: manifest.input_schema,
+        budget: manifest.budget,
+        updated_at_secs: now_secs(),
+        last_used_at_secs: old.and_then(|entry| entry.last_used_at_secs),
+        use_count: old.map(|entry| entry.use_count).unwrap_or(0),
+        failure_count: old.map(|entry| entry.failure_count).unwrap_or(0),
+        quarantined_reason: old.and_then(|entry| entry.quarantined_reason.clone()),
+    }
+}
+
+fn runtime_kind_name(kind: RuntimeKind) -> &'static str {
+    match kind {
+        RuntimeKind::Wasm => "wasm",
+        RuntimeKind::Script => "script",
+        RuntimeKind::Mcp => "mcp",
+        RuntimeKind::Tool => "tool",
+        RuntimeKind::ExternalLlm => "external_llm",
+    }
+}
+
+fn governance_level_for_permission(permission: ToolPermission) -> u8 {
+    match permission {
+        ToolPermission::ReadOnly => 3,
+        ToolPermission::WorkspaceWrite => 3,
+        ToolPermission::DangerFullAccess => 4,
+    }
+}
+
+fn find_entry(registry: &ToolRegistrySnapshot, name: &str) -> Option<ToolRegistryEntry> {
+    let needle = name.trim().to_ascii_lowercase();
+    registry
+        .entries
+        .iter()
+        .find(|entry| entry.name.to_ascii_lowercase() == needle)
+        .cloned()
+}
+
+fn find_entry_index(registry: &ToolRegistrySnapshot, name: &str) -> Option<usize> {
+    let needle = name.trim().to_ascii_lowercase();
+    registry
+        .entries
+        .iter()
+        .position(|entry| entry.name.to_ascii_lowercase() == needle)
+}
+
+fn append_jsonl(path: &Path, value: &impl Serialize) -> Result<(), ToolWorkspaceError> {
+    if let Some(parent) = path.parent() {
+        fs::create_dir_all(parent)?;
+    }
+    let mut file = OpenOptions::new().create(true).append(true).open(path)?;
+    serde_json::to_writer(&mut file, value).map_err(ToolWorkspaceError::Json)?;
+    file.write_all(b"\n")?;
+    Ok(())
+}
+
+fn atomic_write(path: &Path, contents: &str) -> Result<(), ToolWorkspaceError> {
+    if let Some(parent) = path.parent() {
+        fs::create_dir_all(parent)?;
+    }
+    let tmp_path = path.with_extension(format!("tmp.{}", now_secs()));
+    fs::write(&tmp_path, contents)?;
+    fs::rename(tmp_path, path)?;
+    Ok(())
+}
+
 fn now_secs() -> u64 {
     SystemTime::now()
         .duration_since(UNIX_EPOCH)
@@ -1339,6 +1916,75 @@ mod tests {
         assert!(matches!(report.outcome, RuntimeOutcome::Completed(_)));
         assert_eq!(gate.store().tool_action_count().unwrap(), 1);
         assert_eq!(gate.store().audit_event_count().unwrap(), 2);
+    }
+
+    #[test]
+    fn tool_workspace_scans_builtin_registry_for_agent_query() {
+        let root = temp_root("workspace-scan");
+        let workspace = ToolWorkspace::new(&root);
+
+        let registry = workspace.refresh_registry().unwrap();
+
+        assert!(registry
+            .entries
+            .iter()
+            .any(|entry| entry.name == "feishu.lark_cli"));
+        assert!(registry
+            .entries
+            .iter()
+            .any(|entry| entry.name == "research.source_fetch"));
+        assert!(root.join("state").join("tool-registry.json").exists());
+        let _ = fs::remove_dir_all(root);
+    }
+
+    #[test]
+    fn tool_workspace_queries_and_views_tools() {
+        let root = temp_root("workspace-query");
+        let workspace = ToolWorkspace::new(&root);
+        workspace.refresh_registry().unwrap();
+
+        let results = workspace.query_tools("feishu").unwrap();
+        let view = workspace.view_tool("feishu.lark_cli").unwrap();
+
+        assert_eq!(results.len(), 1);
+        assert_eq!(view.entry.name, "feishu.lark_cli");
+        assert!(view
+            .entry
+            .action_rules
+            .iter()
+            .any(|rule| rule.action == "im.message_send"));
+        let _ = fs::remove_dir_all(root);
+    }
+
+    #[test]
+    fn tool_workspace_quarantines_after_repeated_failures() {
+        let root = temp_root("workspace-quarantine");
+        let workspace = ToolWorkspace::new(&root);
+        workspace.refresh_registry().unwrap();
+
+        for _ in 0..3 {
+            workspace
+                .record_use(
+                    "feishu.lark_cli",
+                    ToolActionResult::Failed,
+                    "simulated send failure",
+                )
+                .unwrap();
+        }
+
+        let registry = workspace.read_registry().unwrap();
+        let entry = registry
+            .entries
+            .iter()
+            .find(|entry| entry.name == "feishu.lark_cli")
+            .unwrap();
+        assert_eq!(entry.status, ToolStatus::Quarantined);
+        assert_eq!(entry.failure_count, 3);
+        let _ = fs::remove_dir_all(root);
+    }
+
+    fn temp_root(name: &str) -> PathBuf {
+        std::env::temp_dir().join(format!("buster-tools-{name}-{}", std::process::id()))
     }
 
     fn smoke_command() -> CliToolCommand {

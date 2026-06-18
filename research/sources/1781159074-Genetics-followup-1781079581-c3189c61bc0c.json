@@ -1,0 +1,123 @@
+{
+  "timestamp_secs": 1781159074,
+  "task_id": "followup-1781079581-c3189c61bc0c",
+  "domain": "Genetics",
+  "question": "Do the architectural factors that widen the population-family gap differ for continuous vs. binary traits?",
+  "query": "genetics safety human flourishing genome editing architectural factors widen population family differ continuous binary traits",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-e1c2b2f870f4012e",
+      "provider": "Arxiv",
+      "title": "From Genotype to Phenotype: polygenic prediction of complex human traits",
+      "url": "http://arxiv.org/abs/2101.05870v1",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Timothy G. Raben",
+        "Louis Lello",
+        "Erik Widen",
+        "Stephen D. H. Hsu"
+      ],
+      "venue": "arXiv",
+      "summary": "Decoding the genome confers the capability to predict characteristics of the organism(phenotype) from DNA (genotype). We describe the present status and future prospects of genomic prediction of complex traits in humans. Some highly heritable complex phenotypes such as height and other quantitative traits can already be predicted with reasonable accuracy from DNA alone. For many diseases, including important common conditions such as coronary artery disease, breast cancer, type I and II diabetes, individuals with outlier polygenic scores (e.g., top few percent) have been shown to have 5 or eve..."
+    },
+    {
+      "source_id": "OpenAlex-7a3f9526a1efef8c",
+      "provider": "OpenAlex",
+      "title": "Breeding Grounds for Biodiversity Renewing Crop Genetic Resources in an Age of Industrial Food",
+      "url": "https://escholarship.org/uc/item/2x88f3j7",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "Maywa Montenegro"
+      ],
+      "venue": "eScholarship (California Digital Library)",
+      "summary": "Seeds are central to agrobiodiversity, and farmers have historically bred a rich array of crop seeds to sustain rural and urban communities. Over the past 150 years, however, trajectories in macroeconomic development, science and research, and agricultural policy have dovetailed with environmental changes to diminish seed diversity and the living agricultures it supports. While genetic erosion has emerged as a global challenge, access to that diversity has also come into stark relief: Industry consolidation, the development of transgenic crops, and intellectual property rights are now seen as ..."
+    },
+    {
+      "source_id": "OpenAlex-a7bc950035edf8b2",
+      "provider": "OpenAlex",
+      "title": "Artificial Intelligence Across Borders: Transforming Industries Through Intelligent Innovation",
+      "url": "https://doi.org/10.70593/978-93-49910-25-6",
+      "doi": "https://doi.org/10.70593/978-93-49910-25-6",
+      "year": 2025,
+      "authors": [
+        "Sibaram Prasad Panda"
+      ],
+      "venue": null,
+      "summary": "How Artificial Intelligence is Revolutionizing Healthcare, Finance, Agriculture, Education, and More. A practical, research-backed, and accessible guide that explores how AI is reshaping multiple sectors. Each chapter focuses on a different industry, illustrating real-world applications, use cases, benefits, challenges, and future trends. The book balances technical insight with real-life impact."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781159074-Genetics-followup-1781079581-c3189c61bc0c.json"
+}

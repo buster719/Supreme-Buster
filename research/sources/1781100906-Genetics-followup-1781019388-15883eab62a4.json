@@ -1,0 +1,141 @@
+{
+  "timestamp_secs": 1781100906,
+  "task_id": "followup-1781019388-15883eab62a4",
+  "domain": "Genetics",
+  "question": "Are the specific diseases or risk thresholds enumerated, or is the term left to clinical/expert discretion under the HFEA's Code of Practice?",
+  "query": "genetics safety human flourishing genome editing specific diseases risk thresholds enumerated term left clinical expert",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-a02ceb7f29e5747e",
+      "provider": "Arxiv",
+      "title": "GREGoR: Accelerating Genomics for Rare Diseases",
+      "url": "http://arxiv.org/abs/2412.14338v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Moez Dawood",
+        "Ben Heavner",
+        "Marsha M. Wheeler",
+        "Rachel A. Ungar",
+        "Jonathan LoTempio",
+        "Laurens Wiel",
+        "Seth Berger",
+        "Jonathan A. Bernstein"
+      ],
+      "venue": "arXiv",
+      "summary": "Rare diseases are collectively common, affecting approximately one in twenty individuals worldwide. In recent years, rapid progress has been made in rare disease diagnostics due to advances in DNA sequencing, development of new computational and experimental approaches to prioritize genes and genetic variants, and increased global exchange of clinical and genetic data. However, more than half of individuals suspected to have a rare disease lack a genetic diagnosis. The Genomics Research to Elucidate the Genetics of Rare Diseases (GREGoR) Consortium was initiated to study thousands of challengi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "OpenAlex-f77388cd99db1270",
+      "provider": "OpenAlex",
+      "title": "EGOCENTRISM AS A CONFLICT FACTOR OF A TEENAGER",
+      "url": "https://doi.org/10.34660/inf.2022.97.94.036",
+      "doi": "https://doi.org/10.34660/inf.2022.97.94.036",
+      "year": 2024,
+      "authors": [
+        "N.V. Vyazovova",
+        "Viola M. Melekhova"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-6fe7dc10c86c25d4",
+      "provider": "OpenAlex",
+      "title": "THE IMPACT OF DIGITAL REVOLUTION FACTORS ON THE STRATEGY OF CONSULTING COMPANIES",
+      "url": "https://doi.org/10.34660/inf.2022.28.47.029",
+      "doi": "https://doi.org/10.34660/inf.2022.28.47.029",
+      "year": 2024,
+      "authors": [
+        "O.V. Tretyakov"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-4add695ca3c0ea92",
+      "provider": "OpenAlex",
+      "title": "Developing facilitative governance frameworks for emerging biotechnologies : exploring new approaches to cross-border regulation",
+      "url": "https://research.manchester.ac.uk/en/studentTheses/525a9a76-d3bc-43a8-adb4-1cd8c91d8583",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Nishat Hyder"
+      ],
+      "venue": "Research Explorer (The University of Manchester)",
+      "summary": "CHAPTER I: Introducing contemporary approaches to regulating emerging biotechnologies 1.1 Better regulationIn 1997 newly elected New Labour government created the Better Regulation Task Force; its task was to advise the government on crafting 'better regulation'.The Task Force identified five principles of good regulation, which should be: transparent accountable proportionate consistent targeted -only at cases where action is needed 14 These five principles continue to inform the regulatory agenda in the UK.They are enshrined in legislation 15 and implemented through the Regulators' Code 16 a..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781100906-Genetics-followup-1781019388-15883eab62a4.json"
+}

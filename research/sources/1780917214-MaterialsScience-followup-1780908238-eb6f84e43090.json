@@ -1,0 +1,119 @@
+{
+  "timestamp_secs": 1780917214,
+  "task_id": "followup-1780908238-eb6f84e43090",
+  "domain": "MaterialsScience",
+  "question": "For dielectric elastomer actuators (DEAs), what is the demonstrated cycle life at >10% strain under sustained sub-millimeter closed-loop control, and what failure modes dominate?",
+  "query": "materials science fusion robotics aerospace computation dielectric elastomer actuators deas demonstrated cycle life strain under",
+  "sources": [
+    {
+      "source_id": "Arxiv-9923a0160150e9ed",
+      "provider": "Arxiv",
+      "title": "Untethered thin dielectric elastomer actuated soft robot",
+      "url": "http://arxiv.org/abs/2512.17940v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Xi Wang",
+        "Jing Liu",
+        "Siqian Li",
+        "Hengtai Dai",
+        "Jung-Che Chang",
+        "Adam Rushworth",
+        "Xin Dong"
+      ],
+      "venue": "arXiv",
+      "summary": "Thin dielectric elastomer actuator (DEA) features a unique in-plane configuration, enabling low-profile designs capable of accessing millimetre-scale narrow spaces. However, most existing DEA-powered soft robots require high voltages and wired power connections, limiting their ability to operate in confined environments. This study presents an untethered thin soft robot (UTS-Robot) powered by thin dielectric elastomer actuators (TS-DEA). The robot measures 38 mm in length, 6 mm in height, and weighs just 2.34 grams, integrating flexible onboard electronics to achieve fully untethered actuation..."
+    },
+    {
+      "source_id": "Arxiv-69919ff00a0b4368",
+      "provider": "Arxiv",
+      "title": "Portable, High-Frequency, and High-Voltage Control Circuits for Untethered Miniature Robots Driven by Dielectric Elastomer Actuators",
+      "url": "http://arxiv.org/abs/2502.06166v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Qi Shao",
+        "Xin-Jun Liu",
+        "Huichan Zhao"
+      ],
+      "venue": "arXiv",
+      "summary": "In this work, we propose a high-voltage, high-frequency control circuit for the untethered applications of dielectric elastomer actuators (DEAs). The circuit board leverages low-voltage resistive components connected in series to control voltages of up to 1.8 kV within a compact size, suitable for frequencies ranging from 0 to 1 kHz. A single-channel control board weighs only 2.5 g. We tested the performance of the control circuit under different load conditions and power supplies. Based on this control circuit, along with a commercial miniature high-voltage power converter, we construct an un..."
+    },
+    {
+      "source_id": "Arxiv-6fe2d3f982c6e05d",
+      "provider": "Arxiv",
+      "title": "Super Dielectric Materials",
+      "url": "http://arxiv.org/abs/1403.6862v1",
+      "doi": null,
+      "year": 2014,
+      "authors": [
+        "Sam Fromille",
+        "Jonathan Phillips"
+      ],
+      "venue": "arXiv",
+      "summary": "Evidence is provided that a class of materials with dielectric constants greater than 100,000, herein called super dielectric materials (SDM), can be generated readily from common, inexpensive materials."
+    },
+    {
+      "source_id": "OpenAlex-9a982b9a1138bab3",
+      "provider": "OpenAlex",
+      "title": "Soft Robotic Grippers",
+      "url": "https://doi.org/10.1002/adma.201707035",
+      "doi": "https://doi.org/10.1002/adma.201707035",
+      "year": 2018,
+      "authors": [
+        "Jun Shintake",
+        "Vito Cacucciolo",
+        "Dario Floreano",
+        "Herbert Shea"
+      ],
+      "venue": "Advanced Materials",
+      "summary": "Advances in soft robotics, materials science, and stretchable electronics have enabled rapid progress in soft grippers. Here, a critical overview of soft robotic grippers is presented, covering different material sets, physical principles, and device architectures. Soft gripping can be categorized into three technologies, enabling grasping by: a) actuation, b) controlled stiffness, and c) controlled adhesion. A comprehensive review of each type is presented. Compared to rigid grippers, end-effectors fabricated from flexible and soft components can often grasp or manipulate a larger variety of ..."
+    },
+    {
+      "source_id": "OpenAlex-104a5df52f2a6f11",
+      "provider": "OpenAlex",
+      "title": "4D printing roadmap",
+      "url": "https://doi.org/10.1088/1361-665x/ad5c22",
+      "doi": "https://doi.org/10.1088/1361-665x/ad5c22",
+      "year": 2024,
+      "authors": [
+        "Mahdi Bodaghi",
+        "Linlin Wang",
+        "Fenghua Zhang",
+        "Yanju Liu",
+        "Jinsong Leng",
+        "Ruizhe Xing",
+        "Michael D. Dickey",
+        "Saeedeh Vanaei"
+      ],
+      "venue": "Smart Materials and Structures",
+      "summary": "Abstract Four-dimensional (4D) printing is an advanced manufacturing technology that has rapidly emerged as a transformative tool with the capacity to reshape various research domains and industries. Distinguished by its integration of time as a dimension, 4D printing allows objects to dynamically respond to external stimuli, setting it apart from conventional 3D printing. This roadmap has been devised, by contributions of 44 active researchers in this field from 32 affiliations world-wide, to navigate the swiftly evolving landscape of 4D printing, consolidating recent advancements and making ..."
+    },
+    {
+      "source_id": "OpenAlex-ef9d64bd895d1eab",
+      "provider": "OpenAlex",
+      "title": "Intelligent Soft Surgical Robots for Next‐Generation Minimally Invasive Surgery",
+      "url": "https://doi.org/10.1002/aisy.202100011",
+      "doi": "https://doi.org/10.1002/aisy.202100011",
+      "year": 2021,
+      "authors": [
+        "Jiaqi Zhu",
+        "Liangxiong Lyu",
+        "Yi Xu",
+        "Huageng Liang",
+        "Xiaoping Zhang",
+        "Han Ding",
+        "Zhigang Wu"
+      ],
+      "venue": "Advanced Intelligent Systems",
+      "summary": "Endowed with the expected visions for future surgery, minimally invasive surgery (MIS) has become one of the most rapid developing areas in modern surgery. Soft robotics, which originates from interdisciplinary advances in materials, fabrication, and electronics, featuring better adaptability and safer interaction, holds great promises in addressing current technical challenges in MIS, which are difficult to be solved with current rigid robotic technologies. For the first time, herein, the expected characteristics of next‐generation MIS from the surgeons’ perspectives are analyzed and the rece..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 556; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":103569,\"items\":[{\"DOI\":\"10.32657\\/10356\\/2108..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780917214-MaterialsScience-followup-1780908238-eb6f84e43090.json"
+}

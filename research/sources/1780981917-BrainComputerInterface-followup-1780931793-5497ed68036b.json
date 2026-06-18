@@ -1,0 +1,113 @@
+{
+  "timestamp_secs": 1780981917,
+  "task_id": "followup-1780931793-5497ed68036b",
+  "domain": "BrainComputerInterface",
+  "question": "In shared‑autonomy frameworks that learn a user’s intent over time, does the effective bandwidth *increase* as the machine model becomes more personalised, making direct comparison across bandwidth levels insufficient?",
+  "query": "brain computer interface human AI cooperation risks shared autonomy frameworks learn user intent over time effective",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-76fbb2711ea3e82d",
+      "provider": "Arxiv",
+      "title": "Spatial Tactile Brain-Computer Interface Paradigm Applying Vibration Stimuli to Large Areas of User's Back",
+      "url": "http://arxiv.org/abs/1404.4226v1",
+      "doi": null,
+      "year": 2014,
+      "authors": [
+        "Takumi Kodama",
+        "Shoji Makino",
+        "Tomasz M. Rutkowski"
+      ],
+      "venue": "arXiv",
+      "summary": "We aim at an augmentation of communication abilities of amyotrophic lateral sclerosis (ALS) patients by creating a brain-computer interface (BCI) which can control a computer or other device by using only brain activity. As a method, we use a stimulus-driven BCI based on vibration stimuli delivered via a gaming pad to the user's back. We identify P300 responses from brain activity data in response to the vibration stimuli. The user's intentions are classified according to the P300 responses recorded in the EEG. From the results of the psychophysical and online BCI experiments, we are able to c..."
+    },
+    {
+      "source_id": "OpenAlex-f15a03a0a0067661",
+      "provider": "OpenAlex",
+      "title": "Designing Transparency for Effective Human-AI Collaboration",
+      "url": "https://doi.org/10.1007/s10796-022-10284-3",
+      "doi": "https://doi.org/10.1007/s10796-022-10284-3",
+      "year": 2022,
+      "authors": [
+        "Michael Vössing",
+        "Niklas Kühl",
+        "Matteo Lind",
+        "Gerhard Satzger"
+      ],
+      "venue": "Information Systems Frontiers",
+      "summary": "Abstract The field of artificial intelligence (AI) is advancing quickly, and systems can increasingly perform a multitude of tasks that previously required human intelligence. Information systems can facilitate collaboration between humans and AI systems such that their individual capabilities complement each other. However, there is a lack of consolidated design guidelines for information systems facilitating the collaboration between humans and AI systems. This work examines how agent transparency affects trust and task outcomes in the context of human-AI collaboration. Drawing on the 3-Gap ..."
+    },
+    {
+      "source_id": "OpenAlex-a96a5deef980dd64",
+      "provider": "OpenAlex",
+      "title": "Human resource management in the age of generative artificial intelligence: Perspectives and research directions on ChatGPT",
+      "url": "https://doi.org/10.1111/1748-8583.12524",
+      "doi": "https://doi.org/10.1111/1748-8583.12524",
+      "year": 2023,
+      "authors": [
+        "Pawan Budhwar",
+        "Soumyadeb Chowdhury",
+        "Geoffrey Wood",
+        "Herman Aguinis",
+        "Greg J. Bamber",
+        "Jose R. Beltran",
+        "Paul Boselie",
+        "Fang Lee Cooke"
+      ],
+      "venue": "Human Resource Management Journal",
+      "summary": "Abstract ChatGPT and its variants that use generative artificial intelligence (AI) models have rapidly become a focal point in academic and media discussions about their potential benefits and drawbacks across various sectors of the economy, democracy, society, and environment. It remains unclear whether these technologies result in job displacement or creation, or if they merely shift human labour by generating new, potentially trivial or practically irrelevant, information and decisions. According to the CEO of ChatGPT, the potential impact of this new family of AI technology could be as big..."
+    },
+    {
+      "source_id": "OpenAlex-cb30c2b4b5544d7b",
+      "provider": "OpenAlex",
+      "title": "Symbiotic human-robot collaborative assembly",
+      "url": "https://doi.org/10.1016/j.cirp.2019.05.002",
+      "doi": "https://doi.org/10.1016/j.cirp.2019.05.002",
+      "year": 2019,
+      "authors": [
+        "Lihui Wang",
+        "Robert X. Gao",
+        "József Váncza",
+        "Jörg Krüger",
+        "Xi Vincent Wang",
+        "Sotiris Makris",
+        "George Chryssolouris"
+      ],
+      "venue": "CIRP Annals",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1651; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":46899,\"items\":[{\"DOI\":\"10.1109\\/hri61500.202..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780981917-BrainComputerInterface-followup-1780931793-5497ed68036b.json"
+}

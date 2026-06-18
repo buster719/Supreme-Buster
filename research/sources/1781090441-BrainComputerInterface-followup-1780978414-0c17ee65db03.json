@@ -1,0 +1,142 @@
+{
+  "timestamp_secs": 1781090441,
+  "task_id": "followup-1780978414-0c17ee65db03",
+  "domain": "BrainComputerInterface",
+  "question": "Does frequent AI challenge in BCI tasks cause habituation that reduces self-report honesty, or does it improve metacognitive calibration over time?",
+  "query": "brain computer interface human AI cooperation risks frequent challenge tasks cause habituation reduces self report honesty",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-c9ea6502dff26abb",
+      "provider": "OpenAlex",
+      "title": "Machine Psychology",
+      "url": "http://arxiv.org/abs/2303.13988",
+      "doi": "https://doi.org/10.48550/arxiv.2303.13988",
+      "year": 2023,
+      "authors": [
+        "Thilo Hagendorff",
+        "Dasgupta, Ishita",
+        "Binz, Marcel",
+        "Chan, Stephanie C. Y.",
+        "Lampinen, Andrew",
+        "Wang, Jane X.",
+        "Akata, Zeynep",
+        "Schulz, Eric"
+      ],
+      "venue": "arXiv (Cornell University)",
+      "summary": "Large language models (LLMs) show increasingly advanced emergent capabilities and are being incorporated across various societal domains. Understanding their behavior and reasoning abilities therefore holds significant importance. We argue that a fruitful direction for research is engaging LLMs in behavioral experiments inspired by psychology that have traditionally been aimed at understanding human cognition and behavior. In this article, we highlight and summarize theoretical perspectives, experimental paradigms, and computational analysis techniques that this approach brings to the table. I..."
+    },
+    {
+      "source_id": "OpenAlex-bd88a8544f566d72",
+      "provider": "OpenAlex",
+      "title": "Dead rats, dopamine, performance metrics, and peacock tails: Proxy failure is an inherent risk in goal-oriented systems",
+      "url": "https://doi.org/10.1017/s0140525x23002753",
+      "doi": "https://doi.org/10.1017/s0140525x23002753",
+      "year": 2023,
+      "authors": [
+        "Yohan J. John",
+        "Leigh Caldwell",
+        "Dakota E. McCoy",
+        "Oliver Braganza"
+      ],
+      "venue": "Behavioral and Brain Sciences",
+      "summary": "Abstract When a measure becomes a target, it ceases to be a good measure. For example, when standardized test scores in education become targets, teachers may start “teaching to the test,” leading to breakdown of the relationship between the measure – test performance – and the underlying goal – quality education. Similar phenomena have been named and described across a broad range of contexts, such as economics, academia, machine learning, and ecology. Yet it remains unclear whether these phenomena bear only superficial similarities, or if they derive from some fundamental unifying mechanism...."
+    },
+    {
+      "source_id": "OpenAlex-94efe21aeac1623c",
+      "provider": "OpenAlex",
+      "title": "Electronic Imaging & the Visual Arts. EVA 2012 Florence",
+      "url": "https://directory.doabooks.org/handle/20.500.12854/82348",
+      "doi": null,
+      "year": 2012,
+      "authors": [],
+      "venue": "Directory of Open access Books (OAPEN Foundation)",
+      "summary": "Important Information Technology topics are presented: multimedia systems, data-bases, protection of data, access to the content. Particular reference is reserved to digital images (2D, 3D) regarding Cultural Institutions (Museums, Libraries, Palace – Monuments, Archaeological Sites). The main parts of the Conference Proceedings regard: Strategic Issues, EC Projects and Related Networks & Initiatives, International Forum on “Culture & Technology”, 2D – 3D Technologies & Applications, Virtual Galleries – Museums and Related Initiatives, Access to the Culture Information. Three Workshops are rel..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-8bd7443c7ae45511",
+      "provider": "Crossref",
+      "title": "Visuo-Motor Tasks in a Brain-Computer Interface Analysis",
+      "url": "https://doi.org/10.5772/13556",
+      "doi": "10.5772/13556",
+      "year": 2011,
+      "authors": [
+        "Vito Logar",
+        "Ale Beli"
+      ],
+      "venue": "Recent Advances in Brain-Computer Interface Systems",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781090441-BrainComputerInterface-followup-1780978414-0c17ee65db03.json"
+}

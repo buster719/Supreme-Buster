@@ -1,0 +1,144 @@
+{
+  "timestamp_secs": 1781091111,
+  "task_id": "followup-1780980349-51a8d9a1aae0",
+  "domain": "BrainComputerInterface",
+  "question": "Does the optimal temporal granularity depend on the patient’s level of BCI literacy or degree of motor impairment?",
+  "query": "brain computer interface human AI cooperation risks optimal temporal granularity depend patient level literacy degree motor",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-46c54a8fa83bf161",
+      "provider": "OpenAlex",
+      "title": "Encoding the Enforcement of Safety Standards into Smart Robots to Harness Their Computing Sophistication and Collaborative Potential: A Legal Risk Assessment for European Union Policymakers",
+      "url": "https://doi.org/10.1017/err.2023.72",
+      "doi": "https://doi.org/10.1017/err.2023.72",
+      "year": 2023,
+      "authors": [
+        "Riccardo Vecellio Segate",
+        "Angela Daly"
+      ],
+      "venue": "European Journal of Risk Regulation",
+      "summary": "Abstract Until robots and humans mostly worked in fast-paced and yet separate environments, occupational health and safety (OHS) rules could address workers’ safety largely independently from robotic conduct. This is no longer the case: collaborative robots (cobots) working alongside humans warrant the design of policies ensuring the safety of both humans and robots at once, within shared spaces and upon delivery of cooperative workflows. Within the European Union (EU), the applicable regulatory framework stands at the intersection between international industry standards and legislation at th..."
+    },
+    {
+      "source_id": "OpenAlex-88f9f0fb075783ee",
+      "provider": "OpenAlex",
+      "title": "Parkinson’s Disease: Bridging Gaps, Building Biomarkers, and Reimagining Clinical Translation",
+      "url": "https://doi.org/10.3390/cells14151161",
+      "doi": "https://doi.org/10.3390/cells14151161",
+      "year": 2025,
+      "authors": [
+        "Masaru Tanaka"
+      ],
+      "venue": "Cells",
+      "summary": "Parkinson's disease (PD), a progressive neurodegenerative disorder, imposes growing clinical and socioeconomic burdens worldwide. Despite landmark discoveries in dopamine biology and α-synuclein pathology, translating mechanistic insights into effective, personalized interventions remains elusive. Recent advances in molecular profiling, neuroimaging, and computational modeling have broadened the understanding of PD as a multifactorial systems disorder rather than a purely dopaminergic condition. However, critical gaps persist in diagnostic precision, biomarker standardization, and the translat..."
+    },
+    {
+      "source_id": "OpenAlex-5802519f9c4d2abe",
+      "provider": "OpenAlex",
+      "title": "Book of Abstracts of the International Conference \"Global Challenges and Data-Driven Science\"",
+      "url": "https://doi.org/10.2205/codata2017",
+      "doi": "https://doi.org/10.2205/codata2017",
+      "year": 2017,
+      "authors": [
+        "Alena Rybkina",
+        "Anni Reissell",
+        "Marina I. Nezhurina",
+        "S. V. Solodov",
+        "C. K. Pankratz",
+        "Federico Sánchez",
+        "Daniel Lindholm",
+        "A. N. Wilson"
+      ],
+      "venue": "Geoinformatics research papers",
+      "summary": "International, independent and non-political approach should be provided for the better understanding of the Arctic future and its current needs. It is vital to focus on the complexity of entire region and interconnections of its geological, biological, atmospheric and geographic features. Imbalance within its systems will lead to the catastrophic effects that will reflect on the world systems. Due to its unique geo-systems the integrated systems approach is vitally needed. The presented study will focus on the complex assessment of the status of the Arctic territory and its Future Scenarios. ..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-42d91937ecc0b6fc",
+      "provider": "Crossref",
+      "title": "A Two Dimensional Brain-Computer Interface Associated with Human Natural Motor Control",
+      "url": "https://doi.org/10.5772/14386",
+      "doi": "10.5772/14386",
+      "year": 2011,
+      "authors": [
+        "Dandan Huang",
+        "Xuedong Chen",
+        "Ding-Yu Fei",
+        "Ou Bai"
+      ],
+      "venue": "Recent Advances in Brain-Computer Interface Systems",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781091111-BrainComputerInterface-followup-1780980349-51a8d9a1aae0.json"
+}

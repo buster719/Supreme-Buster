@@ -1,0 +1,155 @@
+{
+  "timestamp_secs": 1780907427,
+  "task_id": "seed-aerospace-001",
+  "domain": "Aerospace",
+  "question": "Which aerospace capabilities most directly support long-term civilization resilience and deeper access to the universe?",
+  "query": "aerospace civilization resilience deep space capability aerospace capabilities support long term civilization resilience deeper access",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-978539ee49e97667",
+      "provider": "Arxiv",
+      "title": "A Review of Urban Resilience Frameworks: Transferring Knowledge to Enhance Pandemic Resilience",
+      "url": "http://arxiv.org/abs/2503.17371v2",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Yue Sun",
+        "Ryan Weightman",
+        "Anye Shi",
+        "Timur Dogan",
+        "Samitha Samaranayake"
+      ],
+      "venue": "arXiv",
+      "summary": "Urbanization is rapidly increasing, with urban populations expected to grow significantly by 2050, particularly in developing regions. This expansion brings challenges related to chronic stresses and acute shocks, such as the COVID-19 pandemic, which has underscored the critical role of urban form in a city's capacity to manage public health crises. Despite the heightened interest in urban resilience, research examining the relationship between urban morphology and pandemic resilience remains limited, often focusing solely on density and its effect on disease transmission. This work aims to ad..."
+    },
+    {
+      "source_id": "Arxiv-df311f07aa23b316",
+      "provider": "Arxiv",
+      "title": "Resilient Radio Access Networks: AI and the Unknown Unknowns",
+      "url": "http://arxiv.org/abs/2510.21587v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Bho Matthiesen",
+        "Armin Dekorsy",
+        "Petar Popovski"
+      ],
+      "venue": "arXiv",
+      "summary": "5G networks offer exceptional reliability and availability, ensuring consistent performance and user satisfaction. Yet they might still fail when confronted with the unexpected. A resilient system is able to adapt to real-world complexity, including operating conditions completely unanticipated during system design. This makes resilience a vital attribute for communication systems that must sustain service in scenarios where models are absent or too intricate to provide statistical guarantees. Such considerations indicate that artifical intelligence (AI) will play a major role in delivering re..."
+    },
+    {
+      "source_id": "OpenAlex-c9393ba4e3ca4761",
+      "provider": "OpenAlex",
+      "title": "Bio-inspired computation: Where we stand and what's next",
+      "url": "https://doi.org/10.1016/j.swevo.2019.04.008",
+      "doi": "https://doi.org/10.1016/j.swevo.2019.04.008",
+      "year": 2019,
+      "authors": [
+        "Javier Del Ser",
+        "Eneko Osaba",
+        "Daniel Molina",
+        "Xin‐She Yang",
+        "Sancho Salcedo‐Sanz",
+        "David Camacho",
+        "Swagatam Das",
+        "Ponnuthurai Nagaratnam Suganthan"
+      ],
+      "venue": "Swarm and Evolutionary Computation",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-ca8061fee7efee1a",
+      "provider": "OpenAlex",
+      "title": "Satellite Remote Sensing for Water Resources Management: Potential for Supporting Sustainable Development in Data‐Poor Regions",
+      "url": "https://doi.org/10.1029/2017wr022437",
+      "doi": "https://doi.org/10.1029/2017wr022437",
+      "year": 2018,
+      "authors": [
+        "Justin Sheffield",
+        "Eric F. Wood",
+        "Ming Pan",
+        "Hylke E. Beck",
+        "Gabriele Coccia",
+        "Aleix Serrat‐Capdevila",
+        "Koen Verbist"
+      ],
+      "venue": "Water Resources Research",
+      "summary": "Abstract Water resources management (WRM) for sustainable development presents many challenges in areas with sparse in situ monitoring networks. The exponential growth of satellite based information over the past decade provides unprecedented opportunities to support and improve WRM. Furthermore, traditional barriers to the access and usage of satellite data are lowering as technological innovations provide opportunities to manage and deliver this wealth of information to a wider audience. We review data needs for WRM and the role that satellite remote sensing can play to fill gaps and enhance..."
+    },
+    {
+      "source_id": "OpenAlex-e0dfbed91276172d",
+      "provider": "OpenAlex",
+      "title": "On the History and Future of 100% Renewable Energy Systems Research",
+      "url": "https://doi.org/10.1109/access.2022.3193402",
+      "doi": "https://doi.org/10.1109/access.2022.3193402",
+      "year": 2022,
+      "authors": [
+        "Christian Breyer",
+        "Siavash Khalili",
+        "Dmitrii Bogdanov",
+        "Manish Ram",
+        "Ayobami Solomon Oyewo",
+        "Arman Aghahosseini",
+        "Ashish Gulagi",
+        "A.A. Solomon"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Research on 100% renewable energy systems is a relatively recent phenomenon. It was initiated in the mid-1970s, catalyzed by skyrocketing oil prices. Since the mid-2000s, it has quickly evolved into a prominent research field encompassing an expansive and growing number of research groups and organizations across the world. The main conclusion of most of these studies is that 100% renewables is feasible worldwide at low cost. Advanced concepts and methods now enable the field to chart realistic as well as cost- or resource-optimized and efficient transition pathways to a future without the use..."
+    },
+    {
+      "source_id": "Crossref-b2d0924b76ebd4c5",
+      "provider": "Crossref",
+      "title": "The critical imperatives of behavioral resilience in civilian space flight travelers",
+      "url": "https://doi.org/10.1016/b978-0-443-13850-8.00017-8",
+      "doi": "10.1016/b978-0-443-13850-8.00017-8",
+      "year": 2025,
+      "authors": [
+        "Bettina L. Beard"
+      ],
+      "venue": "Building a Space-Faring Civilization",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-42321e3770d869a4",
+      "provider": "Crossref",
+      "title": "Preparing for the unpredictable: facilitating multisystem resilience in human spaceflight",
+      "url": "https://doi.org/10.1016/b978-0-443-13850-8.00023-3",
+      "doi": "10.1016/b978-0-443-13850-8.00023-3",
+      "year": 2025,
+      "authors": [
+        "Mark Shelhamer"
+      ],
+      "venue": "Building a Space-Faring Civilization",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-bf7990728879d95d",
+      "provider": "Crossref",
+      "title": "Trade and Calusa Complexity",
+      "url": "https://doi.org/10.1017/9781009086547.010",
+      "doi": "10.1017/9781009086547.010",
+      "year": 2022,
+      "authors": [
+        "William H. Marquardt"
+      ],
+      "venue": "Trade before Civilization",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780907427-Aerospace-seed-aerospace-001.json"
+}

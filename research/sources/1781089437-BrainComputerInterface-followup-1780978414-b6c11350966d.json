@@ -1,0 +1,143 @@
+{
+  "timestamp_secs": 1781089437,
+  "task_id": "followup-1780978414-b6c11350966d",
+  "domain": "BrainComputerInterface",
+  "question": "In collaborative BCI tasks where AI and human share control, does frequent challenge lead to strategic underreporting or bluffing?",
+  "query": "brain computer interface human AI cooperation risks collaborative tasks share control frequent challenge lead strategic underreporting",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-22245b1f51baf2f6",
+      "provider": "OpenAlex",
+      "title": "Impact of EU Regulations on AI Adoption in Smart City Solutions: A Review of Regulatory Barriers, Technological Challenges, and Societal Benefits",
+      "url": "https://doi.org/10.3390/info16070568",
+      "doi": "https://doi.org/10.3390/info16070568",
+      "year": 2025,
+      "authors": [
+        "Bo Nørregaard Jôrgensen",
+        "Zheng Ma"
+      ],
+      "venue": "Information",
+      "summary": "This review investigates the influence of European Union regulations on the adoption of artificial intelligence in smart city solutions, with a structured emphasis on regulatory barriers, technological challenges, and societal benefits. It offers a comprehensive analysis of the legal frameworks in effect by 2025, including the Artificial Intelligence Act, General Data Protection Regulation, Data Act, and sector-specific directives governing mobility, energy, and surveillance. This study critically assesses how these regulations affect the deployment of AI systems across urban domains such as t..."
+    },
+    {
+      "source_id": "OpenAlex-e09008c423fb6e15",
+      "provider": "OpenAlex",
+      "title": "Synthetic Emotions and the Illusion of Measurement: A Conceptual Review and Critique of Measurement Paradigms in Affective Science",
+      "url": "https://doi.org/10.3390/brainsci15090909",
+      "doi": "https://doi.org/10.3390/brainsci15090909",
+      "year": 2025,
+      "authors": [
+        "Dana Rad",
+        "Corina Costache-Colareza",
+        "Ruxandra-Victoria Paraschiv",
+        "Liviu Gavrilă-Ardelean"
+      ],
+      "venue": "Brain Sciences",
+      "summary": "The scientific study of emotion remains fraught with conceptual ambiguity, methodological limitations, and epistemological blind spots. This theoretical paper argues that existing paradigms frequently capture synthetic rather than natural emotional states-those shaped by social expectations, cognitive scripting, and performance under observation. We propose a conceptual framework that distinguishes natural emotion-spontaneous, embodied, and interoceptively grounded-from synthetic forms that are adaptive, context-driven, and often unconsciously rehearsed. These reactions often involve emotional..."
+    },
+    {
+      "source_id": "OpenAlex-d11d8d1f49e05993",
+      "provider": "OpenAlex",
+      "title": "Virtual Reality in Higher Education: A Systematic Review Aligned with the Sustainable Development Goals",
+      "url": "https://doi.org/10.3390/soc15090251",
+      "doi": "https://doi.org/10.3390/soc15090251",
+      "year": 2025,
+      "authors": [
+        "David Llanos-Ruiz",
+        "Victor Abella Garcí­a",
+        "Vanesa Ausín Villaverde"
+      ],
+      "venue": "Societies",
+      "summary": "Virtual Reality (VR) has emerged as a transformative tool in higher education, enabling immersive and interactive learning environments that support the assimilation of complex concepts, hands-on training, and innovative pedagogical practices. This systematic literature review analyzes studies published between 2020 and 2025 that examined the integration of VR in higher education and its connection with the United Nations Sustainable Development Goals (SDGs). Following the PRISMA guidelines, twelve studies were selected from the Web of Science and Scopus databases and assessed using predefined..."
+    },
+    {
+      "source_id": "Crossref-f42b4f8710e36260",
+      "provider": "Crossref",
+      "title": "Brain Control: Human-computer Integration Control Based on Brain-computer Interface",
+      "url": "https://doi.org/10.3724/sp.j.1004.2013.00208",
+      "doi": "10.3724/sp.j.1004.2013.00208",
+      "year": 2014,
+      "authors": [
+        "Xing-Yu WANG",
+        "Jing JIN",
+        "Yu ZHANG",
+        "Bei WANG"
+      ],
+      "venue": "Acta Automatica Sinica",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-8bd7443c7ae45511",
+      "provider": "Crossref",
+      "title": "Visuo-Motor Tasks in a Brain-Computer Interface Analysis",
+      "url": "https://doi.org/10.5772/13556",
+      "doi": "10.5772/13556",
+      "year": 2011,
+      "authors": [
+        "Vito Logar",
+        "Ale Beli"
+      ],
+      "venue": "Recent Advances in Brain-Computer Interface Systems",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781089437-BrainComputerInterface-followup-1780978414-b6c11350966d.json"
+}

@@ -1,0 +1,147 @@
+{
+  "timestamp_secs": 1780919091,
+  "task_id": "followup-1780909434-e96f920ca939",
+  "domain": "Robotics",
+  "question": "Does ISO 10218‑2:2011 (robot systems and integration) explicitly address software that is not part of the robot controller but issues commands from a separate supervisory agent, and can it be applied to tools that have no robot‑origin kinematic chain?",
+  "query": "robotics safe physical world human compatible tools 10218 2011 robot systems integration explicitly address software part",
+  "sources": [
+    {
+      "source_id": "Arxiv-8d77d1bfdf91eba3",
+      "provider": "Arxiv",
+      "title": "Exploring Large Language Models to Facilitate Variable Autonomy for Human-Robot Teaming",
+      "url": "http://arxiv.org/abs/2312.07214v3",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Younes Lakhnati",
+        "Max Pascher",
+        "Jens Gerken"
+      ],
+      "venue": "arXiv",
+      "summary": "In a rapidly evolving digital landscape autonomous tools and robots are becoming commonplace. Recognizing the significance of this development, this paper explores the integration of Large Language Models (LLMs) like Generative pre-trained transformer (GPT) into human-robot teaming environments to facilitate variable autonomy through the means of verbal human-robot communication. In this paper, we introduce a novel framework for such a GPT-powered multi-robot testbed environment, based on a Unity Virtual Reality (VR) setting. This system allows users to interact with robot agents through natur..."
+    },
+    {
+      "source_id": "Arxiv-4972eddcf701af3c",
+      "provider": "Arxiv",
+      "title": "CoHRT: A Collaboration System for Human-Robot Teamwork",
+      "url": "http://arxiv.org/abs/2410.08504v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Sujan Sarker",
+        "Haley N. Green",
+        "Mohammad Samin Yasar",
+        "Tariq Iqbal"
+      ],
+      "venue": "arXiv",
+      "summary": "Collaborative robots are increasingly deployed alongside humans in factories, hospitals, schools, and other domains to enhance teamwork and efficiency. Systems that seamlessly integrate humans and robots into cohesive teams for coordinated and efficient task execution are needed, enabling studies on how robot collaboration policies affect team performance and teammates' perceived fairness, trust, and safety. Such a system can also be utilized to study the impact of a robot's normative behavior on team collaboration. Additionally, it allows for investigation into how the legibility and predicta..."
+    },
+    {
+      "source_id": "Arxiv-a00bc0a1d040aab8",
+      "provider": "Arxiv",
+      "title": "Human-Robot collaboration in surgery: Advances and challenges towards autonomous surgical assistants",
+      "url": "http://arxiv.org/abs/2507.11460v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Jacinto Colan",
+        "Ana Davila",
+        "Yutaro Yamada",
+        "Yasuhisa Hasegawa"
+      ],
+      "venue": "arXiv",
+      "summary": "Human-robot collaboration in surgery represents a significant area of research, driven by the increasing capability of autonomous robotic systems to assist surgeons in complex procedures. This systematic review examines the advancements and persistent challenges in the development of autonomous surgical robotic assistants (ASARs), focusing specifically on scenarios where robots provide meaningful and active support to human surgeons. Adhering to the PRISMA guidelines, a comprehensive literature search was conducted across the IEEE Xplore, Scopus, and Web of Science databases, resulting in the ..."
+    },
+    {
+      "source_id": "OpenAlex-b74350268454a868",
+      "provider": "OpenAlex",
+      "title": "Collaborative robots in manufacturing and assembly systems: literature review and future research agenda",
+      "url": "https://doi.org/10.1007/s10845-023-02137-w",
+      "doi": "https://doi.org/10.1007/s10845-023-02137-w",
+      "year": 2023,
+      "authors": [
+        "Ali Keshvarparast",
+        "Daria Battini",
+        "Olga Battaïa",
+        "Amir Pirayesh"
+      ],
+      "venue": "Journal of Intelligent Manufacturing",
+      "summary": "Abstract Nowadays, considering the constant changes in customers’ demands, manufacturing systems tend to move more and more towards customization while ensuring the expected reactivity. In addition, more attention is given to the human factors to, on the one hand, create opportunities for improving the work conditions such as safety and, on the other hand, reduce the risks brought by new technologies such as job cannibalization. Meanwhile, Industry 4.0 offers new ways to facilitate this change by enhancing human–machine interactions using Collaborative Robots (Cobots). Recent research studies ..."
+    },
+    {
+      "source_id": "OpenAlex-90f53fb64c38c9da",
+      "provider": "OpenAlex",
+      "title": "Redefining Safety in Light of Human-Robot Interaction: A Critical Review of Current Standards and Regulations",
+      "url": "https://doi.org/10.3389/fceng.2021.666237",
+      "doi": "https://doi.org/10.3389/fceng.2021.666237",
+      "year": 2021,
+      "authors": [
+        "Alberto Martinetti",
+        "Peter Chemweno",
+        "Kostas Nizamis",
+        "Eduard Fosch‐Villaronga"
+      ],
+      "venue": "Frontiers in Chemical Engineering",
+      "summary": "Policymakers need to consider the impacts that robots and artificial intelligence (AI) technologies have on humans beyond physical safety. Traditionally, the definition of safety has been interpreted to exclusively apply to risks that have a physical impact on persons’ safety, such as, among others, mechanical or chemical risks. However, the current understanding is that the integration of AI in cyber-physical systems such as robots, thus increasing interconnectivity with several devices and cloud services, and influencing the growing human-robot interaction challenges how safety is currently ..."
+    },
+    {
+      "source_id": "OpenAlex-2c791355abac55a8",
+      "provider": "OpenAlex",
+      "title": "Mobile Manipulators in Industry 4.0: A Review of Developments for Industrial Applications",
+      "url": "https://doi.org/10.3390/s23198026",
+      "doi": "https://doi.org/10.3390/s23198026",
+      "year": 2023,
+      "authors": [
+        "Nooshin Ghodsian",
+        "Khaled Benfriha",
+        "Adel Olabi",
+        "Varun Gopinath",
+        "Aurélien Arnou"
+      ],
+      "venue": "Sensors",
+      "summary": "In the realm of Industry 4.0, diverse technologies such as AI, Cyber-Physical Systems, IoT, and advanced sensors converge to shape smarter future factories. Mobile manipulators (MMs) are pivotal, fostering flexibility, adaptability, and collaboration in industrial processes. On one hand, MMs offer a remarkable level of flexibility, adaptability, and collaboration in industrial processes, facilitating swift production line changes and efficiency enhancements. On the other hand, their integration into real manufacturing environments requires meticulous considerations, such as safety, human-robot..."
+    },
+    {
+      "source_id": "Crossref-cc03881846a17b9b",
+      "provider": "Crossref",
+      "title": "Series Clutch Actuators for safe physical human-robot interaction",
+      "url": "https://doi.org/10.1109/icra.2011.5979601",
+      "doi": "10.1109/icra.2011.5979601",
+      "year": 2011,
+      "authors": [
+        "Nicolas Lauzier",
+        "Clement Gosselin"
+      ],
+      "venue": "2011 IEEE International Conference on Robotics and Automation",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-828f85f4a023d786",
+      "provider": "Crossref",
+      "title": "Software Tools for Robot Supervisors",
+      "url": "https://doi.org/10.1142/9789812812490_0002",
+      "doi": "10.1142/9789812812490_0002",
+      "year": 1995,
+      "authors": [
+        "C.H. Orgill"
+      ],
+      "venue": "World Scientific Series in Robotics and Intelligent Systems",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-1544d49eb60be909",
+      "provider": "Crossref",
+      "title": "Robot Arms Capable of Safe Physical Human-Robot Interaction",
+      "url": "https://doi.org/10.1007/978-3-642-41610-1_157-1",
+      "doi": "10.1007/978-3-642-41610-1_157-1",
+      "year": 2020,
+      "authors": [
+        "Jae-Bok Song"
+      ],
+      "venue": "Encyclopedia of Robotics",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780919091-Robotics-followup-1780909434-e96f920ca939.json"
+}

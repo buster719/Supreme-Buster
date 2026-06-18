@@ -15,6 +15,8 @@ coverage/
 state/
 inbox/
 audit/*.jsonl
+.arena-credentials
+.arena-poker-state
 *.log
 *.tmp
 **/.claude/
@@ -34,6 +36,7 @@ audit/*.jsonl
 !**/.env.example
 *.pem
 *.key
+secrets/
 feishu-auth-qr.png
 
 # Local archives and installer binaries
@@ -53,3 +56,7 @@ ironclaw-upstream/
 
 # Generated extracts
 article_extract.txt
+
+# Generated research indexes and caches
+research/**/.pqa/
+research/paperqa/research/

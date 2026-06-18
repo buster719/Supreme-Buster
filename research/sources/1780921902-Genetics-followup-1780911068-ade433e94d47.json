@@ -1,0 +1,140 @@
+{
+  "timestamp_secs": 1780921902,
+  "task_id": "followup-1780911068-ade433e94d47",
+  "domain": "Genetics",
+  "question": "What specific thresholds for acceptable mosaicism have been proposed by bodies like the WHO, UK HFEA, or ISSCR in the past two years?",
+  "query": "genetics safety human flourishing genome editing specific thresholds acceptable mosaicism been proposed bodies like hfea",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-5d24fac2710af3ef",
+      "provider": "Arxiv",
+      "title": "This paper has been withdrawn",
+      "url": "http://arxiv.org/abs/cond-mat/0309395v2",
+      "doi": null,
+      "year": 2003,
+      "authors": [
+        "This paper has been withdrawn"
+      ],
+      "venue": "arXiv",
+      "summary": "This paper has been withdrawn"
+    },
+    {
+      "source_id": "OpenAlex-c23064933d4aef25",
+      "provider": "OpenAlex",
+      "title": "From lab to fertility clinic",
+      "url": "https://doi.org/10.26481/dis.20201111vj",
+      "doi": "https://doi.org/10.26481/dis.20201111vj",
+      "year": 2020,
+      "authors": [
+        "Jans Verna Anna Ardina Maria"
+      ],
+      "venue": null,
+      "summary": "How did offspring safety considerations play a role in strategies of introducing new reproductive techniques?"
+    },
+    {
+      "source_id": "OpenAlex-37e4ec3974a4f4d7",
+      "provider": "OpenAlex",
+      "title": "Global Ethics in IVF: Harmonizing Regulation, Ensuring Access, and Governing Innovation",
+      "url": "https://doi.org/10.46989/001c.142396",
+      "doi": "https://doi.org/10.46989/001c.142396",
+      "year": 2025,
+      "authors": [
+        "Zeev Shoham",
+        "Ariel Weissman",
+        "Yuval Yaron"
+      ],
+      "venue": "Journal of IVF-Worldwide",
+      "summary": "Background In vitro fertilization (IVF) has facilitated over 10 million births globally, with annual growth rates exceeding 5%. However, this expansion has intensified ethical challenges spanning genetic selection, embryo management, access equity, and emerging biotechnologies. Methods We conducted a comparative ethical analysis of IVF practices across nine countries (United Kingdom, United States, Israel, Ghana, Italy, Japan, China, India, and France) representing diverse economic, cultural, regulatory, and healthcare contexts. Additional analysis incorporated data from the European Atlas of ..."
+    },
+    {
+      "source_id": "OpenAlex-9bdb1be03704918b",
+      "provider": "OpenAlex",
+      "title": "Occupational Therapy at the Crossroads of Genomics and Bioethics: A Review of Conceptual Pathways and Future Directions",
+      "url": "https://doi.org/10.3390/sci7040168",
+      "doi": "https://doi.org/10.3390/sci7040168",
+      "year": 2025,
+      "authors": [
+        "Georgia Koufioti",
+        "Pinelopi Vlotinou",
+        "Panagiotis Pantazakos",
+        "Anna Tsiakiri",
+        "Foteini Christidi",
+        "Georgia Tsakni"
+      ],
+      "venue": "Sci",
+      "summary": "The rapid development of genomic science beyond its molecular roots to impact many aspects of clinical and rehabilitative practice presents an epistemic challenge and a pressing ethical obligation in its use in occupational therapy. By reviewing interdisciplinary literature at the intersections of genomics, bioethics, and occupational therapy, this review article seeks to unpack the ways genomic knowledge influences the understandings of health, participation, and justice within the profession. Using critical bioethical theory and socio-technical frameworks, the review discusses the movement f..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-a018cc4b0ee31551",
+      "provider": "Crossref",
+      "title": "Thinking the unthinkable: how did human germline genome editing become ethically acceptable?",
+      "url": "https://doi.org/10.1080/14699915.2021.1932451",
+      "doi": "10.1080/14699915.2021.1932451",
+      "year": 2021,
+      "authors": [
+        "Paul A. Martin",
+        "Ilke Turkmendag"
+      ],
+      "venue": "New Genetics and Society",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780921902-Genetics-followup-1780911068-ade433e94d47.json"
+}

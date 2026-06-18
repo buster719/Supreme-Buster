@@ -1,0 +1,144 @@
+{
+  "timestamp_secs": 1781163569,
+  "task_id": "followup-1781081025-82d5b8a15172",
+  "domain": "Genetics",
+  "question": "What small local computation, simulation, or table could Buster run next to test part of this question: What are the absolute risk reductions achievable for the top 10 complex diseases if one additionally screens for monogenic variants and chromosomal abnormalities??",
+  "query": "genetics safety human flourishing genome editing small local computation simulation table test part absolute risk",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-602b6db0afeda68e",
+      "provider": "Arxiv",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "url": "http://arxiv.org/abs/1710.05204v2",
+      "doi": null,
+      "year": 2017,
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "venue": "arXiv",
+      "summary": "We consider calculation of capital requirements when the underlying economic scenarios are determined by simulatable risk factors. In the respective nested simulation framework, the goal is to estimate portfolio tail risk, quantified via VaR or TVaR of a given collection of future economic scenarios representing factor levels at the risk horizon. Traditionally, evaluating portfolio losses of an outer scenario is done by computing a conditional expectation via inner-level Monte Carlo and is computationally expensive. We introduce several inter-related machine learning techniques to speed up thi..."
+    },
+    {
+      "source_id": "OpenAlex-9ac8ca9580bd2bec",
+      "provider": "OpenAlex",
+      "title": "The Era of Global Risk",
+      "url": "https://doi.org/10.11647/obp.0336",
+      "doi": "https://doi.org/10.11647/obp.0336",
+      "year": 2023,
+      "authors": [
+        "Beard, SJ",
+        "Rees, Martin",
+        "Richards, Catherine",
+        "Rios Rojas, Clarissa"
+      ],
+      "venue": "Open Book Publishers",
+      "summary": "This innovative and comprehensive collection of essays explores the biggest threats facing humanity in the 21st century; threats that cannot be contained or controlled and that have the potential to bring about human extinction and civilization collapse. Bringing together experts from many disciplines, it provides an accessible survey of what we know about these threats, how we can understand them better, and most importantly what can be done to manage them effectively."
+    },
+    {
+      "source_id": "OpenAlex-703086390784c230",
+      "provider": "OpenAlex",
+      "title": "Genetic frontiers for conservation: an assessment of synthetic biology and biodiversity conservation: technical assessment",
+      "url": "https://doi.org/10.2305/iucn.ch.2019.05.en",
+      "doi": "https://doi.org/10.2305/iucn.ch.2019.05.en",
+      "year": 2019,
+      "authors": [
+        "Alphey, Luke",
+        "Bennet, Elizabeth",
+        "Delborne, Jason",
+        "Eggermont, Hilde",
+        "Esvelt, Kevin",
+        "Kingirl, Ann",
+        "Kokotovich, Adam",
+        "Kolodziejczyk, Bartomiej"
+      ],
+      "venue": null,
+      "summary": "In recent years synthetic biology has emerged as a suite of techniques and technologies that enable humans to read, interpret, modify, design and manufacture DNA in order to rapidly influence the forms and functions of cells and organisms, with the potential to reach whole species and ecosystems. As synthetic biology continues to evolve, new tools emerge, novel applications are proposed, and basic research is applied. This assessment is one part of IUCN’s effort to provide recommendations and guidance regarding the potential positive and negative impacts of synthetic biology on biodiversity co..."
+    },
+    {
+      "source_id": "OpenAlex-cea6efec80a4f7ed",
+      "provider": "OpenAlex",
+      "title": "OIL PALM ECONOMIC PERFORMANCE IN MALAYSIA AND R&amp;D PROGRESS IN 2017 – Review Article",
+      "url": "https://doi.org/10.21894/jopr.2018.0030",
+      "doi": "https://doi.org/10.21894/jopr.2018.0030",
+      "year": 2018,
+      "authors": [
+        "A. Kushairi"
+      ],
+      "venue": "Journal of Oil Palm Research",
+      "summary": "Oil palm (Elaeis guineensis Jacq.) has emerged as a major economic crop feeding the world today. This article aims to capture the more recent progress made by the oil palm industry and to discuss the possible path research and development will take in the coming years. In 2017, palm oil and palm kernel oil production recorded close to one-third (75.17 million tonnes) of world total oils and fats production from a planted area of 19.04 million hectares, mainly from Indonesia and Malaysia. Malaysian palm oil alone fetched RM 46.12 billion export revenue from its India and European Union markets...."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781163569-Genetics-followup-1781081025-82d5b8a15172.json"
+}

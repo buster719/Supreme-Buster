@@ -1,0 +1,153 @@
+{
+  "timestamp_secs": 1781180572,
+  "task_id": "followup-1781083042-368bd38a9d5b",
+  "domain": "Aerospace",
+  "question": "What small local computation, simulation, or table could Buster run next to test part of this question: What are the public defect datasets (e.g. ASTM E3169, AFRL fastener-hole data, open-OoD NDE challenge) that include ground-truth X-ray/CT alongside magnetometer measurements for the same panel??",
+  "query": "aerospace civilization resilience deep space capability small local computation simulation table test part public defect",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    },
+    {
+      "source_id": "Arxiv-3316ff788b1af950",
+      "provider": "Arxiv",
+      "title": "Twelve Years of Education and Public Outreach with the Fermi Gamma-ray Space Telescope",
+      "url": "http://arxiv.org/abs/1303.0042v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Lynn Cominsky",
+        "Kevin McLin",
+        "Aurore Simonnet",
+        "the Fermi Education",
+        "Public Outreach Team"
+      ],
+      "venue": "arXiv",
+      "summary": "During the past twelve years, NASA's Fermi Gamma-ray Space Telescope has supported a wide range of Education and Public Outreach (E/PO) activities, targeting K-14 students and the general public. The purpose of the Fermi E/PO program is to increase student and public understanding of the science of the high-energy Universe, through inspiring, engaging and educational activities linked to the mission's science objectives. The E/PO program has additional more general goals, including increasing the diversity of students in the Science, Technology, Engineering and Mathematics (STEM) pipeline, and..."
+    },
+    {
+      "source_id": "OpenAlex-c53f19dbe96fce6f",
+      "provider": "OpenAlex",
+      "title": "Next generation power inverter for grid resilience: Technology review",
+      "url": "https://doi.org/10.1016/j.heliyon.2024.e39596",
+      "doi": "https://doi.org/10.1016/j.heliyon.2024.e39596",
+      "year": 2024,
+      "authors": [
+        "Md. Sharif Hossain",
+        "Md. Nazir Hossen",
+        "Faisal R. Badal",
+        "Md. Rashidul Islam",
+        "Mehedi Hasan",
+        "Md. Firoj Ali",
+        "Md. Hafiz Ahamed",
+        "Shinu Abhi"
+      ],
+      "venue": "Heliyon",
+      "summary": "Distributed generation (DG) systems are becoming more popular due to several benefits such as clean energy, decentralization, and cost effectiveness. Because the majority of renewable energy sources provide DC power, power electronic inverters are necessary for their conversion from DC to AC power. To fulfill this demand, the next generation power inverter employs innovative technologies while simultaneously assuring stability and resilience. This paper highlights the limitations of current inverter technology and points the way forward to the next generation of inverters that overcome those l..."
+    },
+    {
+      "source_id": "OpenAlex-e424fb5227afb122",
+      "provider": "OpenAlex",
+      "title": "Review: machine learning approaches for diverse alloy systems",
+      "url": "https://doi.org/10.1007/s10853-025-11154-4",
+      "doi": "https://doi.org/10.1007/s10853-025-11154-4",
+      "year": 2025,
+      "authors": [
+        "Arafat Rahman",
+        "Md Sojib Hossain",
+        "Abdullah Siddique"
+      ],
+      "venue": "Journal of Materials Science",
+      "summary": "Abstract The integration of machine learning (ML) into alloy design has revolutionized the discovery and optimization of advanced materials by enabling high-throughput, data-driven methodologies. This review systematically examines recent advancements in ML applications across diverse alloy systems, including steels, aluminum alloys, magnesium alloys, nickel-based superalloys, high-entropy alloys (HEAs), shape memory alloys, and metallic glasses. We categorize ML approaches into supervised, unsupervised, and reinforcement learning paradigms, detailing their specific implementations for propert..."
+    },
+    {
+      "source_id": "OpenAlex-361525cb326e0877",
+      "provider": "OpenAlex",
+      "title": "A Review on the Prospects of Mobile Manipulators for Smart Maintenance of Railway Track",
+      "url": "https://doi.org/10.3390/app13116484",
+      "doi": "https://doi.org/10.3390/app13116484",
+      "year": 2023,
+      "authors": [
+        "Miftahur Rahman",
+        "Haochen Liu",
+        "Isidro Durazo-Cardenas",
+        "Andrew Starr",
+        "Amanda Hall",
+        "Robert Anderson"
+      ],
+      "venue": "Applied Sciences",
+      "summary": "Inspection and repair interventions play vital roles in the asset management of railways. Autonomous mobile manipulators possess considerable potential to replace humans in many hazardous railway track maintenance tasks with high efficiency. This paper investigates the prospects of the use of mobile manipulators in track maintenance tasks. The current state of railway track inspection and repair technologies is initially reviewed, revealing that very few mobile manipulators are in the railways. Of note, the technologies are analytically scrutinized to ascertain advantages, unique capabilities,..."
+    },
+    {
+      "source_id": "Crossref-2f17c9b920888b58",
+      "provider": "Crossref",
+      "title": "Logarithmic minimum test for independence in three-way contingency table of small sizes",
+      "url": "https://doi.org/10.1080/00949655.2021.1908286",
+      "doi": "10.1080/00949655.2021.1908286",
+      "year": 2021,
+      "authors": [
+        "Piotr Sulewski"
+      ],
+      "venue": "Journal of Statistical Computation and Simulation",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-8cc07b5743422e69",
+      "provider": "Crossref",
+      "title": "High Precision Doppler Computation for Deep-Space Missions",
+      "url": "https://doi.org/10.1109/space65882.2025.11170933",
+      "doi": "10.1109/space65882.2025.11170933",
+      "year": 2025,
+      "authors": [
+        "Manikantan Ramadas",
+        "Nandini Harinath"
+      ],
+      "venue": "2025 IEEE Space, Aerospace and Defence Conference (SPACE)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-0f59db6d5207594c",
+      "provider": "Crossref",
+      "title": "Combined Space Environment Solar Cell Test Capability",
+      "url": "https://doi.org/10.2514/6.2009-559",
+      "doi": "10.2514/6.2009-559",
+      "year": 2009,
+      "authors": [
+        "Dustin Crider",
+        "Daniel Crews",
+        "John Prebola"
+      ],
+      "venue": "47th AIAA Aerospace Sciences Meeting including The New Horizons Forum and Aerospace Exposition",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781180572-Aerospace-followup-1781083042-368bd38a9d5b.json"
+}

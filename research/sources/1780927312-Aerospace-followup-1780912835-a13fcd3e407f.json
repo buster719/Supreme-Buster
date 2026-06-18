@@ -1,0 +1,139 @@
+{
+  "timestamp_secs": 1780927312,
+  "task_id": "followup-1780912835-a13fcd3e407f",
+  "domain": "Aerospace",
+  "question": "What are the current best estimates of Starship's internal cost per kg to LEO and lunar transfer, based on SpaceX's own marginal cost modeling or leaked financial data?",
+  "query": "aerospace civilization resilience deep space capability current best estimates starship internal cost lunar transfer based",
+  "sources": [
+    {
+      "source_id": "Arxiv-5f3d555c090e35ce",
+      "provider": "Arxiv",
+      "title": "Science from the Moon: The NASA/NLSI Lunar University Network for Astrophysics Research (LUNAR)",
+      "url": "http://arxiv.org/abs/0909.1509v1",
+      "doi": null,
+      "year": 2009,
+      "authors": [
+        "Jack O. Burns",
+        "the LUNAR Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Moon is a unique platform for fundamental astrophysical measurements of gravitation, the Sun, and the Universe. Lacking a permanent ionosphere and, on the farside, shielded from terrestrial radio emissions, a radio telescope on the Moon will be an unparalleled heliospheric and astrophysical observatory. Crucial stages in particle acceleration near the Sun can be imaged and tracked. The evolution of the Universe before and during the formation of the first stars will be traced, yielding high precision cosmological constraints. Lunar Laser Ranging of the Earth-Moon distance provides extremel..."
+    },
+    {
+      "source_id": "Arxiv-60af6eea11a81da6",
+      "provider": "Arxiv",
+      "title": "DILIE: Deep Internal Learning for Image Enhancement",
+      "url": "http://arxiv.org/abs/2012.06469v1",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Indra Deep Mastan",
+        "Shanmuganathan Raman"
+      ],
+      "venue": "arXiv",
+      "summary": "We consider the generic deep image enhancement problem where an input image is transformed into a perceptually better-looking image. Recent methods for image enhancement consider the problem by performing style transfer and image restoration. The methods mostly fall into two categories: training data-based and training data-independent (deep internal learning methods). We perform image enhancement in the deep internal learning framework. Our Deep Internal Learning for Image Enhancement framework enhances content features and style features and uses contextual content loss for preserving image ..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "OpenAlex-4102cb0ffcb15450",
+      "provider": "OpenAlex",
+      "title": "Supply Chain Sustainability in Outer Space: Lessons to Be Learnt from Remote Sites on Earth",
+      "url": "https://doi.org/10.3390/pr12102105",
+      "doi": "https://doi.org/10.3390/pr12102105",
+      "year": 2024,
+      "authors": [
+        "Manuel Varon Hoyos",
+        "Volker Hessel",
+        "Eduardo Salas",
+        "John Culton",
+        "Karen Robertson",
+        "Andrea Laybourn",
+        "Marc Escribà‐Gelonch",
+        "Nigel J. Cook"
+      ],
+      "venue": "Processes",
+      "summary": "Space exploration, with its enormous distances and extreme environments, is a challenge to technology, human habitation, sustainability, and supply chains. On the flip-side, however, it can provide a new vantage point on how to improve human life and planetary prosperity. This objective requires the development of economic and sustainable supply chains and a governance framework to guarantee fundamental human needs and well-being under the limitations of distant and inhospitable environments. This review describes learnings for human habitation in space from remote communities on Earth that ha..."
+    },
+    {
+      "source_id": "OpenAlex-1d0a180d4fe728af",
+      "provider": "OpenAlex",
+      "title": "THE INFLUENCE OF SOCIETY ON THE DEVELOPMENT OF SCIENCE AND THE INVENTION OF NEW METHODS",
+      "url": "http://doi.org/10.46299/isg.p.2023.1.23",
+      "doi": "https://doi.org/10.46299/isg.p.2023.1.23",
+      "year": 2023,
+      "authors": [
+        "International Science Group",
+        "Denis Vladlenov"
+      ],
+      "venue": null,
+      "summary": "METHODS 23 , , , , . , , ' -"
+    },
+    {
+      "source_id": "OpenAlex-e6fd9d7b312b86db",
+      "provider": "OpenAlex",
+      "title": "Proceedings of the XXIII International Scientific and Practical Conference",
+      "url": "http://doi.org/10.46299/isg.2023.1.23",
+      "doi": "https://doi.org/10.46299/isg.2023.1.23",
+      "year": 2023,
+      "authors": [],
+      "venue": null,
+      "summary": "METHODS 23 , , , , . , , ' -"
+    },
+    {
+      "source_id": "Crossref-74d8e697da713cb6",
+      "provider": "Crossref",
+      "title": "Seasonal Variations in Lunar-Assisted GEO Transfer Capability for Southward Launch",
+      "url": "https://doi.org/10.3390/aerospace11040321",
+      "doi": "10.3390/aerospace11040321",
+      "year": 2024,
+      "authors": [
+        "Su-Jin Choi",
+        "Hoonhee Lee"
+      ],
+      "venue": "Aerospace",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-156cef0af978a48d",
+      "provider": "Crossref",
+      "title": "NASA's Space Launch System: Launch Capability for Lunar Exploration and Transformative Science",
+      "url": "https://doi.org/10.1109/aero47225.2020.9172508",
+      "doi": "10.1109/aero47225.2020.9172508",
+      "year": 2020,
+      "authors": [
+        "Stephen D. Creech"
+      ],
+      "venue": "2020 IEEE Aerospace Conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-66981b11647f2108",
+      "provider": "Crossref",
+      "title": "Lunarport: A proposed Lunar-resource station to expand deep-space travel horizons",
+      "url": "https://doi.org/10.1109/aero.2017.7943623",
+      "doi": "10.1109/aero.2017.7943623",
+      "year": 2017,
+      "authors": [
+        "Ilana Gat",
+        "Thibaud Talon"
+      ],
+      "venue": "2017 IEEE Aerospace Conference",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780927312-Aerospace-followup-1780912835-a13fcd3e407f.json"
+}

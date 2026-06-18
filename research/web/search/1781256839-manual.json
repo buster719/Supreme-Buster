@@ -1,0 +1,29 @@
+{
+  "timestamp_secs": 1781256839,
+  "provider": "DuckDuckGoHtml",
+  "task_id": null,
+  "query": "agentic AI research safety 2026",
+  "results": [
+    {
+      "rank": 1,
+      "title": "[2603.11088] The Attack and Defense Landscape of Agentic AI: A ...",
+      "url": "https://duckduckgo.com/l/?uddg=https%3A%2F%2Farxiv.org%2Fabs%2F2603.11088&rut=75e22a41ee4fdee9f0dc8315daf8dca742bd92d15ee6b2103131eb64c3572ce6",
+      "snippet": "This paper presents the first systematic and comprehensive survey of AI agent security, including an analysis of the design space, attack landscape, and defense mechanisms for secure AI agent systems. We further conduct case studies to point out existing gaps in securing agentic AI systems and identify open challenges in this emerging domain."
+    },
+    {
+      "rank": 2,
+      "title": "AI agent safety in 2026: the complete guide | RAIL",
+      "url": "https://duckduckgo.com/l/?uddg=https%3A%2F%2Fresponsibleailabs.ai%2Fknowledge%2Dhub%2Farticles%2Fai%2Dagent%2Dsafety%2D2026&rut=be92b68f2d54a3a5688bc725c48024b9ef82966c2963d719c3984005e3d261d2",
+      "snippet": "AI agent safety in 2026: the complete guide From the OWASP Top 10 for Agentic Applications to real-world zero-click exploits, scheming behaviors, and defense frameworks -- everything you need to know about securing autonomous AI agents in 2026."
+    },
+    {
+      "rank": 3,
+      "title": "Agentic AI Security: Securing Autonomous AI Agents & Multi-Agent ...",
+      "url": "https://duckduckgo.com/l/?uddg=https%3A%2F%2Faisecurityandsafety.org%2Fen%2Fguides%2Fagentic%2Dai%2Dsecurity%2F&rut=253f565f35feb3c419db5935e1f51d0915e040c176e594524aca1543564cf410",
+      "snippet": "Agentic AI Security: Securing Autonomous AI Agents & Multi-Agent Systems (2026) As AI systems evolve from passive chatbots to autonomous agents that use tools, browse the web, write code, and interact with other agents, entirely new categories of security risks emerge."
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "..\\research\\web\\search\\1781256839-manual.json"
+}

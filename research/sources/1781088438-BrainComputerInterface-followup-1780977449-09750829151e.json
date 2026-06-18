@@ -1,0 +1,143 @@
+{
+  "timestamp_secs": 1781088438,
+  "task_id": "followup-1780977449-09750829151e",
+  "domain": "BrainComputerInterface",
+  "question": "Does trust drop more severely when the AI’s assistance was covertly adaptive versus overtly assistive?",
+  "query": "brain computer interface human AI cooperation risks trust drop more severely when assistance covertly adaptive versus",
+  "sources": [
+    {
+      "source_id": "Arxiv-9e365a1cc5812aea",
+      "provider": "Arxiv",
+      "title": "More Similar Values, More Trust? -- the Effect of Value Similarity on Trust in Human-Agent Interaction",
+      "url": "http://arxiv.org/abs/2105.09222v1",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Siddharth Mehrotra",
+        "Catholijn M. Jonker",
+        "Myrthe L. Tielman"
+      ],
+      "venue": "arXiv",
+      "summary": "As AI systems are increasingly involved in decision making, it also becomes important that they elicit appropriate levels of trust from their users. To achieve this, it is first important to understand which factors influence trust in AI. We identify that a research gap exists regarding the role of personal values in trust in AI. Therefore, this paper studies how human and agent Value Similarity (VS) influences a human's trust in that agent. To explore this, 89 participants teamed up with five different agents, which were designed with varying levels of value similarity to that of the particip..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "OpenAlex-b1ed6ed38500072b",
+      "provider": "OpenAlex",
+      "title": "The Era of Artificial Intelligence Deception: Unraveling the Complexities of False Realities and Emerging Threats of Misinformation",
+      "url": "https://doi.org/10.3390/info15060299",
+      "doi": "https://doi.org/10.3390/info15060299",
+      "year": 2024,
+      "authors": [
+        "S. Williamson",
+        "Victor R. Prybutok"
+      ],
+      "venue": "Information",
+      "summary": "This study delves into the dual nature of artificial intelligence (AI), illuminating its transformative potential that has the power to revolutionize various aspects of our lives. We delve into critical issues such as AI hallucinations, misinformation, and unpredictable behavior, particularly in large language models (LLMs) and AI-powered chatbots. These technologies, while capable of manipulating human decisions and exploiting cognitive vulnerabilities, also hold the key to unlocking unprecedented opportunities for innovation and progress. Our research underscores the need for robust, ethical..."
+    },
+    {
+      "source_id": "OpenAlex-11ec9005091d5f86",
+      "provider": "OpenAlex",
+      "title": "Recognition of shapes by humans and machines",
+      "url": "http://hdl.handle.net/2066/149738",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Safia Abbas"
+      ],
+      "venue": "Data Archiving and Networked Services (DANS)",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-733c2f899c6c6b1d",
+      "provider": "OpenAlex",
+      "title": "COVID-19 blind spots: A consensus statement on the importance of competent political leadership and the need for public health cognizance",
+      "url": "https://doi.org/10.4103/jgid.jgid_397_20",
+      "doi": "https://doi.org/10.4103/jgid.jgid_397_20",
+      "year": 2020,
+      "authors": [
+        "Stanislaw P. Stawicki",
+        "Thomas J. Papadimos",
+        "SamaraE Soghoian",
+        "Prabath Nanayakkara",
+        "Sarman Singh",
+        "AndrewC Miller",
+        "Venkataramanaiah Saddikuti",
+        "AchalaUpendra Jayatilleke"
+      ],
+      "venue": "Journal of Global Infectious Diseases",
+      "summary": "As the COVID-19 pandemic continues, important discoveries and considerations emerge regarding the SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) pathogen; its biological and epidemiological characteristics; and the corresponding psychological, societal, and public health (PH) impacts. During the past year, the global community underwent a massive transformation, including the implementation of numerous nonpharmacological interventions; critical diversions or modifications across various spheres of our economic and public domains; and a transition from consumption-driven to conser..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-5eb6d45f6772021a",
+      "provider": "Crossref",
+      "title": "Purpose Outweighs Performance: Trust Drops More When AI Teammates Fail to Cooperate, but Explanations Can Repair It",
+      "url": "https://doi.org/10.1080/10447318.2025.2539449",
+      "doi": "10.1080/10447318.2025.2539449",
+      "year": 2026,
+      "authors": [
+        "Mengyao Li",
+        "John D. Lee"
+      ],
+      "venue": "International Journal of Human–Computer Interaction",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781088438-BrainComputerInterface-followup-1780977449-09750829151e.json"
+}

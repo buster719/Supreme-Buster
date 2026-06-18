@@ -1,0 +1,143 @@
+{
+  "timestamp_secs": 1781020087,
+  "task_id": "followup-1780936647-70ccc701fa84",
+  "domain": "Genetics",
+  "question": "What small local computation, simulation, or table could Buster run next to test part of this question: How does the choice of PRS method (e.g. P+T, LDpred2, PRS-CSx, XP-BLUP) affect performance in under-represented populations when the training sample is fixed??",
+  "query": "genetics safety human flourishing genome editing small local computation simulation table test part choice method",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-7e3eb8f7675c1ed2",
+      "provider": "OpenAlex",
+      "title": "A Survey on Causal Inference",
+      "url": "https://doi.org/10.1145/3444944",
+      "doi": "https://doi.org/10.1145/3444944",
+      "year": 2021,
+      "authors": [
+        "Liuyi Yao",
+        "Zhixuan Chu",
+        "Sheng Li",
+        "Yaliang Li",
+        "Jing Gao",
+        "Aidong Zhang"
+      ],
+      "venue": "ACM Transactions on Knowledge Discovery from Data",
+      "summary": "Causal inference is a critical research topic across many domains, such as statistics, computer science, education, public policy, and economics, for decades. Nowadays, estimating causal effect from observational data has become an appealing research direction owing to the large amount of available data and low budget requirement, compared with randomized controlled trials. Embraced with the rapidly developed machine learning area, various causal effect estimation methods for observational data have sprung up. In this survey, we provide a comprehensive review of causal inference methods under ..."
+    },
+    {
+      "source_id": "OpenAlex-ff12dfbeaa553a47",
+      "provider": "OpenAlex",
+      "title": "Precision Neuro-Oncology in Glioblastoma: AI-Guided CRISPR Editing and Real-Time Multi-Omics for Genomic Brain Surgery",
+      "url": "https://doi.org/10.3390/ijms26157364",
+      "doi": "https://doi.org/10.3390/ijms26157364",
+      "year": 2025,
+      "authors": [
+        "Matei Șerban",
+        "Corneliu Toader",
+        "Răzvan-Adrian Covache-Busuioc"
+      ],
+      "venue": "International Journal of Molecular Sciences",
+      "summary": "Precision neurosurgery is rapidly evolving as a medical specialty by merging genomic medicine, multi-omics technologies, and artificial intelligence (AI) technology, while at the same time, society is shifting away from the traditional, anatomic model of care to consider a more precise, molecular model of care. The general purpose of this review is to contemporaneously reflect on how these advances will impact neurosurgical care by providing us with more precise diagnostic and treatment pathways. We hope to provide a relevant review of the recent advances in genomics and multi-omics in the con..."
+    },
+    {
+      "source_id": "OpenAlex-13f76e1974e161a4",
+      "provider": "OpenAlex",
+      "title": "Human digital twins unlocking Society 5.0? Approaches, emerging risks and disruptions",
+      "url": "https://doi.org/10.1007/s10676-024-09787-1",
+      "doi": "https://doi.org/10.1007/s10676-024-09787-1",
+      "year": 2024,
+      "authors": [
+        "Catarina Fontes",
+        "Dino Carpentras",
+        "Sachit Mahajan"
+      ],
+      "venue": "Ethics and Information Technology",
+      "summary": "Abstract Industry 5.0 and Healthcare 5.0 converge towards a human centered society, having technological advancement as a lever. In Society 5.0, decentralized autonomous cities and a convergence of physical and cyberspace are the foundations of the new chapter of society’s development. The idea of creating digital replicas and legitimate representatives of human beings in cyberspace has become a pillar of digitalization. Society 5.0 introduces Human Digital Twins as a central element of Cyber Physical Systems that include human factors or are designed to interact with humans in a personalized ..."
+    },
+    {
+      "source_id": "Crossref-a954b0931a00d9c4",
+      "provider": "Crossref",
+      "title": "Choice, Chance, and Acceptance",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0011",
+      "doi": "10.1093/oso/9780190940362.003.0011",
+      "year": 2019,
+      "authors": [
+        "Jackie Leach Scully"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-40b18c13fe93ea80",
+      "provider": "Crossref",
+      "title": "Reprogenetic Technologies Between Private Choice and Public Good",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0016",
+      "doi": "10.1093/oso/9780190940362.003.0016",
+      "year": 2019,
+      "authors": [
+        "Maartje Schermer"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781020087-Genetics-followup-1780936647-70ccc701fa84.json"
+}

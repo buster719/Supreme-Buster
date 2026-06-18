@@ -1,0 +1,74 @@
+{
+  "timestamp_secs": 1781182252,
+  "task_id": "followup-1781083116-5f17a62bbdec",
+  "domain": "Aerospace",
+  "question": "What specific HPC platforms or computational environments were used in the original study, and are these environments accessible to other labs for reproduction?",
+  "query": "aerospace civilization resilience deep space capability specific platforms computational environments were used original study accessible",
+  "sources": [
+    {
+      "source_id": "OpenAlex-e0dfbed91276172d",
+      "provider": "OpenAlex",
+      "title": "On the History and Future of 100% Renewable Energy Systems Research",
+      "url": "https://doi.org/10.1109/access.2022.3193402",
+      "doi": "https://doi.org/10.1109/access.2022.3193402",
+      "year": 2022,
+      "authors": [
+        "Christian Breyer",
+        "Siavash Khalili",
+        "Dmitrii Bogdanov",
+        "Manish Ram",
+        "Ayobami Solomon Oyewo",
+        "Arman Aghahosseini",
+        "Ashish Gulagi",
+        "A.A. Solomon"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Research on 100% renewable energy systems is a relatively recent phenomenon. It was initiated in the mid-1970s, catalyzed by skyrocketing oil prices. Since the mid-2000s, it has quickly evolved into a prominent research field encompassing an expansive and growing number of research groups and organizations across the world. The main conclusion of most of these studies is that 100% renewables is feasible worldwide at low cost. Advanced concepts and methods now enable the field to chart realistic as well as cost- or resource-optimized and efficient transition pathways to a future without the use..."
+    },
+    {
+      "source_id": "OpenAlex-97bd229b828323e9",
+      "provider": "OpenAlex",
+      "title": "Enhancing Smart Agriculture by Implementing Digital Twins: A Comprehensive Review",
+      "url": "https://doi.org/10.3390/s23167128",
+      "doi": "https://doi.org/10.3390/s23167128",
+      "year": 2023,
+      "authors": [
+        "Nikolaos Peladarinos",
+        "Dimitrios Piromalis",
+        "Vasileios Cheimaras",
+        "Efthymios Tserepas",
+        "Radu Munteanu",
+        "Panagiotis Papageorgas"
+      ],
+      "venue": "Sensors",
+      "summary": "Digital Twins serve as virtual counterparts, replicating the characteristics and functionalities of tangible objects, processes, or systems within the digital space, leveraging their capability to simulate and forecast real-world behavior. They have found valuable applications in smart farming, facilitating a comprehensive virtual replica of a farm that encompasses vital aspects such as crop cultivation, soil composition, and prevailing weather conditions. By amalgamating data from diverse sources, including soil, plants condition, environmental sensor networks, meteorological predictions, and..."
+    },
+    {
+      "source_id": "OpenAlex-e424fb5227afb122",
+      "provider": "OpenAlex",
+      "title": "Review: machine learning approaches for diverse alloy systems",
+      "url": "https://doi.org/10.1007/s10853-025-11154-4",
+      "doi": "https://doi.org/10.1007/s10853-025-11154-4",
+      "year": 2025,
+      "authors": [
+        "Arafat Rahman",
+        "Md Sojib Hossain",
+        "Abdullah Siddique"
+      ],
+      "venue": "Journal of Materials Science",
+      "summary": "Abstract The integration of machine learning (ML) into alloy design has revolutionized the discovery and optimization of advanced materials by enabling high-throughput, data-driven methodologies. This review systematically examines recent advancements in ML applications across diverse alloy systems, including steels, aluminum alloys, magnesium alloys, nickel-based superalloys, high-entropy alloys (HEAs), shape memory alloys, and metallic glasses. We categorize ML approaches into supervised, unsupervised, and reinforcement learning paradigms, detailing their specific implementations for propert..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "error sending request for url (https://export.arxiv.org/api/query?search_query=all%3Aaerospace+civilization+resilience+deep+space+capability+specific+platforms+computational+environments+were+used+original+study+accessible&start=0&max_resul..."
+    },
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 299; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":16189,\"items\":[{\"DOI\":\"10.7554\\/elife.35447.0..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781182252-Aerospace-followup-1781083116-5f17a62bbdec.json"
+}

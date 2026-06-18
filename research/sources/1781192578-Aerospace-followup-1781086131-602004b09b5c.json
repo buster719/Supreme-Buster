@@ -1,0 +1,119 @@
+{
+  "timestamp_secs": 1781192578,
+  "task_id": "followup-1781086131-602004b09b5c",
+  "domain": "Aerospace",
+  "question": "Are there published studies on the cost/risk trade-offs of implementing common vs. unique interfaces in spacecraft fleets?",
+  "query": "aerospace civilization resilience deep space capability there published studies cost risk trade offs implementing common",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-602b6db0afeda68e",
+      "provider": "Arxiv",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "url": "http://arxiv.org/abs/1710.05204v2",
+      "doi": null,
+      "year": 2017,
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "venue": "arXiv",
+      "summary": "We consider calculation of capital requirements when the underlying economic scenarios are determined by simulatable risk factors. In the respective nested simulation framework, the goal is to estimate portfolio tail risk, quantified via VaR or TVaR of a given collection of future economic scenarios representing factor levels at the risk horizon. Traditionally, evaluating portfolio losses of an outer scenario is done by computing a conditional expectation via inner-level Monte Carlo and is computationally expensive. We introduce several inter-related machine learning techniques to speed up thi..."
+    },
+    {
+      "source_id": "Arxiv-397532766924c616",
+      "provider": "Arxiv",
+      "title": "Risk analysis beyond vulnerability and resilience - characterizing the defensibility of critical systems",
+      "url": "http://arxiv.org/abs/1901.07313v1",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Vicki Bier",
+        "Alexander Gutfraind"
+      ],
+      "venue": "arXiv",
+      "summary": "A common problem in risk analysis is to characterize the overall security of a system of valuable assets (e.g., government buildings or communication hubs), and to suggest measures to mitigate any hazards or security threats. Currently, analysts typically rely on a combination of indices, such as resilience, robustness, redundancy, security, and vulnerability. However, these indices are not by themselves sufficient as a guide to action; for example, while it is possible to develop policies to decrease vulnerability, such policies may not always be cost-effective. Motivated by this gap, we prop..."
+    },
+    {
+      "source_id": "OpenAlex-e0dfbed91276172d",
+      "provider": "OpenAlex",
+      "title": "On the History and Future of 100% Renewable Energy Systems Research",
+      "url": "https://doi.org/10.1109/access.2022.3193402",
+      "doi": "https://doi.org/10.1109/access.2022.3193402",
+      "year": 2022,
+      "authors": [
+        "Christian Breyer",
+        "Siavash Khalili",
+        "Dmitrii Bogdanov",
+        "Manish Ram",
+        "Ayobami Solomon Oyewo",
+        "Arman Aghahosseini",
+        "Ashish Gulagi",
+        "A.A. Solomon"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Research on 100% renewable energy systems is a relatively recent phenomenon. It was initiated in the mid-1970s, catalyzed by skyrocketing oil prices. Since the mid-2000s, it has quickly evolved into a prominent research field encompassing an expansive and growing number of research groups and organizations across the world. The main conclusion of most of these studies is that 100% renewables is feasible worldwide at low cost. Advanced concepts and methods now enable the field to chart realistic as well as cost- or resource-optimized and efficient transition pathways to a future without the use..."
+    },
+    {
+      "source_id": "OpenAlex-c9393ba4e3ca4761",
+      "provider": "OpenAlex",
+      "title": "Bio-inspired computation: Where we stand and what's next",
+      "url": "https://doi.org/10.1016/j.swevo.2019.04.008",
+      "doi": "https://doi.org/10.1016/j.swevo.2019.04.008",
+      "year": 2019,
+      "authors": [
+        "Javier Del Ser",
+        "Eneko Osaba",
+        "Daniel Molina",
+        "Xin‐She Yang",
+        "Sancho Salcedo‐Sanz",
+        "David Camacho",
+        "Swagatam Das",
+        "Ponnuthurai Nagaratnam Suganthan"
+      ],
+      "venue": "Swarm and Evolutionary Computation",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-c53f19dbe96fce6f",
+      "provider": "OpenAlex",
+      "title": "Next generation power inverter for grid resilience: Technology review",
+      "url": "https://doi.org/10.1016/j.heliyon.2024.e39596",
+      "doi": "https://doi.org/10.1016/j.heliyon.2024.e39596",
+      "year": 2024,
+      "authors": [
+        "Md. Sharif Hossain",
+        "Md. Nazir Hossen",
+        "Faisal R. Badal",
+        "Md. Rashidul Islam",
+        "Mehedi Hasan",
+        "Md. Firoj Ali",
+        "Md. Hafiz Ahamed",
+        "Shinu Abhi"
+      ],
+      "venue": "Heliyon",
+      "summary": "Distributed generation (DG) systems are becoming more popular due to several benefits such as clean energy, decentralization, and cost effectiveness. Because the majority of renewable energy sources provide DC power, power electronic inverters are necessary for their conversion from DC to AC power. To fulfill this demand, the next generation power inverter employs innovative technologies while simultaneously assuring stability and resilience. This paper highlights the limitations of current inverter technology and points the way forward to the next generation of inverters that overcome those l..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1372; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":238708,\"items\":[{\"published-print\":{\"date-pa..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781192578-Aerospace-followup-1781086131-602004b09b5c.json"
+}

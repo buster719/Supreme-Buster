@@ -8,6 +8,8 @@ pub enum ActionKind {
     SandboxSecurityExperiment,
     SecondaryResearch,
     ScientificResearch,
+    SecurityResearch,
+    ProtocolSecurityResearch,
     ToolOrSkillWork,
     Skeftomai,
     Standby,
@@ -26,6 +28,8 @@ pub enum ResearchDomain {
     BrainComputerInterface,
     Aerospace,
     Robotics,
+    Cybersecurity,
+    ProtocolSecurity,
     Other,
 }
 
@@ -33,7 +37,11 @@ impl ResearchDomain {
     pub const fn civilization_weight(self) -> f32 {
         match self {
             Self::NuclearFusion | Self::Aerospace | Self::LifeScienceAndPharma => 0.95,
-            Self::Robotics | Self::MaterialsScience | Self::BrainComputerInterface => 0.85,
+            Self::Robotics
+            | Self::MaterialsScience
+            | Self::BrainComputerInterface
+            | Self::Cybersecurity
+            | Self::ProtocolSecurity => 0.85,
             Self::QuantumComputing | Self::Genetics => 0.8,
             Self::TheoreticalPhysics => 0.75,
             Self::Other => 0.5,
@@ -42,11 +50,12 @@ impl ResearchDomain {
 
     pub const fn truth_weight(self) -> f32 {
         match self {
-            Self::TheoreticalPhysics | Self::QuantumComputing => 0.95,
+            Self::TheoreticalPhysics | Self::QuantumComputing | Self::ProtocolSecurity => 0.95,
             Self::LifeScienceAndPharma
             | Self::Genetics
             | Self::MaterialsScience
-            | Self::BrainComputerInterface => 0.85,
+            | Self::BrainComputerInterface
+            | Self::Cybersecurity => 0.85,
             Self::NuclearFusion | Self::Aerospace | Self::Robotics => 0.8,
             Self::Other => 0.55,
         }
@@ -56,9 +65,15 @@ impl ResearchDomain {
         match self {
             Self::Aerospace => 1.0,
             Self::NuclearFusion => 0.9,
-            Self::TheoreticalPhysics | Self::Robotics | Self::MaterialsScience => 0.75,
+            Self::TheoreticalPhysics
+            | Self::Robotics
+            | Self::MaterialsScience
+            | Self::ProtocolSecurity => 0.75,
             Self::QuantumComputing => 0.65,
-            Self::BrainComputerInterface | Self::LifeScienceAndPharma | Self::Genetics => 0.45,
+            Self::BrainComputerInterface
+            | Self::LifeScienceAndPharma
+            | Self::Genetics
+            | Self::Cybersecurity => 0.45,
             Self::Other => 0.25,
         }
     }
@@ -111,6 +126,8 @@ pub struct ActionCandidate {
     pub kind: ActionKind,
     pub summary: String,
     pub research_domain: Option<ResearchDomain>,
+    pub research_task_id: Option<String>,
+    pub research_question: Option<String>,
     pub info_source: Option<InfoSource>,
     pub expected_resource_cost: f32,
     pub expected_security_risk: f32,
@@ -124,6 +141,8 @@ impl ActionCandidate {
             kind,
             summary: summary.into(),
             research_domain: None,
+            research_task_id: None,
+            research_question: None,
             info_source: None,
             expected_resource_cost: 0.25,
             expected_security_risk: 0.1,
@@ -134,6 +153,16 @@ impl ActionCandidate {
 
     pub fn with_research_domain(mut self, domain: ResearchDomain) -> Self {
         self.research_domain = Some(domain);
+        self
+    }
+
+    pub fn with_research_task(
+        mut self,
+        task_id: impl Into<String>,
+        question: impl Into<String>,
+    ) -> Self {
+        self.research_task_id = Some(task_id.into());
+        self.research_question = Some(question.into());
         self
     }
 

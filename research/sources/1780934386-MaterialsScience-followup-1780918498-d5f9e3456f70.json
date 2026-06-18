@@ -1,0 +1,123 @@
+{
+  "timestamp_secs": 1780934386,
+  "task_id": "followup-1780918498-d5f9e3456f70",
+  "domain": "MaterialsScience",
+  "question": "What published experiments specifically measure fracture toughness of ZrB₂, HfB₂, or ZrB₂-SiC composites after repeated thermal cycles above 1500 °C?",
+  "query": "materials science fusion robotics aerospace computation published experiments specifically measure fracture toughness zrb₂ hfb₂ composites",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-0fd70bdfdc50ab39",
+      "provider": "Arxiv",
+      "title": "Size-dependency and lattice-discreetness effect on fracture toughness in 2D crystals under antiplanar loading",
+      "url": "http://arxiv.org/abs/2410.21839v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Thuy Nguyen",
+        "Daniel Bonamy"
+      ],
+      "venue": "arXiv",
+      "summary": "Fracture toughness is the material property characterizing resistance to failure. Predicting its value from the solid structure at the atomistic scale remains elusive, even in the simplest situations of brittle fracture. We report here numerical simulations of crack propagation in two-dimensional fuse networks of different periodic geometries, which are electrical analogs of bidimensional brittle crystals under antiplanar loading. Fracture energy is determined from Griffith's analysis of energy balance during crack propagation, and fracture toughness is determined from fits of the displacement..."
+    },
+    {
+      "source_id": "Arxiv-fb403d6a320c9ccd",
+      "provider": "Arxiv",
+      "title": "Effective toughness estimation by FFT based phase field fracture: application to composites and polycrystals",
+      "url": "http://arxiv.org/abs/2508.07424v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Pedro Aranda",
+        "Javier Segurado"
+      ],
+      "venue": "arXiv",
+      "summary": "An estimate of the effective toughness of heterogeneous materials is proposed based on the Phase Field Fracture model implemented in an FFT homogenization solver. The estimate is based on the simulation of the deformation of representative volume elements of the microstructure, controlled by a constant energy dissipation rate using an arc-length type control. The definition of the toughness corresponds to the total energy dissipated after the total fracture of the RVE -- which can be accurately obtained thanks to the dissipation control -- divided by the RVE transverse area (length in 2D). The..."
+    },
+    {
+      "source_id": "OpenAlex-9b97051ec183a85b",
+      "provider": "OpenAlex",
+      "title": "Joining of dissimilar materials",
+      "url": "https://doi.org/10.1016/j.cirp.2015.05.006",
+      "doi": "https://doi.org/10.1016/j.cirp.2015.05.006",
+      "year": 2015,
+      "authors": [
+        "Kristian Martinsen",
+        "S. Jack Hu",
+        "Blair E. Carlson"
+      ],
+      "venue": "CIRP Annals",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-1f1affbf2dd9a6a4",
+      "provider": "OpenAlex",
+      "title": "Advances in High-Performance Ceramic Materials for Aerospace and Defence Applications: A State-of-the-Art Review",
+      "url": "https://doi.org/10.3390/ceramics9040039",
+      "doi": "https://doi.org/10.3390/ceramics9040039",
+      "year": 2026,
+      "authors": [
+        "Alfredo Aguilar-Elguezabal",
+        "A. Reyes-Rojas",
+        "Hilda Esperanza Esparza-Ponce",
+        "Daniel Lardizábal-Gutiérrez",
+        "Miguel Humberto Bocanegra-Bernal"
+      ],
+      "venue": "Ceramics",
+      "summary": "Ceramic materials are indispensable to aerospace and defence technologies, where structural and functional components are required to withstand extreme thermal, mechanical, and chemically aggressive environments. Traditionally valued for their exceptional thermal stability, oxidation resistance, and corrosion resistance, ceramics have nonetheless been constrained by their inherent brittleness, which has limited their widespread adoption in load-bearing structural applications. This review surveys the principal tough ceramic systems currently employed in aerospace and defence, including SiC, Al..."
+    },
+    {
+      "source_id": "Crossref-2f95d24b28054747",
+      "provider": "Crossref",
+      "title": "Report on the Fracture Analysis of HfB{sub 2}-SiC and ZrB{sub 2}-SiC Composites",
+      "url": "https://doi.org/10.2172/789253",
+      "doi": "10.2172/789253",
+      "year": 2001,
+      "authors": [
+        "JR MECHOLSKY"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-43aae4df612ff733",
+      "provider": "Crossref",
+      "title": "Determination of Interfacial Fracture Toughness in High Temperature Composites",
+      "url": "https://doi.org/10.1115/imece1996-0475",
+      "doi": "10.1115/imece1996-0475",
+      "year": 1996,
+      "authors": [
+        "V. Bechel",
+        "N. R. Sottos"
+      ],
+      "venue": "Aerospace and Materials",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-06781319f339bb01",
+      "provider": "Crossref",
+      "title": "Fracture toughness properties of aerospace materials",
+      "url": "https://doi.org/10.1533/9780857095152.454",
+      "doi": "10.1533/9780857095152.454",
+      "year": 2012,
+      "authors": [],
+      "venue": "Introduction to Aerospace Materials",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780934386-MaterialsScience-followup-1780918498-d5f9e3456f70.json"
+}

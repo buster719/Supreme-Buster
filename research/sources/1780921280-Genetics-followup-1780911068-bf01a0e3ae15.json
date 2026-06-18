@@ -1,0 +1,98 @@
+{
+  "timestamp_secs": 1780921280,
+  "task_id": "followup-1780911068-bf01a0e3ae15",
+  "domain": "Genetics",
+  "question": "How do p53-mediated DNA damage responses differ between naïve and primed human pluripotent cells in the context of CRISPR editing, and does that affect embryo viability post-implantation in animal models?",
+  "query": "genetics safety human flourishing genome editing mediated damage responses differ naïve primed pluripotent cells context",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "Crossref-d103c14a72dc2847",
+      "provider": "Crossref",
+      "title": "Transcriptomic Analysis of Human Naïve and Primed Pluripotent Stem Cells",
+      "url": "https://doi.org/10.1007/978-1-0716-1908-7_14",
+      "doi": "10.1007/978-1-0716-1908-7_14",
+      "year": 2022,
+      "authors": [
+        "Arindam Ghosh",
+        "Anup Som"
+      ],
+      "venue": "Methods in Molecular Biology",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-590c07eb11cf0132",
+      "provider": "Crossref",
+      "title": "Characterizing the Genetic Stability of Human Naïve and Primed Pluripotent Stem Cells",
+      "url": "https://doi.org/10.1007/978-1-0716-1908-7_17",
+      "doi": "10.1007/978-1-0716-1908-7_17",
+      "year": 2022,
+      "authors": [
+        "Duncan Baker",
+        "Ivana Barbaric"
+      ],
+      "venue": "Methods in Molecular Biology",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-38c86d9195d4be8a",
+      "provider": "Crossref",
+      "title": "“Ancestralization” of human pluripotent stem cells by multiplexed precise genome editing",
+      "url": "https://doi.org/10.1101/342311",
+      "doi": "10.1101/342311",
+      "year": 2018,
+      "authors": [
+        "Stephan Riesenberg",
+        "Tomislav Maricic",
+        "Svante Pääbo"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780921280-Genetics-followup-1780911068-bf01a0e3ae15.json"
+}

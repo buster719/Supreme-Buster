@@ -1,0 +1,142 @@
+{
+  "timestamp_secs": 1780910061,
+  "task_id": "followup-1780905939-3d73b5dfb979",
+  "domain": "Genetics",
+  "question": "What frameworks exist to distinguish therapy, prevention, and enhancement in mitochondrial replacement techniques?",
+  "query": "genetics safety human flourishing genome editing frameworks exist distinguish therapy prevention enhancement mitochondrial replacement techniques",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-d6dbe9db58958bd7",
+      "provider": "OpenAlex",
+      "title": "Precision Medicine: Disease Subtyping and Tailored Treatment",
+      "url": "https://doi.org/10.3390/cancers15153837",
+      "doi": "https://doi.org/10.3390/cancers15153837",
+      "year": 2023,
+      "authors": [
+        "Richard Wang",
+        "Zhixiang Wang"
+      ],
+      "venue": "Cancers",
+      "summary": "The genomics-based concept of precision medicine began to emerge following the completion of the Human Genome Project. In contrast to evidence-based medicine, precision medicine will allow doctors and scientists to tailor the treatment of different subpopulations of patients who differ in their susceptibility to specific diseases or responsiveness to specific therapies. The current precision medicine model was proposed to precisely classify patients into subgroups sharing a common biological basis of diseases for more effective tailored treatment to achieve improved outcomes. Precision medicin..."
+    },
+    {
+      "source_id": "OpenAlex-96ffad1d171f62af",
+      "provider": "OpenAlex",
+      "title": "Cellular rejuvenation: molecular mechanisms and potential therapeutic interventions for diseases",
+      "url": "https://doi.org/10.1038/s41392-023-01343-5",
+      "doi": "https://doi.org/10.1038/s41392-023-01343-5",
+      "year": 2023,
+      "authors": [
+        "Shuaifei Ji",
+        "Mingchen Xiong",
+        "Huating Chen",
+        "Yiqiong Liu",
+        "Laixian Zhou",
+        "Yiyue Hong",
+        "Mengyang Wang",
+        "Chunming Wang"
+      ],
+      "venue": "Signal Transduction and Targeted Therapy",
+      "summary": "The ageing process is a systemic decline from cellular dysfunction to organ degeneration, with more predisposition to deteriorated disorders. Rejuvenation refers to giving aged cells or organisms more youthful characteristics through various techniques, such as cellular reprogramming and epigenetic regulation. The great leaps in cellular rejuvenation prove that ageing is not a one-way street, and many rejuvenative interventions have emerged to delay and even reverse the ageing process. Defining the mechanism by which roadblocks and signaling inputs influence complex ageing programs is essentia..."
+    },
+    {
+      "source_id": "OpenAlex-8942972b3adab493",
+      "provider": "OpenAlex",
+      "title": "Personalised Medicine, Individual Choice and the Common Good",
+      "url": "https://doi.org/10.1017/9781108590600",
+      "doi": "https://doi.org/10.1017/9781108590600",
+      "year": 2018,
+      "authors": [
+        "van Beers, B.C.",
+        "Sterckx, Sigrid",
+        "Dickenson, Donna"
+      ],
+      "venue": "Cambridge University Press eBooks",
+      "summary": "This is a volume of twelve essays concerning the fundamental tension in personalised medicine between individual choice and the common good."
+    },
+    {
+      "source_id": "Crossref-c36a1889bfd50c8a",
+      "provider": "Crossref",
+      "title": "Gene Therapy and Genome Editing",
+      "url": "https://doi.org/10.4324/9781315406985-13",
+      "doi": "10.4324/9781315406985-13",
+      "year": 2016,
+      "authors": [],
+      "venue": "Human Genetics: The Basics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780910061-Genetics-followup-1780905939-3d73b5dfb979.json"
+}

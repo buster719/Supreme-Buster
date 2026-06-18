@@ -1,0 +1,116 @@
+{
+  "timestamp_secs": 1780917530,
+  "task_id": "followup-1780908238-fd1ac8efeca4",
+  "domain": "MaterialsScience",
+  "question": "What are the latest measured specific energy (Wh/kg) of twist-spun CNT yarn muscles when driven electrothermally versus electrochemically, and how do these compare to coiled polymer fibers?",
+  "query": "materials science fusion robotics aerospace computation latest measured specific energy twist spun yarn muscles when",
+  "sources": [
+    {
+      "source_id": "Arxiv-a550f0dee388e844",
+      "provider": "Arxiv",
+      "title": "Large Synoptic Survey Telescope: Dark Energy Science Collaboration",
+      "url": "http://arxiv.org/abs/1211.0310v1",
+      "doi": null,
+      "year": 2012,
+      "authors": [
+        "LSST Dark Energy Science Collaboration"
+      ],
+      "venue": "arXiv",
+      "summary": "This white paper describes the LSST Dark Energy Science Collaboration (DESC), whose goal is the study of dark energy and related topics in fundamental physics with data from the Large Synoptic Survey Telescope (LSST). It provides an overview of dark energy science and describes the current and anticipated state of the field. It makes the case for the DESC by laying out a robust analytical framework for dark energy science that has been defined by its members and the comprehensive three-year work plan they have developed for implementing that framework. The analysis working groups cover five ke..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-6f79ba1b4aa0294d",
+      "provider": "Arxiv",
+      "title": "Retrospective of the ARPA-E ALPHA fusion program",
+      "url": "http://arxiv.org/abs/1907.09921v2",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "C. L. Nehl",
+        "R. J. Umstattd",
+        "W. R. Regan",
+        "S. C. Hsu",
+        "P. B. McGrath"
+      ],
+      "venue": "arXiv",
+      "summary": "This paper provides a retrospective of the ALPHA (Accelerating Low-cost Plasma Heating and Assembly) fusion program of the Advanced Research Projects Agency-Energy (ARPA-E) of the U.S. Department of Energy. ALPHA's objective was to catalyze research and development efforts to enable substantially lower-cost pathways to economical fusion power. To do this in a targeted, focused program, ALPHA focused on advancing the science and technology of pulsed, intermediate-density fusion approaches, including magneto-inertial fusion and Z-pinch variants, that have the potential to scale to commercially v..."
+    },
+    {
+      "source_id": "OpenAlex-c933ade4d60a1a88",
+      "provider": "OpenAlex",
+      "title": "A Review of Carbon Nanotubes, Graphene and Nanodiamond Based Strain Sensor in Harsh Environments",
+      "url": "https://doi.org/10.3390/c9040108",
+      "doi": "https://doi.org/10.3390/c9040108",
+      "year": 2023,
+      "authors": [
+        "Xiaoyan Wang",
+        "Eng Gee Lim",
+        "Kai F. Hoettges",
+        "Pengfei Song"
+      ],
+      "venue": "C – Journal of Carbon Research",
+      "summary": "Flexible and wearable electronics have attracted significant attention for their potential applications in wearable human health monitoring, care systems, and various industrial sectors. The exploration of wearable strain sensors in diverse application scenarios is a global issue, shaping the future of our intelligent community. However, current state-of-the-art strain sensors still encounter challenges, such as susceptibility to interference under humid conditions and vulnerability to chemical and mechanical fragility. Carbon materials offer a promising solution due to their unique advantages..."
+    },
+    {
+      "source_id": "Crossref-1e3038e91fd32373",
+      "provider": "Crossref",
+      "title": "Influence of Yarn Twist on the Quality of Rotor Spun Viscose Yarn",
+      "url": "https://doi.org/10.2991/ifeesm-17.2018.149",
+      "doi": "10.2991/ifeesm-17.2018.149",
+      "year": 2018,
+      "authors": [
+        "Jianhui Yang",
+        "Huan Zhang",
+        "Changlin Qian"
+      ],
+      "venue": "Proceedings of the 2017 3rd International Forum on Energy, Environment Science and Materials (IFEESM 2017)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-c05dba0f9cace58e",
+      "provider": "Crossref",
+      "title": "High performance electrochemical and electrothermal artificial muscles from twist-spun carbon nanotube yarn",
+      "url": "https://doi.org/10.1515/nano.s40580-014-0036-0",
+      "doi": "10.1515/nano.s40580-014-0036-0",
+      "year": 2016,
+      "authors": [
+        "Jae Ah Lee",
+        "Ray H Baughman",
+        "Seon Jeong Kim"
+      ],
+      "venue": "nano Online",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-565c20b5208bb1dc",
+      "provider": "Crossref",
+      "title": "High performance electrochemical and electrothermal artificial muscles from twist-spun carbon nanotube yarn",
+      "url": "https://doi.org/10.1186/s40580-014-0036-0",
+      "doi": "10.1186/s40580-014-0036-0",
+      "year": 2015,
+      "authors": [
+        "Jae Ah Lee",
+        "Ray H Baughman",
+        "Seon Jeong Kim"
+      ],
+      "venue": "Nano Convergence",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780917530-MaterialsScience-followup-1780908238-fd1ac8efeca4.json"
+}

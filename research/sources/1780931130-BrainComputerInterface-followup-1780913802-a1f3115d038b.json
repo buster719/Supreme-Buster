@@ -1,0 +1,146 @@
+{
+  "timestamp_secs": 1780931130,
+  "task_id": "followup-1780913802-a1f3115d038b",
+  "domain": "BrainComputerInterface",
+  "question": "What small local computation, simulation, or table could Buster run next to test part of this question: What are the known neural security vulnerabilities (e.g., adversarial stimuli, subliminal priming via sensory BCI, brain malware in closed-loop implants) that could degrade cooperation or enable manipulation, and have any been demonstrated outside simulation??",
+  "query": "brain computer interface human AI cooperation risks small local computation simulation table test part known neural",
+  "sources": [
+    {
+      "source_id": "Arxiv-4a390b9f509da643",
+      "provider": "Arxiv",
+      "title": "Dynamic Neural Communication: Convergence of Computer Vision and Brain-Computer Interface",
+      "url": "http://arxiv.org/abs/2411.09211v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Ji-Ha Park",
+        "Seo-Hyun Lee",
+        "Soowon Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "arXiv",
+      "summary": "Interpreting human neural signals to decode static speech intentions such as text or images and dynamic speech intentions such as audio or video is showing great potential as an innovative communication tool. Human communication accompanies various features, such as articulatory movements, facial expressions, and internal speech, all of which are reflected in neural signals. However, most studies only generate short or fragmented outputs, while providing informative communication by leveraging various features from neural signals remains challenging. In this study, we introduce a dynamic neura..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "OpenAlex-1adeb3d38b0c22a7",
+      "provider": "OpenAlex",
+      "title": "Digital Twin: Values, Challenges and Enablers From a Modeling Perspective",
+      "url": "https://doi.org/10.1109/access.2020.2970143",
+      "doi": "https://doi.org/10.1109/access.2020.2970143",
+      "year": 2020,
+      "authors": [
+        "Adil Rasheed",
+        "Omer San",
+        "Trond Kvamsdal"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Digital twin can be defined as a virtual representation of a physical asset enabled through data and simulators for real-time prediction, optimization, monitoring, controlling, and improved decision making. Recent advances in computational pipelines, multiphysics solvers, artificial intelligence, big data cybernetics, data processing and management tools bring the promise of digital twins and their impact on society closer to reality. Digital twinning is now an important and emerging trend in many applications. Also referred to as a computational megamodel, device shadow, mirrored system, avat..."
+    },
+    {
+      "source_id": "OpenAlex-a5368ee88515d91a",
+      "provider": "OpenAlex",
+      "title": "On the Road to 6G: Visions, Requirements, Key Technologies, and Testbeds",
+      "url": "https://doi.org/10.1109/comst.2023.3249835",
+      "doi": "https://doi.org/10.1109/comst.2023.3249835",
+      "year": 2023,
+      "authors": [
+        "Cheng‐Xiang Wang",
+        "Xiaohu You",
+        "Xiqi Gao",
+        "Xiuming Zhu",
+        "Zixin Li",
+        "Chuan Zhang",
+        "Haiming Wang",
+        "Yongming Huang"
+      ],
+      "venue": "IEEE Communications Surveys & Tutorials",
+      "summary": "Fifth generation (5G) mobile communication systems have entered the stage of commercial deployment, providing users with new services, improved user experiences as well as a host of novel opportunities to various industries. However, 5G still faces many challenges. To address these challenges, international industrial, academic, and standards organizations have commenced research on sixth generation (6G) wireless communication systems. A series of white papers and survey papers have been published, which aim to define 6G in terms of requirements, application scenarios, key technologies, etc. A..."
+    },
+    {
+      "source_id": "OpenAlex-7718e2dbd85c9e51",
+      "provider": "OpenAlex",
+      "title": "A Metaverse: Taxonomy, Components, Applications, and Open Challenges",
+      "url": "https://doi.org/10.1109/access.2021.3140175",
+      "doi": "https://doi.org/10.1109/access.2021.3140175",
+      "year": 2022,
+      "authors": [
+        "Sangmin Park",
+        "Young‐Gab Kim"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Unlike previous studies on the Metaverse based on Second Life, the current Metaverse is based on the social value of Generation Z that online and offline selves are not different. With the technological development of deep learning-based high-precision recognition models and natural generation models, Metaverse is being strengthened with various factors, from mobile-based always-on access to connectivity with reality using virtual currency. The integration of enhanced social activities and neural-net methods requires a new definition of Metaverse suitable for the present, different from the pr..."
+    },
+    {
+      "source_id": "Crossref-157b7bce08c2416e",
+      "provider": "Crossref",
+      "title": "EEG classification based on Small-World neural network for Brain-Computer Interface",
+      "url": "https://doi.org/10.1109/icnc.2010.5582892",
+      "doi": "10.1109/icnc.2010.5582892",
+      "year": 2010,
+      "authors": [
+        "Ting Li",
+        "Jun Hong",
+        "Jinhua Zhang"
+      ],
+      "venue": "2010 Sixth International Conference on Natural Computation",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780931130-BrainComputerInterface-followup-1780913802-a1f3115d038b.json"
+}

@@ -1,0 +1,111 @@
+{
+  "timestamp_secs": 1780929541,
+  "task_id": "followup-1780913481-4ccee70a005f",
+  "domain": "BrainComputerInterface",
+  "question": "In longitudinal use, does habituation to BCI-mediated adaptation cause a trust drop when the AI later operates without neural access (withdrawal effect)?",
+  "query": "brain computer interface human AI cooperation risks longitudinal habituation mediated adaptation cause trust drop when later",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-98f6474dbe7ec189",
+      "provider": "Arxiv",
+      "title": "Trust and Reliance in XAI -- Distinguishing Between Attitudinal and Behavioral Measures",
+      "url": "http://arxiv.org/abs/2203.12318v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Nicolas Scharowski",
+        "Sebastian A. C. Perrig",
+        "Nick von Felten",
+        "Florian Brühlmann"
+      ],
+      "venue": "arXiv",
+      "summary": "Trust is often cited as an essential criterion for the effective use and real-world deployment of AI. Researchers argue that AI should be more transparent to increase trust, making transparency one of the main goals of XAI. Nevertheless, empirical research on this topic is inconclusive regarding the effect of transparency on trust. An explanation for this ambiguity could be that trust is operationalized differently within XAI. In this position paper, we advocate for a clear distinction between behavioral (objective) measures of reliance and attitudinal (subjective) measures of trust. However, ..."
+    },
+    {
+      "source_id": "OpenAlex-f46470cfc3224243",
+      "provider": "OpenAlex",
+      "title": "Digital addiction in children: economic impact, global age restrictions, and protective solutions",
+      "url": "https://openalex.org/W7140068616",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Наталія Миколаївна Сіранчук",
+        "А Шаджі Джордж",
+        "Т Баскар"
+      ],
+      "venue": "Borys Grinchenko Kyiv University Institutional repository (Borys Grinchenko Kyiv University)",
+      "summary": "Новою нетрадиційною економічною змінною в Економічному огляді Індії за 2025 рік стала когнітивна здатність дітей, які перебувають у зоні ризику через цифрову залежність. У цій статті розглядається взаємозв'язок між нейророзвитком і економікою платформ, а також національною продуктивністю. Вона базується на гіпотезі, що компульсивна цифрова активність є економічно вимірюваним ризиком, який не обмежується лише особистим благополуччям. Аналізуючи міжнародні регуляторні реакції в Австралії, Франції та інших азіатських юрисдикціях і враховуючи знання про нейрологічну вразливість розвиваючогося нейр..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-a25ccd420e324d28",
+      "provider": "Crossref",
+      "title": "Measuring Trust in Generative AI Chatbots: Russian Adaptation and Validation of the Human-AI Trust Measurement Instrument",
+      "url": "https://doi.org/10.1080/10447318.2025.2580550",
+      "doi": "10.1080/10447318.2025.2580550",
+      "year": 2025,
+      "authors": [
+        "Antonina Rafikova",
+        "Anatoly Voronin"
+      ],
+      "venue": "International Journal of Human–Computer Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780929541-BrainComputerInterface-followup-1780913481-4ccee70a005f.json"
+}

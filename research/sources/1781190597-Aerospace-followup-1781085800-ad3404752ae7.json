@@ -1,0 +1,118 @@
+{
+  "timestamp_secs": 1781190597,
+  "task_id": "followup-1781085800-ad3404752ae7",
+  "domain": "Aerospace",
+  "question": "Are there any NASA/ESA reports or conference papers (e.g., from ICES, AIAA) that combine ISRU (e.g., water extraction, oxygen production) uncertainty models with life support mass closure in a stochastic framework?",
+  "query": "aerospace civilization resilience deep space capability there nasa reports conference papers ices aiaa combine isru",
+  "sources": [
+    {
+      "source_id": "Arxiv-271830c019de5052",
+      "provider": "Arxiv",
+      "title": "NASA and the Search for Technosignatures: A Report from the NASA Technosignatures Workshop",
+      "url": "http://arxiv.org/abs/1812.08681v2",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "NASA Technosignatures Workshop Participants"
+      ],
+      "venue": "arXiv",
+      "summary": "This report is the product of the NASA Technosignatures Workshop held at the Lunar and Planetary Institute in Houston, Texas, in September 2018. This workshop was convened by NASA for the organization to learn more about the current field and state of the art of searches for technosignatures, and what role NASA might play in these searches in the future. The report, written by the workshop participants, summarizes the material presented at the workshop and incorporates additional inputs from the participants. Section 1 explains the scope and purpose of the document, provides general background..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    },
+    {
+      "source_id": "OpenAlex-4102cb0ffcb15450",
+      "provider": "OpenAlex",
+      "title": "Supply Chain Sustainability in Outer Space: Lessons to Be Learnt from Remote Sites on Earth",
+      "url": "https://doi.org/10.3390/pr12102105",
+      "doi": "https://doi.org/10.3390/pr12102105",
+      "year": 2024,
+      "authors": [
+        "Manuel Varon Hoyos",
+        "Volker Hessel",
+        "Eduardo Salas",
+        "John Culton",
+        "Karen Robertson",
+        "Andrea Laybourn",
+        "Marc Escribà‐Gelonch",
+        "Nigel J. Cook"
+      ],
+      "venue": "Processes",
+      "summary": "Space exploration, with its enormous distances and extreme environments, is a challenge to technology, human habitation, sustainability, and supply chains. On the flip-side, however, it can provide a new vantage point on how to improve human life and planetary prosperity. This objective requires the development of economic and sustainable supply chains and a governance framework to guarantee fundamental human needs and well-being under the limitations of distant and inhospitable environments. This review describes learnings for human habitation in space from remote communities on Earth that ha..."
+    },
+    {
+      "source_id": "Crossref-1f2ce60dacf668da",
+      "provider": "Crossref",
+      "title": "ISRU - From Concept to Reality: NASA Accomplishments and Future Plans",
+      "url": "https://doi.org/10.2514/6.2011-7114",
+      "doi": "10.2514/6.2011-7114",
+      "year": 2011,
+      "authors": [
+        "William Larson",
+        "Gerald Sanders",
+        "Mark Hyatt"
+      ],
+      "venue": "AIAA SPACE 2011 Conference &amp; Exposition",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-a157102e21836408",
+      "provider": "Crossref",
+      "title": "NASA In-Situ Resource Utilization (ISRU) Project: Development and Implementation",
+      "url": "https://doi.org/10.2514/6.2008-7853",
+      "doi": "10.2514/6.2008-7853",
+      "year": 2008,
+      "authors": [
+        "Gerald Sanders",
+        "William Larson",
+        "Kurt Sacksteder",
+        "Carole Mclemore"
+      ],
+      "venue": "AIAA SPACE 2008 Conference &amp; Exposition",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-5b776593582eab7b",
+      "provider": "Crossref",
+      "title": "Developing Aerospace Propulsion Capability through Technological Milestones",
+      "url": "https://doi.org/10.2514/6.2014-4485",
+      "doi": "10.2514/6.2014-4485",
+      "year": 2014,
+      "authors": [
+        "Ronald H. Freeman"
+      ],
+      "venue": "AIAA SPACE 2014 Conference and Exposition",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781190597-Aerospace-followup-1781085800-ad3404752ae7.json"
+}

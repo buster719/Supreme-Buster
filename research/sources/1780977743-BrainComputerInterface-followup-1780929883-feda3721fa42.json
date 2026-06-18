@@ -1,0 +1,144 @@
+{
+  "timestamp_secs": 1780977743,
+  "task_id": "followup-1780929883-feda3721fa42",
+  "domain": "BrainComputerInterface",
+  "question": "Can a metacognitive display of the AI’s uncertainty about its neural-signal interpretation reduce the negative impact of an incorrect challenge?",
+  "query": "brain computer interface human AI cooperation risks metacognitive display uncertainty neural signal interpretation reduce negative impact",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-4a390b9f509da643",
+      "provider": "Arxiv",
+      "title": "Dynamic Neural Communication: Convergence of Computer Vision and Brain-Computer Interface",
+      "url": "http://arxiv.org/abs/2411.09211v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Ji-Ha Park",
+        "Seo-Hyun Lee",
+        "Soowon Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "arXiv",
+      "summary": "Interpreting human neural signals to decode static speech intentions such as text or images and dynamic speech intentions such as audio or video is showing great potential as an innovative communication tool. Human communication accompanies various features, such as articulatory movements, facial expressions, and internal speech, all of which are reflected in neural signals. However, most studies only generate short or fragmented outputs, while providing informative communication by leveraging various features from neural signals remains challenging. In this study, we introduce a dynamic neura..."
+    },
+    {
+      "source_id": "OpenAlex-d1ec1ddda81efa52",
+      "provider": "OpenAlex",
+      "title": "What is new with Artificial Intelligence? Human–agent interactions through the lens of social agency",
+      "url": "https://doi.org/10.3389/fpsyg.2022.954444",
+      "doi": "https://doi.org/10.3389/fpsyg.2022.954444",
+      "year": 2022,
+      "authors": [
+        "Marine Pagliari",
+        "Valérian Chambon",
+        "Bruno Berberian"
+      ],
+      "venue": "Frontiers in Psychology",
+      "summary": "In this article, we suggest that the study of social interactions and the development of a \"sense of agency\" in joint action can help determine the content of relevant explanations to be implemented in artificial systems to make them \"explainable.\" The introduction of automated systems, and more broadly of Artificial Intelligence (AI), into many domains has profoundly changed the nature of human activity, as well as the subjective experience that agents have of their own actions and their consequences - an experience that is commonly referred to as sense of agency. We propose to examine the em..."
+    },
+    {
+      "source_id": "OpenAlex-fb70a1efa53ba30d",
+      "provider": "OpenAlex",
+      "title": "Trust as Extended Control: Human-Machine Interactions as Active Inference",
+      "url": "https://doi.org/10.3389/fnsys.2021.669810",
+      "doi": "https://doi.org/10.3389/fnsys.2021.669810",
+      "year": 2021,
+      "authors": [
+        "Félix Schoeller",
+        "Mark Miller",
+        "Roy Salomon",
+        "Karl Friston"
+      ],
+      "venue": "Frontiers in Systems Neuroscience",
+      "summary": "In order to interact seamlessly with robots, users must infer the causes of a robot's behavior-and be confident about that inference (and its predictions). Hence, trust is a necessary condition for human-robot collaboration (HRC). However, and despite its crucial role, it is still largely unknown how trust emerges, develops, and supports human relationship to technological systems. In the following paper we review the literature on trust, human-robot interaction, HRC, and human interaction at large. Early models of trust suggest that it is a trade-off between benevolence and competence; while ..."
+    },
+    {
+      "source_id": "OpenAlex-0db5421b830d66a9",
+      "provider": "OpenAlex",
+      "title": "An Active-Inference Approach to Second-Person Neuroscience",
+      "url": "https://doi.org/10.1177/17456916231188000",
+      "doi": "https://doi.org/10.1177/17456916231188000",
+      "year": 2023,
+      "authors": [
+        "Konrad Lehmann",
+        "Dimitris Bolis",
+        "Karl Friston",
+        "Leonhard Schilbach",
+        "Maxwell J. D. Ramstead",
+        "Philipp Kanske"
+      ],
+      "venue": "Perspectives on Psychological Science",
+      "summary": "Social neuroscience has often been criticized for approaching the investigation of the neural processes that enable social interaction and cognition from a passive, detached, third-person perspective, without involving any real-time social interaction. With the emergence of second-person neuroscience, investigators have uncovered the unique complexity of neural-activation patterns in actual, real-time interaction. Social cognition that occurs during social interaction is fundamentally different from that unfolding during social observation. However, it remains unclear how the neural correlates..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-a986a1f16789a189",
+      "provider": "Crossref",
+      "title": "A Comprehensive Review of Brain-Computer Interface Technology: Advances, Applications, and Challenges in Neural Signal Decoding",
+      "url": "https://doi.org/10.36227/techrxiv.175037244.42668014/v1",
+      "doi": "10.36227/techrxiv.175037244.42668014/v1",
+      "year": 2025,
+      "authors": [
+        "NAKSHATRA S PREM"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780977743-BrainComputerInterface-followup-1780929883-feda3721fa42.json"
+}

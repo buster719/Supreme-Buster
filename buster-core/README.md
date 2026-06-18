@@ -40,7 +40,18 @@ cargo run -p buster_body --bin buster-body -- doctor ..
 cargo run -p buster_body --bin buster-body -- supervise --root .. --ticks 1 --interval-ms 0
 cargo run -p buster_daemon --bin busterd -- tick --root ..
 cargo run -p buster_daemon --bin busterd -- run --root .. --ticks 3 --interval-ms 1000
+cargo run -p buster_daemon --bin busterd -- skills scan --root ..
+cargo run -p buster_daemon --bin busterd -- skills view --root .. --name research-source-synthesis
+cargo run -p buster_daemon --bin busterd -- skills record-use --root .. --name research-source-synthesis --context "source report" --outcome "summary reused"
 ```
+
+Skill workspace:
+
+- `../skills/installed/`: trusted or manually installed skills.
+- `../skills/generated/`: Buster-generated draft skills from repeated experience.
+- `../skills/archive/`: disabled or stale skills.
+- `../state/skill-registry.json`: current registry used for selection and usage counts.
+- `../audit/skill-events.jsonl`: append-only skill scan/view/use/draft events.
 
 Design documents live at the repository root:
 
@@ -49,6 +60,9 @@ Design documents live at the repository root:
 - `BODY.md`
 - `RUNTIME_CYCLE.md`
 - `VALUE_MODEL.md`
+- `HARNESS_CONTRACT.md`
+- `SECURITY_RESEARCH_HARNESS.md`
+- `PROTOCOL_SECURITY_CAPABILITY.md`
 
 Future documents:
 

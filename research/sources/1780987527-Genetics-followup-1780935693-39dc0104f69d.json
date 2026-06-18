@@ -1,0 +1,136 @@
+{
+  "timestamp_secs": 1780987527,
+  "task_id": "followup-1780935693-39dc0104f69d",
+  "domain": "Genetics",
+  "question": "Does Ukraine’s legal framework for nuclear transfer in assisted reproduction contain a national list of indications, or do individual clinics hold decision-making power?",
+  "query": "genetics safety human flourishing genome editing ukraine legal framework nuclear transfer assisted reproduction contain national",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-6f21d10422156bbf",
+      "provider": "Arxiv",
+      "title": "The Frontiers of Nuclear Science, A Long Range Plan",
+      "url": "http://arxiv.org/abs/0809.3137v1",
+      "doi": null,
+      "year": 2008,
+      "authors": [
+        "The DOE/NSF Nuclear Science Advisory Committee"
+      ],
+      "venue": "arXiv",
+      "summary": "This is a copy of the 2007 report prepared by the DOE/NSF Nuclear Science Advisory Committee in response to the charge from DOE and NSF to \"conduct a study of the opportunities and priorities for U.S. nuclear physics research and recommend a long range plan that will provide a framework for coordinated advancement of the nation's nuclear science research programs over the next decade.\""
+    },
+    {
+      "source_id": "OpenAlex-8942972b3adab493",
+      "provider": "OpenAlex",
+      "title": "Personalised Medicine, Individual Choice and the Common Good",
+      "url": "https://doi.org/10.1017/9781108590600",
+      "doi": "https://doi.org/10.1017/9781108590600",
+      "year": 2018,
+      "authors": [
+        "van Beers, B.C.",
+        "Sterckx, Sigrid",
+        "Dickenson, Donna"
+      ],
+      "venue": "Cambridge University Press eBooks",
+      "summary": "This is a volume of twelve essays concerning the fundamental tension in personalised medicine between individual choice and the common good."
+    },
+    {
+      "source_id": "OpenAlex-2f1fea7a8858658a",
+      "provider": "OpenAlex",
+      "title": "Art as We Don't Know It",
+      "url": "https://aaltodoc.aalto.fi/handle/123456789/43627",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Erich Berger",
+        "Kasperi Mäki-Reinikka",
+        "Kira O’Reilly",
+        "Helena Sederholm"
+      ],
+      "venue": "Aaltodoc (Aalto University)",
+      "summary": "2018 marked the 10th anniversary of the Bioart Society and created the impetus for the publication of Art as We Don’t Know It. For this publication, the Bioart Society joined forces with the School of Arts, Design and Architecture of the Aalto University. The close history and ongoing collaborative relationship between the Bioart Society and Biofilia – Base for Biological Arts in the Aalto University lead to this mutual effort to celebrate together a diverse and nurturing environment to foster artistic practices on the intersection of art, science and society. Rather than stage a retrospective..."
+    },
+    {
+      "source_id": "OpenAlex-c23064933d4aef25",
+      "provider": "OpenAlex",
+      "title": "From lab to fertility clinic",
+      "url": "https://doi.org/10.26481/dis.20201111vj",
+      "doi": "https://doi.org/10.26481/dis.20201111vj",
+      "year": 2020,
+      "authors": [
+        "Jans Verna Anna Ardina Maria"
+      ],
+      "venue": null,
+      "summary": "How did offspring safety considerations play a role in strategies of introducing new reproductive techniques?"
+    },
+    {
+      "source_id": "Crossref-b3c3a4f9be4e477e",
+      "provider": "Crossref",
+      "title": "Editing human reproduction? Legal and ethical aspects of genome editing",
+      "url": "https://doi.org/10.1016/b978-0-12-816468-6.00021-7",
+      "doi": "10.1016/b978-0-12-816468-6.00021-7",
+      "year": 2019,
+      "authors": [
+        "Judit Sándor"
+      ],
+      "venue": "Human Embryos and Preimplantation Genetic Technologies",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-5b5f85f2426a78db",
+      "provider": "Crossref",
+      "title": "Governance of Heritable Human Genome Editing – Developing a Regulatory Framework for a Transformative Technology",
+      "url": "https://doi.org/10.33058/wpuzh.2023.7227",
+      "doi": "10.33058/wpuzh.2023.7227",
+      "year": 2023,
+      "authors": [
+        "Natacha Tang"
+      ],
+      "venue": "Human Reproduction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-76924fae82466bda",
+      "provider": "Crossref",
+      "title": "Genome Editing in Human Reproduction",
+      "url": "https://doi.org/10.1201/9781003268598-29",
+      "doi": "10.1201/9781003268598-29",
+      "year": 2023,
+      "authors": [
+        "Helen C. O'Neill"
+      ],
+      "venue": "Textbook of Assisted Reproductive Techniques",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780987527-Genetics-followup-1780935693-39dc0104f69d.json"
+}

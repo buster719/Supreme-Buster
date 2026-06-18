@@ -1,0 +1,124 @@
+{
+  "timestamp_secs": 1780928260,
+  "task_id": "followup-1780913155-430e3b736244",
+  "domain": "BrainComputerInterface",
+  "question": "How do error-related potential (ErrP) based correction protocols compare to explicit feedback methods (e.g., passive brain-switch) in terms of alignment speed and user cognitive load?",
+  "query": "brain computer interface human AI cooperation risks error related potential errp based correction protocols compare explicit",
+  "sources": [
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-06c7a15a9a341fca",
+      "provider": "OpenAlex",
+      "title": "A Brain-Computer Interface for robotic arm control",
+      "url": "https://pub.uni-bielefeld.de/record/2529157",
+      "doi": null,
+      "year": 2011,
+      "authors": [
+        "Alexander Lenhardt"
+      ],
+      "venue": "Publikationen an der Universität Bielefeld (Universität Bielefeld)",
+      "summary": "Brain-Computer Interfaces (BCI) are tools that open a new channel of communication between humans and machines. \\nThe majority of human input devices for computers require proper functioning of our primary sensors and motor \\nfunctions like grasping, moving and visual perception. In the case of severe motor disabilities, like amyotrophic \\nlateral sclerosis (ALS) or spinal chord injury (SCI),\\nThe most common method to measure brain activity suitable for BCI are electroencephalographic measurements (EEG) \\ndue to their relative cost effectiveness and ease of use. Alternative ways to extract br..."
+    },
+    {
+      "source_id": "OpenAlex-0c3f9acbe476c461",
+      "provider": "OpenAlex",
+      "title": "Integrating Active Brain-Computer Interfaces (aBCIs) with Passive BCIs (pBCIs) under Different Frustration Levels",
+      "url": "https://doi.org/10.21203/rs.3.rs-6906475/v1",
+      "doi": "https://doi.org/10.21203/rs.3.rs-6906475/v1",
+      "year": 2025,
+      "authors": [
+        "Xin Gao",
+        "Haipeng Lin",
+        "Xiaolong Wu",
+        "Dingguo Zhang"
+      ],
+      "venue": "Research Square",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-c66c033980cfd868",
+      "provider": "Crossref",
+      "title": "Error Related Potential Detection Algorithm for Brain Computer Interface",
+      "url": "https://doi.org/10.1109/ccdc62350.2024.10587857",
+      "doi": "10.1109/ccdc62350.2024.10587857",
+      "year": 2024,
+      "authors": [
+        "Zheng Li",
+        "Huasong Min"
+      ],
+      "venue": "2024 36th Chinese Control and Decision Conference (CCDC)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-33fc2ba0ab1f0c13",
+      "provider": "Crossref",
+      "title": "Hybrid brain-computer interface using error-related potential and reinforcement learning",
+      "url": "https://doi.org/10.3389/fnhum.2025.1569411",
+      "doi": "10.3389/fnhum.2025.1569411",
+      "year": 2025,
+      "authors": [
+        "Aline Xavier Fidêncio",
+        "Felix Grün",
+        "Christian Klaes",
+        "Ioannis Iossifidis"
+      ],
+      "venue": "Frontiers in Human Neuroscience",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780928260-BrainComputerInterface-followup-1780913155-430e3b736244.json"
+}

@@ -1,0 +1,62 @@
+{
+  "timestamp_secs": 1781189933,
+  "task_id": "followup-1781085800-ec09a84b5be2",
+  "domain": "Aerospace",
+  "question": "Is there a published dataset or open-source model (e.g., from NASA's BASALT, JSC, or ESA's MEIT) that allows replication of such a Monte Carlo analysis for life-support closure?",
+  "query": "aerospace civilization resilience deep space capability there published dataset open source model nasa basalt meit",
+  "sources": [
+    {
+      "source_id": "Arxiv-2cc9fe3109b23670",
+      "provider": "Arxiv",
+      "title": "BEDD: The MineRL BASALT Evaluation and Demonstrations Dataset for Training and Benchmarking Agents that Solve Fuzzy Tasks",
+      "url": "http://arxiv.org/abs/2312.02405v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Stephanie Milani",
+        "Anssi Kanervisto",
+        "Karolis Ramanauskas",
+        "Sander Schulhoff",
+        "Brandon Houghton",
+        "Rohin Shah"
+      ],
+      "venue": "arXiv",
+      "summary": "The MineRL BASALT competition has served to catalyze advances in learning from human feedback through four hard-to-specify tasks in Minecraft, such as create and photograph a waterfall. Given the completion of two years of BASALT competitions, we offer to the community a formalized benchmark through the BASALT Evaluation and Demonstrations Dataset (BEDD), which serves as a resource for algorithm development and performance assessment. BEDD consists of a collection of 26 million image-action pairs from nearly 14,000 videos of human players completing the BASALT tasks in Minecraft. It also inclu..."
+    },
+    {
+      "source_id": "Arxiv-271830c019de5052",
+      "provider": "Arxiv",
+      "title": "NASA and the Search for Technosignatures: A Report from the NASA Technosignatures Workshop",
+      "url": "http://arxiv.org/abs/1812.08681v2",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "NASA Technosignatures Workshop Participants"
+      ],
+      "venue": "arXiv",
+      "summary": "This report is the product of the NASA Technosignatures Workshop held at the Lunar and Planetary Institute in Houston, Texas, in September 2018. This workshop was convened by NASA for the organization to learn more about the current field and state of the art of searches for technosignatures, and what role NASA might play in these searches in the future. The report, written by the workshop participants, summarizes the material presented at the workshop and incorporates additional inputs from the participants. Section 1 explains the scope and purpose of the document, provides general background..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1874; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":279013,\"items\":[{\"DOI\":\"10.1109\\/aero55745.2..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781189933-Aerospace-followup-1781085800-ec09a84b5be2.json"
+}

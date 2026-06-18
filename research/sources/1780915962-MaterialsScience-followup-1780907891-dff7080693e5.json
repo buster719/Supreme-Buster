@@ -1,0 +1,80 @@
+{
+  "timestamp_secs": 1780915962,
+  "task_id": "followup-1780907891-dff7080693e5",
+  "domain": "MaterialsScience",
+  "question": "Which exfoliated 2D magnets or topological insulators exhibit measurable anomalous Hall resistance at 300 K without external magnetic field, and what is the largest root‑mean‑square reproducibility across laboratories?",
+  "query": "materials science fusion robotics aerospace computation exfoliated magnets topological insulators exhibit measurable anomalous hall resistance",
+  "sources": [
+    {
+      "source_id": "Arxiv-e56ef057264fa91c",
+      "provider": "Arxiv",
+      "title": "Quantum anomalous Hall effect in magnetic topological insulators",
+      "url": "http://arxiv.org/abs/1409.6715v4",
+      "doi": null,
+      "year": 2014,
+      "authors": [
+        "Jing Wang",
+        "Biao Lian",
+        "Shou-Cheng Zhang"
+      ],
+      "venue": "arXiv",
+      "summary": "The search for topologically non-trivial states of matter has become an important goal for condensed matter physics. Here, we give a theoretical introduction to the quantum anomalous Hall (QAH) effect based on magnetic topological insulators in two-dimension (2D) and three-dimension (3D). In 2D topological insulators, magnetic order breaks the symmetry between the counter-propagating helical edge states, and as a result, the quantum spin Hall effect can evolve into the QAH effect. In 3D, magnetic order opens up a gap for the topological surface states, and chiral edge state has been predicted ..."
+    },
+    {
+      "source_id": "Arxiv-c3520294495bc2d1",
+      "provider": "Arxiv",
+      "title": "A complementary screening for quantum spin Hall insulators in 2D exfoliable materials",
+      "url": "http://arxiv.org/abs/2205.02583v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Davide Grassano",
+        "Davide Campi",
+        "Antimo Marrazzo",
+        "Nicola Marzari"
+      ],
+      "venue": "arXiv",
+      "summary": "Quantum spin Hall insulators are a class of topological materials that has been extensively studied during the past decade. One of their distinctive features is the presence of a finite band gap in the bulk and gapless, topologically protected edge states that are spin-momentum locked. These materials are characterized by a $\\mathbb{Z}_2$ topological order where, in the 2D case, a single topological invariant can be even or odd for a trivial or a topological material, respectively. Thanks to their interesting properties, such as the realization of dissipationless spin currents, spin pumping an..."
+    },
+    {
+      "source_id": "Arxiv-e255a42e126dd1d2",
+      "provider": "Arxiv",
+      "title": "Recent advancements in the study of intrinsic magnetic topological insulators and magnetic Weyl semimetals",
+      "url": "http://arxiv.org/abs/2008.10770v1",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Wei Ning",
+        "Zhiqiang Mao"
+      ],
+      "venue": "arXiv",
+      "summary": "The studies of topological insulators and topological semimetals have been at frontiers of condensed matter physics and material science. Both classes of materials are characterized by robust surface states created by the topology of the bulk band structures and exhibit exotic transport properties. When magnetism is present in topological materials and breaks the time-reversal symmetry, more exotic quantum phenomena can be generated, e.g. quantum anomalous Hall effect, axion insulator, large intrinsic anomalous Hall effect, etc. In this research update, we briefly summarize the recent research..."
+    },
+    {
+      "source_id": "OpenAlex-deb2b828b861332b",
+      "provider": "OpenAlex",
+      "title": "Revisiting the germanate anomaly in glasses using <sup>73</sup>Ge nuclear forward scattering",
+      "url": "https://vbn.aau.dk/da/publications/3109e918-f807-4df8-874d-bd9d1c1c591c",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Søren S. Sørensen",
+        "Jonas Alexander Finkler",
+        "Rasmus; id_orcid 0000-0003-2654-1545 Christensen",
+        "Stefano Marchesin",
+        "Dimitrios Bessas",
+        "Morten M. Smedskjær",
+        "G. Monaco"
+      ],
+      "venue": "VBN Forskningsportal (Aalborg Universitet)",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 255; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":35149,\"items\":[{\"DOI\":\"10.1117\\/12.2567851.61..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780915962-MaterialsScience-followup-1780907891-dff7080693e5.json"
+}

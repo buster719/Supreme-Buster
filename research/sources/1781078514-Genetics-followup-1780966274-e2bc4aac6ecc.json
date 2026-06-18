@@ -1,0 +1,145 @@
+{
+  "timestamp_secs": 1781078514,
+  "task_id": "followup-1780966274-e2bc4aac6ecc",
+  "domain": "Genetics",
+  "question": "In existing randomized trials of PRS feedback, what is the raw effect size (e.g., odds ratio) of receiving risk information on health outcomes when access to follow-up interventions is equalized across SES strata?",
+  "query": "genetics safety human flourishing genome editing existing randomized trials feedback effect size odds ratio receiving",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-050c22e5186bd0d2",
+      "provider": "Arxiv",
+      "title": "Leveraging contact network structure in the design of cluster randomized trials",
+      "url": "http://arxiv.org/abs/1610.09926v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Guy Harling",
+        "Rui Wang",
+        "Jukka-Pekka Onnela",
+        "Victor De Gruttola"
+      ],
+      "venue": "arXiv",
+      "summary": "Background: In settings where proof-of-principle trials have succeeded but the effectiveness of different forms of implementation remains uncertain, trials that not only generate information about intervention effects but also provide public health benefit would be useful. Cluster randomized trials (CRT) capture both direct and indirect intervention effects; the latter depends heavily on contact networks within and across clusters. We propose a novel class of connectivity-informed trial designs that leverages information about such networks in order to improve public health impact and preserve..."
+    },
+    {
+      "source_id": "OpenAlex-26998f25f9163840",
+      "provider": "OpenAlex",
+      "title": "Current and future development of big data in Commonwealth countries",
+      "url": "http://hdl.handle.net/1959.3/444863",
+      "doi": null,
+      "year": 2014,
+      "authors": [
+        "Jing He",
+        "Xiaohui Liu",
+        "Guangyan Huang",
+        "Michael Blumenstein",
+        "Clement H. C. Leung"
+      ],
+      "venue": "Swinburne Research Bank (Swinburne University of Technology)",
+      "summary": "\"Big Data” refers to the very high volume and complex information that requires new tools and capacities for storage and analysis. Although the concept of Big Data arose late in the digital age as computer power, storage, and data use expanded to a previously unimaginable extent, Big Data have always existed in the natural and predigital world. For example, archaeologists and geologists extract Big Data accumulated in DNA sequences and ice cores to study the evolution of the natural world over millions or billions of years. Cameras, personal computers and CDs all capture Big Data. And if every..."
+    },
+    {
+      "source_id": "OpenAlex-9891cd9c4404f5b7",
+      "provider": "OpenAlex",
+      "title": "Unraveling the functional responses of natural killer cells through functional genomics and genetic engineering",
+      "url": "https://doi.org/10.69622/30811100.v1",
+      "doi": "https://doi.org/10.69622/30811100.v1",
+      "year": 2026,
+      "authors": [
+        "Nutsa Burduli"
+      ],
+      "venue": null,
+      "summary": "&lt;p dir=\"ltr\"&gt;Natural killer (NK) cells have emerged as potent cytotoxic lymphocytes in cellular immunotherapies in the recent decades. 50 years of extensive research into their multidimensional nature have led to their substantial characterization, however, the genetic circuits governing their cytotoxic and cytokine programs, and the constraints limiting their therapeutic engineering and in-tumor function, remain incompletely defined. This thesis combines genome-wide functional genomics, small molecule-assisted gene delivery, and translational NK cell engineering to dissect and therapeut..."
+    },
+    {
+      "source_id": "OpenAlex-b76ce97fe64200b1",
+      "provider": "OpenAlex",
+      "title": "Fatty acid-binding protein 5: an intracellular protein regulating the blood-brain barrier transport of docosahexaenoic acid and cognitive function",
+      "url": "https://research.monash.edu/en/publications/6b7c1362-84b2-4513-a1a0-54a1e170e57d",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Joseph A. Nicolazzo",
+        "Yijun Pan",
+        "Christopher H. Choy",
+        "M.J. Scanlon",
+        "Christopher J. H. Porter",
+        "Jennifer L. Short"
+      ],
+      "venue": "Monash University Research Portal (Monash University)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-fefb31e9ac9badac",
+      "provider": "Crossref",
+      "title": "Confoundedness of the odds ratio in randomized clinical trials",
+      "url": "https://doi.org/10.1016/0197-2456(86)90082-6",
+      "doi": "10.1016/0197-2456(86)90082-6",
+      "year": 1986,
+      "authors": [
+        "Jan G.P. Tijssen"
+      ],
+      "venue": "Controlled Clinical Trials",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781078514-Genetics-followup-1780966274-e2bc4aac6ecc.json"
+}

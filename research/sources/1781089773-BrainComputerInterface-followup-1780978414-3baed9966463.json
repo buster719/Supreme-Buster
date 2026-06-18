@@ -1,0 +1,143 @@
+{
+  "timestamp_secs": 1781089773,
+  "task_id": "followup-1780978414-3baed9966463",
+  "domain": "BrainComputerInterface",
+  "question": "Are there individual difference factors (trait anxiety, neuroticism, BCI literacy) that predict whether frequent challenge repairs or erodes human trust?",
+  "query": "brain computer interface human AI cooperation risks there individual difference factors trait anxiety neuroticism literacy predict",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-262faacc668a4796",
+      "provider": "OpenAlex",
+      "title": "Electroencephalogram based brain-computer interface: Applications, challenges, and opportunities",
+      "url": "https://doi.org/10.1007/s11042-023-15653-x",
+      "doi": "https://doi.org/10.1007/s11042-023-15653-x",
+      "year": 2023,
+      "authors": [
+        "Hitesh Yadav",
+        "Surita Maini"
+      ],
+      "venue": "Multimedia Tools and Applications",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-79b28a852787999d",
+      "provider": "OpenAlex",
+      "title": "The role of personality traits in predicting educational use of generative AI in higher education",
+      "url": "https://doi.org/10.1038/s41598-025-16339-0",
+      "doi": "https://doi.org/10.1038/s41598-025-16339-0",
+      "year": 2025,
+      "authors": [
+        "İbrahim Arpacı",
+        "İsmail Kuşci",
+        "Omer Gibreel"
+      ],
+      "venue": "Scientific Reports",
+      "summary": "Generative Artificial Intelligence (Gen-AI) systems offer significant opportunities for personalized learning in higher education. Studying the effects of personality traits on the use of Gen-AI is crucial for understanding the role of individual differences in integrating this innovative technology into education. Therefore, this study investigated how the Big Five personality traits, age, and gender predict the educational use of Gen-AI in higher education. In this study, data were obtained from 1016 university students through an online survey. The data obtained using the Five Factor Person..."
+    },
+    {
+      "source_id": "OpenAlex-d4f0257969eaed61",
+      "provider": "OpenAlex",
+      "title": "AI in Learning: Designing the Future",
+      "url": "https://doi.org/10.1007/978-3-031-09687-7",
+      "doi": "https://doi.org/10.1007/978-3-031-09687-7",
+      "year": 2022,
+      "authors": [
+        "Hannele Niemi",
+        "Roy Pea",
+        "Yu Lu"
+      ],
+      "venue": null,
+      "summary": "This open access book is based on the latest research about Artificial Intelligence and how it is changing learning and education."
+    },
+    {
+      "source_id": "Crossref-54d5c52e698b66e8",
+      "provider": "Crossref",
+      "title": "Conscientiousness, Trait Self-Control, and Neuroticism Predict Individual Differences in the Variability of Goal Dimensions",
+      "url": "https://doi.org/10.31234/osf.io/etm3a",
+      "doi": "10.31234/osf.io/etm3a",
+      "year": 2024,
+      "authors": [
+        "Marie Hennecke",
+        "Korbinian Kiendl",
+        "Mario Wenzel",
+        "Kristian Kleinke"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6f53a9fa3f9a4acc",
+      "provider": "Crossref",
+      "title": "Is the relationship between intelligence and trait Neuroticism mediated by test anxiety?",
+      "url": "https://doi.org/10.1016/j.paid.2005.08.004",
+      "doi": "10.1016/j.paid.2005.08.004",
+      "year": 2006,
+      "authors": [
+        "Joanna Moutafi",
+        "Adrian Furnham",
+        "Ioannis Tsaousis"
+      ],
+      "venue": "Personality and Individual Differences",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781089773-BrainComputerInterface-followup-1780978414-3baed9966463.json"
+}

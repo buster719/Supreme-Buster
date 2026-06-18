@@ -1,0 +1,154 @@
+{
+  "timestamp_secs": 1780981600,
+  "task_id": "followup-1780931793-5e5f60391a98",
+  "domain": "BrainComputerInterface",
+  "question": "Are there empirical studies that *independently* varied BCI information transfer rate and autonomous‑decision‑making authority level while holding task difficulty constant, and measured team completion speed / errors / user workload?",
+  "query": "brain computer interface human AI cooperation risks there empirical studies independently varied information transfer rate autonomous",
+  "sources": [
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-baba6e314a5fd546",
+      "provider": "Arxiv",
+      "title": "Multi-command Tactile and Auditory Brain Computer Interface based on Head Position Stimulation",
+      "url": "http://arxiv.org/abs/1301.6357v2",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "H. Mori",
+        "Y. Matsumoto",
+        "Z. R. Struzik",
+        "K. Mori",
+        "S. Makino",
+        "D. Mandic",
+        "T. M. Rutkowski"
+      ],
+      "venue": "arXiv",
+      "summary": "We study the extent to which vibrotactile stimuli delivered to the head of a subject can serve as a platform for a brain computer interface (BCI) paradigm. Six head positions are used to evoke combined somatosensory and auditory (via the bone conduction effect) brain responses, in order to define a multimodal tactile and auditory brain computer interface (taBCI). Experimental results of subjects performing online taBCI, using stimuli with a moderately fast inter-stimulus interval (ISI), validate the taBCI paradigm, while the feasibility of the concept is illuminated through information transfe..."
+    },
+    {
+      "source_id": "OpenAlex-4cd97ae6c8a4d820",
+      "provider": "OpenAlex",
+      "title": "Six Human-Centered Artificial Intelligence Grand Challenges",
+      "url": "https://doi.org/10.1080/10447318.2022.2153320",
+      "doi": "https://doi.org/10.1080/10447318.2022.2153320",
+      "year": 2023,
+      "authors": [
+        "Özlem Özmen Garibay",
+        "Brent Winslow",
+        "Salvatore Andolina",
+        "Margherita Antona",
+        "Anja Bodenschatz",
+        "Constantinos K. Coursaris",
+        "Gregory Falco",
+        "Stephen M. Fiore"
+      ],
+      "venue": "International Journal of Human-Computer Interaction",
+      "summary": "Widespread adoption of artificial intelligence (AI) technologies is substantially affecting the human condition in ways that are not yet well understood. Negative unintended consequences abound including the perpetuation and exacerbation of societal inequalities and divisions via algorithmic decision making. We present six grand challenges for the scientific community to create AI technologies that are human-centered, that is, ethical, fair, and enhance the human condition. These grand challenges are the result of an international collaboration across academia, industry and government and repr..."
+    },
+    {
+      "source_id": "OpenAlex-adbf50e66ac04dbf",
+      "provider": "OpenAlex",
+      "title": "Exploring collaborative decision-making: A quasi-experimental study of human and Generative AI interaction",
+      "url": "https://doi.org/10.1016/j.techsoc.2024.102662",
+      "doi": "https://doi.org/10.1016/j.techsoc.2024.102662",
+      "year": 2024,
+      "authors": [
+        "Xinyue Hao",
+        "Emrah Demir",
+        "Daniel Eyers"
+      ],
+      "venue": "Technology in Society",
+      "summary": "This paper explores the effects of integrating Generative Artificial Intelligence (GAI) into decision-making processes within organizations, employing a quasi-experimental pretest-posttest design. The study examines the synergistic interaction between Human Intelligence (HI) and GAI across four group decision-making scenarios within three global organizations renowned for their cutting-edge operational techniques. The research progresses through several phases: identifying research problems, collecting baseline data on decision-making, implementing AI interventions, and evaluating the outcomes..."
+    },
+    {
+      "source_id": "OpenAlex-ac318554355b3b45",
+      "provider": "OpenAlex",
+      "title": "An Empirical Study on System Level Aspects of Internet of Things (IoT)",
+      "url": "https://doi.org/10.1109/access.2020.3029847",
+      "doi": "https://doi.org/10.1109/access.2020.3029847",
+      "year": 2020,
+      "authors": [
+        "S. Narayana Swamy",
+        "Kota Solomon Raju"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Internet of Things (IoT) is an integration of the Sensor, Embedded, Computing, and Communication technologies. The purpose of the IoT is to provide seamless services to anything, anytime at any place. IoT technologies play a crucial role everywhere, which brings the fourth revolution of disruptive technologies after the internet and Information and Communication Technology (ICT). The Research & Development community has predicted that the impact of IoT will be more than the internet and ICT on society, which improves the well-being of society and industries. Addressing the predominant system-l..."
+    },
+    {
+      "source_id": "Crossref-79764589082f6f92",
+      "provider": "Crossref",
+      "title": "Interface changes causing accidents. An empirical study of negative transfer",
+      "url": "https://doi.org/10.1016/j.ijhcs.2004.08.002",
+      "doi": "10.1016/j.ijhcs.2004.08.002",
+      "year": 2005,
+      "authors": [
+        "Denis Besnard",
+        "Lucile Cacitti"
+      ],
+      "venue": "International Journal of Human-Computer Studies",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-e477abd9a0b83758",
+      "provider": "Crossref",
+      "title": "A study on information transfer rate by brain-computer interface (BCI) using functional near-infrared spectroscopy (fNIRS)",
+      "url": "https://doi.org/10.1109/iww-bci.2013.6506620",
+      "doi": "10.1109/iww-bci.2013.6506620",
+      "year": 2013,
+      "authors": [
+        "Jaeyoung Shin",
+        "Sungyong Kang",
+        "Minkyu Sung",
+        "Joohwan Kim",
+        "Yongjung Kim",
+        "Jihyun Kim",
+        "Jichai Jeong"
+      ],
+      "venue": "2013 International Winter Workshop on Brain-Computer Interface (BCI)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780981600-BrainComputerInterface-followup-1780931793-5e5f60391a98.json"
+}

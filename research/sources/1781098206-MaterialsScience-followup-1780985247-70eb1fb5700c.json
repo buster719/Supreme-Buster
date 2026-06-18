@@ -1,0 +1,118 @@
+{
+  "timestamp_secs": 1781098206,
+  "task_id": "followup-1780985247-70eb1fb5700c",
+  "domain": "MaterialsScience",
+  "question": "– Does B₂O₃ viscosity in ZrB₂/HfB₂ at typical crack-healing temperatures (1200–1600 °C) remain low enough to penetrate <10 µm cracks before significant evaporation?",
+  "query": "materials science fusion robotics aerospace computation b₂o₃ viscosity zrb₂ hfb₂ typical crack healing temperatures 1200",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-cb4a2b75f3add1aa",
+      "provider": "Arxiv",
+      "title": "Secure and secret cooperation in robotic swarms",
+      "url": "http://arxiv.org/abs/1904.09266v3",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Eduardo Castelló Ferrer",
+        "Thomas Hardjono",
+        "Alex 'Sandy' Pentland",
+        "Marco Dorigo"
+      ],
+      "venue": "arXiv",
+      "summary": "The importance of swarm robotics systems in both academic research and real-world applications is steadily increasing. However, to reach widespread adoption, new models that ensure the secure cooperation of large groups of robots need to be developed. This work introduces a novel method to encapsulate cooperative robotic missions in an authenticated data structure known as Merkle tree. With this method, operators can provide the \"blueprint\" of the swarm's mission without disclosing its raw data. In other words, data verification can be separated from data itself. We propose a system where robo..."
+    },
+    {
+      "source_id": "Arxiv-861da6473aabf424",
+      "provider": "Arxiv",
+      "title": "Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials",
+      "url": "http://arxiv.org/abs/2411.00554v3",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Xintong Yang",
+        "Ze Ji",
+        "Yu-Kun Lai"
+      ],
+      "venue": "arXiv",
+      "summary": "Robotic manipulation of volumetric elastoplastic deformable materials, from foods such as dough to construction materials like clay, is in its infancy, largely due to the difficulty of modelling and perception in a high-dimensional space. Simulating the dynamics of such materials is computationally expensive. It tends to suffer from inaccurately estimated physics parameters of the materials and the environment, impeding high-precision manipulation. Estimating such parameters from raw point clouds captured by optical cameras suffers further from heavy occlusions. To address this challenge, this..."
+    },
+    {
+      "source_id": "OpenAlex-1f1affbf2dd9a6a4",
+      "provider": "OpenAlex",
+      "title": "Advances in High-Performance Ceramic Materials for Aerospace and Defence Applications: A State-of-the-Art Review",
+      "url": "https://doi.org/10.3390/ceramics9040039",
+      "doi": "https://doi.org/10.3390/ceramics9040039",
+      "year": 2026,
+      "authors": [
+        "Alfredo Aguilar-Elguezabal",
+        "A. Reyes-Rojas",
+        "Hilda Esperanza Esparza-Ponce",
+        "Daniel Lardizábal-Gutiérrez",
+        "Miguel Humberto Bocanegra-Bernal"
+      ],
+      "venue": "Ceramics",
+      "summary": "Ceramic materials are indispensable to aerospace and defence technologies, where structural and functional components are required to withstand extreme thermal, mechanical, and chemically aggressive environments. Traditionally valued for their exceptional thermal stability, oxidation resistance, and corrosion resistance, ceramics have nonetheless been constrained by their inherent brittleness, which has limited their widespread adoption in load-bearing structural applications. This review surveys the principal tough ceramic systems currently employed in aerospace and defence, including SiC, Al..."
+    },
+    {
+      "source_id": "Crossref-aa72a009dcd3d567",
+      "provider": "Crossref",
+      "title": "Spark Plasma Heat Treated ZrB&lt;sub&gt;2&lt;/sub&gt;-SiC and HfB&lt;sub&gt;2&lt;/sub&gt;-SiC Composites",
+      "url": "https://doi.org/10.4028/www.scientific.net/msf.783-786.1176",
+      "doi": "10.4028/www.scientific.net/msf.783-786.1176",
+      "year": 2014,
+      "authors": [
+        "Naidu Seetala",
+        "Marquavious T. Webb"
+      ],
+      "venue": "Materials Science Forum",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-c00ff8a42b4c8016",
+      "provider": "Crossref",
+      "title": "Thermal Conductivity of ZrB<sub>2</sub>and HfB<sub>2</sub>",
+      "url": "https://doi.org/10.1002/9781118700853.ch9",
+      "doi": "10.1002/9781118700853.ch9",
+      "year": 2014,
+      "authors": [
+        "Gregory J. K. Harrington",
+        "Greg E. Hilmas"
+      ],
+      "venue": "Ultra‐High Temperature Ceramics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-a9dd101cb3385300",
+      "provider": "Crossref",
+      "title": "Electron-phonon interaction and superconducting behaviour of ZrB and HfB: A first principle study",
+      "url": "https://doi.org/10.1088/1757-899x/310/1/012023",
+      "doi": "10.1088/1757-899x/310/1/012023",
+      "year": 2018,
+      "authors": [
+        "D Shrivastava",
+        "H Pawar",
+        "N Acharya",
+        "S P Sanyal"
+      ],
+      "venue": "IOP Conference Series: Materials Science and Engineering",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781098206-MaterialsScience-followup-1780985247-70eb1fb5700c.json"
+}

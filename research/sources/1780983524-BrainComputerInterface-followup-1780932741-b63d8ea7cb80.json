@@ -1,0 +1,143 @@
+{
+  "timestamp_secs": 1780983524,
+  "task_id": "followup-1780932741-b63d8ea7cb80",
+  "domain": "BrainComputerInterface",
+  "question": "Can real‑time passive cognitive‑load estimation (e.g., ERP or fNIRS) be used to dynamically adjust the AI’s interaction complexity to maintain BCI reliability below a critical interference threshold?",
+  "query": "brain computer interface human AI cooperation risks real time passive cognitive load estimation fnirs used dynamically",
+  "sources": [
+    {
+      "source_id": "Arxiv-6c9985ba8e2d2418",
+      "provider": "Arxiv",
+      "title": "Cognitive Amplification vs Cognitive Delegation in Human-AI Systems: A Metric Framework",
+      "url": "http://arxiv.org/abs/2603.18677v2",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Eduardo Di Santi"
+      ],
+      "venue": "arXiv",
+      "summary": "Artificial intelligence is increasingly embedded in human decision making. In some cases, it enhances human reasoning. In others, it fosters excessive cognitive dependence. This paper introduces a conceptual and mathematical framework to distinguish cognitive amplification, where AI improves hybrid human AI performance while preserving human expertise, from cognitive delegation, where reasoning is progressively outsourced to the AI system, risking long term atrophy of human capabilities. We define four operational metrics: the Cognitive Amplification Index, or CAI star, which measures collabor..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "OpenAlex-7fd7b9ad9cffb37d",
+      "provider": "OpenAlex",
+      "title": "Control strategies for active lower extremity prosthetics and orthotics: a review",
+      "url": "https://doi.org/10.1186/1743-0003-12-1",
+      "doi": "https://doi.org/10.1186/1743-0003-12-1",
+      "year": 2015,
+      "authors": [
+        "Michael R. Tucker",
+        "Jérémy Olivier",
+        "Anna Pagel",
+        "Hannes Bleuler",
+        "Mohamed Bouri",
+        "Olivier Lambercy",
+        "José del R. Millán",
+        "Robert Riener"
+      ],
+      "venue": "Journal of NeuroEngineering and Rehabilitation",
+      "summary": ": Technological advancements have led to the development of numerous wearable robotic devices for the physical assistance and restoration of human locomotion. While many challenges remain with respect to the mechanical design of such devices, it is at least equally challenging and important to develop strategies to control them in concert with the intentions of the user.This work reviews the state-of-the-art techniques for controlling portable active lower limb prosthetic and orthotic (P/O) devices in the context of locomotive activities of daily living (ADL), and considers how these can be in..."
+    },
+    {
+      "source_id": "OpenAlex-262faacc668a4796",
+      "provider": "OpenAlex",
+      "title": "Electroencephalogram based brain-computer interface: Applications, challenges, and opportunities",
+      "url": "https://doi.org/10.1007/s11042-023-15653-x",
+      "doi": "https://doi.org/10.1007/s11042-023-15653-x",
+      "year": 2023,
+      "authors": [
+        "Hitesh Yadav",
+        "Surita Maini"
+      ],
+      "venue": "Multimedia Tools and Applications",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-0da872c9621f39d3",
+      "provider": "OpenAlex",
+      "title": "Virtual Reality Cognitive Gaming Based on Brain Computer Interfacing: A Narrative Review",
+      "url": "https://doi.org/10.1109/access.2023.3247133",
+      "doi": "https://doi.org/10.1109/access.2023.3247133",
+      "year": 2023,
+      "authors": [
+        "Marios Hadjiaros",
+        "Kleanthis Neokleous",
+        "Andria Shimi",
+        "Marios N. Avraamides",
+        "Constantinos S. Pattichis"
+      ],
+      "venue": "IEEE Access",
+      "summary": "The present article explores the most popular approaches and the best practices for the design and implementation of cognitive gaming interventions that combine Brain Computer Interface (BCI) systems with Virtual Reality (VR). We focus on interventions that target cognitive skills related to perception, visuospatial attention and visuospatial memory. To this purpose, we review the techniques and algorithms that are commonly used for data pre-processing, feature extraction, and classification in such interventions. We discuss issues related to BCI-VR Cognitive Gaming, including the BCI paradigm..."
+    },
+    {
+      "source_id": "Crossref-a97e72cae850cc82",
+      "provider": "Crossref",
+      "title": "Adaptive Interface Personalization through Real-Time Cognitive Load Detection",
+      "url": "https://doi.org/10.54216/jchci.110204",
+      "doi": "10.54216/jchci.110204",
+      "year": 2026,
+      "authors": [],
+      "venue": "Journal of Cognitive Human-Computer Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-952d979a0c83cfff",
+      "provider": "Crossref",
+      "title": "Real-time decoding for fNIRS-based Brain Computer Interface using adaptive Gaussian mixture model classifier and Kalman estimator",
+      "url": "https://doi.org/10.1109/acp.2018.8596271",
+      "doi": "10.1109/acp.2018.8596271",
+      "year": 2018,
+      "authors": [
+        "Yao Zhang",
+        "Bingyuan Wang",
+        "Feng Gao"
+      ],
+      "venue": "2018 Asia Communications and Photonics Conference (ACP)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-1f137fafb37ae2d8",
+      "provider": "Crossref",
+      "title": "Cognitive Load in Real-Time Strategy Gaming: Human Opponent Versus AI Opponent",
+      "url": "https://doi.org/10.1007/s40869-015-0002-z",
+      "doi": "10.1007/s40869-015-0002-z",
+      "year": 2015,
+      "authors": [
+        "Yang Chen",
+        "Jian Ou",
+        "David M. Whittinghill"
+      ],
+      "venue": "The Computer Games Journal",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780983524-BrainComputerInterface-followup-1780932741-b63d8ea7cb80.json"
+}

@@ -1,0 +1,154 @@
+{
+  "timestamp_secs": 1781105602,
+  "task_id": null,
+  "domain": "QuantumComputing",
+  "question": "fault tolerant quantum computing logical qubit milestones",
+  "query": "quantum computing milestones fault tolerant logical qubits fault tolerant quantum computing logical qubit milestones",
+  "sources": [
+    {
+      "source_id": "Arxiv-3e285785adc9414f",
+      "provider": "Arxiv",
+      "title": "An introduction to Fault-tolerant Quantum Computing",
+      "url": "http://arxiv.org/abs/1508.03695v1",
+      "doi": null,
+      "year": 2015,
+      "authors": [
+        "Alexandru Paler",
+        "Simon J. Devitt"
+      ],
+      "venue": "arXiv",
+      "summary": "In this paper we provide a basic introduction of the core ideas and theories surrounding fault-tolerant quantum computation. These concepts underly the theoretical framework of large-scale quantum computation and communications and are the driving force for many recent experimental efforts to construct small to medium sized arrays of controllable quantum bits. We examine the basic principals of redundant quantum encoding, required to protect quantum bits from errors generated from both imprecise control and environmental interactions and then examine the principals of fault-tolerance from larg..."
+    },
+    {
+      "source_id": "Arxiv-aeddefb05409aa71",
+      "provider": "Arxiv",
+      "title": "Fault-tolerant quantum computation with constant overhead for general noise",
+      "url": "http://arxiv.org/abs/2512.02760v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Matthias Christandl",
+        "Omar Fawzi",
+        "Ashutosh Goswami"
+      ],
+      "venue": "arXiv",
+      "summary": "Fault-tolerant quantum computation traditionally incurs substantial resource overhead, with both qubit and time overheads scaling polylogarithmically with the size of the computation. While prior work by Gottesman showed that constant qubit overhead is achievable under stochastic noise using quantum low-density parity-check (QLDPC) codes, it has remained an open question whether similar guarantees hold under more general, non-stochastic noise models. In this work, we address this question by considering a general circuit-level noise model defined via the diamond norm, which captures both stoch..."
+    },
+    {
+      "source_id": "Arxiv-18e0fae8a1ee2dbd",
+      "provider": "Arxiv",
+      "title": "Fault-tolerant quantum error detection",
+      "url": "http://arxiv.org/abs/1611.06946v2",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "N. M. Linke",
+        "M. Gutierrez",
+        "K. A. Landsman",
+        "C. Figgatt",
+        "S. Debnath",
+        "K. R. Brown",
+        "C. Monroe"
+      ],
+      "venue": "arXiv",
+      "summary": "Quantum computers will eventually reach a size at which quantum error correction becomes imperative. Quantum information can be protected from qubit imperfections and flawed control operations by encoding a single logical qubit in multiple physical qubits. This redundancy allows the extraction of error syndromes and the subsequent detection or correction of errors without destroying the logical state itself through direct measurement. Here we show the encoding and syndrome measurement of a fault-tolerant logical qubit via an error detection protocol on four physical qubits, represented by trap..."
+    },
+    {
+      "source_id": "OpenAlex-c77ba473bd268a9b",
+      "provider": "OpenAlex",
+      "title": "Quantum Computing in the NISQ era and beyond",
+      "url": "https://doi.org/10.22331/q-2018-08-06-79",
+      "doi": "https://doi.org/10.22331/q-2018-08-06-79",
+      "year": 2018,
+      "authors": [
+        "John Preskill"
+      ],
+      "venue": "Quantum",
+      "summary": "Noisy Intermediate-Scale Quantum (NISQ) technology will be available in the near future. Quantum computers with 50-100 qubits may be able to perform tasks which surpass the capabilities of today's classical digital computers, but noise in quantum gates will limit the size of quantum circuits that can be executed reliably. NISQ devices will be useful tools for exploring many-body quantum physics, and may have other useful applications, but the 100-qubit quantum computer will not change the world right away - we should regard it as a significant step toward the more powerful quantum technologies..."
+    },
+    {
+      "source_id": "OpenAlex-71e8025b8d542a4c",
+      "provider": "OpenAlex",
+      "title": "Quantum supremacy using a programmable superconducting processor",
+      "url": "https://doi.org/10.1038/s41586-019-1666-5",
+      "doi": "https://doi.org/10.1038/s41586-019-1666-5",
+      "year": 2019,
+      "authors": [
+        "Frank Arute",
+        "Kunal Arya",
+        "Ryan Babbush",
+        "Dave Bacon",
+        "Joseph C. Bardin",
+        "Rami Barends",
+        "Rupak Biswas",
+        "Sergio Boixo"
+      ],
+      "venue": "Nature",
+      "summary": "The promise of quantum computers is that certain computational tasks might be executed exponentially faster on a quantum processor than on a classical processor1. A fundamental challenge is to build a high-fidelity processor capable of running quantum algorithms in an exponentially large computational space. Here we report the use of a processor with programmable superconducting qubits2–7 to create quantum states on 53 qubits, corresponding to a computational state-space of dimension 253 (about 1016). Measurements from repeated experiments sample the resulting probability distribution, which w..."
+    },
+    {
+      "source_id": "OpenAlex-a4750862fef87aa6",
+      "provider": "OpenAlex",
+      "title": "Logical quantum processor based on reconfigurable atom arrays",
+      "url": "https://doi.org/10.1038/s41586-023-06927-3",
+      "doi": "https://doi.org/10.1038/s41586-023-06927-3",
+      "year": 2023,
+      "authors": [
+        "Dolev Bluvstein",
+        "Simon J. Evered",
+        "Alexandra A. Geim",
+        "Sophie H. Li",
+        "Hengyun Zhou",
+        "Tom Manovitz",
+        "Sepehr Ebadi",
+        "Madelyn Cain"
+      ],
+      "venue": "Nature",
+      "summary": "Abstract Suppressing errors is the central challenge for useful quantum computing 1 , requiring quantum error correction (QEC) 2–6 for large-scale processing. However, the overhead in the realization of error-corrected ‘logical’ qubits, in which information is encoded across many physical qubits for redundancy 2–4 , poses substantial challenges to large-scale logical quantum computing. Here we report the realization of a programmable quantum processor based on encoded logical qubits operating with up to 280 physical qubits. Using logical-level control and a zoned architecture in reconfigurable..."
+    },
+    {
+      "source_id": "Crossref-5a6716c8e6e947ba",
+      "provider": "Crossref",
+      "title": "The Decade of Fault-Tolerant Quantum Computing: From Threshold Crossing to Scalable Logical Qubits",
+      "url": "https://doi.org/10.20944/preprints202509.2238.v1",
+      "doi": "10.20944/preprints202509.2238.v1",
+      "year": 2025,
+      "authors": [
+        "Volkan Erol"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-44a2f268f20df1fb",
+      "provider": "Crossref",
+      "title": "Remote Operation-Aware Logical Qubit Allocation in Fault Tolerant Distributed Quantum Computing",
+      "url": "https://doi.org/10.1109/qce65121.2025.10422",
+      "doi": "10.1109/qce65121.2025.10422",
+      "year": 2025,
+      "authors": [
+        "Daisuke Sakuma",
+        "Yuta Imahoko",
+        "Michal Hajdušek",
+        "Rodney Van Meter",
+        "Shota Nagayama"
+      ],
+      "venue": "2025 IEEE International Conference on Quantum Computing and Engineering (QCE)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-f6f9d16d29e92e4e",
+      "provider": "Crossref",
+      "title": "Fault-Tolerant Quantum Computing",
+      "url": "https://doi.org/10.1201/b15868-6",
+      "doi": "10.1201/b15868-6",
+      "year": 2008,
+      "authors": [],
+      "venue": "Quantum Error Correction and Fault Tolerant Quantum Computing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781105602-QuantumComputing-ad-hoc.json"
+}

@@ -1,0 +1,52 @@
+{
+  "timestamp_secs": 1781181906,
+  "task_id": "followup-1781083116-4da6c5f2afad",
+  "domain": "Aerospace",
+  "question": "Have any follow-up papers or theses cited arXiv:1610.05521v1, and if so, do they include independent implementation attempts or comparative results on the same or similar defect specimens?",
+  "query": "aerospace civilization resilience deep space capability follow papers theses cited arxiv 1610 05521v1 they include",
+  "sources": [
+    {
+      "source_id": "Crossref-7516b65aade2dd85",
+      "provider": "Crossref",
+      "title": "List Of Cited Papers, Theses Etc",
+      "url": "https://doi.org/10.1515/9783110617368-014",
+      "doi": "10.1515/9783110617368-014",
+      "year": 2019,
+      "authors": [],
+      "venue": "Algebraic Graph Theory",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-7bf9eec00867dcd5",
+      "provider": "Crossref",
+      "title": "NTRS searches include arXiv but users seldom bite",
+      "url": "https://doi.org/10.63485/m0v0t-kws72",
+      "doi": "10.63485/m0v0t-kws72",
+      "year": 2005,
+      "authors": [
+        "Peter Suber"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-3eafd75357ea2582",
+      "provider": "Crossref",
+      "title": "OSMANLI HAKİMİYYƏTİ DÖVRÜNDƏ SALMAS BÖLGƏSİ (Osmanlı arxiv sənədləri əsasında)",
+      "url": "https://doi.org/10.30546/25194011.2025.14.5.3039",
+      "doi": "10.30546/25194011.2025.14.5.3039",
+      "year": 2026,
+      "authors": [],
+      "venue": "Civilization",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "error sending request for url (https://export.arxiv.org/api/query?search_query=all%3Aaerospace+civilization+resilience+deep+space+capability+follow+papers+theses+cited+arxiv+1610+05521v1+they+include&start=0&max_results=3&sortBy=relevance&s..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781181906-Aerospace-followup-1781083116-4da6c5f2afad.json"
+}

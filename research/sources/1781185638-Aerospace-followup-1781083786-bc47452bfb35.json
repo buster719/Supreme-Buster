@@ -1,0 +1,132 @@
+{
+  "timestamp_secs": 1781185638,
+  "task_id": "followup-1781083786-bc47452bfb35",
+  "domain": "Aerospace",
+  "question": "Has the surge in supply-chain-resilience modeling (post-COVID) produced any arXiv preprints that explicitly frame aerospace or space-mission supply chains as their domain, rather than generic manufacturing?",
+  "query": "aerospace civilization resilience deep space capability surge supply chain resilience modeling post covid produced arxiv",
+  "sources": [
+    {
+      "source_id": "Arxiv-4ab38cdff5a08a0f",
+      "provider": "Arxiv",
+      "title": "The Vaccine Supply Chain: A Call for Resilience Analytics to Support COVID-19 Vaccine Production and Distribution",
+      "url": "http://arxiv.org/abs/2011.14231v1",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Maureen S. Golan",
+        "Benjamin D. Trump",
+        "Jeffrey C. Cegan",
+        "Igor Linkov"
+      ],
+      "venue": "arXiv",
+      "summary": "The COVID19 pandemic has highlighted the lack of resilience in supply chains, as global networks fail from disruptions at single nodes and connections. Through an overview of the existing vaccine and pharmaceutical supply chain publications focusing on resilience, as well as recent papers reporting modeling of resilience in supply chains across multiple fields, we find that models for supply chain resilience are few and most of them are focused on individual dimensions of resilience rather than on comprehensive strategy necessary for scaling up vaccine production and distribution in emergency ..."
+    },
+    {
+      "source_id": "Arxiv-978539ee49e97667",
+      "provider": "Arxiv",
+      "title": "A Review of Urban Resilience Frameworks: Transferring Knowledge to Enhance Pandemic Resilience",
+      "url": "http://arxiv.org/abs/2503.17371v2",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Yue Sun",
+        "Ryan Weightman",
+        "Anye Shi",
+        "Timur Dogan",
+        "Samitha Samaranayake"
+      ],
+      "venue": "arXiv",
+      "summary": "Urbanization is rapidly increasing, with urban populations expected to grow significantly by 2050, particularly in developing regions. This expansion brings challenges related to chronic stresses and acute shocks, such as the COVID-19 pandemic, which has underscored the critical role of urban form in a city's capacity to manage public health crises. Despite the heightened interest in urban resilience, research examining the relationship between urban morphology and pandemic resilience remains limited, often focusing solely on density and its effect on disease transmission. This work aims to ad..."
+    },
+    {
+      "source_id": "Arxiv-b1b52176c1a6abad",
+      "provider": "Arxiv",
+      "title": "Exploitation of material consolidation trade-offs in multi-tier complex supply networks",
+      "url": "http://arxiv.org/abs/2210.11479v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Vinod Kumar Chauhan",
+        "Muhannad Alomari",
+        "James Arney",
+        "Ajith Kumar Parlikad",
+        "Alexandra Brintrup"
+      ],
+      "venue": "arXiv",
+      "summary": "While consolidation strategies form the backbone of many supply chain optimisation problems, exploitation of multi-tier material relationships through consolidation remains an understudied area, despite being a prominent feature of industries that produce complex made-to-order products. In this paper, we propose an optimisation framework for exploiting multi-to-multi relationship between tiers of a supply chain. The resulting formulation is flexible such that quantity discounts, inventory holding, and transport costs can be included. The framework introduces a new trade-off between tiers, lead..."
+    },
+    {
+      "source_id": "OpenAlex-9053f9410fc2b958",
+      "provider": "OpenAlex",
+      "title": "ISSUE 29 ACTUAL ISSUES OF MODERN SCIENCE",
+      "url": "https://doi.org/10.47451/col-029-2024",
+      "doi": "https://doi.org/10.47451/col-029-2024",
+      "year": 2021,
+      "authors": [
+        "Buychik, Alexander",
+        "Bakhtin, Maksim",
+        "Tomanek, Anisiia"
+      ],
+      "venue": "European Scientific e-Journal",
+      "summary": "This paper devoted to overview impact of quantum computing to modern cryptography and to analyze possible trends of cryptography development in the next years.Quantum computing became more popular these days and performance obtained using quantum computers promises to be extremely high.This trend causes to the security risks of current cryptographic algorithms usage without sufficient feasibility and analysis.It means that extremely high performance of quantum computers will be able to break some of existing cryptographic algorithm and produce the risk in security at all.To avoid such situatio..."
+    },
+    {
+      "source_id": "OpenAlex-5b3f35832bf8ef90",
+      "provider": "OpenAlex",
+      "title": "AI Revolution and Warfare: A New Paradigm Shifts in Defence Procurement, Restructuring, Training, and Recruitment",
+      "url": "https://doi.org/10.1111/capa.70063",
+      "doi": "https://doi.org/10.1111/capa.70063",
+      "year": 2026,
+      "authors": [
+        "Ehsan Jozaghi"
+      ],
+      "venue": "Canadian Public Administration",
+      "summary": "Abstract The war in Ukraine and Israel's successful operations have demonstrated the apparent shift in military operations, strategic defence spending, and innovations. Drawing parallels to the industrial revolution and how it slowly transferred military procurement, training, and deployment, the current study also highlights the AI revolution and the rapid transformation needed to ensure nations have the resources, training, procurement, and planning to guarantee deterrence. It is ultimately argued that many nations' future success in deterring the new asymmetrical warfare is directly tied to..."
+    },
+    {
+      "source_id": "Crossref-07ebe6a1395f5763",
+      "provider": "Crossref",
+      "title": "An Exploration of Resilience in Medical Gloves Supply Chain During COVID-19 Pandemic",
+      "url": "https://doi.org/10.1007/978-3-031-16489-7_3",
+      "doi": "10.1007/978-3-031-16489-7_3",
+      "year": 2023,
+      "authors": [
+        "Osaro Aigbogun"
+      ],
+      "venue": "Springer Series in Supply Chain Management",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6edc59cdb254be63",
+      "provider": "Crossref",
+      "title": "From Crisis to Recovery: The Evolution of AI Adoption, Networking Capability, and Supply Chain Resilience in Korean Firms During the Peri- and Post-COVID Periods",
+      "url": "https://doi.org/10.16980/jitc.21.6.202512.21",
+      "doi": "10.16980/jitc.21.6.202512.21",
+      "year": 2025,
+      "authors": [
+        "The Korea International Trade Research Institute",
+        "Charles Arthur Robb Charles Arthur Robb",
+        "Minhyo Kang Minhyo Kang"
+      ],
+      "venue": "Korea International Trade Research Institute",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-a74a5dd4356edfed",
+      "provider": "Crossref",
+      "title": "Impacts and Supply Chain Resilience Strategies to Cope with COVID-19 Pandemic: A Literature Review",
+      "url": "https://doi.org/10.1007/978-3-031-16489-7_1",
+      "doi": "10.1007/978-3-031-16489-7_1",
+      "year": 2023,
+      "authors": [
+        "Roberta Pellegrino",
+        "Barbara Gaudenzi"
+      ],
+      "venue": "Springer Series in Supply Chain Management",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781185638-Aerospace-followup-1781083786-bc47452bfb35.json"
+}

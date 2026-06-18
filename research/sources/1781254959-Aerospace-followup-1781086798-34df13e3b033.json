@@ -1,0 +1,61 @@
+{
+  "timestamp_secs": 1781254959,
+  "task_id": "followup-1781086798-34df13e3b033",
+  "domain": "Aerospace",
+  "question": "What redundancy and recovery‑algorithm strategies (e.g., triple‑modular redundancy, checkpoint‑rollback) are empirically known to fail or degrade above a certain TID or SEE rate in similar environments?",
+  "query": "aerospace civilization resilience deep space capability redundancy recovery algorithm strategies triple modular checkpoint rollback empirically",
+  "sources": [
+    {
+      "source_id": "Arxiv-f48e249203b45dde",
+      "provider": "Arxiv",
+      "title": "Elzar: Triple Modular Redundancy using Intel Advanced Vector Extensions (technical report)",
+      "url": "http://arxiv.org/abs/1604.00500v2",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Dmitrii Kuvaiskii",
+        "Oleksii Oleksenko",
+        "Pramod Bhatotia",
+        "Pascal Felber",
+        "Christof Fetzer"
+      ],
+      "venue": "arXiv",
+      "summary": "Instruction-Level Redundancy (ILR) is a well-known approach to tolerate transient CPU faults. It replicates instructions in a program and inserts periodic checks to detect and correct CPU faults using majority voting, which essentially requires three copies of each instruction and leads to high performance overheads. As SIMD technology can operate simultaneously on several copies of the data, it appears to be a good candidate for decreasing these overheads. To verify this hypothesis, we propose Elzar, a compiler framework that transforms unmodified multithreaded applications to support triple ..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-b6ccc71aacd8a7c1",
+      "provider": "Arxiv",
+      "title": "From Reversible Computation to Checkpoint-Based Rollback Recovery for Message-Passing Concurrent Programs",
+      "url": "http://arxiv.org/abs/2309.04873v3",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Germán Vidal"
+      ],
+      "venue": "arXiv",
+      "summary": "The reliability of concurrent and distributed systems often depends on some well-known techniques for fault tolerance. One such technique is based on checkpointing and rollback recovery. Checkpointing involves processes to take snapshots of their current states regularly, so that a rollback recovery strategy is able to bring the system back to a previous consistent state whenever a failure occurs. In this paper, we consider a message-passing concurrent programming language and propose a novel rollback recovery strategy that is based on some explicit checkpointing operators and the use of a (pa..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 781; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":2360,\"items\":[{\"DOI\":\"10.1109\\/aero.2006.1656..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781254959-Aerospace-followup-1781086798-34df13e3b033.json"
+}

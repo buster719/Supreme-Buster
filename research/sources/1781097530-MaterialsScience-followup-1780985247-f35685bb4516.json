@@ -1,0 +1,147 @@
+{
+  "timestamp_secs": 1781097530,
+  "task_id": "followup-1780985247-f35685bb4516",
+  "domain": "MaterialsScience",
+  "question": "– Are there any published in‑situ or post‑thermal‑cycling mechanical tests (e.g., 4‑point bend after cycling) that explicitly report crack closure and recovered fracture toughness for additively manufactured UHTCs?",
+  "query": "materials science fusion robotics aerospace computation there published situ post thermal cycling mechanical tests point",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-cb4a2b75f3add1aa",
+      "provider": "Arxiv",
+      "title": "Secure and secret cooperation in robotic swarms",
+      "url": "http://arxiv.org/abs/1904.09266v3",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Eduardo Castelló Ferrer",
+        "Thomas Hardjono",
+        "Alex 'Sandy' Pentland",
+        "Marco Dorigo"
+      ],
+      "venue": "arXiv",
+      "summary": "The importance of swarm robotics systems in both academic research and real-world applications is steadily increasing. However, to reach widespread adoption, new models that ensure the secure cooperation of large groups of robots need to be developed. This work introduces a novel method to encapsulate cooperative robotic missions in an authenticated data structure known as Merkle tree. With this method, operators can provide the \"blueprint\" of the swarm's mission without disclosing its raw data. In other words, data verification can be separated from data itself. We propose a system where robo..."
+    },
+    {
+      "source_id": "Arxiv-861da6473aabf424",
+      "provider": "Arxiv",
+      "title": "Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials",
+      "url": "http://arxiv.org/abs/2411.00554v3",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Xintong Yang",
+        "Ze Ji",
+        "Yu-Kun Lai"
+      ],
+      "venue": "arXiv",
+      "summary": "Robotic manipulation of volumetric elastoplastic deformable materials, from foods such as dough to construction materials like clay, is in its infancy, largely due to the difficulty of modelling and perception in a high-dimensional space. Simulating the dynamics of such materials is computationally expensive. It tends to suffer from inaccurately estimated physics parameters of the materials and the environment, impeding high-precision manipulation. Estimating such parameters from raw point clouds captured by optical cameras suffers further from heavy occlusions. To address this challenge, this..."
+    },
+    {
+      "source_id": "OpenAlex-7811208bf51c16ac",
+      "provider": "OpenAlex",
+      "title": "Metal additive manufacturing in aerospace: A review",
+      "url": "https://doi.org/10.1016/j.matdes.2021.110008",
+      "doi": "https://doi.org/10.1016/j.matdes.2021.110008",
+      "year": 2021,
+      "authors": [
+        "Byron Blakey-Milner",
+        "Paul Gradl",
+        "Glen Snedden",
+        "Michael J. Brooks",
+        "Jean Pitot",
+        "Elena López",
+        "Martin Leary",
+        "Filippo Berto"
+      ],
+      "venue": "Materials & Design",
+      "summary": "Metal additive manufacturing involves manufacturing techniques that add material to produce metallic components, typically layer by layer. The substantial growth in this technology is partly driven by its opportunity for commercial and performance benefits in the aerospace industry. The fundamental opportunities for metal additive manufacturing in aerospace applications include: significant cost and lead-time reductions, novel materials and unique design solutions, mass reduction of components through highly efficient and lightweight designs, and consolidation of multiple components for perfor..."
+    },
+    {
+      "source_id": "OpenAlex-d8a9effca3414945",
+      "provider": "OpenAlex",
+      "title": "Recent Progress on Polymer Materials for Additive Manufacturing",
+      "url": "https://doi.org/10.1002/adfm.202003062",
+      "doi": "https://doi.org/10.1002/adfm.202003062",
+      "year": 2020,
+      "authors": [
+        "Lisa Jiaying Tan",
+        "Wei Zhu",
+        "Kun Zhou"
+      ],
+      "venue": "Advanced Functional Materials",
+      "summary": "Abstract Additive manufacturing (AM) is the process of printing 3D objects in a layer‐by‐layer manner. Polymers and their composites are some of the most widely used materials in modern industries and are of great interest in the field of AM due to their vast potential for various applications, especially in the medical, aerospace, and automotive industries. Many studies have been conducted to develop new polymer materials for AM techniques, which include vat photopolymerization, material jetting, powder bed fusion, material extrusion, binder jetting, and sheet lamination. Although several rev..."
+    },
+    {
+      "source_id": "OpenAlex-9b97051ec183a85b",
+      "provider": "OpenAlex",
+      "title": "Joining of dissimilar materials",
+      "url": "https://doi.org/10.1016/j.cirp.2015.05.006",
+      "doi": "https://doi.org/10.1016/j.cirp.2015.05.006",
+      "year": 2015,
+      "authors": [
+        "Kristian Martinsen",
+        "S. Jack Hu",
+        "Blair E. Carlson"
+      ],
+      "venue": "CIRP Annals",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-0c16cf230a5d0cec",
+      "provider": "Crossref",
+      "title": "Boundary Conditions for Aerospace Thermal-Structural Tests",
+      "url": "https://doi.org/10.2514/5.9781600866364.0119.0144",
+      "doi": "10.2514/5.9781600866364.0119.0144",
+      "year": 1995,
+      "authors": [],
+      "venue": "Aerospace Thermal Structures and Materials for a New Era",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-77e3812853668140",
+      "provider": "Crossref",
+      "title": "Analysis of the results of thermal cycic tests using TC-maps and problems of investigating thermal fatigue of materials",
+      "url": "https://doi.org/10.18287/1998-6629-2014-0-5-3(47)-26-34",
+      "doi": "10.18287/1998-6629-2014-0-5-3(47)-26-34",
+      "year": 2014,
+      "authors": [
+        "E. A. Tikhomirova",
+        "E. F. Sidokhin"
+      ],
+      "venue": "VESTNIK of Samara University. Aerospace and Mechanical Engineering",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-1f5fdbfc8f11c2b6",
+      "provider": "Crossref",
+      "title": "Thermal Cycling and Hot-Corrosion Behavior of Plasma Sprayed Segmented Thermal Barrier Coatings",
+      "url": "https://doi.org/10.4028/0-87849-432-4.1713",
+      "doi": "10.4028/0-87849-432-4.1713",
+      "year": 2007,
+      "authors": [
+        "Hong Bo Guo",
+        "Hideyuki Murakami",
+        "Seiji Kuroda"
+      ],
+      "venue": "Materials Science Forum",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781097530-MaterialsScience-followup-1780985247-f35685bb4516.json"
+}

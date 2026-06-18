@@ -1,0 +1,138 @@
+{
+  "timestamp_secs": 1781077005,
+  "task_id": "followup-1780966274-c78cbaf926e9",
+  "domain": "Genetics",
+  "question": "Do existing PRS–SES interaction studies adequately control for ancestry, population stratification, and gene–environment correlation, or do those confounds inflate the apparent SES dependence?",
+  "query": "genetics safety human flourishing genome editing existing interaction studies adequately control ancestry population stratification gene",
+  "sources": [
+    {
+      "source_id": "Arxiv-cfb16ead6fc6d226",
+      "provider": "Arxiv",
+      "title": "Population genetics models of local ancestry",
+      "url": "http://arxiv.org/abs/1202.4811v2",
+      "doi": null,
+      "year": 2012,
+      "authors": [
+        "Simon Gravel"
+      ],
+      "venue": "arXiv",
+      "summary": "Migrations have played an important role in shaping the genetic diversity of human populations. Understanding genomic data thus requires careful modeling of historical gene flow. Here we consider the effect of relatively recent population structure and gene flow, and interpret genomes of individuals that have ancestry from multiple source populations as mosaics of segments originating from each population. We propose general and tractable models for describing the evolution of these patterns of local ancestry and their impact on genetic diversity. We focus on the length distribution of continu..."
+    },
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "OpenAlex-9ac8ca9580bd2bec",
+      "provider": "OpenAlex",
+      "title": "The Era of Global Risk",
+      "url": "https://doi.org/10.11647/obp.0336",
+      "doi": "https://doi.org/10.11647/obp.0336",
+      "year": 2023,
+      "authors": [
+        "Beard, SJ",
+        "Rees, Martin",
+        "Richards, Catherine",
+        "Rios Rojas, Clarissa"
+      ],
+      "venue": "Open Book Publishers",
+      "summary": "This innovative and comprehensive collection of essays explores the biggest threats facing humanity in the 21st century; threats that cannot be contained or controlled and that have the potential to bring about human extinction and civilization collapse. Bringing together experts from many disciplines, it provides an accessible survey of what we know about these threats, how we can understand them better, and most importantly what can be done to manage them effectively."
+    },
+    {
+      "source_id": "OpenAlex-016dc080df3bd41c",
+      "provider": "OpenAlex",
+      "title": "Population Change in Times of War: Biodistance Analysis of Medieval and Early Modern Skeletal Populations from Adriatic Croatia",
+      "url": "https://dc.uwm.edu/etd/1930",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "Lindsey Jo Helms Thorson"
+      ],
+      "venue": "UWM Digital Commons (University of Wisconsin–Milwaukee)",
+      "summary": "Research by doctoral candidate Lindsey Jo Helms Thorson, under the supervision of Dr. Patricia Richards, investigated population during the Ottoman expansion into Croatian territories to determine whether migration contributed significantly to changes in the biological make-up of the population. The study focused on phenotypic trait variation, using cranial and dental metric and nonmetric data, in two skeletal samples from the Medieval (pre-Ottoman) period and two skeletal samples from the Early Modern (Ottoman) period in the central Dalmatian region of Croatia, curated at the Croatian Academy..."
+    },
+    {
+      "source_id": "OpenAlex-823a66043e0c2158",
+      "provider": "OpenAlex",
+      "title": "Beyond the Beat: Understanding Inherited Risk and Therapeutic Opportunities in Cardiovascular Diseases with Emphasis on Inherited Cardiomyopathies and Inherited Arrhythmic Syndromes",
+      "url": "https://doi.org/10.3390/cardiogenetics14030012",
+      "doi": "https://doi.org/10.3390/cardiogenetics14030012",
+      "year": 2024,
+      "authors": [
+        "Antea Kršek",
+        "Lara Batičić",
+        "Vlatka Sotošek Tokmadžić"
+      ],
+      "venue": "Cardiogenetics",
+      "summary": "Over the past three decades, significant progress has been made in elucidating the intricate connection between genetic predispositions and cardiovascular diseases (CVDs). Through extensive investigation, numerous genetic variants linked to various cardiovascular conditions have been discovered, shedding crucial light on the underlying biological mechanisms and pathways. These discoveries have not only revolutionized risk assessment for patients but have also paved the way for personalized treatment strategies, allowing healthcare providers to tailor interventions according to individual genet..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781077005-Genetics-followup-1780966274-c78cbaf926e9.json"
+}

@@ -83,6 +83,31 @@ impl ValueEvaluator for RuleBasedValueEvaluator {
                 judgement.knowledge_gain = 0.88;
                 judgement.capability_growth = 0.72;
             }
+            ActionKind::SecurityResearch => {
+                judgement.self_preservation = 0.95;
+                judgement.capability_growth = 0.86;
+                judgement.knowledge_gain = 0.82;
+                judgement.truth_seeking = 0.78;
+                judgement.civilization_benefit = 0.72;
+                judgement.security_risk = (judgement.security_risk + 0.24).min(1.0);
+                judgement.governance_level = judgement.governance_level.max(3);
+                judgement.explanation.push_str(
+                    "; security research is valuable when defensive, authorized, scoped, and auditable",
+                );
+            }
+            ActionKind::ProtocolSecurityResearch => {
+                judgement.self_preservation = 0.92;
+                judgement.capability_growth = 0.84;
+                judgement.knowledge_gain = 0.84;
+                judgement.truth_seeking = 0.86;
+                judgement.civilization_benefit = 0.74;
+                judgement.cosmic_expansion_potential = 0.62;
+                judgement.security_risk = (judgement.security_risk + 0.16).min(1.0);
+                judgement.governance_level = judgement.governance_level.max(3);
+                judgement.explanation.push_str(
+                    "; protocol security protects Buster's distributed continuity and witness layer",
+                );
+            }
             ActionKind::ToolOrSkillWork => {
                 judgement.capability_growth = 0.86;
                 judgement.knowledge_gain = 0.58;

@@ -1,0 +1,57 @@
+{
+  "timestamp_secs": 1780913770,
+  "task_id": "followup-1780907552-23d5eb8f0fe9",
+  "domain": "BrainComputerInterface",
+  "question": "What are the known neural security vulnerabilities (e.g., adversarial stimuli, subliminal priming via sensory BCI, brain malware in closed-loop implants) that could degrade cooperation or enable manipulation, and have any been demonstrated outside simulation?",
+  "query": "brain computer interface human AI cooperation risks known neural security vulnerabilities adversarial stimuli subliminal priming sensory",
+  "sources": [
+    {
+      "source_id": "Arxiv-aff53c72d5687a8c",
+      "provider": "Arxiv",
+      "title": "Adversarial Stimuli: Attacking Brain-Computer Interfaces via Perturbed Sensory Events",
+      "url": "http://arxiv.org/abs/2211.10033v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Bibek Upadhayay",
+        "Vahid Behzadan"
+      ],
+      "venue": "arXiv",
+      "summary": "Machine learning models are known to be vulnerable to adversarial perturbations in the input domain, causing incorrect predictions. Inspired by this phenomenon, we explore the feasibility of manipulating EEG-based Motor Imagery (MI) Brain Computer Interfaces (BCIs) via perturbations in sensory stimuli. Similar to adversarial examples, these \\emph{adversarial stimuli} aim to exploit the limitations of the integrated brain-sensor-processing components of the BCI system in handling shifts in participants' response to changes in sensory stimuli. This paper proposes adversarial stimuli as an attack..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1949; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":38097,\"items\":[{\"DOI\":\"10.1109\\/smc53992.202..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780913770-BrainComputerInterface-followup-1780907552-23d5eb8f0fe9.json"
+}

@@ -1,0 +1,64 @@
+{
+  "timestamp_secs": 1780970747,
+  "task_id": "followup-1780924466-d65aefcf7b64",
+  "domain": "Aerospace",
+  "question": "Has any NASA (or ESA/JAXA) funded study performed a Monte-Carlo coupling of ISRU oxygen/water/fuel production yield uncertainty and minimum crew size for a deep-space transit or surface habitat?",
+  "query": "aerospace civilization resilience deep space capability nasa jaxa funded study performed monte carlo coupling isru",
+  "sources": [
+    {
+      "source_id": "Crossref-02eb0244d930ff21",
+      "provider": "Crossref",
+      "title": "Effects of microgravity on the three-dimensional morphology of rhizoids in <i>Physcomitrium patens</i>",
+      "url": "https://doi.org/10.64898/2026.01.30.702759",
+      "doi": "10.64898/2026.01.30.702759",
+      "year": 2026,
+      "authors": [
+        "Naoki Yagihara",
+        "Takahisa Wakabayashi",
+        "Ryohei Yamaura",
+        "Daisuke Tamaoki",
+        "Hiroyuki Kamachi",
+        "Daisuke Yamauchi",
+        "Yoshinobu Mineyuki",
+        "Makoto Hoshino"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-e71f26cd19d781f5",
+      "provider": "Crossref",
+      "title": "Estimating Azimuth Offset With Double-Difference Interferometric Phase: The Effect of Azimuth FM Rate Error in Focusing",
+      "url": "https://doi.org/10.1109/tgrs.2017.2737955",
+      "doi": "10.1109/tgrs.2017.2737955",
+      "year": 2017,
+      "authors": [
+        "Cunren Liang",
+        "Eric J. Fielding",
+        "Mong-Han Huang"
+      ],
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-bd8764e2fb11d5af",
+      "provider": "Crossref",
+      "title": "Resources for Future Updates of JAXA New Deep Space Station",
+      "url": "https://doi.org/10.2322/tastj.18.38",
+      "doi": "10.2322/tastj.18.38",
+      "year": 2020,
+      "authors": [
+        "Tomoaki TODA"
+      ],
+      "venue": "TRANSACTIONS OF THE JAPAN SOCIETY FOR AERONAUTICAL AND SPACE SCIENCES, AEROSPACE TECHNOLOGY JAPAN",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "error sending request for url (https://export.arxiv.org/api/query?search_query=all%3Aaerospace+civilization+resilience+deep+space+capability+nasa+jaxa+funded+study+performed+monte+carlo+coupling+isru&start=0&max_results=3&sortBy=relevance&s..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780970747-Aerospace-followup-1780924466-d65aefcf7b64.json"
+}

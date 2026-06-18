@@ -1,0 +1,134 @@
+{
+  "timestamp_secs": 1781087769,
+  "task_id": "followup-1780977449-97d9e655a855",
+  "domain": "BrainComputerInterface",
+  "question": "How does the withdrawal effect compare between synchronous (motor‑imagery) and asynchronous (cognitive‑state) BCI paradigms?",
+  "query": "brain computer interface human AI cooperation risks withdrawal effect compare synchronous motor imagery asynchronous cognitive state",
+  "sources": [
+    {
+      "source_id": "Arxiv-6c9985ba8e2d2418",
+      "provider": "Arxiv",
+      "title": "Cognitive Amplification vs Cognitive Delegation in Human-AI Systems: A Metric Framework",
+      "url": "http://arxiv.org/abs/2603.18677v2",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Eduardo Di Santi"
+      ],
+      "venue": "arXiv",
+      "summary": "Artificial intelligence is increasingly embedded in human decision making. In some cases, it enhances human reasoning. In others, it fosters excessive cognitive dependence. This paper introduces a conceptual and mathematical framework to distinguish cognitive amplification, where AI improves hybrid human AI performance while preserving human expertise, from cognitive delegation, where reasoning is progressively outsourced to the AI system, risking long term atrophy of human capabilities. We define four operational metrics: the Cognitive Amplification Index, or CAI star, which measures collabor..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "OpenAlex-09748e26d4190e17",
+      "provider": "OpenAlex",
+      "title": "EEG Based Emotion Recognition: A Tutorial and Review",
+      "url": "https://doi.org/10.1145/3524499",
+      "doi": "https://doi.org/10.1145/3524499",
+      "year": 2022,
+      "authors": [
+        "Xiang Li",
+        "Yazhou Zhang",
+        "Prayag Tiwari",
+        "Dawei Song",
+        "Bin Hu",
+        "Meihong Yang",
+        "Zhigang Zhao",
+        "Neeraj Kumar"
+      ],
+      "venue": "ACM Computing Surveys",
+      "summary": "Emotion recognition technology through analyzing the EEG signal is currently an essential concept in Artificial Intelligence and holds great potential in emotional health care, human-computer interaction, multimedia content recommendation, etc. Though there have been several works devoted to reviewing EEG-based emotion recognition, the content of these reviews needs to be updated. In addition, those works are either fragmented in content or only focus on specific techniques adopted in this area but neglect the holistic perspective of the entire technical routes. Hence, in this paper, we review..."
+    },
+    {
+      "source_id": "OpenAlex-e760ad69b05161dd",
+      "provider": "OpenAlex",
+      "title": "A Two-Person Neuroscience Approach for Social Anxiety: A Paradigm With Interbrain Synchrony and Neurofeedback",
+      "url": "https://doi.org/10.3389/fpsyg.2021.568921",
+      "doi": "https://doi.org/10.3389/fpsyg.2021.568921",
+      "year": 2022,
+      "authors": [
+        "Marcia A. Saul",
+        "Xun He",
+        "Stuart Black",
+        "Fred Charles"
+      ],
+      "venue": "Frontiers in Psychology",
+      "summary": "Social anxiety disorder has been widely recognised as one of the most commonly diagnosed mental disorders. Individuals with social anxiety disorder experience difficulties during social interactions that are essential in the regular functioning of daily routines; perpetually motivating research into the aetiology, maintenance and treatment methods. Traditionally, social and clinical neuroscience studies incorporated protocols testing one participant at a time. However, it has been recently suggested that such protocols are unable to directly assess social interaction performance, which can be ..."
+    },
+    {
+      "source_id": "Crossref-e9338a5b708c6b06",
+      "provider": "Crossref",
+      "title": "Asynchronous Motor Imagery Brain-Computer Interface for Simulated Drone Control",
+      "url": "https://doi.org/10.1109/bci51272.2021.9385309",
+      "doi": "10.1109/bci51272.2021.9385309",
+      "year": 2021,
+      "authors": [
+        "Jin Woo Choi",
+        "Byung Hyung Kim",
+        "Sungho Jo"
+      ],
+      "venue": "2021 9th International Winter Conference on Brain-Computer Interface (BCI)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-917c53f04f06fb5c",
+      "provider": "Crossref",
+      "title": "Multi-Task EEGNet-TCN Decoder of Motor Imagery and Cognitive State in Motor Imagery BCI",
+      "url": "https://doi.org/10.1109/bci69045.2026.11435078",
+      "doi": "10.1109/bci69045.2026.11435078",
+      "year": 2026,
+      "authors": [
+        "Da-Hyeon Sim",
+        "Won-Sik Oh",
+        "Dong-Hwa Jeong"
+      ],
+      "venue": "2026 14th International Conference on Brain-Computer Interface (BCI)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-e46f1c24c65f1433",
+      "provider": "Crossref",
+      "title": "Asynchronous brain-computer interface with foot motor imagery",
+      "url": "https://doi.org/10.1109/iccme.2013.6548237",
+      "doi": "10.1109/iccme.2013.6548237",
+      "year": 2013,
+      "authors": [
+        "Meng Sun",
+        "H. Akiyoshi",
+        "T. Igasaki",
+        "N. Murayama"
+      ],
+      "venue": "2013 ICME International Conference on Complex Medical Engineering",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781087769-BrainComputerInterface-followup-1780977449-97d9e655a855.json"
+}

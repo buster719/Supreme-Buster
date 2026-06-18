@@ -1,0 +1,123 @@
+{
+  "timestamp_secs": 1781084426,
+  "task_id": "followup-1780970451-a27d06b27312",
+  "domain": "Aerospace",
+  "question": "Are there any papers that apply agent-based or System Dynamics models separately to closed-loop life support system (ECLSS) supply chains under disruption, even without stochastic closures?",
+  "query": "aerospace civilization resilience deep space capability there papers apply agent based system dynamics models separately",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-e61541ab325600ee",
+      "provider": "Arxiv",
+      "title": "A Methodology to Engineer and Validate Dynamic Multi-level Multi-agent Based Simulations",
+      "url": "http://arxiv.org/abs/1311.5108v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Jean-Baptiste Soyez",
+        "Gildas Morvan",
+        "Daniel Dupont",
+        "Rochdi Merzouki"
+      ],
+      "venue": "arXiv",
+      "summary": "This article proposes a methodology to model and simulate complex systems, based on IRM4MLS, a generic agent-based meta-model able to deal with multi-level systems. This methodology permits the engineering of dynamic multi-level agent-based models, to represent complex systems over several scales and domains of interest. Its goal is to simulate a phenomenon using dynamically the lightest representation to save computer resources without loss of information. This methodology is based on two mechanisms: (1) the activation or deactivation of agents representing different domain parts of the same ..."
+    },
+    {
+      "source_id": "Arxiv-66de8278119b0a1d",
+      "provider": "Arxiv",
+      "title": "From Model-Based Screening to Data-Driven Surrogates: A Multi-Stage Workflow for Exploring Stochastic Agent-Based Models",
+      "url": "http://arxiv.org/abs/2604.03350v1",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Paul Saves",
+        "Matthieu Mastio",
+        "Nicolas Verstaevel",
+        "Benoit Gaudou"
+      ],
+      "venue": "arXiv",
+      "summary": "Systematic exploration of Agent-Based Models (ABMs) is challenged by the curse of dimensionality and their inherent stochasticity. We present a multi-stage pipeline integrating the systematic design of experiments with machine learning surrogates. Using a predator-prey case study, our methodology proceeds in two steps. First, an automated model-based screening identifies dominant variables, assesses outcome variability, and segments the parameter space. Second, we train Machine Learning models to map the remaining nonlinear interaction effects. This approach automates the discovery of unstable..."
+    },
+    {
+      "source_id": "OpenAlex-e0dfbed91276172d",
+      "provider": "OpenAlex",
+      "title": "On the History and Future of 100% Renewable Energy Systems Research",
+      "url": "https://doi.org/10.1109/access.2022.3193402",
+      "doi": "https://doi.org/10.1109/access.2022.3193402",
+      "year": 2022,
+      "authors": [
+        "Christian Breyer",
+        "Siavash Khalili",
+        "Dmitrii Bogdanov",
+        "Manish Ram",
+        "Ayobami Solomon Oyewo",
+        "Arman Aghahosseini",
+        "Ashish Gulagi",
+        "A.A. Solomon"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Research on 100% renewable energy systems is a relatively recent phenomenon. It was initiated in the mid-1970s, catalyzed by skyrocketing oil prices. Since the mid-2000s, it has quickly evolved into a prominent research field encompassing an expansive and growing number of research groups and organizations across the world. The main conclusion of most of these studies is that 100% renewables is feasible worldwide at low cost. Advanced concepts and methods now enable the field to chart realistic as well as cost- or resource-optimized and efficient transition pathways to a future without the use..."
+    },
+    {
+      "source_id": "OpenAlex-c9393ba4e3ca4761",
+      "provider": "OpenAlex",
+      "title": "Bio-inspired computation: Where we stand and what's next",
+      "url": "https://doi.org/10.1016/j.swevo.2019.04.008",
+      "doi": "https://doi.org/10.1016/j.swevo.2019.04.008",
+      "year": 2019,
+      "authors": [
+        "Javier Del Ser",
+        "Eneko Osaba",
+        "Daniel Molina",
+        "Xin‐She Yang",
+        "Sancho Salcedo‐Sanz",
+        "David Camacho",
+        "Swagatam Das",
+        "Ponnuthurai Nagaratnam Suganthan"
+      ],
+      "venue": "Swarm and Evolutionary Computation",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-c53f19dbe96fce6f",
+      "provider": "OpenAlex",
+      "title": "Next generation power inverter for grid resilience: Technology review",
+      "url": "https://doi.org/10.1016/j.heliyon.2024.e39596",
+      "doi": "https://doi.org/10.1016/j.heliyon.2024.e39596",
+      "year": 2024,
+      "authors": [
+        "Md. Sharif Hossain",
+        "Md. Nazir Hossen",
+        "Faisal R. Badal",
+        "Md. Rashidul Islam",
+        "Mehedi Hasan",
+        "Md. Firoj Ali",
+        "Md. Hafiz Ahamed",
+        "Shinu Abhi"
+      ],
+      "venue": "Heliyon",
+      "summary": "Distributed generation (DG) systems are becoming more popular due to several benefits such as clean energy, decentralization, and cost effectiveness. Because the majority of renewable energy sources provide DC power, power electronic inverters are necessary for their conversion from DC to AC power. To fulfill this demand, the next generation power inverter employs innovative technologies while simultaneously assuring stability and resilience. This paper highlights the limitations of current inverter technology and points the way forward to the next generation of inverters that overcome those l..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 771; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":1194259,\"items\":[{\"DOI\":\"10.14264\\/a7e83b6\",\"..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781084426-Aerospace-followup-1780970451-a27d06b27312.json"
+}

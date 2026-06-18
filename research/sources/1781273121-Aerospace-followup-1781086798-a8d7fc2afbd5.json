@@ -1,0 +1,63 @@
+{
+  "timestamp_secs": 1781273121,
+  "task_id": "followup-1781086798-a8d7fc2afbd5",
+  "domain": "Aerospace",
+  "question": "How do cumulative single‑event effects (SEE) in FPGA or ASIC controllers—which implement interface recovery logic—scale with total ionizing dose (TID) over a 6‑month Mars transit?",
+  "query": "aerospace civilization resilience deep space capability cumulative single event effects fpga asic controllers implement interface",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-9df22ab47ce5ff8e",
+      "provider": "Arxiv",
+      "title": "DeepCFL: Deep Contextual Features Learning from a Single Image",
+      "url": "http://arxiv.org/abs/2011.03712v1",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Indra Deep Mastan",
+        "Shanmuganathan Raman"
+      ],
+      "venue": "arXiv",
+      "summary": "Recently, there is a vast interest in developing image feature learning methods that are independent of the training data, such as deep image prior, InGAN, SinGAN, and DCIL. These methods are unsupervised and are used to perform low-level vision tasks such as image restoration, image editing, and image synthesis. In this work, we proposed a new training data-independent framework, called Deep Contextual Features Learning (DeepCFL), to perform image synthesis and image restoration based on the semantics of the input image. The contextual features are simply the high dimensional vectors represen..."
+    },
+    {
+      "source_id": "Arxiv-3170521c14789f48",
+      "provider": "Arxiv",
+      "title": "Substream-Centric Maximum Matchings on FPGA",
+      "url": "http://arxiv.org/abs/2010.14684v1",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Maciej Besta",
+        "Marc Fischer",
+        "Tal Ben-Nun",
+        "Dimitri Stanojevic",
+        "Johannes De Fine Licht",
+        "Torsten Hoefler"
+      ],
+      "venue": "arXiv",
+      "summary": "Developing high-performance and energy-efficient algorithms for maximum matchings is becoming increasingly important in social network analysis, computational sciences, scheduling, and others. In this work, we propose the first maximum matching algorithm designed for FPGAs; it is energy-efficient and has provable guarantees on accuracy, performance, and storage utilization. To achieve this, we forego popular graph processing paradigms, such as vertex-centric programming, that often entail large communication costs. Instead, we propose a substream-centric approach, in which the input stream of ..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 773; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":7636,\"items\":[{\"DOI\":\"10.1049\\/ic:20050514\",\"..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781273121-Aerospace-followup-1781086798-a8d7fc2afbd5.json"
+}

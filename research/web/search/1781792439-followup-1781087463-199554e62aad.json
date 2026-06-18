@@ -1,0 +1,41 @@
+{
+  "timestamp_secs": 1781792439,
+  "provider": "DuckDuckGoHtml",
+  "task_id": "followup-1781087463-199554e62aad",
+  "query": "Do existing automation-trust models (e.g., Lee & See 2004 framework on trust recovery asymmetry) transfer to neural-adaptive AI contexts, or does neural co-adaptation introduce a qualitatively different trust dynamic?",
+  "results": [
+    {
+      "rank": 1,
+      "title": "Trust in Automation: Designing for Appropriate Reliance",
+      "url": "https://journals.sagepub.com/doi/10.1518/hfes.46.1.50_30392",
+      "snippet": "The challenges of extrapolating the concept of trust in people to trust in automation are discussed. A conceptual model integrates research regarding trust in automation and describes the dynamics of trust, the role of context, and the influence of display characteristics."
+    },
+    {
+      "rank": 2,
+      "title": "From Trust in Automation to Trust in AI in Healthcare: A 30-Year ... - MDPI",
+      "url": "https://www.mdpi.com/2306-5354/12/10/1070",
+      "snippet": "Human-machine trust has shifted over the past three decades from trust in automation to trust in AI, while research paradigms, disciplines, and problem spaces have expanded. Centered on AI in healthcare, this narrative review offers a longitudinal synthesis that traces and compares phase-specific changes in theory and method, providing design guidance for human-AI systems at different stages ..."
+    },
+    {
+      "rank": 3,
+      "title": "Measurement of Trust in Automation: A Narrative Review and ... - Frontiers",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.604977/full",
+      "snippet": "Lee and See's (2004) trust definition. Furthermore, while trust measures often do not self-identify as capturing a specific component of any given model, we have found that many trust measures fit cleanly within one or more of the components defined by Mayer."
+    },
+    {
+      "rank": 4,
+      "title": "Measuring trust in artificial intelligence: validation of an ...",
+      "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1582880/full",
+      "snippet": "An understanding of the nature and function of human trust in artificial intelligence (AI) is fundamental to the safe and effective integration of these tech..."
+    },
+    {
+      "rank": 5,
+      "title": "Trust in AI: progress, challenges, and future directions",
+      "url": "https://www.nature.com/articles/s41599-024-04044-8",
+      "snippet": "Moreover, we examine major trust-breakers in AI (e.g., autonomy and dignity threats) and trustmakers; and propose some future directions and probable solutions for the transition to a trustworthy AI."
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/web/search/1781792439-followup-1781087463-199554e62aad.json"
+}

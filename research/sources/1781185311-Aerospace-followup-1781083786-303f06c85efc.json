@@ -1,0 +1,113 @@
+{
+  "timestamp_secs": 1781185311,
+  "task_id": "followup-1781083786-303f06c85efc",
+  "domain": "Aerospace",
+  "question": "Are there 2023+ arXiv preprints on BLSS (Bioregenerative Life Support Systems) or ECLSS that use formal closure-ratio modelling or control-theoretic resilience analysis, and if so under which primary categories?",
+  "query": "aerospace civilization resilience deep space capability there 2023 arxiv preprints blss bioregenerative life support systems",
+  "sources": [
+    {
+      "source_id": "Arxiv-8d62aa98d1ea41f6",
+      "provider": "Arxiv",
+      "title": "Large Interferometer For Exoplanets (LIFE): IV. Ideal kernel-nulling array architectures for a space-based mid-infrared nulling interferometer",
+      "url": "http://arxiv.org/abs/2201.04891v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Jonah T. Hansen",
+        "Michael J. Ireland",
+        "the LIFE Collaboration"
+      ],
+      "venue": "arXiv",
+      "summary": "Aims: Optical interferometry from space for the purpose of detecting and characterising exoplanets is seeing a revival, specifically from missions such as the proposed Large Interferometer For Exoplanets (LIFE). A default assumption since the design studies of Darwin and TPF-I has been that the Emma X-array configuration is the optimal architecture for this goal. Here, we examine whether new advances in the field of nulling interferometry, such as the concept of kernel nulling, challenge this assumption. Methods: We develop a tool designed to derive the photon-limited signal to noise ratio of ..."
+    },
+    {
+      "source_id": "Arxiv-90c33901b21bdc7d",
+      "provider": "Arxiv",
+      "title": "Large Interferometer For Exoplanets (LIFE): IX. Assessing the Impact of Clouds on Atmospheric Retrievals at Mid-Infrared Wavelengths with a Venus-Twin Exoplanet",
+      "url": "http://arxiv.org/abs/2303.04727v2",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "B. S. Konrad",
+        "E. Alei",
+        "S. P. Quanz",
+        "P. Mollière",
+        "D. Angerhausen",
+        "J. J. Fortney",
+        "K. Hakim",
+        "S. Jordan"
+      ],
+      "venue": "arXiv",
+      "summary": "The Large Interferometer For Exoplanets (LIFE) initiative aims to develop a space based mid-infrared (MIR) nulling interferometer to measure the thermal emission spectra of temperate terrestrial exoplanets. We investigate how well LIFE could characterize a cloudy Venus-twin exoplanet to: (1) test our retrieval routine on a realistic non-Earth-like MIR spectrum of a known planet, (2) investigate how clouds impact retrievals, (3) refine the LIFE requirements derived in previous Earth-centered studies. We run retrievals for simulated LIFE observations of a Venus-twin exoplanet orbiting a Sun-like..."
+    },
+    {
+      "source_id": "Arxiv-dc6fa8249d9da91b",
+      "provider": "Arxiv",
+      "title": "Large Interferometer For Exoplanets (LIFE): XIII. The Value of Combining Thermal Emission and Reflected Light for the Characterization of Earth Twins",
+      "url": "http://arxiv.org/abs/2406.13037v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "E. Alei",
+        "S. P. Quanz",
+        "B. S. Konrad",
+        "E. O. Garvin",
+        "V. Kofman",
+        "A. Mandell",
+        "D. Angerhausen",
+        "P. Mollière"
+      ],
+      "venue": "arXiv",
+      "summary": "Following the recommendations to NASA and ESA, the search for life on exoplanets will be a priority in the next decades. Two direct imaging space mission concepts are being developed: the Habitable Worlds Observatory (HWO) and the Large Interferometer for Exoplanets (LIFE). HWO focuses on reflected light spectra in the ultraviolet/visible/near-infrared (UV/VIS/NIR), while LIFE captures the mid-infrared (MIR) emission of temperate exoplanets. We assess the potential of HWO and LIFE in characterizing a cloud-free Earth twin orbiting a Sun-like star at 10 pc, both separately and synergistically, ..."
+    },
+    {
+      "source_id": "Crossref-c07113bc9795abab",
+      "provider": "Crossref",
+      "title": "Soybean cultivar selection for Bioregenerative Life Support Systems (BLSS) – Theoretical selection",
+      "url": "https://doi.org/10.1016/j.asr.2012.02.022",
+      "doi": "10.1016/j.asr.2012.02.022",
+      "year": 2012,
+      "authors": [
+        "Veronica De Micco",
+        "Roberta Buonomo",
+        "Roberta Paradiso",
+        "Stefania De Pascale",
+        "Giovanna Aronne"
+      ],
+      "venue": "Advances in Space Research",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-8deca56428307667",
+      "provider": "Crossref",
+      "title": "Life History Responses and Feeding Behavior of Microcrustacea in Altered Gravity – Applicability in Bioregenerative Life Support Systems (BLSS)",
+      "url": "https://doi.org/10.1007/s12217-017-9545-x",
+      "doi": "10.1007/s12217-017-9545-x",
+      "year": 2017,
+      "authors": [
+        "Jessica Fischer",
+        "Kathrin Schoppmann",
+        "Christian Laforsch"
+      ],
+      "venue": "Microgravity Science and Technology",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-386bb433ce1807a3",
+      "provider": "Crossref",
+      "title": "The MaMBA facility as a testbed for bioregenerative life support systems",
+      "url": "https://doi.org/10.1016/j.lssr.2022.08.009",
+      "doi": "10.1016/j.lssr.2022.08.009",
+      "year": 2023,
+      "authors": [
+        "Christiane Heinicke",
+        "Cyprien Verseux"
+      ],
+      "venue": "Life Sciences in Space Research",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781185311-Aerospace-followup-1781083786-303f06c85efc.json"
+}

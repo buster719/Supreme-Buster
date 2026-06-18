@@ -1,0 +1,116 @@
+{
+  "timestamp_secs": 1780919713,
+  "task_id": "followup-1780910748-f3285d58a40a",
+  "domain": "Genetics",
+  "question": "What are the limits of current PRS portability across ancestries, and how would integrating diverse biobanks reduce racial and ethnic inequity in risk prediction?",
+  "query": "genetics safety human flourishing genome editing limits current portability across ancestries integrating diverse biobanks reduce",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-9626b30a0e602e73",
+      "provider": "Arxiv",
+      "title": "Implications of self-identified race, ethnicity, and genetic ancestry on genetic association studies in biobanks within health systems",
+      "url": "http://arxiv.org/abs/2402.15696v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Ruth Johnson",
+        "Bogdan Pasaniuc"
+      ],
+      "venue": "arXiv",
+      "summary": "Precision medicine aims to create biomedical solutions tailored to specific factors that affect disease risk and treatment responses within the population. The success of the genomics era and recent widespread availability of electronic health records (EHR) has ushered in a new wave of genomic biobanks connected to EHR databases (EHR-linked biobanks). This perspective aims to discuss how race, ethnicity, and genetic ancestry are currently utilized to study common disease variation through genetic association studies. Although genetic ancestry plays a significant role in shaping the genetic lan..."
+    },
+    {
+      "source_id": "OpenAlex-7a4479a4ff59ff12",
+      "provider": "OpenAlex",
+      "title": "Bio-Genetics and Disease: Diagnostic and Analytical Approaches",
+      "url": "https://doi.org/10.62906/bs.book.388",
+      "doi": "https://doi.org/10.62906/bs.book.388",
+      "year": 2025,
+      "authors": [
+        "M. Juma",
+        "Sakena Jasem Hammoud Jasab",
+        "Saja Hassan Hadi Mohammed",
+        "Lubana Hamoud Shamkhi Alai"
+      ],
+      "venue": "Bright Sky Publications eBooks",
+      "summary": "Buy Bio-Genetics and Disease: Diagnostic and Analytical Approaches written by Moeaml Wahed Motar Juma, Sakena Jasem Hammoud Jasab, Saja Hassan Hadi Mohammed and Lubana Hamoud Shamkhi Alai at low price."
+    },
+    {
+      "source_id": "Crossref-de3b22f59f9d17e3",
+      "provider": "Crossref",
+      "title": "Polygenic transcriptome risk scores improve portability of polygenic risk scores across ancestries",
+      "url": "https://doi.org/10.1101/2020.11.12.373647",
+      "doi": "10.1101/2020.11.12.373647",
+      "year": 2020,
+      "authors": [
+        "Yanyu Liang",
+        "Milton Pividori",
+        "Ani Manichaikul",
+        "Abraham A. Palmer",
+        "Nancy J. Cox",
+        "Heather Wheeler",
+        "Hae Kyung Im"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780919713-Genetics-followup-1780910748-f3285d58a40a.json"
+}

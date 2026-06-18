@@ -1,0 +1,145 @@
+{
+  "timestamp_secs": 1780984183,
+  "task_id": "followup-1780932741-605b3a826e49",
+  "domain": "BrainComputerInterface",
+  "question": "Does the temporal structure of dual‑tasking (sequential vs. concurrent vs. interleaved) matter more for P300 (erp‑based) than for motor imagery (oscillatory), and can this be exploited for adaptive AI cooperation scheduling?",
+  "query": "brain computer interface human AI cooperation risks temporal structure dual tasking sequential concurrent interleaved matter more",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-791b01b858162d2f",
+      "provider": "OpenAlex",
+      "title": "Computational Rationality as a Theory of Interaction",
+      "url": "https://doi.org/10.1145/3491102.3517739",
+      "doi": "https://doi.org/10.1145/3491102.3517739",
+      "year": 2022,
+      "authors": [
+        "Antti Oulasvirta",
+        "Jussi Jokinen",
+        "Andrew Howes"
+      ],
+      "venue": "CHI Conference on Human Factors in Computing Systems",
+      "summary": "How do people interact with computers? This fundamental question was asked by Card, Moran, and Newell in 1983 with a proposition to frame it as a question about human cognition -in other words, as a matter of how information is processed in the mind. Recently, the question has been reframed as one of adaptation: how do people adapt their interaction to the limits imposed by cognition, device design, and environment? The paper synthesizes advances toward an answer within the theoretical framework of computational rationality. The core assumption is that users act in accordance with what is best..."
+    },
+    {
+      "source_id": "OpenAlex-37321f20b8025883",
+      "provider": "OpenAlex",
+      "title": "A Helping Hand: A Survey About AI-Driven Experimental Design for Accelerating Scientific Research",
+      "url": "https://doi.org/10.3390/app15095208",
+      "doi": "https://doi.org/10.3390/app15095208",
+      "year": 2025,
+      "authors": [
+        "Lukas Nolte",
+        "Sven Tomforde"
+      ],
+      "venue": "Applied Sciences",
+      "summary": "Designing and conducting experiments is a fundamental process across various scientific disciplines, such as materials science, biology, medicine, and chemistry. However, experimental research still predominantly relies on traditional, time-consuming, resource-intensive, and costly trial-and-error experimentation approaches that hinder rapid discovery, reproducibility, and scalability. Recent advances in artificial intelligence (AI) and machine learning (ML) offer promising alternatives, but a comprehensive overview of their implementations in experimental design is lacking. This research fill..."
+    },
+    {
+      "source_id": "OpenAlex-0de85efe54d107e1",
+      "provider": "OpenAlex",
+      "title": "30th Annual Computational Neuroscience Meeting: CNS*2021–Meeting Abstracts",
+      "url": "https://doi.org/10.1007/s10827-021-00801-9",
+      "doi": "https://doi.org/10.1007/s10827-021-00801-9",
+      "year": 2021,
+      "authors": [
+        "Arora, K.",
+        "Zulfiqar, I.",
+        "Schultheiss, H.",
+        "De Martino, F.",
+        "Gulban, O.F.",
+        "Lage-Castellanos, A.",
+        "Moerel, M."
+      ],
+      "venue": "Journal of Computational Neuroscience",
+      "summary": "The human brain is a complex organ characterized by heterogeneous patterns of interconnections. Non-invasive imaging techniques now allow for these patterns to be carefully and comprehensively mapped in individual humans, paving the way for a better understanding of how wiring supports cognitive processes. While a large body of work now focuses on descriptive statistics to characterize these wiring patterns, a critical open question lies in how the organization of these networks constrains the potential repertoire of brain dynamics. Here I describe an approach for understanding how perturbatio..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-74ae6bd1eea5b812",
+      "provider": "Crossref",
+      "title": "The Effects of Dual-Tasking on Fall Risks in Adults with Brain Injury",
+      "url": "https://doi.org/10.21007/chp.mot2.2020.0002",
+      "doi": "10.21007/chp.mot2.2020.0002",
+      "year": 2020,
+      "authors": [
+        "Kaley Campbell",
+        "Anayston Casey",
+        "Madison Culpepper",
+        "Elizabeth Denton",
+        "Katie Morgan"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780984183-BrainComputerInterface-followup-1780932741-605b3a826e49.json"
+}

@@ -1,0 +1,41 @@
+{
+  "timestamp_secs": 1781529469,
+  "provider": "DuckDuckGoHtml",
+  "task_id": "chat-1781529469",
+  "query": "anthropics/skills github repository skills list",
+  "results": [
+    {
+      "rank": 1,
+      "title": "skills/skills at main · anthropics/skills · GitHub",
+      "url": "https://github.com/anthropics/skills/tree/main/skills",
+      "snippet": "Public repository for Agent Skills. Contribute to anthropics/skills development by creating an account on GitHub."
+    },
+    {
+      "rank": 2,
+      "title": "Skills Catalog | anthropics/skills | DeepWiki",
+      "url": "https://deepwiki.com/anthropics/skills/3-skills-catalog",
+      "snippet": "This page provides a high-level catalog of all skills available in the `anthropics/skills` repository. These skills are organized into functional plugins that extend Claude's capabilities across docum"
+    },
+    {
+      "rank": 3,
+      "title": "Top 50 Claude Skills and Github Repos (2026) - Blockchain Council",
+      "url": "https://www.blockchain-council.org/claude-ai/top-50-claude-skills-and-github-repos/",
+      "snippet": null
+    },
+    {
+      "rank": 4,
+      "title": "Anthropic Agent Skills - Open Source Modular AI Agent Capabilities",
+      "url": "https://agentskill.work/en/skills/anthropics/skills",
+      "snippet": "Claude Skill anthropics/skills Anthropic's public repository for Agent Skills: reusable, modular capabilities for AI agents. Open-source collection of verified skill modules to extend agent functionality."
+    },
+    {
+      "rank": 5,
+      "title": "anthropics/skills：Anthropic 官方 Agent Skills 仓库解析 | void.dev",
+      "url": "https://void.redx.space/blog/anthropics-skills-guide",
+      "snippet": "anthropics/skills：Anthropic 官方 Agent Skills 仓库解析 Anthropic 在 GitHub 上维护着一个名为 anthropics/skills 的仓库，目前已获得 127k stars、14.9k forks。这不是一个普通的工具库，而是一套 让 Claude 具备可扩展能力的标准化规范。 什么是 Agent Skills？ 官方给出的定义非常简洁： Skills are folders of instructions, scripts, and ..."
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/web/search/1781529469-chat-1781529469.json"
+}

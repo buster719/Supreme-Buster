@@ -1,0 +1,156 @@
+{
+  "timestamp_secs": 1781161436,
+  "task_id": "followup-1781079915-93528b3e7a92",
+  "domain": "Genetics",
+  "question": "What is the typical reduction in PRS prediction accuracy (e.g., R² or AUC) when moving from between-family to within-family analyses, and how does this translate to a decrease in odds ratio per standard deviation?",
+  "query": "genetics safety human flourishing genome editing typical reduction prediction accuracy when moving family within analyses",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-2cfd50af5b6e6602",
+      "provider": "Arxiv",
+      "title": "Using Genetic Distance to Infer the Accuracy of Genomic Prediction",
+      "url": "http://arxiv.org/abs/1509.00415v4",
+      "doi": null,
+      "year": 2015,
+      "authors": [
+        "Marco Scutari",
+        "Ian Mackay",
+        "David Balding"
+      ],
+      "venue": "arXiv",
+      "summary": "The prediction of phenotypic traits using high-density genomic data has many applications such as the selection of plants and animals of commercial interest; and it is expected to play an increasing role in medical diagnostics. Statistical models used for this task are usually tested using cross-validation, which implicitly assumes that new individuals (whose phenotypes we would like to predict) originate from the same population the genomic prediction model is trained on. In this paper we propose an approach based on clustering and resampling to investigate the effect of increasing genetic di..."
+    },
+    {
+      "source_id": "OpenAlex-f5ab19a53c937ba8",
+      "provider": "OpenAlex",
+      "title": "Collecting eco‐evolutionary data in the dark: Impediments to subterranean research and how to overcome them",
+      "url": "https://doi.org/10.1002/ece3.7556",
+      "doi": "https://doi.org/10.1002/ece3.7556",
+      "year": 2021,
+      "authors": [
+        "Stefano Mammola",
+        "Enrico Lunghi",
+        "Helena Bilandžija",
+        "Pedro Cardoso",
+        "Volker Grimm",
+        "Susanne I. Schmidt",
+        "Thomas Hesselberg",
+        "Alejandro Martínez"
+      ],
+      "venue": "Ecology and Evolution",
+      "summary": "Abstract Caves and other subterranean habitats fulfill the requirements of experimental model systems to address general questions in ecology and evolution. Yet, the harsh working conditions of these environments and the uniqueness of the subterranean organisms have challenged most attempts to pursuit standardized research. Two main obstacles have synergistically hampered previous attempts. First, there is a habitat impediment related to the objective difficulties of exploring subterranean habitats and our inability to access the network of fissures that represents the elective habitat for the..."
+    },
+    {
+      "source_id": "OpenAlex-e8d38772f7061c03",
+      "provider": "OpenAlex",
+      "title": "A Next Generation Sequencing-Based Protocol for Screening of Variants of Concern in Autism Spectrum Disorder",
+      "url": "https://doi.org/10.3390/cells11010010",
+      "doi": "https://doi.org/10.3390/cells11010010",
+      "year": 2021,
+      "authors": [
+        "Jie Huang",
+        "Jun Liu",
+        "Ruiyi Tian",
+        "Kevin Liu",
+        "Patrick Zhuang",
+        "Hannah Sherman",
+        "Christoph Budjan",
+        "Michelle Fong"
+      ],
+      "venue": "Cells",
+      "summary": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder with strong genetic influences. There is an increasing demand for ASD genetic testing beyond the traditionally recommended microarray and syndromic autism testing; however, the current whole genome sequencing (WGS) and whole exome sequencing (WES) methods are lacking an academic standard for WGS variant annotation, reporting, and interpretation, tailored towards patients with ASD and offer very limited interpretation for clinical significance. Using WGS data from six family trios, we demonstrate the clinical feasibility and techni..."
+    },
+    {
+      "source_id": "OpenAlex-5cd955706ab3503d",
+      "provider": "OpenAlex",
+      "title": "Navigating a challenging path: precision disease treatment with tailored oral nano-armor-probiotics",
+      "url": "https://doi.org/10.1186/s12951-025-03141-3",
+      "doi": "https://doi.org/10.1186/s12951-025-03141-3",
+      "year": 2025,
+      "authors": [
+        "Anmei Chen",
+        "Ying Gong",
+        "Sijiang Wu",
+        "Ye Du",
+        "Zhijun Liu",
+        "Yuhong Jiang",
+        "Jiahong Li",
+        "Yang‐Bao Miao"
+      ],
+      "venue": "Journal of Nanobiotechnology",
+      "summary": "Oral probiotics have significant potential for preventing and treating many diseases. Yet, their efficacy is often hindered by challenges related to survival and colonization within the gastrointestinal tract. Nanoparticles emerge as a transformative solution, offering robust protection and enhancing the stability and bioavailability of these probiotics. This review explores the innovative application of nanoparticle-armored engineered probiotics for precise disease treatment, specifically addressing the physiological barriers associated with oral administration. A comprehensive evaluation of ..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781161436-Genetics-followup-1781079915-93528b3e7a92.json"
+}

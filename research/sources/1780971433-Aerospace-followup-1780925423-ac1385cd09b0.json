@@ -1,0 +1,62 @@
+{
+  "timestamp_secs": 1780971433,
+  "task_id": "followup-1780925423-ac1385cd09b0",
+  "domain": "Aerospace",
+  "question": "What specific redundancy allocation has been modelled for the MELiSSA pilot plant (especially the Compartment II / IV bioreactors) when extrapolating to multi‑decade closure?",
+  "query": "aerospace civilization resilience deep space capability specific redundancy allocation been modelled melissa pilot plant especially",
+  "sources": [
+    {
+      "source_id": "Crossref-a8a6addc8ecf265c",
+      "provider": "Crossref",
+      "title": "Enhancing Resilience: Redundancy Reduction for Object Detection in Adversarial Conditions",
+      "url": "https://doi.org/10.1109/space63117.2024.10668393",
+      "doi": "10.1109/space63117.2024.10668393",
+      "year": 2024,
+      "authors": [
+        "Shubham Agarwal",
+        "Raz Birman",
+        "Ofer Hadar"
+      ],
+      "venue": "2024 IEEE Space, Aerospace and Defence Conference (SPACE)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-7975c7c7eddb0131",
+      "provider": "Crossref",
+      "title": "Deep Space Fine - A Pilot Study on Arctic Crew Experiences with Extreme Environment Habitat Design",
+      "url": "https://doi.org/10.52202/078355-0115",
+      "doi": "10.52202/078355-0115",
+      "year": 2024,
+      "authors": [
+        "Konstantin Chterev",
+        "Melissa Marselle",
+        "Birgitta Gatersleben"
+      ],
+      "venue": "IAF/IAA Space Life Sciences Symposium",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-29a3de9e004dd5a0",
+      "provider": "Crossref",
+      "title": "Aircraft Classification through Deep Learning based Diarization of Pilot Vocal Signature",
+      "url": "https://doi.org/10.1109/space65882.2025.11170818",
+      "doi": "10.1109/space65882.2025.11170818",
+      "year": 2025,
+      "authors": [
+        "Harshil Gupta",
+        "Hitesh N P",
+        "Amresh Kumar",
+        "R Rajesh"
+      ],
+      "venue": "2025 IEEE Space, Aerospace and Defence Conference (SPACE)",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "HTTP status client error (429 Unknown Error) for url (https://export.arxiv.org/api/query?search_query=all%3Aaerospace+civilization+resilience+deep+space+capability+specific+redundancy+allocation+been+modelled+melissa+pilot+plant+especially&..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780971433-Aerospace-followup-1780925423-ac1385cd09b0.json"
+}

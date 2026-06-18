@@ -1,0 +1,148 @@
+{
+  "timestamp_secs": 1781080625,
+  "task_id": "followup-1780968182-4dea6e5045de",
+  "domain": "Genetics",
+  "question": "Which simulation studies have systematically compared embryo selection against population screening, lifestyle interventions, or pharmacological prevention for the same endpoints?",
+  "query": "genetics safety human flourishing genome editing simulation studies systematically compared embryo selection against population screening",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-1f2b4af689533dd0",
+      "provider": "OpenAlex",
+      "title": "Digital transformation of peatland eco-innovations (‘Paludiculture’): Enabling a paradigm shift towards the real-time sustainable production of ‘green-friendly’ products and services",
+      "url": "https://doi.org/10.1016/j.scitotenv.2022.156328",
+      "doi": "https://doi.org/10.1016/j.scitotenv.2022.156328",
+      "year": 2022,
+      "authors": [
+        "Neil J. Rowan",
+        "Niall Murray",
+        "Yuansong Qiao",
+        "Emer A. O’Neill",
+        "Eoghan Clifford",
+        "‪Damià Barceló",
+        "Deborah M. Power"
+      ],
+      "venue": "The Science of The Total Environment",
+      "summary": "The world is heading in the wrong direction on carbon emissions where we are not on track to limit global warming to 1.5 °C; Ireland is among the countries where overall emissions have continued to rise. The development of wettable peatland products and services (termed ‘Paludiculture’) present significant opportunities for enabling a transition away from peat-harvesting (fossil fuels) to developing ‘green’ eco-innovations. However, this must be balanced with sustainable carbon sequestration and environmental protection. This complex transition from ‘brown to green’ must be met in real time by..."
+    },
+    {
+      "source_id": "OpenAlex-cdc9a74075dbc0a5",
+      "provider": "OpenAlex",
+      "title": "Exploration of probiotic attributes in lactic acid bacteria isolated from fermented Theobroma cacao L. fruit using in vitro techniques",
+      "url": "https://doi.org/10.3389/fmicb.2023.1274636",
+      "doi": "https://doi.org/10.3389/fmicb.2023.1274636",
+      "year": 2023,
+      "authors": [
+        "Mausamy C. Nandha",
+        "Rachana M. Shukla"
+      ],
+      "venue": "Frontiers in Microbiology",
+      "summary": "Probiotics are known for their health-promoting properties and are recognized as beneficial microorganisms. The current investigation delves into the isolation and comprehensive in vitro characterization of lactic acid bacteria (LAB) obtained from the Indian-origin Theobroma cacao L. Forastero variety to assess their potential as probiotic candidates. Eleven LAB isolates were obtained, and among them, five exhibited classical LAB traits. These five isolates underwent rigorous in vitro characterization to evaluate their suitability as probiotics. The assessments included resilience against acid..."
+    },
+    {
+      "source_id": "OpenAlex-9377317d61e2bf39",
+      "provider": "OpenAlex",
+      "title": "Machine Learning and gene editing at the helm of a societal evolution",
+      "url": "http://dx.doi.org/10.7249/rra2838-1",
+      "doi": "https://doi.org/10.7249/rra2838-1",
+      "year": 2023,
+      "authors": [
+        "Sana Zakaria",
+        "Timothy Marler",
+        "Mark Cabling",
+        "Suzanne Genc",
+        "Artur Honich",
+        "Mann Virdee",
+        "Sam Stockwell"
+      ],
+      "venue": "RAND Corporation eBooks",
+      "summary": "Machine learning and gene editing present both benefits and risks that range from ethics to national security. These complex technologies have implications for many different sectors, and are further complicated by differences in advancements and policies in multiple geographic regions. This study focuses on how forward-looking policies can be developed in the US, UK, China and the EU to help manage beneficial use of technology advancements."
+    },
+    {
+      "source_id": "Crossref-d204a0f13176e7c6",
+      "provider": "Crossref",
+      "title": "GENOME EDITING OF A HUMAN EMBRYO – COULD CORRECTION REPLACE SCREENING?",
+      "url": "https://doi.org/10.1016/j.rbmo.2019.04.033",
+      "doi": "10.1016/j.rbmo.2019.04.033",
+      "year": 2019,
+      "authors": [
+        "Helen O'Neill"
+      ],
+      "venue": "Reproductive BioMedicine Online",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781080625-Genetics-followup-1780968182-4dea6e5045de.json"
+}

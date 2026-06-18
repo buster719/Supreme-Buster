@@ -1,0 +1,137 @@
+{
+  "timestamp_secs": 1780918162,
+  "task_id": "followup-1780908427-f9e165dfd258",
+  "domain": "MaterialsScience",
+  "question": "How does the fracture toughness–density correlation change when secondary phases (SiC, graphite, or refractory carbides) are added to the entropy-stabilized diboride matrix?",
+  "query": "materials science fusion robotics aerospace computation fracture toughness density correlation change when secondary phases graphite",
+  "sources": [
+    {
+      "source_id": "Arxiv-0fd70bdfdc50ab39",
+      "provider": "Arxiv",
+      "title": "Size-dependency and lattice-discreetness effect on fracture toughness in 2D crystals under antiplanar loading",
+      "url": "http://arxiv.org/abs/2410.21839v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Thuy Nguyen",
+        "Daniel Bonamy"
+      ],
+      "venue": "arXiv",
+      "summary": "Fracture toughness is the material property characterizing resistance to failure. Predicting its value from the solid structure at the atomistic scale remains elusive, even in the simplest situations of brittle fracture. We report here numerical simulations of crack propagation in two-dimensional fuse networks of different periodic geometries, which are electrical analogs of bidimensional brittle crystals under antiplanar loading. Fracture energy is determined from Griffith's analysis of energy balance during crack propagation, and fracture toughness is determined from fits of the displacement..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-fb403d6a320c9ccd",
+      "provider": "Arxiv",
+      "title": "Effective toughness estimation by FFT based phase field fracture: application to composites and polycrystals",
+      "url": "http://arxiv.org/abs/2508.07424v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Pedro Aranda",
+        "Javier Segurado"
+      ],
+      "venue": "arXiv",
+      "summary": "An estimate of the effective toughness of heterogeneous materials is proposed based on the Phase Field Fracture model implemented in an FFT homogenization solver. The estimate is based on the simulation of the deformation of representative volume elements of the microstructure, controlled by a constant energy dissipation rate using an arc-length type control. The definition of the toughness corresponds to the total energy dissipated after the total fracture of the RVE -- which can be accurately obtained thanks to the dissipation control -- divided by the RVE transverse area (length in 2D). The..."
+    },
+    {
+      "source_id": "OpenAlex-c56200e762f6408a",
+      "provider": "OpenAlex",
+      "title": "Polymeric composites for powder-based additive manufacturing: Materials and applications",
+      "url": "https://doi.org/10.1016/j.progpolymsci.2018.11.001",
+      "doi": "https://doi.org/10.1016/j.progpolymsci.2018.11.001",
+      "year": 2018,
+      "authors": [
+        "Shangqin Yuan",
+        "Fei Shen",
+        "Chee Kai Chua",
+        "Kun Zhou"
+      ],
+      "venue": "Progress in Polymer Science",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-a11476b395a6b8fa",
+      "provider": "OpenAlex",
+      "title": "Nondestructive testing and evaluation techniques of defects in fiber-reinforced polymer composites: A review",
+      "url": "https://doi.org/10.3389/fmats.2022.986645",
+      "doi": "https://doi.org/10.3389/fmats.2022.986645",
+      "year": 2022,
+      "authors": [
+        "Jian Chen",
+        "Zhenyang Yu",
+        "Haoran Jin"
+      ],
+      "venue": "Frontiers in Materials",
+      "summary": "Fiber-reinforced polymer composites have excellent mechanical properties and outstanding development potential and are cost-effective. They have increasingly been used in numerous advanced and engineering applications as materials for wind turbine blades, helicopter rotors, high-pressure pipelines, and medical equipment. Understanding and assessing structural failure promptly in the whole lifecycle of a composite is essential to mitigating safety concerns and reducing maintenance costs. Various nondestructive testing and evaluation (NDT&amp;amp;E) technologies based on different evaluation pri..."
+    },
+    {
+      "source_id": "OpenAlex-2897dccb54141ad8",
+      "provider": "OpenAlex",
+      "title": "Recent advances in additive manufacturing of engineering thermoplastics: challenges and opportunities",
+      "url": "https://doi.org/10.1039/d0ra04857g",
+      "doi": "https://doi.org/10.1039/d0ra04857g",
+      "year": 2020,
+      "authors": [
+        "Maisyn Picard",
+        "Amar K. Mohanty",
+        "Manjusri Misra"
+      ],
+      "venue": "RSC Advances",
+      "summary": "There are many limitations within three-dimensional (3D) printing that hinder its adaptation into industries such as biomedical, cosmetic, processing, automotive, aerospace, and electronics. The disadvantages of 3D printing include the inability of parts to function in weight-bearing applications, reduced mechanical performance from anisotropic properties of printed products, and limited intrinsic material performances such as flame retardancy, thermal stability, and/or electrical conductivity. Many of these shortcomings have prevented the adaptation of 3D printing into product development, es..."
+    },
+    {
+      "source_id": "Crossref-06781319f339bb01",
+      "provider": "Crossref",
+      "title": "Fracture toughness properties of aerospace materials",
+      "url": "https://doi.org/10.1533/9780857095152.454",
+      "doi": "10.1533/9780857095152.454",
+      "year": 2012,
+      "authors": [],
+      "venue": "Introduction to Aerospace Materials",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-11523638255759ee",
+      "provider": "Crossref",
+      "title": "Fracture Characteristics and Fracture Toughness of Spheroidal Graphite Cast Iron",
+      "url": "https://doi.org/10.4028/www.scientific.net/amr.4-5.47",
+      "doi": "10.4028/www.scientific.net/amr.4-5.47",
+      "year": 1997,
+      "authors": [
+        "Takayuki Kobayashi"
+      ],
+      "venue": "Advanced Materials Research",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-adfcb7915e991eed",
+      "provider": "Crossref",
+      "title": "Rate sensitivity of mode II interlaminar fracture toughness in graphite/epoxy and graphite/PEEK composite materials",
+      "url": "https://doi.org/10.1016/0266-3538(87)90033-9",
+      "doi": "10.1016/0266-3538(87)90033-9",
+      "year": 1987,
+      "authors": [
+        "A.J. Smiley",
+        "R.B. Pipes"
+      ],
+      "venue": "Composites Science and Technology",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780918162-MaterialsScience-followup-1780908427-f9e165dfd258.json"
+}

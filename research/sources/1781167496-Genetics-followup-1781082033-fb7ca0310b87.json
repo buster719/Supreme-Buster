@@ -1,0 +1,154 @@
+{
+  "timestamp_secs": 1781167496,
+  "task_id": "followup-1781082033-fb7ca0310b87",
+  "domain": "Genetics",
+  "question": "What empirical evidence exists on the distribution of *within-family* PRS effect sizes versus *population-level* effect sizes for these diseases?",
+  "query": "genetics safety human flourishing genome editing empirical evidence exists distribution within family effect sizes versus",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-7e3eb8f7675c1ed2",
+      "provider": "OpenAlex",
+      "title": "A Survey on Causal Inference",
+      "url": "https://doi.org/10.1145/3444944",
+      "doi": "https://doi.org/10.1145/3444944",
+      "year": 2021,
+      "authors": [
+        "Liuyi Yao",
+        "Zhixuan Chu",
+        "Sheng Li",
+        "Yaliang Li",
+        "Jing Gao",
+        "Aidong Zhang"
+      ],
+      "venue": "ACM Transactions on Knowledge Discovery from Data",
+      "summary": "Causal inference is a critical research topic across many domains, such as statistics, computer science, education, public policy, and economics, for decades. Nowadays, estimating causal effect from observational data has become an appealing research direction owing to the large amount of available data and low budget requirement, compared with randomized controlled trials. Embraced with the rapidly developed machine learning area, various causal effect estimation methods for observational data have sprung up. In this survey, we provide a comprehensive review of causal inference methods under ..."
+    },
+    {
+      "source_id": "OpenAlex-090105d2b5256109",
+      "provider": "OpenAlex",
+      "title": "The neuroscience of positive emotions and affect: Implications for cultivating happiness and wellbeing",
+      "url": "https://doi.org/10.1016/j.neubiorev.2020.12.002",
+      "doi": "https://doi.org/10.1016/j.neubiorev.2020.12.002",
+      "year": 2020,
+      "authors": [
+        "Rebecca Alexander",
+        "Oriana R. Aragón",
+        "Jamila Bookwala",
+        "Nicolas Cherbuin",
+        "Justine M. Gatt",
+        "Ian J. Kahrilas",
+        "Niklas Kästner",
+        "A.B. Lawrence"
+      ],
+      "venue": "Neuroscience & Biobehavioral Reviews",
+      "summary": "This review paper provides an integrative account regarding neurophysiological correlates of positive emotions and affect that cumulatively contribute to the scaffolding for happiness and wellbeing in humans and other animals. This paper reviews the associations among neurotransmitters, hormones, brain networks, and cognitive functions in the context of positive emotions and affect. Consideration of lifespan developmental perspectives are incorporated, and we also examine the impact of healthy social relationships and environmental contexts on the modulation of positive emotions and affect. Th..."
+    },
+    {
+      "source_id": "OpenAlex-8598323072b250da",
+      "provider": "OpenAlex",
+      "title": "Cause of Cambrian Explosion - Terrestrial or Cosmic?",
+      "url": "https://doi.org/10.1016/j.pbiomolbio.2018.03.004",
+      "doi": "https://doi.org/10.1016/j.pbiomolbio.2018.03.004",
+      "year": 2018,
+      "authors": [
+        "Edward J. Steele",
+        "S. Al-Mufti",
+        "Kenneth A. Augustyn",
+        "Rohana Chandrajith",
+        "John P. Coghlan",
+        "S.G. Coulson",
+        "Sudipto Ghosh",
+        "Mark A. Gillman"
+      ],
+      "venue": "Progress in Biophysics and Molecular Biology",
+      "summary": "We review the salient evidence consistent with or predicted by the Hoyle-Wickramasinghe (H-W) thesis of Cometary (Cosmic) Biology. Much of this physical and biological evidence is multifactorial. One particular focus are the recent studies which date the emergence of the complex retroviruses of vertebrate lines at or just before the Cambrian Explosion of ∼500 Ma. Such viruses are known to be plausibly associated with major evolutionary genomic processes. We believe this coincidence is not fortuitous but is consistent with a key prediction of H-W theory whereby major extinction-diversification ..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781167496-Genetics-followup-1781082033-fb7ca0310b87.json"
+}

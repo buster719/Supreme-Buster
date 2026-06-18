@@ -1,0 +1,139 @@
+{
+  "timestamp_secs": 1781105693,
+  "task_id": "followup-1781078214-7d200bd653ad",
+  "domain": "Genetics",
+  "question": "In cohort studies with linked genetic, electronic health record, and socioeconomic data (e.g., UK Biobank, All of Us), what is the average proportion of the PRS-outcome association (e.g., for coronary artery disease, type 2 diabetes) that is attenuated when adjusting for medication adherence, screening uptake, and lifestyle factors?",
+  "query": "genetics safety human flourishing genome editing cohort studies linked genetic electronic health record socioeconomic data",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-48e4468128f5ba71",
+      "provider": "OpenAlex",
+      "title": "The Health of People: How the social sciences can improve population health",
+      "url": "https://doi.org/10.4135/9781473998889",
+      "doi": "https://doi.org/10.4135/9781473998889",
+      "year": 2017,
+      "authors": [
+        "Campaign for Social Science"
+      ],
+      "venue": null,
+      "summary": "We recommend the establishment of the UK Strategic Coordinating Body for Health of the Public Research (SCHOPR) to help meet our"
+    },
+    {
+      "source_id": "OpenAlex-88f9f0fb075783ee",
+      "provider": "OpenAlex",
+      "title": "Parkinson’s Disease: Bridging Gaps, Building Biomarkers, and Reimagining Clinical Translation",
+      "url": "https://doi.org/10.3390/cells14151161",
+      "doi": "https://doi.org/10.3390/cells14151161",
+      "year": 2025,
+      "authors": [
+        "Masaru Tanaka"
+      ],
+      "venue": "Cells",
+      "summary": "Parkinson's disease (PD), a progressive neurodegenerative disorder, imposes growing clinical and socioeconomic burdens worldwide. Despite landmark discoveries in dopamine biology and α-synuclein pathology, translating mechanistic insights into effective, personalized interventions remains elusive. Recent advances in molecular profiling, neuroimaging, and computational modeling have broadened the understanding of PD as a multifactorial systems disorder rather than a purely dopaminergic condition. However, critical gaps persist in diagnostic precision, biomarker standardization, and the translat..."
+    },
+    {
+      "source_id": "OpenAlex-b87449f2fd6ff88b",
+      "provider": "OpenAlex",
+      "title": "Parkinson’s Disease: Bridging Gaps, Building Biomarkers, and Reimagining Clinical Translation",
+      "url": "https://doi.org/10.20944/preprints202506.2099.v2",
+      "doi": "https://doi.org/10.20944/preprints202506.2099.v2",
+      "year": 2025,
+      "authors": [
+        "Masaru Tanaka"
+      ],
+      "venue": "Preprints.org",
+      "summary": "Parkinson’s disease (PD), a progressive neurodegenerative disorder, imposes growing clinical and socioeconomic burdens worldwide. Despite landmark discoveries in dopamine biology and α-synuclein pathology, translating mechanistic insights into effective, personalized interventions remains elusive. Recent advances in molecular profiling, neuroimaging, and computational modeling have broadened the understanding of PD as a multifactorial systems disorder rather than a purely dopaminergic condition. However, critical gaps persist in diagnostic precision, biomarker standardization, and the translat..."
+    },
+    {
+      "source_id": "Crossref-c2afd944b929a487",
+      "provider": "Crossref",
+      "title": "Unraveling the Human Tapestry",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0012",
+      "doi": "10.1093/oso/9780190940362.003.0012",
+      "year": 2019,
+      "authors": [
+        "Robert Sparrow"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6cdfa8885b5ff71b",
+      "provider": "Crossref",
+      "title": "Updated summary of genome editing technology in human cultured cells linked to human genetics studies",
+      "url": "https://doi.org/10.1038/s10038-017-0349-z",
+      "doi": "10.1038/s10038-017-0349-z",
+      "year": 2018,
+      "authors": [
+        "Tatsuo Miyamoto",
+        "Silvia Natsuko Akutsu",
+        "Shinya Matsuura"
+      ],
+      "venue": "Journal of Human Genetics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-deed21c4e69c3aea",
+      "provider": "Crossref",
+      "title": "Clinically driven analysis reveals gene-socioeconomic status interaction influencing periodontal disease in the electronic health record-linked Generation Scotland: Scottish Family Health Study (GS: SFHS) cohort.",
+      "url": "https://doi.org/10.23889/ijpds.v3i4.787",
+      "doi": "10.23889/ijpds.v3i4.787",
+      "year": 2018,
+      "authors": [
+        "Mairead L Bermingham",
+        "Archie Campbell",
+        "David Porteous",
+        "Angus Walls"
+      ],
+      "venue": "International Journal of Population Data Science",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781105693-Genetics-followup-1781078214-7d200bd653ad.json"
+}

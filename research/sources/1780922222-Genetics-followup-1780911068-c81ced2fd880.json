@@ -1,0 +1,140 @@
+{
+  "timestamp_secs": 1780922222,
+  "task_id": "followup-1780911068-c81ced2fd880",
+  "domain": "Genetics",
+  "question": "Have any new long-term follow-up studies (2023–2025) on non-human primates or other large-animal models revealed delayed adverse effects of germline editing?",
+  "query": "genetics safety human flourishing genome editing long term follow studies 2023 2025 primates other large",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-ea29ce887e8bcac8",
+      "provider": "Arxiv",
+      "title": "Technical Report for Ego4D Long-Term Action Anticipation Challenge 2025",
+      "url": "http://arxiv.org/abs/2506.02550v2",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Qiaohui Chu",
+        "Haoyu Zhang",
+        "Yisen Feng",
+        "Meng Liu",
+        "Weili Guan",
+        "Yaowei Wang",
+        "Liqiang Nie"
+      ],
+      "venue": "arXiv",
+      "summary": "In this report, we present a novel three-stage framework developed for the Ego4D Long-Term Action Anticipation (LTA) task. Inspired by recent advances in foundation models, our method consists of three stages: feature extraction, action recognition, and long-term action anticipation. First, visual features are extracted using a high-performance visual encoder. The features are then fed into a Transformer to predict verbs and nouns, with a verb-noun co-occurrence matrix incorporated to enhance recognition accuracy. Finally, the predicted verb-noun pairs are formatted as textual prompts and inpu..."
+    },
+    {
+      "source_id": "OpenAlex-88f9f0fb075783ee",
+      "provider": "OpenAlex",
+      "title": "Parkinson’s Disease: Bridging Gaps, Building Biomarkers, and Reimagining Clinical Translation",
+      "url": "https://doi.org/10.3390/cells14151161",
+      "doi": "https://doi.org/10.3390/cells14151161",
+      "year": 2025,
+      "authors": [
+        "Masaru Tanaka"
+      ],
+      "venue": "Cells",
+      "summary": "Parkinson's disease (PD), a progressive neurodegenerative disorder, imposes growing clinical and socioeconomic burdens worldwide. Despite landmark discoveries in dopamine biology and α-synuclein pathology, translating mechanistic insights into effective, personalized interventions remains elusive. Recent advances in molecular profiling, neuroimaging, and computational modeling have broadened the understanding of PD as a multifactorial systems disorder rather than a purely dopaminergic condition. However, critical gaps persist in diagnostic precision, biomarker standardization, and the translat..."
+    },
+    {
+      "source_id": "OpenAlex-dd19798ba7715e93",
+      "provider": "OpenAlex",
+      "title": "Human Milk Oligosaccharides: Decoding Their Structural Variability, Health Benefits, and the Evolution of Infant Nutrition",
+      "url": "https://doi.org/10.3390/nu17010118",
+      "doi": "https://doi.org/10.3390/nu17010118",
+      "year": 2024,
+      "authors": [
+        "Hatice Duman",
+        "Mikhaël Bechelany",
+        "Sercan Karav"
+      ],
+      "venue": "Nutrients",
+      "summary": "Human milk oligosaccharides (HMOs), the third most abundant solid component in human milk, vary significantly among women due to factors such as secretor status, race, geography, season, maternal nutrition and weight, gestational age, and delivery method. In recent studies, HMOs have been shown to have a variety of functional roles in the development of infants. Because HMOs are not digested by infants, they act as metabolic substrates for certain bacteria, helping to establish the infant's gut microbiota. By encouraging the growth of advantageous intestinal bacteria, these sugars function as ..."
+    },
+    {
+      "source_id": "OpenAlex-b87449f2fd6ff88b",
+      "provider": "OpenAlex",
+      "title": "Parkinson’s Disease: Bridging Gaps, Building Biomarkers, and Reimagining Clinical Translation",
+      "url": "https://doi.org/10.20944/preprints202506.2099.v2",
+      "doi": "https://doi.org/10.20944/preprints202506.2099.v2",
+      "year": 2025,
+      "authors": [
+        "Masaru Tanaka"
+      ],
+      "venue": "Preprints.org",
+      "summary": "Parkinson’s disease (PD), a progressive neurodegenerative disorder, imposes growing clinical and socioeconomic burdens worldwide. Despite landmark discoveries in dopamine biology and α-synuclein pathology, translating mechanistic insights into effective, personalized interventions remains elusive. Recent advances in molecular profiling, neuroimaging, and computational modeling have broadened the understanding of PD as a multifactorial systems disorder rather than a purely dopaminergic condition. However, critical gaps persist in diagnostic precision, biomarker standardization, and the translat..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780922222-Genetics-followup-1780911068-c81ced2fd880.json"
+}

@@ -1,0 +1,147 @@
+{
+  "timestamp_secs": 1781792431,
+  "task_id": "followup-1781087463-199554e62aad",
+  "domain": "BrainComputerInterface",
+  "question": "Do existing automation-trust models (e.g., Lee & See 2004 framework on trust recovery asymmetry) transfer to neural-adaptive AI contexts, or does neural co-adaptation introduce a qualitatively different trust dynamic?",
+  "query": "brain computer interface human AI cooperation risks existing automation trust models 2004 framework recovery asymmetry transfer",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-7fd7b9ad9cffb37d",
+      "provider": "OpenAlex",
+      "title": "Control strategies for active lower extremity prosthetics and orthotics: a review",
+      "url": "https://doi.org/10.1186/1743-0003-12-1",
+      "doi": "https://doi.org/10.1186/1743-0003-12-1",
+      "year": 2015,
+      "authors": [
+        "Michael R. Tucker",
+        "Jérémy Olivier",
+        "Anna Pagel",
+        "Hannes Bleuler",
+        "Mohamed Bouri",
+        "Olivier Lambercy",
+        "José del R. Millán",
+        "Robert Riener"
+      ],
+      "venue": "Journal of NeuroEngineering and Rehabilitation",
+      "summary": ": Technological advancements have led to the development of numerous wearable robotic devices for the physical assistance and restoration of human locomotion. While many challenges remain with respect to the mechanical design of such devices, it is at least equally challenging and important to develop strategies to control them in concert with the intentions of the user.This work reviews the state-of-the-art techniques for controlling portable active lower limb prosthetic and orthotic (P/O) devices in the context of locomotive activities of daily living (ADL), and considers how these can be in..."
+    },
+    {
+      "source_id": "OpenAlex-779fd1d86e911068",
+      "provider": "OpenAlex",
+      "title": "MedMetaverse: Medical Care of Chronic Disease Patients and Managing Data Using Artificial Intelligence, Blockchain, and Wearable Devices State-of-the-Art Methodology",
+      "url": "https://doi.org/10.1109/access.2023.3340791",
+      "doi": "https://doi.org/10.1109/access.2023.3340791",
+      "year": 2023,
+      "authors": [
+        "Dileep Kumar Murala",
+        "Sandeep Kumar Panda",
+        "Sujata Priyambada Dash"
+      ],
+      "venue": "IEEE Access",
+      "summary": "The Metaverse is an online universe that combines virtual reality and augmented reality, linked together via a network.It has generated novel experiences that are fully engaging and transpire in real time, facilitating interpersonal communication and dialogue. Virtual environments with 3D space and avatars can boost patient-facing platforms, operational utilisation, digital education, diagnostics, and treatment choices in medicine and ophthalmology. Globally, there is an increasing prevalence of chronic diseases, with an estimated 25 percent of individuals presently contending with multiple ch..."
+    },
+    {
+      "source_id": "OpenAlex-fc92ac7bf0c929f7",
+      "provider": "OpenAlex",
+      "title": "Is artificial intelligence and machine learning changing the ways of banking: a systematic literature review and meta analysis",
+      "url": "https://doi.org/10.1007/s44163-023-00094-0",
+      "doi": "https://doi.org/10.1007/s44163-023-00094-0",
+      "year": 2023,
+      "authors": [
+        "Sushil Kalyani",
+        "Neha Gupta"
+      ],
+      "venue": "Discover Artificial Intelligence",
+      "summary": "Abstract This study aims to analyze the research work and present an SLR (Systematic Literature Review) on the initiatives taken by players in the banking sector, especially toward the technological innovations done in the field of AI (Artificial Intelligence) and ML (Machine Learning) that have contributed to the growth of the sector as well towards the ease of doing and building trust amongst consumers in the digitalized era of Banking. Growing security risks in cyberspace accompany the enormous and complex digital versions of virtual services. In total, 734 articles were reviewed to explore..."
+    },
+    {
+      "source_id": "Crossref-acfba6022bcb943f",
+      "provider": "Crossref",
+      "title": "The quality of human-automation cooperation in human-system interface for nuclear power plants",
+      "url": "https://doi.org/10.1016/j.ijhcs.2004.06.001",
+      "doi": "10.1016/j.ijhcs.2004.06.001",
+      "year": 2004,
+      "authors": [
+        "Ann Britt Miberg Skjerve",
+        "Gyrd Skraaning"
+      ],
+      "venue": "International Journal of Human-Computer Studies",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-75440ce0fd0ddce2",
+      "provider": "Crossref",
+      "title": "AI-Enhanced Synaptic Home Automation: A Brain-Computer Interface Approach",
+      "url": "https://doi.org/10.5220/0013577300004639",
+      "doi": "10.5220/0013577300004639",
+      "year": 2024,
+      "authors": [
+        "Alexprabu S P",
+        "Madhumitha K",
+        "Kavitha V",
+        "Sridevi B"
+      ],
+      "venue": "Proceedings of the 2nd International Conference on Intelligent and Sustainable Power and Energy Systems",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781792431-BrainComputerInterface-followup-1781087463-199554e62aad.json"
+}

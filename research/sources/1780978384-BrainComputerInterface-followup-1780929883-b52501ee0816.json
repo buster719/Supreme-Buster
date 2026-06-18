@@ -1,0 +1,155 @@
+{
+  "timestamp_secs": 1780978384,
+  "task_id": "followup-1780929883-b52501ee0816",
+  "domain": "BrainComputerInterface",
+  "question": "What happens to trust and task performance when the AI *frequently* challenges self-reports vs. only challenging in high-stakes moments?",
+  "query": "brain computer interface human AI cooperation risks happens trust task performance when frequently challenges self reports",
+  "sources": [
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-98f6474dbe7ec189",
+      "provider": "Arxiv",
+      "title": "Trust and Reliance in XAI -- Distinguishing Between Attitudinal and Behavioral Measures",
+      "url": "http://arxiv.org/abs/2203.12318v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Nicolas Scharowski",
+        "Sebastian A. C. Perrig",
+        "Nick von Felten",
+        "Florian Brühlmann"
+      ],
+      "venue": "arXiv",
+      "summary": "Trust is often cited as an essential criterion for the effective use and real-world deployment of AI. Researchers argue that AI should be more transparent to increase trust, making transparency one of the main goals of XAI. Nevertheless, empirical research on this topic is inconclusive regarding the effect of transparency on trust. An explanation for this ambiguity could be that trust is operationalized differently within XAI. In this position paper, we advocate for a clear distinction between behavioral (objective) measures of reliance and attitudinal (subjective) measures of trust. However, ..."
+    },
+    {
+      "source_id": "OpenAlex-4cd97ae6c8a4d820",
+      "provider": "OpenAlex",
+      "title": "Six Human-Centered Artificial Intelligence Grand Challenges",
+      "url": "https://doi.org/10.1080/10447318.2022.2153320",
+      "doi": "https://doi.org/10.1080/10447318.2022.2153320",
+      "year": 2023,
+      "authors": [
+        "Özlem Özmen Garibay",
+        "Brent Winslow",
+        "Salvatore Andolina",
+        "Margherita Antona",
+        "Anja Bodenschatz",
+        "Constantinos K. Coursaris",
+        "Gregory Falco",
+        "Stephen M. Fiore"
+      ],
+      "venue": "International Journal of Human-Computer Interaction",
+      "summary": "Widespread adoption of artificial intelligence (AI) technologies is substantially affecting the human condition in ways that are not yet well understood. Negative unintended consequences abound including the perpetuation and exacerbation of societal inequalities and divisions via algorithmic decision making. We present six grand challenges for the scientific community to create AI technologies that are human-centered, that is, ethical, fair, and enhance the human condition. These grand challenges are the result of an international collaboration across academia, industry and government and repr..."
+    },
+    {
+      "source_id": "OpenAlex-54c00ccd837a156d",
+      "provider": "OpenAlex",
+      "title": "Seven HCI Grand Challenges",
+      "url": "https://doi.org/10.1080/10447318.2019.1619259",
+      "doi": "https://doi.org/10.1080/10447318.2019.1619259",
+      "year": 2019,
+      "authors": [
+        "Constantine Stephanidis",
+        "Gavriel Salvendy",
+        "Margherita Antona",
+        "Jessie Y. C. Chen",
+        "Jianming Dong",
+        "Vincent G. Duffy",
+        "Xiaowen Fang",
+        "Cali Fidopiastis"
+      ],
+      "venue": "International Journal of Human-Computer Interaction",
+      "summary": "Published with license by Taylor &amp; Francis Group, LLC. This article aims to investigate the Grand Challenges which arise in the current and emerging landscape of rapid technological evolution towards more intelligent interactive technologies, coupled with increased and widened societal needs, as well as individual and collective expectations that HCI, as a discipline, is called upon to address. A perspective oriented to humane and social values is adopted, formulating the challenges in terms of the impact of emerging intelligent interactive technologies on human life both at the individual..."
+    },
+    {
+      "source_id": "OpenAlex-cb30c2b4b5544d7b",
+      "provider": "OpenAlex",
+      "title": "Symbiotic human-robot collaborative assembly",
+      "url": "https://doi.org/10.1016/j.cirp.2019.05.002",
+      "doi": "https://doi.org/10.1016/j.cirp.2019.05.002",
+      "year": 2019,
+      "authors": [
+        "Lihui Wang",
+        "Robert X. Gao",
+        "József Váncza",
+        "Jörg Krüger",
+        "Xi Vincent Wang",
+        "Sotiris Makris",
+        "George Chryssolouris"
+      ],
+      "venue": "CIRP Annals",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-52c5afc593e9b8ba",
+      "provider": "Crossref",
+      "title": "What happens when scientists trust AI more than colleagues?",
+      "url": "https://doi.org/10.64628/ab.3f7mjrmen",
+      "doi": "10.64628/ab.3f7mjrmen",
+      "year": 2026,
+      "authors": [
+        "Sungho Hong",
+        "Victor Drew"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-26c5c48702bb5975",
+      "provider": "Crossref",
+      "title": "AI self-replacement: what happens when we delegate our thoughts to artificial intelligence?",
+      "url": "https://doi.org/10.59350/skb2r-wqp57",
+      "doi": "10.59350/skb2r-wqp57",
+      "year": 2026,
+      "authors": [
+        "Reda Sadki"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780978384-BrainComputerInterface-followup-1780929883-b52501ee0816.json"
+}

@@ -1,0 +1,125 @@
+{
+  "timestamp_secs": 1781185969,
+  "task_id": "followup-1781084123-dc27fd28d41e",
+  "domain": "Aerospace",
+  "question": "What small local computation, simulation, or table could Buster run next to test part of this question: Has the aerospace community adopted the “resilience gap” concept from NIST SP 1190 or equivalent in habitat design, and if so, what modeling paradigms do they use??",
+  "query": "aerospace civilization resilience deep space capability small local computation simulation table test part aerospace community",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-9bfb0a9c5194ae78",
+      "provider": "Arxiv",
+      "title": "Precision Magnetometers for Aerospace Applications",
+      "url": "http://arxiv.org/abs/2106.15843v1",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "James S. Bennett",
+        "Brian E. Vyhnalek",
+        "Hamish Greenall",
+        "Elizabeth M. Bridge",
+        "Fernando Gotardo",
+        "Stefan Forstner",
+        "Glen I. Harris",
+        "Félix A. Miranda"
+      ],
+      "venue": "arXiv",
+      "summary": "Aerospace technologies are crucial for modern civilization; space-based infrastructure underpins weather forecasting, communications, terrestrial navigation and logistics, planetary observations, solar monitoring, and other indispensable capabilities. Extraplanetary exploration -- including orbital surveys and (more recently) roving, flying, or submersible unmanned vehicles -- is also a key scientific and technological frontier, believed by many to be paramount to the long-term survival and prosperity of humanity. All of these aerospace applications require reliable control of the craft and th..."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    },
+    {
+      "source_id": "OpenAlex-c9393ba4e3ca4761",
+      "provider": "OpenAlex",
+      "title": "Bio-inspired computation: Where we stand and what's next",
+      "url": "https://doi.org/10.1016/j.swevo.2019.04.008",
+      "doi": "https://doi.org/10.1016/j.swevo.2019.04.008",
+      "year": 2019,
+      "authors": [
+        "Javier Del Ser",
+        "Eneko Osaba",
+        "Daniel Molina",
+        "Xin‐She Yang",
+        "Sancho Salcedo‐Sanz",
+        "David Camacho",
+        "Swagatam Das",
+        "Ponnuthurai Nagaratnam Suganthan"
+      ],
+      "venue": "Swarm and Evolutionary Computation",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-e0dfbed91276172d",
+      "provider": "OpenAlex",
+      "title": "On the History and Future of 100% Renewable Energy Systems Research",
+      "url": "https://doi.org/10.1109/access.2022.3193402",
+      "doi": "https://doi.org/10.1109/access.2022.3193402",
+      "year": 2022,
+      "authors": [
+        "Christian Breyer",
+        "Siavash Khalili",
+        "Dmitrii Bogdanov",
+        "Manish Ram",
+        "Ayobami Solomon Oyewo",
+        "Arman Aghahosseini",
+        "Ashish Gulagi",
+        "A.A. Solomon"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Research on 100% renewable energy systems is a relatively recent phenomenon. It was initiated in the mid-1970s, catalyzed by skyrocketing oil prices. Since the mid-2000s, it has quickly evolved into a prominent research field encompassing an expansive and growing number of research groups and organizations across the world. The main conclusion of most of these studies is that 100% renewables is feasible worldwide at low cost. Advanced concepts and methods now enable the field to chart realistic as well as cost- or resource-optimized and efficient transition pathways to a future without the use..."
+    },
+    {
+      "source_id": "OpenAlex-ca8061fee7efee1a",
+      "provider": "OpenAlex",
+      "title": "Satellite Remote Sensing for Water Resources Management: Potential for Supporting Sustainable Development in Data‐Poor Regions",
+      "url": "https://doi.org/10.1029/2017wr022437",
+      "doi": "https://doi.org/10.1029/2017wr022437",
+      "year": 2018,
+      "authors": [
+        "Justin Sheffield",
+        "Eric F. Wood",
+        "Ming Pan",
+        "Hylke E. Beck",
+        "Gabriele Coccia",
+        "Aleix Serrat‐Capdevila",
+        "Koen Verbist"
+      ],
+      "venue": "Water Resources Research",
+      "summary": "Abstract Water resources management (WRM) for sustainable development presents many challenges in areas with sparse in situ monitoring networks. The exponential growth of satellite based information over the past decade provides unprecedented opportunities to support and improve WRM. Furthermore, traditional barriers to the access and usage of satellite data are lowering as technological innovations provide opportunities to manage and deliver this wealth of information to a wider audience. We review data needs for WRM and the role that satellite remote sensing can play to fill gaps and enhance..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 2003; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":42581,\"items\":[{\"DOI\":\"10.1109\\/space65882.2..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781185969-Aerospace-followup-1781084123-dc27fd28d41e.json"
+}

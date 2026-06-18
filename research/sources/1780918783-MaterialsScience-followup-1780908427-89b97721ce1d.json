@@ -1,0 +1,146 @@
+{
+  "timestamp_secs": 1780918783,
+  "task_id": "followup-1780908427-89b97721ce1d",
+  "domain": "MaterialsScience",
+  "question": "What are the measured fracture toughness (K_Ic) and density values for single-phase (Hf,Nb,Ta,Ti,Zr)B₂ entropy-stabilized diborides compared to ZrB₂–20 vol% SiC at room temperature and at 1800°C?",
+  "query": "materials science fusion robotics aerospace computation measured fracture toughness density values single phase b₂ entropy",
+  "sources": [
+    {
+      "source_id": "Arxiv-0fd70bdfdc50ab39",
+      "provider": "Arxiv",
+      "title": "Size-dependency and lattice-discreetness effect on fracture toughness in 2D crystals under antiplanar loading",
+      "url": "http://arxiv.org/abs/2410.21839v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Thuy Nguyen",
+        "Daniel Bonamy"
+      ],
+      "venue": "arXiv",
+      "summary": "Fracture toughness is the material property characterizing resistance to failure. Predicting its value from the solid structure at the atomistic scale remains elusive, even in the simplest situations of brittle fracture. We report here numerical simulations of crack propagation in two-dimensional fuse networks of different periodic geometries, which are electrical analogs of bidimensional brittle crystals under antiplanar loading. Fracture energy is determined from Griffith's analysis of energy balance during crack propagation, and fracture toughness is determined from fits of the displacement..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-c3997326e6a8c586",
+      "provider": "Arxiv",
+      "title": "Review on phase transformations, fracture, chemical reactions, and other structural changes in inelastic materials",
+      "url": "http://arxiv.org/abs/2105.10932v2",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Valery I. Levitas"
+      ],
+      "venue": "arXiv",
+      "summary": "Review of selected fundamental topics on the interaction between phase transformations, fracture, and other structural changes in inelastic materials is presented. It mostly focuses on the concepts developed in the author's group over last three decades and numerous papers that affected us. It includes a general thermodynamic and kinetic theories with sharp interfaces and within phase field approach. Numerous analytical (even at large strains) and numerical solutions illustrate the main features of the developed theories and their application to the real phenomena. Coherent, semicoherent, and ..."
+    },
+    {
+      "source_id": "OpenAlex-e48c41d1ab079950",
+      "provider": "OpenAlex",
+      "title": "New frontiers for the materials genome initiative",
+      "url": "https://doi.org/10.1038/s41524-019-0173-4",
+      "doi": "https://doi.org/10.1038/s41524-019-0173-4",
+      "year": 2019,
+      "authors": [
+        "Juan Pablo",
+        "Nicholas E. Jackson",
+        "Michael A. Webb",
+        "Long‐Qing Chen",
+        "Joel E. Moore",
+        "Dane Morgan",
+        "Ryan Jacobs",
+        "Tresa M. Pollock"
+      ],
+      "venue": "npj Computational Materials",
+      "summary": "Abstract The Materials Genome Initiative (MGI) advanced a new paradigm for materials discovery and design, namely that the pace of new materials deployment could be accelerated through complementary efforts in theory, computation, and experiment. Along with numerous successes, new challenges are inviting researchers to refocus the efforts and approaches that were originally inspired by the MGI. In May 2017, the National Science Foundation sponsored the workshop “Advancing and Accelerating Materials Innovation Through the Synergistic Interaction among Computation, Experiment, and Theory: Openin..."
+    },
+    {
+      "source_id": "OpenAlex-51796dfd486c57bd",
+      "provider": "OpenAlex",
+      "title": "Recent Inventions in Additive Manufacturing: Holistic Review",
+      "url": "https://doi.org/10.3390/inventions8040103",
+      "doi": "https://doi.org/10.3390/inventions8040103",
+      "year": 2023,
+      "authors": [
+        "Ismail Fidan",
+        "Orkhan Huseynov",
+        "Mohammad Alshaikh Ali",
+        "Suhas Alkunte",
+        "Mithila Rajeshirke",
+        "Ankit Gupta",
+        "Seymur Hasanov",
+        "Khalid Tantawi"
+      ],
+      "venue": "Inventions",
+      "summary": "This general review paper presents a condensed view of recent inventions in the Additive Manufacturing (AM) field. It outlines factors affecting the development and commercialization of inventions via research collaboration and discusses breakthroughs in materials and AM technologies and their integration with emerging technologies. The paper explores the impact of AM across various sectors, including the aerospace, automotive, healthcare, food, and construction industries, since the 1970s. It also addresses challenges and future directions, such as hybrid manufacturing and bio-printing, along..."
+    },
+    {
+      "source_id": "OpenAlex-e7090a54eb6a170a",
+      "provider": "OpenAlex",
+      "title": "Machine learning in nuclear materials research",
+      "url": "https://doi.org/10.1016/j.cossms.2021.100975",
+      "doi": "https://doi.org/10.1016/j.cossms.2021.100975",
+      "year": 2022,
+      "authors": [
+        "Dane Morgan",
+        "Ghanshyam Pilania",
+        "Adrien Couet",
+        "Blas P. Uberuaga",
+        "Cheng Sun",
+        "Ju Li"
+      ],
+      "venue": "Current Opinion in Solid State and Materials Science",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-06781319f339bb01",
+      "provider": "Crossref",
+      "title": "Fracture toughness properties of aerospace materials",
+      "url": "https://doi.org/10.1533/9780857095152.454",
+      "doi": "10.1533/9780857095152.454",
+      "year": 2012,
+      "authors": [],
+      "venue": "Introduction to Aerospace Materials",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-07587324db3334f4",
+      "provider": "Crossref",
+      "title": "Synergistically Enhanced Fracture Toughness and Neutron Absorption in Dual-phase High-entropy Ceramics for Control Rods",
+      "url": "https://doi.org/10.15541/jim20260136",
+      "doi": "10.15541/jim20260136",
+      "year": 2026,
+      "authors": [],
+      "venue": "Journal of Inorganic Materials",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-915726a384b18020",
+      "provider": "Crossref",
+      "title": "The fracture toughness of WC-Co alloys measured on single-edge notched beam specimens precracked by electron discharge machining",
+      "url": "https://doi.org/10.1016/0025-5416(78)90164-7",
+      "doi": "10.1016/0025-5416(78)90164-7",
+      "year": 1978,
+      "authors": [
+        "J.R. Pickens",
+        "J. Gurland"
+      ],
+      "venue": "Materials Science and Engineering",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780918783-MaterialsScience-followup-1780908427-89b97721ce1d.json"
+}

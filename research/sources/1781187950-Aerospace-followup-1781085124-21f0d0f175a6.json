@@ -1,0 +1,113 @@
+{
+  "timestamp_secs": 1781187950,
+  "task_id": "followup-1781085124-21f0d0f175a6",
+  "domain": "Aerospace",
+  "question": "Is there a gap analysis comparing terrestrial supply chain resilience frameworks (NIST, ISO 22301) against closed-loop life support system requirements for deep space?",
+  "query": "aerospace civilization resilience deep space capability there analysis comparing terrestrial supply chain resilience frameworks nist",
+  "sources": [
+    {
+      "source_id": "Arxiv-978539ee49e97667",
+      "provider": "Arxiv",
+      "title": "A Review of Urban Resilience Frameworks: Transferring Knowledge to Enhance Pandemic Resilience",
+      "url": "http://arxiv.org/abs/2503.17371v2",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Yue Sun",
+        "Ryan Weightman",
+        "Anye Shi",
+        "Timur Dogan",
+        "Samitha Samaranayake"
+      ],
+      "venue": "arXiv",
+      "summary": "Urbanization is rapidly increasing, with urban populations expected to grow significantly by 2050, particularly in developing regions. This expansion brings challenges related to chronic stresses and acute shocks, such as the COVID-19 pandemic, which has underscored the critical role of urban form in a city's capacity to manage public health crises. Despite the heightened interest in urban resilience, research examining the relationship between urban morphology and pandemic resilience remains limited, often focusing solely on density and its effect on disease transmission. This work aims to ad..."
+    },
+    {
+      "source_id": "Arxiv-4ab38cdff5a08a0f",
+      "provider": "Arxiv",
+      "title": "The Vaccine Supply Chain: A Call for Resilience Analytics to Support COVID-19 Vaccine Production and Distribution",
+      "url": "http://arxiv.org/abs/2011.14231v1",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Maureen S. Golan",
+        "Benjamin D. Trump",
+        "Jeffrey C. Cegan",
+        "Igor Linkov"
+      ],
+      "venue": "arXiv",
+      "summary": "The COVID19 pandemic has highlighted the lack of resilience in supply chains, as global networks fail from disruptions at single nodes and connections. Through an overview of the existing vaccine and pharmaceutical supply chain publications focusing on resilience, as well as recent papers reporting modeling of resilience in supply chains across multiple fields, we find that models for supply chain resilience are few and most of them are focused on individual dimensions of resilience rather than on comprehensive strategy necessary for scaling up vaccine production and distribution in emergency ..."
+    },
+    {
+      "source_id": "Arxiv-b1b52176c1a6abad",
+      "provider": "Arxiv",
+      "title": "Exploitation of material consolidation trade-offs in multi-tier complex supply networks",
+      "url": "http://arxiv.org/abs/2210.11479v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Vinod Kumar Chauhan",
+        "Muhannad Alomari",
+        "James Arney",
+        "Ajith Kumar Parlikad",
+        "Alexandra Brintrup"
+      ],
+      "venue": "arXiv",
+      "summary": "While consolidation strategies form the backbone of many supply chain optimisation problems, exploitation of multi-tier material relationships through consolidation remains an understudied area, despite being a prominent feature of industries that produce complex made-to-order products. In this paper, we propose an optimisation framework for exploiting multi-to-multi relationship between tiers of a supply chain. The resulting formulation is flexible such that quantity discounts, inventory holding, and transport costs can be included. The framework introduces a new trade-off between tiers, lead..."
+    },
+    {
+      "source_id": "OpenAlex-ca8061fee7efee1a",
+      "provider": "OpenAlex",
+      "title": "Satellite Remote Sensing for Water Resources Management: Potential for Supporting Sustainable Development in Data‐Poor Regions",
+      "url": "https://doi.org/10.1029/2017wr022437",
+      "doi": "https://doi.org/10.1029/2017wr022437",
+      "year": 2018,
+      "authors": [
+        "Justin Sheffield",
+        "Eric F. Wood",
+        "Ming Pan",
+        "Hylke E. Beck",
+        "Gabriele Coccia",
+        "Aleix Serrat‐Capdevila",
+        "Koen Verbist"
+      ],
+      "venue": "Water Resources Research",
+      "summary": "Abstract Water resources management (WRM) for sustainable development presents many challenges in areas with sparse in situ monitoring networks. The exponential growth of satellite based information over the past decade provides unprecedented opportunities to support and improve WRM. Furthermore, traditional barriers to the access and usage of satellite data are lowering as technological innovations provide opportunities to manage and deliver this wealth of information to a wider audience. We review data needs for WRM and the role that satellite remote sensing can play to fill gaps and enhance..."
+    },
+    {
+      "source_id": "OpenAlex-966724d95324928b",
+      "provider": "OpenAlex",
+      "title": "Physical AI: Bridging the Sim-to-Real Divide Toward Embodied, Ethical, and Autonomous Intelligence",
+      "url": "https://doi.org/10.36227/techrxiv.176238257.73914361/v1",
+      "doi": "https://doi.org/10.36227/techrxiv.176238257.73914361/v1",
+      "year": 2025,
+      "authors": [
+        "Partha Pratim Ray"
+      ],
+      "venue": null,
+      "summary": "Physical Artificial Intelligence (Physical AI) delineates a new scientific frontier wherein cognition is not abstracted from the world but materially instantiated within it. It represents the fusion of algorithmic reasoning, embodied perception, and dynamic control into cyber–physical substrates capable of autonomous, safe, and ethically aligned interaction. In contrast to digital AI that operates solely over symbolic or pixel domains, Physical AI functions through closed perception–decision–action feedback loops governed by real-world physics, causality, and thermodynamic constraints. This ar..."
+    },
+    {
+      "source_id": "OpenAlex-7340aa096d746193",
+      "provider": "OpenAlex",
+      "title": "Leveraging Technology for Enhanced Operational Effectiveness in the Nigerian Navy",
+      "url": "https://doi.org/10.70382/ajsitr.v9i9.035",
+      "doi": "https://doi.org/10.70382/ajsitr.v9i9.035",
+      "year": 2025,
+      "authors": [
+        "Barnabas Ali",
+        "Elijah Obembe"
+      ],
+      "venue": "Journal of Science Innovation and Technology Research",
+      "summary": "Nigeria possesses a spacious maritime space that is an important economic aspect and exposed to a complex network of criminal actions. The paper critically examines these security challenges, and they are widespread piracy, advanced kidnapping-for-ransom cases, mass oil piracy, and high economic and environmental cost of illegal, unreported and unregulated (IUU) fishing. According to this report, the historical issue and the incapacity of the states to respond to these endemic menaces adequately, has exacerbated the problem, and thus obstructed the effectiveness of traditional security strateg..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 371; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":519692,\"items\":[{\"DOI\":\"10.70279\\/bmj-v6-1058..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781187950-Aerospace-followup-1781085124-21f0d0f175a6.json"
+}

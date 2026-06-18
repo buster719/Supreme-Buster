@@ -1,0 +1,146 @@
+{
+  "timestamp_secs": 1781019688,
+  "task_id": "followup-1780936647-cf5ffe392791",
+  "domain": "Genetics",
+  "question": "What is the highest-uncertainty claim in this Genetics note, and what evidence would change Buster's belief?",
+  "query": "genetics safety human flourishing genome editing highest uncertainty claim genetics note evidence change belief",
+  "sources": [
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "Arxiv-0b10c4361b56f49d",
+      "provider": "Arxiv",
+      "title": "A Unified Model of Codon Reassignment in Alternative Genetic Codes",
+      "url": "http://arxiv.org/abs/q-bio/0410022v3",
+      "doi": null,
+      "year": 2004,
+      "authors": [
+        "Supratim Sengupta",
+        "Paul G. Higgs"
+      ],
+      "venue": "arXiv",
+      "summary": "Many modified genetic codes are found in specific genomes in which one or more codons have been reassigned to a different amino acid from that in the canonical code. We present a model that unifies four possible mechanisms for reassignment, based on the observation that reassignment involves a gain and a loss. The loss could be the deletion or loss of function of a tRNA or release factor. The gain could be the gain of a new type of tRNA for the reassigned codon, or the gain of function of an existing tRNA due to a mutation or a base modification. In the codon disappearance mechanism, the codon..."
+    },
+    {
+      "source_id": "OpenAlex-25bcf357b0ab21e4",
+      "provider": "OpenAlex",
+      "title": "The Ethics of Human Embryo Editing via CRISPR-Cas9 Technology: A Systematic Review of Ethical Arguments, Reasons, and Concerns",
+      "url": "https://doi.org/10.1007/s10730-024-09538-1",
+      "doi": "https://doi.org/10.1007/s10730-024-09538-1",
+      "year": 2024,
+      "authors": [
+        "Lindsay F. Wiley",
+        "Mattison Cheek",
+        "Emily LaFar",
+        "Xiaolu Ma",
+        "Justin Sekowski",
+        "Nikki Tanguturi",
+        "Ana S. Iltis"
+      ],
+      "venue": "HEC Forum",
+      "summary": "The possibility of editing the genomes of human embryos has generated significant discussion and interest as a matter of science and ethics. While it holds significant promise to prevent or treat disease, research on and potential clinical applications of human embryo editing also raise ethical, regulatory, and safety concerns. This systematic review included 223 publications to identify the ethical arguments, reasons, and concerns that have been offered for and against the editing of human embryos using CRISPR-Cas9 technology. We identified six major themes: risk/harm; potential benefit; over..."
+    },
+    {
+      "source_id": "OpenAlex-1b8e96aac4cbeff9",
+      "provider": "OpenAlex",
+      "title": "The Risks and Ethics of Human Gene Editing",
+      "url": "https://doi.org/10.1007/978-3-658-46979-5",
+      "doi": "https://doi.org/10.1007/978-3-658-46979-5",
+      "year": 2025,
+      "authors": [
+        "Madeleine Hayenhjelm",
+        "Christer Nordlund"
+      ],
+      "venue": "Technikzukünfte, Wissenschaft und Gesellschaft",
+      "summary": "About This BookThis book is about the risks and the ethics of human germline gene editing, i.e., the possibility to make heritable changes to the DNA of early human embryos or germ cells.Is there something particularly morally problematic about editing the human germline?Is there something unique about germline editing, and, if so, does this suggest that we ought not to edit the human germline, or only in particular circumstances or for particular purposes?What would be a wise and responsible approach to editing the human germline from a moral perspective?The book has three broad aims.First, t..."
+    },
+    {
+      "source_id": "OpenAlex-8942972b3adab493",
+      "provider": "OpenAlex",
+      "title": "Personalised Medicine, Individual Choice and the Common Good",
+      "url": "https://doi.org/10.1017/9781108590600",
+      "doi": "https://doi.org/10.1017/9781108590600",
+      "year": 2018,
+      "authors": [
+        "van Beers, B.C.",
+        "Sterckx, Sigrid",
+        "Dickenson, Donna"
+      ],
+      "venue": "Cambridge University Press eBooks",
+      "summary": "This is a volume of twelve essays concerning the fundamental tension in personalised medicine between individual choice and the common good."
+    },
+    {
+      "source_id": "Crossref-c36a1889bfd50c8a",
+      "provider": "Crossref",
+      "title": "Gene Therapy and Genome Editing",
+      "url": "https://doi.org/10.4324/9781315406985-13",
+      "doi": "10.4324/9781315406985-13",
+      "year": 2016,
+      "authors": [],
+      "venue": "Human Genetics: The Basics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-79676d3ab7383209",
+      "provider": "Crossref",
+      "title": "CRISPR/Cas9 for genome editing: progress, implications and challenges",
+      "url": "https://doi.org/10.1093/hmg/ddu125",
+      "doi": "10.1093/hmg/ddu125",
+      "year": 2014,
+      "authors": [
+        "F. Zhang",
+        "Y. Wen",
+        "X. Guo"
+      ],
+      "venue": "Human Molecular Genetics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-38c86d9195d4be8a",
+      "provider": "Crossref",
+      "title": "“Ancestralization” of human pluripotent stem cells by multiplexed precise genome editing",
+      "url": "https://doi.org/10.1101/342311",
+      "doi": "10.1101/342311",
+      "year": 2018,
+      "authors": [
+        "Stephan Riesenberg",
+        "Tomislav Maricic",
+        "Svante Pääbo"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781019688-Genetics-followup-1780936647-cf5ffe392791.json"
+}

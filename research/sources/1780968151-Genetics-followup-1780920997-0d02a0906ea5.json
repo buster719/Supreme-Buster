@@ -1,0 +1,150 @@
+{
+  "timestamp_secs": 1780968151,
+  "task_id": "followup-1780920997-0d02a0906ea5",
+  "domain": "Genetics",
+  "question": "What is the maximum expected absolute risk reduction for common diseases when selecting the embryo with the lowest PRS among a typical IVF cycle (e.g., 5 embryos)?",
+  "query": "genetics safety human flourishing genome editing maximum expected absolute risk reduction common diseases when selecting",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-a02ceb7f29e5747e",
+      "provider": "Arxiv",
+      "title": "GREGoR: Accelerating Genomics for Rare Diseases",
+      "url": "http://arxiv.org/abs/2412.14338v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Moez Dawood",
+        "Ben Heavner",
+        "Marsha M. Wheeler",
+        "Rachel A. Ungar",
+        "Jonathan LoTempio",
+        "Laurens Wiel",
+        "Seth Berger",
+        "Jonathan A. Bernstein"
+      ],
+      "venue": "arXiv",
+      "summary": "Rare diseases are collectively common, affecting approximately one in twenty individuals worldwide. In recent years, rapid progress has been made in rare disease diagnostics due to advances in DNA sequencing, development of new computational and experimental approaches to prioritize genes and genetic variants, and increased global exchange of clinical and genetic data. However, more than half of individuals suspected to have a rare disease lack a genetic diagnosis. The Genomics Research to Elucidate the Genetics of Rare Diseases (GREGoR) Consortium was initiated to study thousands of challengi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "OpenAlex-8942972b3adab493",
+      "provider": "OpenAlex",
+      "title": "Personalised Medicine, Individual Choice and the Common Good",
+      "url": "https://doi.org/10.1017/9781108590600",
+      "doi": "https://doi.org/10.1017/9781108590600",
+      "year": 2018,
+      "authors": [
+        "van Beers, B.C.",
+        "Sterckx, Sigrid",
+        "Dickenson, Donna"
+      ],
+      "venue": "Cambridge University Press eBooks",
+      "summary": "This is a volume of twelve essays concerning the fundamental tension in personalised medicine between individual choice and the common good."
+    },
+    {
+      "source_id": "OpenAlex-9ac8ca9580bd2bec",
+      "provider": "OpenAlex",
+      "title": "The Era of Global Risk",
+      "url": "https://doi.org/10.11647/obp.0336",
+      "doi": "https://doi.org/10.11647/obp.0336",
+      "year": 2023,
+      "authors": [
+        "Beard, SJ",
+        "Rees, Martin",
+        "Richards, Catherine",
+        "Rios Rojas, Clarissa"
+      ],
+      "venue": "Open Book Publishers",
+      "summary": "This innovative and comprehensive collection of essays explores the biggest threats facing humanity in the 21st century; threats that cannot be contained or controlled and that have the potential to bring about human extinction and civilization collapse. Bringing together experts from many disciplines, it provides an accessible survey of what we know about these threats, how we can understand them better, and most importantly what can be done to manage them effectively."
+    },
+    {
+      "source_id": "OpenAlex-e40337df846f4a8a",
+      "provider": "OpenAlex",
+      "title": "Risks and new challenges in the food chain: Viral contamination and decontamination from a global perspective, guidelines, and cleaning",
+      "url": "https://doi.org/10.1111/1541-4337.12899",
+      "doi": "https://doi.org/10.1111/1541-4337.12899",
+      "year": 2022,
+      "authors": [
+        "Hamid Ezzatpanah",
+        "Vicente M. Gómez‐López",
+        "Tatiana Koutchma",
+        "Farnoush Lavafpour",
+        "F. Moerman",
+        "M Mohammadi",
+        "Dele Raheem"
+      ],
+      "venue": "Comprehensive Reviews in Food Science and Food Safety",
+      "summary": "Even during the continuing world pandemic of severe acute respiratory syndrome coronavirus 2 (SARS CoV-2), consumers remain exposed to the risk of getting infected by existing, emerging, or re-emerging foodborne and waterborne viruses. SARS-CoV-2 is different in that it is transmitted directly via the airborne route (droplets and aerosols) or indirect contact (surfaces contaminated with SARS-CoV-2). International food and health organizations and national regulatory bodies have provided guidance to protect individuals active in food premises from potential occupational exposure to SARS-CoV-2, ..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780968151-Genetics-followup-1780920997-0d02a0906ea5.json"
+}

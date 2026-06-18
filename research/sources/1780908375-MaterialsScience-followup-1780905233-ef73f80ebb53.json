@@ -1,0 +1,163 @@
+{
+  "timestamp_secs": 1780908375,
+  "task_id": "followup-1780905233-ef73f80ebb53",
+  "domain": "MaterialsScience",
+  "question": "How does the fracture toughness vs. density trade-off evolve in ultra-high-temperature ceramics (UHTCs) when transitioning from ZrB₂-SiC to entropy-stabilized diborides, and is there a verified 1800°C+ multi-cycle database?",
+  "query": "materials science fusion robotics aerospace computation fracture toughness density trade evolve ultra high temperature ceramics",
+  "sources": [
+    {
+      "source_id": "Arxiv-d9af476aabe25989",
+      "provider": "Arxiv",
+      "title": "Reply to the correspondence: \"On the fracture toughness of bioinspired ceramic materials\"",
+      "url": "http://arxiv.org/abs/1707.09528v1",
+      "doi": null,
+      "year": 2017,
+      "authors": [
+        "Florian Bouville",
+        "Eric Maire",
+        "Sylvain Meille",
+        "Bertrand Van de Moortèle",
+        "Adam J. Stevenson",
+        "Sylvain Deville"
+      ],
+      "venue": "arXiv",
+      "summary": "This is a reply to the correspondence of Prof. Robert Ritchie: \"On the fracture toughness of bioinspired ceramic materials\", submitted to Nature Materials, which discusses the fracture toughness values of the following papers: Bouville, F., Maire, E., Meille, S., Van de Moortèle, B., Stevenson, A. J., & Deville, S. (2014). Strong, tough and stiff bioinspired ceramics from brittle constituents. Nature Materials, 13(5), 508-514 and Le Ferrand, H., Bouville, F., Niebel, T. P., & Studart, A. R. (2015). Magnetically assisted slip casting of bioinspired heterogeneous composites. Nature Materials, 14..."
+    },
+    {
+      "source_id": "Arxiv-84182be2845167f0",
+      "provider": "Arxiv",
+      "title": "Analytical modelling of thermal residual stresses and optimal design of ZrO2/(ZrO2+Ni) sandwich ceramics",
+      "url": "http://arxiv.org/abs/1907.09259v1",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Wenbin Zhou",
+        "Rubing Zhang",
+        "Shigang Ai",
+        "Yongmao Pei",
+        "Daining Fang"
+      ],
+      "venue": "arXiv",
+      "summary": "The joining of ceramics with metals have been extensively used in applications requiring high strength and excellent heat insulation. However, evaluating the residual stress generated inevitably due to the mismatch in coefficients of thermal expansion of ceramic and metal is challenging, which is very important for fabrication and characterization of layered inhomogeneous material. A simplified analytical model considering the overall deformation compatibility is established to compute the interlaminar residual stresses of the ZrO2/(ZrO2+Ni) sandwich ceramics, which agrees well with the result..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "OpenAlex-51796dfd486c57bd",
+      "provider": "OpenAlex",
+      "title": "Recent Inventions in Additive Manufacturing: Holistic Review",
+      "url": "https://doi.org/10.3390/inventions8040103",
+      "doi": "https://doi.org/10.3390/inventions8040103",
+      "year": 2023,
+      "authors": [
+        "Ismail Fidan",
+        "Orkhan Huseynov",
+        "Mohammad Alshaikh Ali",
+        "Suhas Alkunte",
+        "Mithila Rajeshirke",
+        "Ankit Gupta",
+        "Seymur Hasanov",
+        "Khalid Tantawi"
+      ],
+      "venue": "Inventions",
+      "summary": "This general review paper presents a condensed view of recent inventions in the Additive Manufacturing (AM) field. It outlines factors affecting the development and commercialization of inventions via research collaboration and discusses breakthroughs in materials and AM technologies and their integration with emerging technologies. The paper explores the impact of AM across various sectors, including the aerospace, automotive, healthcare, food, and construction industries, since the 1970s. It also addresses challenges and future directions, such as hybrid manufacturing and bio-printing, along..."
+    },
+    {
+      "source_id": "OpenAlex-b895ae43272a0496",
+      "provider": "OpenAlex",
+      "title": "Bioinspired Additive Manufacturing of Hierarchical Materials: From Biostructures to Functions",
+      "url": "https://doi.org/10.34133/research.0164",
+      "doi": "https://doi.org/10.34133/research.0164",
+      "year": 2023,
+      "authors": [
+        "Jingjiang Wei",
+        "Fei Pan",
+        "Hang Ping",
+        "Kun Yang",
+        "Yanqing Wang",
+        "Qingyuan Wang",
+        "Zhengyi Fu"
+      ],
+      "venue": "Research",
+      "summary": "Throughout billions of years, biological systems have evolved sophisticated, multiscale hierarchical structures to adapt to changing environments. Biomaterials are synthesized under mild conditions through a bottom-up self-assembly process, utilizing substances from the surrounding environment, and meanwhile are regulated by genes and proteins. Additive manufacturing, which mimics this natural process, provides a promising approach to developing new materials with advantageous properties similar to natural biological materials. This review presents an overview of natural biomaterials, emphasiz..."
+    },
+    {
+      "source_id": "OpenAlex-eca0f2b137f90086",
+      "provider": "OpenAlex",
+      "title": "Polymer Composites in 3D/4D Printing: Materials, Advances, and Prospects",
+      "url": "https://doi.org/10.3390/molecules29020319",
+      "doi": "https://doi.org/10.3390/molecules29020319",
+      "year": 2024,
+      "authors": [
+        "Ayyaz Mahmood",
+        "Fouzia Perveen",
+        "Shenggui Chen",
+        "Tayyaba Akram",
+        "Ahmad Irfan"
+      ],
+      "venue": "Molecules",
+      "summary": "Additive manufacturing (AM), commonly referred to as 3D printing, has revolutionized the manufacturing landscape by enabling the intricate layer-by-layer construction of three-dimensional objects. In contrast to traditional methods relying on molds and tools, AM provides the flexibility to fabricate diverse components directly from digital models without the need for physical alterations to machinery. Four-dimensional printing is a revolutionary extension of 3D printing that introduces the dimension of time, enabling dynamic transformations in printed structures over predetermined periods. Thi..."
+    },
+    {
+      "source_id": "Crossref-43aae4df612ff733",
+      "provider": "Crossref",
+      "title": "Determination of Interfacial Fracture Toughness in High Temperature Composites",
+      "url": "https://doi.org/10.1115/imece1996-0475",
+      "doi": "10.1115/imece1996-0475",
+      "year": 1996,
+      "authors": [
+        "V. Bechel",
+        "N. R. Sottos"
+      ],
+      "venue": "Aerospace and Materials",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-d3eaf454f84a42e7",
+      "provider": "Crossref",
+      "title": "Fracture Strength of Ultra-High Temperature Ceramics",
+      "url": "https://doi.org/10.4028/0-87849-473-1.1785",
+      "doi": "10.4028/0-87849-473-1.1785",
+      "year": 2008,
+      "authors": [
+        "Tao Zeng",
+        "Dai Ning Fang",
+        "Xia Mei Lu",
+        "Fei Fei Zhou"
+      ],
+      "venue": "Key Engineering Materials",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-65c94bf738dba4fb",
+      "provider": "Crossref",
+      "title": "Predicting effective fracture toughness of ZrB2-based ultra-high temperature ceramics by phase-field modeling",
+      "url": "https://doi.org/10.1016/j.matdes.2020.108713",
+      "doi": "10.1016/j.matdes.2020.108713",
+      "year": 2020,
+      "authors": [
+        "Arezoo Emdadi",
+        "Jeremy Watts",
+        "William G. Fahrenholtz",
+        "Gregory E. Hilmas",
+        "Mohsen Asle Zaeem"
+      ],
+      "venue": "Materials &amp; Design",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780908375-MaterialsScience-followup-1780905233-ef73f80ebb53.json"
+}

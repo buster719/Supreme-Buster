@@ -1,0 +1,96 @@
+{
+  "timestamp_secs": 1781084089,
+  "task_id": "followup-1780970451-067c4f20caa3",
+  "domain": "Aerospace",
+  "question": "Has the aerospace community adopted the “resilience gap” concept from NIST SP 1190 or equivalent in habitat design, and if so, what modeling paradigms do they use?",
+  "query": "aerospace civilization resilience deep space capability aerospace community adopted resilience concept nist 1190 equivalent habitat",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-978539ee49e97667",
+      "provider": "Arxiv",
+      "title": "A Review of Urban Resilience Frameworks: Transferring Knowledge to Enhance Pandemic Resilience",
+      "url": "http://arxiv.org/abs/2503.17371v2",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Yue Sun",
+        "Ryan Weightman",
+        "Anye Shi",
+        "Timur Dogan",
+        "Samitha Samaranayake"
+      ],
+      "venue": "arXiv",
+      "summary": "Urbanization is rapidly increasing, with urban populations expected to grow significantly by 2050, particularly in developing regions. This expansion brings challenges related to chronic stresses and acute shocks, such as the COVID-19 pandemic, which has underscored the critical role of urban form in a city's capacity to manage public health crises. Despite the heightened interest in urban resilience, research examining the relationship between urban morphology and pandemic resilience remains limited, often focusing solely on density and its effect on disease transmission. This work aims to ad..."
+    },
+    {
+      "source_id": "Arxiv-b522457f0bad581c",
+      "provider": "Arxiv",
+      "title": "Fundamental Concepts of Cyber Resilience: Introduction and Overview",
+      "url": "http://arxiv.org/abs/1806.02852v1",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "Igor Linkov",
+        "Alexander Kott"
+      ],
+      "venue": "arXiv",
+      "summary": "Given the rapid evolution of threats to cyber systems, new management approaches are needed that address risk across all interdependent domains (i.e., physical, information, cognitive, and social) of cyber systems. Further, the traditional approach of hardening of cyber systems against identified threats has proven to be impossible. Therefore, in the same way that biological systems develop immunity as a way to respond to infections and other attacks, so too must cyber systems adapt to ever-changing threats that continue to attack vital system functions, and to bounce back from the effects of ..."
+    },
+    {
+      "source_id": "Crossref-681318dc99cbba3e",
+      "provider": "Crossref",
+      "title": "NIST SP 1190 Guide Brief 3 - Existing Community Resilience Activities Identifying Solutions to Address Resilience Gaps",
+      "url": "https://doi.org/10.6028/nist.sp.1190gb-3",
+      "doi": "10.6028/nist.sp.1190gb-3",
+      "year": 2016,
+      "authors": [
+        "Therese P. McAllister"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-2de9459edce0cda9",
+      "provider": "Crossref",
+      "title": "COMMUNITY RESILIENCE PLANNING GUIDE FOR BUILDINGS AND INFRASTRUCTURE SYSTEMS: A Playbook",
+      "url": "https://doi.org/10.6028/nist.sp.1190gb-16",
+      "doi": "10.6028/nist.sp.1190gb-16",
+      "year": 2020,
+      "authors": [
+        "NIST Community Resilience Program"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-59f028dd81f478b9",
+      "provider": "Crossref",
+      "title": "Guide Brief 13 - Resilience Gaps - Identifying and Prioritizing Closure of Resilience Gaps",
+      "url": "https://doi.org/10.6028/nist.sp.1190gb-13",
+      "doi": "10.6028/nist.sp.1190gb-13",
+      "year": 2017,
+      "authors": [
+        "Community Resilience Program NIST"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781084089-Aerospace-followup-1780970451-067c4f20caa3.json"
+}

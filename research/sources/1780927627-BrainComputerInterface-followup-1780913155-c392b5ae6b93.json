@@ -1,0 +1,147 @@
+{
+  "timestamp_secs": 1780927627,
+  "task_id": "followup-1780913155-c392b5ae6b93",
+  "domain": "BrainComputerInterface",
+  "question": "What are the known failure modes of current mutual adaptation algorithms (e.g., decoder drift, user fatigue, mode collapse) and their mitigation strategies?",
+  "query": "brain computer interface human AI cooperation risks known failure modes current mutual adaptation algorithms decoder drift",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-08ada7dd36cee980",
+      "provider": "OpenAlex",
+      "title": "Overview of AI and communication for 6G network: fundamentals, challenges, and future research opportunities",
+      "url": "https://doi.org/10.1007/s11432-024-4337-1",
+      "doi": "https://doi.org/10.1007/s11432-024-4337-1",
+      "year": 2025,
+      "authors": [
+        "Qimei Cui",
+        "Xiaohu You",
+        "Wei Ni",
+        "Guoshun Nan",
+        "Xuefei Zhang",
+        "Jianhua Zhang",
+        "Xinchen Lyu",
+        "Ming Ai"
+      ],
+      "venue": "Science China Information Sciences",
+      "summary": "Abstract With the growing demand for seamless connectivity and intelligent communication, the integration of artificial intelligence (AI) and sixth-generation (6G) communication networks has emerged as a transformative paradigm. By embedding AI capabilities across various network layers, this integration enables optimized resource allocation, improved efficiency, and enhanced system robust performance. This paper presents a comprehensive overview of AI and communication for 6G networks, with a focus on their foundational principles, inherent challenges, and future research opportunities. We fi..."
+    },
+    {
+      "source_id": "OpenAlex-7e0a8b24a23ef347",
+      "provider": "OpenAlex",
+      "title": "Knowledge-Empowered, Collaborative, and Co-Evolving AI Models: The Post-LLM Roadmap",
+      "url": "https://doi.org/10.1016/j.eng.2024.12.008",
+      "doi": "https://doi.org/10.1016/j.eng.2024.12.008",
+      "year": 2024,
+      "authors": [
+        "Fei Wu",
+        "Fei Wu",
+        "Tao Shen",
+        "Thomas Bäck",
+        "Jingyuan Chen",
+        "Gang Huang",
+        "Yaochu Jin",
+        "Kun Kuang"
+      ],
+      "venue": "Engineering",
+      "summary": "Large language models (LLMs) have significantly advanced artificial intelligence (AI) by excelling in tasks such as understanding, generation, and reasoning across multiple modalities. Despite these achievements, LLMs have inherent limitations including outdated information, hallucinations, inefficiency, lack of interpretability, and challenges in domain-specific accuracy. To address these issues, this survey explores three promising directions in the post-LLM era: knowledge empowerment, model collaboration, and model co-evolution. First, we examine methods of integrating external knowledge in..."
+    },
+    {
+      "source_id": "OpenAlex-c70d73faa360ef26",
+      "provider": "OpenAlex",
+      "title": "Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue",
+      "url": "https://doi.org/10.3390/e26060481",
+      "doi": "https://doi.org/10.3390/e26060481",
+      "year": 2024,
+      "authors": [
+        "Michael Levin"
+      ],
+      "venue": "Entropy",
+      "summary": "Many studies on memory emphasize the material substrate and mechanisms by which data can be stored and reliably read out. Here, I focus on complementary aspects: the need for agents to dynamically reinterpret and modify memories to suit their ever-changing selves and environment. Using examples from developmental biology, evolution, and synthetic bioengineering, in addition to neuroscience, I propose that a perspective on memory as preserving salience, not fidelity, is applicable to many phenomena on scales from cells to societies. Continuous commitment to creative, adaptive confabulation, fro..."
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-737f28e7c4e9afe8",
+      "provider": "Crossref",
+      "title": "Translational Algorithms: The Heart of a Brain Computer Interface",
+      "url": "https://doi.org/10.1007/978-3-319-10978-7_4",
+      "doi": "10.1007/978-3-319-10978-7_4",
+      "year": 2015,
+      "authors": [
+        "Harsimrat Singh",
+        "Ian Daly"
+      ],
+      "venue": "Intelligent Systems Reference Library",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780927627-BrainComputerInterface-followup-1780913155-c392b5ae6b93.json"
+}

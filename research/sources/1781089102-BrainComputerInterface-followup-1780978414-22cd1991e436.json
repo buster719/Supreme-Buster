@@ -1,0 +1,99 @@
+{
+  "timestamp_secs": 1781089102,
+  "task_id": "followup-1780978414-22cd1991e436",
+  "domain": "BrainComputerInterface",
+  "question": "What neurophysiological markers (P300, ERN, frontal theta) covary with subjective trust erosion when the AI repeatedly contradicts self-reports?",
+  "query": "brain computer interface human AI cooperation risks neurophysiological markers p300 frontal theta covary subjective trust erosion",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-98f6474dbe7ec189",
+      "provider": "Arxiv",
+      "title": "Trust and Reliance in XAI -- Distinguishing Between Attitudinal and Behavioral Measures",
+      "url": "http://arxiv.org/abs/2203.12318v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Nicolas Scharowski",
+        "Sebastian A. C. Perrig",
+        "Nick von Felten",
+        "Florian Brühlmann"
+      ],
+      "venue": "arXiv",
+      "summary": "Trust is often cited as an essential criterion for the effective use and real-world deployment of AI. Researchers argue that AI should be more transparent to increase trust, making transparency one of the main goals of XAI. Nevertheless, empirical research on this topic is inconclusive regarding the effect of transparency on trust. An explanation for this ambiguity could be that trust is operationalized differently within XAI. In this position paper, we advocate for a clear distinction between behavioral (objective) measures of reliance and attitudinal (subjective) measures of trust. However, ..."
+    },
+    {
+      "source_id": "Crossref-481bb7a7fd0f6015",
+      "provider": "Crossref",
+      "title": "Brain Computer Interface Using P300",
+      "url": "https://doi.org/10.1201/9781003241386-9",
+      "doi": "10.1201/9781003241386-9",
+      "year": 2022,
+      "authors": [
+        "Narayan Panigrahi",
+        "Saraju P. Mohanty"
+      ],
+      "venue": "Brain Computer Interface",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-ebac726c8086091c",
+      "provider": "Crossref",
+      "title": "P300-based Brain-Computer Interface Paradigm Design",
+      "url": "https://doi.org/10.5772/14858",
+      "doi": "10.5772/14858",
+      "year": 2011,
+      "authors": [
+        "Reza Fazel-Rezai",
+        "Waqas Ahm"
+      ],
+      "venue": "Recent Advances in Brain-Computer Interface Systems",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-82c4e1e31d0e3645",
+      "provider": "Crossref",
+      "title": "A Review of P300, SSVEP, and Hybrid P300/SSVEP Brain- Computer Interface Systems",
+      "url": "https://doi.org/10.5772/56135",
+      "doi": "10.5772/56135",
+      "year": 2013,
+      "authors": [
+        "Setare Amiri",
+        "Ahmed Rabbi",
+        "Leila Azinfar",
+        "Reza Fazel-Rezai"
+      ],
+      "venue": "Brain-Computer Interface Systems - Recent Progress and Future Prospects",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781089102-BrainComputerInterface-followup-1780978414-22cd1991e436.json"
+}

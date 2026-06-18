@@ -1,0 +1,73 @@
+{
+  "timestamp_secs": 1781178921,
+  "task_id": "followup-1781082710-e08c793ce904",
+  "domain": "Aerospace",
+  "question": "How do validation approaches for quantum magnetometers in space weather or deep-space navigation differ from those for terrestrial geophysical or medical applications?",
+  "query": "aerospace civilization resilience deep space capability validation approaches quantum magnetometers space weather deep navigation differ",
+  "sources": [
+    {
+      "source_id": "Arxiv-dded4b938008de9d",
+      "provider": "Arxiv",
+      "title": "Verification of Space Weather Forecasts issued by the Met Office Space Weather Operations Centre",
+      "url": "http://arxiv.org/abs/1804.02985v1",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "Michael A. Sharpe",
+        "Sophie A. Murray"
+      ],
+      "venue": "arXiv",
+      "summary": "The Met Office Space Weather Operations Centre was founded in 2014 and part of its remit is a daily Space Weather Technical Forecast to help the UK build resilience to space weather impacts; guidance includes four day geo-magnetic storm forecasts (GMSF) and X-ray flare forecasts (XRFF). It is crucial for forecasters, users, modelers and stakeholders to understand the strengths and weaknesses of these forecasts; therefore, it is important to verify against the most reliable truth data source available. The present study contains verification results for XRFFs using GOES-15 satellite data and GM..."
+    },
+    {
+      "source_id": "Arxiv-5fd532069381d922",
+      "provider": "Arxiv",
+      "title": "The importance of ensemble techniques for operational space weather forecasting",
+      "url": "http://arxiv.org/abs/1806.09861v1",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "Sophie A. Murray"
+      ],
+      "venue": "arXiv",
+      "summary": "The space weather community has begun to use frontier methods such as data assimilation, machine learning, and ensemble modeling to advance current operational forecasting efforts. This was highlighted by a multi-disciplinary session at the 2017 American Geophysical Union Meeting, 'Frontier Solar-Terrestrial Science Enabled by the Combination of Data-Driven Techniques and Physics-Based Understanding', with considerable discussion surrounding ensemble techniques. Here ensemble methods are described in detail; using a set of predictions to improve on a single-model output, for example taking a s..."
+    },
+    {
+      "source_id": "Arxiv-b10bdb57e35de065",
+      "provider": "Arxiv",
+      "title": "Flare forecasting at the Met Office Space Weather Operations Centre",
+      "url": "http://arxiv.org/abs/1703.06754v2",
+      "doi": null,
+      "year": 2017,
+      "authors": [
+        "Sophie A. Murray",
+        "Suzy Bingham",
+        "Michael Sharpe",
+        "David R. Jackson"
+      ],
+      "venue": "arXiv",
+      "summary": "The Met Office Space Weather Operations Centre produces 24/7/365 space weather guidance, alerts, and forecasts to a wide range of government and commercial end users across the United Kingdom. Solar flare forecasts are one of its products, which are issued multiple times a day in two forms; forecasts for each active region on the solar disk over the next 24 hours, and full-disk forecasts for the next four days. Here the forecasting process is described in detail, as well as first verification of archived forecasts using methods commonly used in operational weather prediction. Real-time verific..."
+    },
+    {
+      "source_id": "OpenAlex-966724d95324928b",
+      "provider": "OpenAlex",
+      "title": "Physical AI: Bridging the Sim-to-Real Divide Toward Embodied, Ethical, and Autonomous Intelligence",
+      "url": "https://doi.org/10.36227/techrxiv.176238257.73914361/v1",
+      "doi": "https://doi.org/10.36227/techrxiv.176238257.73914361/v1",
+      "year": 2025,
+      "authors": [
+        "Partha Pratim Ray"
+      ],
+      "venue": null,
+      "summary": "Physical Artificial Intelligence (Physical AI) delineates a new scientific frontier wherein cognition is not abstracted from the world but materially instantiated within it. It represents the fusion of algorithmic reasoning, embodied perception, and dynamic control into cyber–physical substrates capable of autonomous, safe, and ethically aligned interaction. In contrast to digital AI that operates solely over symbolic or pixel domains, Physical AI functions through closed perception–decision–action feedback loops governed by real-world physics, causality, and thermodynamic constraints. This ar..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 3442; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":79777,\"items\":[{\"published-print\":{\"date-par..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781178921-Aerospace-followup-1781082710-e08c793ce904.json"
+}

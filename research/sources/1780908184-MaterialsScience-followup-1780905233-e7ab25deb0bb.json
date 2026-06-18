@@ -1,0 +1,112 @@
+{
+  "timestamp_secs": 1780908184,
+  "task_id": "followup-1780905233-e7ab25deb0bb",
+  "domain": "MaterialsScience",
+  "question": "What is the current specific energy (Wh/kg) and cycle life of carbon nanotube yarn artificial muscles compared to dielectric elastomer actuators, and where is the reliability floor for sub-millimeter cyclic strain control?",
+  "query": "materials science fusion robotics aerospace computation current specific energy cycle life carbon nanotube yarn artificial",
+  "sources": [
+    {
+      "source_id": "Arxiv-a550f0dee388e844",
+      "provider": "Arxiv",
+      "title": "Large Synoptic Survey Telescope: Dark Energy Science Collaboration",
+      "url": "http://arxiv.org/abs/1211.0310v1",
+      "doi": null,
+      "year": 2012,
+      "authors": [
+        "LSST Dark Energy Science Collaboration"
+      ],
+      "venue": "arXiv",
+      "summary": "This white paper describes the LSST Dark Energy Science Collaboration (DESC), whose goal is the study of dark energy and related topics in fundamental physics with data from the Large Synoptic Survey Telescope (LSST). It provides an overview of dark energy science and describes the current and anticipated state of the field. It makes the case for the DESC by laying out a robust analytical framework for dark energy science that has been defined by its members and the comprehensive three-year work plan they have developed for implementing that framework. The analysis working groups cover five ke..."
+    },
+    {
+      "source_id": "Arxiv-d3f67caad935c3db",
+      "provider": "Arxiv",
+      "title": "Experimental and Theoretical Aspects of the Fragmentation of Carbon's Single and Multi-Walled Nanotubes",
+      "url": "http://arxiv.org/abs/2511.15467v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Sumera Javeed",
+        "Shoaib Ahmad"
+      ],
+      "venue": "arXiv",
+      "summary": "Energetic ion irradiation is an effective method for studying how single and multi-shelled carbon nanotubes break apart. The energy from ions is dissipated through both linear and nonlinear processes in the nanotubes, leading to defect formation. Fragmentation occurs via atomic collision cascades and thermal spikes, each described by different theoretical models. Experiments with Cs-irradiated nanotubes support these models, and an information-theoretic approach further explains the fragmentation mechanisms. Sputtered species yield probability distributions, which are analyzed using Shannon en..."
+    },
+    {
+      "source_id": "Arxiv-371d46bb252eca85",
+      "provider": "Arxiv",
+      "title": "Toxicity of Carbon Nanomaterials",
+      "url": "http://arxiv.org/abs/2109.13918v1",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Arpita Adhikari",
+        "Joydip Sengupta"
+      ],
+      "venue": "arXiv",
+      "summary": "The outstanding multidisciplinary applicability of nanomaterials has paved the path for the rapid advancement of nanoscience during the last few decades. Such technological progress subsequently results in an inevitable environmental exposure of nanomaterials. Presently, nanomaterials are employed in an extensive range of commercial products. Safe and sustainable incorporation of nanomaterials in industrial products requires a profound and comprehensive understanding of their potential toxicity. Among different nanomaterials, carbon nanomaterials marked its notable superiority toward the devel..."
+    },
+    {
+      "source_id": "OpenAlex-104a5df52f2a6f11",
+      "provider": "OpenAlex",
+      "title": "4D printing roadmap",
+      "url": "https://doi.org/10.1088/1361-665x/ad5c22",
+      "doi": "https://doi.org/10.1088/1361-665x/ad5c22",
+      "year": 2024,
+      "authors": [
+        "Mahdi Bodaghi",
+        "Linlin Wang",
+        "Fenghua Zhang",
+        "Yanju Liu",
+        "Jinsong Leng",
+        "Ruizhe Xing",
+        "Michael D. Dickey",
+        "Saeedeh Vanaei"
+      ],
+      "venue": "Smart Materials and Structures",
+      "summary": "Abstract Four-dimensional (4D) printing is an advanced manufacturing technology that has rapidly emerged as a transformative tool with the capacity to reshape various research domains and industries. Distinguished by its integration of time as a dimension, 4D printing allows objects to dynamically respond to external stimuli, setting it apart from conventional 3D printing. This roadmap has been devised, by contributions of 44 active researchers in this field from 32 affiliations world-wide, to navigate the swiftly evolving landscape of 4D printing, consolidating recent advancements and making ..."
+    },
+    {
+      "source_id": "OpenAlex-af35d5c356dfb80e",
+      "provider": "OpenAlex",
+      "title": "Biology and bioinspiration of soft robotics: Actuation, sensing, and system integration",
+      "url": "https://doi.org/10.1016/j.isci.2021.103075",
+      "doi": "https://doi.org/10.1016/j.isci.2021.103075",
+      "year": 2021,
+      "authors": [
+        "Luquan Ren",
+        "Bingqian Li",
+        "Guowu Wei",
+        "Kunyang Wang",
+        "Zhengyi Song",
+        "Yuyang Wei",
+        "Lei Ren",
+        "Qingping Liu"
+      ],
+      "venue": "iScience",
+      "summary": "Organisms in nature grow with senses, nervous, and actuation systems coordinated in ingenious ways to sustain metabolism and other essential life activities. The understanding of biological structures and functions guide the construction of soft robotics with unprecedented performances. However, despite the progress in soft robotics, there still remains a big gap between man-made soft robotics and natural lives in terms of autonomy, adaptability, self-repair, durability, energy efficiency, etc. Here, the actuation and sensing strategies in the natural biological world are summarized along with..."
+    },
+    {
+      "source_id": "OpenAlex-0a29d30d01a82dc1",
+      "provider": "OpenAlex",
+      "title": "Transforming Object Design and Creation: Biomaterials and Contemporary Manufacturing Leading the Way",
+      "url": "https://doi.org/10.3390/biomimetics9010048",
+      "doi": "https://doi.org/10.3390/biomimetics9010048",
+      "year": 2024,
+      "authors": [
+        "Antreas Kantaros",
+        "Theodore Ganetsos",
+        "Florian Ion Tiberiu Petrescu"
+      ],
+      "venue": "Biomimetics",
+      "summary": "In the field of three-dimensional object design and fabrication, this paper explores the transformative potential at the intersection of biomaterials, biopolymers, and additive manufacturing. Drawing inspiration from the intricate designs found in the natural world, this study contributes to the evolving landscape of manufacturing and design paradigms. Biomimicry, rooted in emulating nature's sophisticated solutions, serves as the foundational framework for developing materials endowed with remarkable characteristics, including adaptability, responsiveness, and self-transformation. These advan..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "error sending request for url (https://api.crossref.org/works?query=materials+science+fusion+robotics+aerospace+computation+current+specific+energy+cycle+life+carbon+nanotube+yarn+artificial&rows=3&select=DOI%2Ctitle%2CURL%2Cauthor%2Cpublis..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780908184-MaterialsScience-followup-1780905233-e7ab25deb0bb.json"
+}

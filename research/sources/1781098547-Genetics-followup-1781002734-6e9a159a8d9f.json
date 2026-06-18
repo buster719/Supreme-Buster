@@ -1,0 +1,95 @@
+{
+  "timestamp_secs": 1781098547,
+  "task_id": "followup-1781002734-6e9a159a8d9f",
+  "domain": "Genetics",
+  "question": "Were the eligibility criteria defined during the 2022–2023 NHMRC consultation process, and are the consultation submissions public?",
+  "query": "genetics safety human flourishing genome editing were eligibility criteria defined during 2022 2023 nhmrc consultation",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-f6a03170cb4545b8",
+      "provider": "Arxiv",
+      "title": "CHC-COMP 2022: Competition Report",
+      "url": "http://arxiv.org/abs/2211.12231v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Emanuele De Angelis",
+        "Hari Govind V K"
+      ],
+      "venue": "arXiv",
+      "summary": "CHC-COMP 2022 is the fifth edition of the competition of solvers for Constrained Horn Clauses. The competition was run in March 2022; the results were presented at the 9th Workshop on Horn Clauses for Verification and Synthesis held in Munich, Germany, on April 3, 2022. This edition featured six solvers, and eight tracks consisting of sets of linear and nonlinear clauses with constraints over linear integer arithmetic, linear real arithmetic, arrays, and algebraic data types. This report provides an overview of the organization behind the competition runs: it includes the technical details of ..."
+    },
+    {
+      "source_id": "Crossref-0952cfd7f3bde3bb",
+      "provider": "Crossref",
+      "title": "(Genome) Editing Future Societies",
+      "url": "https://doi.org/10.1332/policypress/9781529223125.003.0016",
+      "doi": "10.1332/policypress/9781529223125.003.0016",
+      "year": 2022,
+      "authors": [
+        "Michael Morrison"
+      ],
+      "venue": "Being Human During COVID-19",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781098547-Genetics-followup-1781002734-6e9a159a8d9f.json"
+}

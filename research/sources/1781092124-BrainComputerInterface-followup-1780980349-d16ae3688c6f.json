@@ -1,0 +1,110 @@
+{
+  "timestamp_secs": 1781092124,
+  "task_id": "followup-1780980349-d16ae3688c6f",
+  "domain": "BrainComputerInterface",
+  "question": "What is the minimal temporal resolution of an uncertainty overlay that significantly improves decision accuracy without impairing motor task performance in stroke patients?",
+  "query": "brain computer interface human AI cooperation risks minimal temporal resolution uncertainty overlay significantly improves decision accuracy",
+  "sources": [
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-d6478d22697555cf",
+      "provider": "Arxiv",
+      "title": "Narrowing Action Choices with AI Improves Human Sequential Decisions",
+      "url": "http://arxiv.org/abs/2510.16097v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Eleni Straitouri",
+        "Stratis Tsirtsis",
+        "Ander Artola Velasco",
+        "Manuel Gomez-Rodriguez"
+      ],
+      "venue": "arXiv",
+      "summary": "Recent work has shown that, in classification tasks, it is possible to design decision support systems that do not require human experts to understand when to cede agency to a classifier or when to exercise their own agency to achieve complementarity$\\unicode{x2014}$experts using these systems make more accurate predictions than those made by the experts or the classifier alone. The key principle underpinning these systems reduces to adaptively controlling the level of human agency, by design. Can we use the same principle to achieve complementarity in sequential decision making tasks? In this..."
+    },
+    {
+      "source_id": "OpenAlex-5b4ac8caba8a9fc9",
+      "provider": "OpenAlex",
+      "title": "CAI4CAI: The Rise of Contextual Artificial Intelligence in Computer-Assisted Interventions",
+      "url": "https://doi.org/10.1109/jproc.2019.2946993",
+      "doi": "https://doi.org/10.1109/jproc.2019.2946993",
+      "year": 2019,
+      "authors": [
+        "Tom Vercauteren",
+        "Mathias Unberath",
+        "Nicolas Padoy",
+        "Nassir Navab"
+      ],
+      "venue": "Proceedings of the IEEE",
+      "summary": "Data-driven computational approaches have evolved to enable extraction of information from medical images with a reliability, accuracy and speed which is already transforming their interpretation and exploitation in clinical practice. While similar benefits are longed for in the field of interventional imaging, this ambition is challenged by a much higher heterogeneity. Clinical workflows within interventional suites and operating theatres are extremely complex and typically rely on poorly integrated intra-operative devices, sensors, and support infrastructures. Taking stock of some of the mos..."
+    },
+    {
+      "source_id": "OpenAlex-7718e2dbd85c9e51",
+      "provider": "OpenAlex",
+      "title": "A Metaverse: Taxonomy, Components, Applications, and Open Challenges",
+      "url": "https://doi.org/10.1109/access.2021.3140175",
+      "doi": "https://doi.org/10.1109/access.2021.3140175",
+      "year": 2022,
+      "authors": [
+        "Sangmin Park",
+        "Young‐Gab Kim"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Unlike previous studies on the Metaverse based on Second Life, the current Metaverse is based on the social value of Generation Z that online and offline selves are not different. With the technological development of deep learning-based high-precision recognition models and natural generation models, Metaverse is being strengthened with various factors, from mobile-based always-on access to connectivity with reality using virtual currency. The integration of enhanced social activities and neural-net methods requires a new definition of Metaverse suitable for the present, different from the pr..."
+    },
+    {
+      "source_id": "OpenAlex-08ada7dd36cee980",
+      "provider": "OpenAlex",
+      "title": "Overview of AI and communication for 6G network: fundamentals, challenges, and future research opportunities",
+      "url": "https://doi.org/10.1007/s11432-024-4337-1",
+      "doi": "https://doi.org/10.1007/s11432-024-4337-1",
+      "year": 2025,
+      "authors": [
+        "Qimei Cui",
+        "Xiaohu You",
+        "Wei Ni",
+        "Guoshun Nan",
+        "Xuefei Zhang",
+        "Jianhua Zhang",
+        "Xinchen Lyu",
+        "Ming Ai"
+      ],
+      "venue": "Science China Information Sciences",
+      "summary": "Abstract With the growing demand for seamless connectivity and intelligent communication, the integration of artificial intelligence (AI) and sixth-generation (6G) communication networks has emerged as a transformative paradigm. By embedding AI capabilities across various network layers, this integration enables optimized resource allocation, improved efficiency, and enhanced system robust performance. This paper presents a comprehensive overview of AI and communication for 6G networks, with a focus on their foundational principles, inherent challenges, and future research opportunities. We fi..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1608; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":32164,\"items\":[{\"published-print\":{\"date-par..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781092124-BrainComputerInterface-followup-1780980349-d16ae3688c6f.json"
+}

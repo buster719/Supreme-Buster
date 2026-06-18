@@ -1,0 +1,103 @@
+{
+  "timestamp_secs": 1781193565,
+  "task_id": "followup-1781086463-9ecc5af93f7b",
+  "domain": "Aerospace",
+  "question": "What historical aerospace programs (e.g., Saturn V stages, Space Shuttle orbiters) show both high commonality and high flight rates, and what was their achieved cost/performance variance over the first 10 units?",
+  "query": "aerospace civilization resilience deep space capability historical aerospace programs saturn stages space shuttle orbiters show",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-97df31fb9d7152bf",
+      "provider": "Arxiv",
+      "title": "SPACE: the SPectroscopic All-sky Cosmic Explorer",
+      "url": "http://arxiv.org/abs/0804.4433v1",
+      "doi": null,
+      "year": 2008,
+      "authors": [
+        "A. Cimatti",
+        "M. Robberto",
+        "C. M. Baugh",
+        "S. V. W. Beckwith",
+        "R. Content",
+        "E. Daddi",
+        "G. De Lucia",
+        "B. Garilli"
+      ],
+      "venue": "arXiv",
+      "summary": "We describe the scientific motivations, the mission concept and the instrumentation of SPACE, a class-M mission proposed for concept study at the first call of the ESA Cosmic-Vision 2015-2025 planning cycle. SPACE aims to produce the largest three-dimensional evolutionary map of the Universe over the past 10 billion years by taking near-IR spectra and measuring redshifts for more than half a billion galaxies at 0<z<2 down to AB~23 over 3πsr of the sky. In addition, SPACE will also target a smaller sky field, performing a deep spectroscopic survey of millions of galaxies to AB~26 and at 2<z<10+..."
+    },
+    {
+      "source_id": "Arxiv-dded4b938008de9d",
+      "provider": "Arxiv",
+      "title": "Verification of Space Weather Forecasts issued by the Met Office Space Weather Operations Centre",
+      "url": "http://arxiv.org/abs/1804.02985v1",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "Michael A. Sharpe",
+        "Sophie A. Murray"
+      ],
+      "venue": "arXiv",
+      "summary": "The Met Office Space Weather Operations Centre was founded in 2014 and part of its remit is a daily Space Weather Technical Forecast to help the UK build resilience to space weather impacts; guidance includes four day geo-magnetic storm forecasts (GMSF) and X-ray flare forecasts (XRFF). It is crucial for forecasters, users, modelers and stakeholders to understand the strengths and weaknesses of these forecasts; therefore, it is important to verify against the most reliable truth data source available. The present study contains verification results for XRFFs using GOES-15 satellite data and GM..."
+    },
+    {
+      "source_id": "Crossref-41dc5a8f93677e5c",
+      "provider": "Crossref",
+      "title": "Some design aspects of space shuttle orbiters",
+      "url": "https://doi.org/10.1016/0376-0421(72)90015-2",
+      "doi": "10.1016/0376-0421(72)90015-2",
+      "year": 1972,
+      "authors": [
+        "L.H. Townend"
+      ],
+      "venue": "Progress in Aerospace Sciences",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-192f95a3f6536319",
+      "provider": "Crossref",
+      "title": "Operational considerations and comparisons of the Saturn, Space Shuttle and Ares launch vehicles",
+      "url": "https://doi.org/10.1109/aero.2009.4839547",
+      "doi": "10.1109/aero.2009.4839547",
+      "year": 2009,
+      "authors": [
+        "Craig Cruzen",
+        "Greg Chavers",
+        "Jerry Wittenstein"
+      ],
+      "venue": "2009 IEEE Aerospace conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-1474e20e75a0bad9",
+      "provider": "Crossref",
+      "title": "Risk assessment codes for Space Shuttle Orbiters",
+      "url": "https://doi.org/10.2514/6.1995-3692",
+      "doi": "10.2514/6.1995-3692",
+      "year": 1995,
+      "authors": [
+        "R Bernhard",
+        "E Christiansen",
+        "J Hyde"
+      ],
+      "venue": "Space Programs and Technologies Conference",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781193565-Aerospace-followup-1781086463-9ecc5af93f7b.json"
+}

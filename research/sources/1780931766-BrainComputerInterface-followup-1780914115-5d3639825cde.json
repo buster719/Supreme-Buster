@@ -1,0 +1,104 @@
+{
+  "timestamp_secs": 1780931766,
+  "task_id": "followup-1780914115-5d3639825cde",
+  "domain": "BrainComputerInterface",
+  "question": "In shared autonomy tasks, what is the empirical tradeoff between BCI bandwidth and level of machine intelligence required to maintain team performance?",
+  "query": "brain computer interface human AI cooperation risks shared autonomy tasks empirical tradeoff bandwidth level machine intelligence",
+  "sources": [
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-e479839676d97cd0",
+      "provider": "Arxiv",
+      "title": "Intelligent behavior depends on the ecological niche: Scaling up AI to human-like intelligence in socio-cultural environments",
+      "url": "http://arxiv.org/abs/2103.06769v1",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Manfred Eppe",
+        "Pierre-Yves Oudeyer"
+      ],
+      "venue": "arXiv",
+      "summary": "This paper outlines a perspective on the future of AI, discussing directions for machines models of human-like intelligence. We explain how developmental and evolutionary theories of human cognition should further inform artificial intelligence. We emphasize the role of ecological niches in sculpting intelligent behavior, and in particular that human intelligence was fundamentally shaped to adapt to a constantly changing socio-cultural environment. We argue that a major limit of current work in AI is that it is missing this perspective, both theoretically and experimentally. Finally, we discus..."
+    },
+    {
+      "source_id": "OpenAlex-ff3e1224499ce97b",
+      "provider": "OpenAlex",
+      "title": "The Road Towards 6G: A Comprehensive Survey",
+      "url": "https://doi.org/10.1109/ojcoms.2021.3057679",
+      "doi": "https://doi.org/10.1109/ojcoms.2021.3057679",
+      "year": 2021,
+      "authors": [
+        "Wei Jiang",
+        "Bin Han",
+        "Mohammad Asif Habibi",
+        "Hans Dieter Schotten"
+      ],
+      "venue": "IEEE Open Journal of the Communications Society",
+      "summary": "As of today, the fifth generation (5G) mobile communication system has been rolled out in many countries and the number of 5G subscribers already reaches a very large scale. It is time for academia and industry to shift their attention towards the next generation. At this crossroad, an overview of the current state of the art and a vision of future communications are definitely of interest. This article thus aims to provide a comprehensive survey to draw a picture of the sixth generation (6G) system in terms of drivers, use cases, usage scenarios, requirements, key performance indicators (KPIs..."
+    },
+    {
+      "source_id": "OpenAlex-003ded4b8952354d",
+      "provider": "OpenAlex",
+      "title": "Edge Artificial Intelligence for 6G: Vision, Enabling Technologies, and Applications",
+      "url": "https://doi.org/10.1109/jsac.2021.3126076",
+      "doi": "https://doi.org/10.1109/jsac.2021.3126076",
+      "year": 2021,
+      "authors": [
+        "Khaled B. Letaief",
+        "Yuanming Shi",
+        "Jianmin Lu",
+        "Jianhua Lu"
+      ],
+      "venue": "IEEE Journal on Selected Areas in Communications",
+      "summary": "The thriving of artificial intelligence (AI) applications is driving the further evolution of wireless networks. It has been envisioned that 6G will be transformative and will revolutionize the evolution of wireless from “connected things” to “connected intelligence”. However, state-of-the-art deep learning and big data analytics based AI systems require tremendous computation and communication resources, causing significant latency, energy consumption, network congestion, and privacy leakage in both of the training and inference processes. By embedding model training and inference capabilitie..."
+    },
+    {
+      "source_id": "OpenAlex-39e6afb8f1bf9bc9",
+      "provider": "OpenAlex",
+      "title": "Engineering context-aware systems and applications: A survey",
+      "url": "https://doi.org/10.1016/j.jss.2016.02.010",
+      "doi": "https://doi.org/10.1016/j.jss.2016.02.010",
+      "year": 2016,
+      "authors": [
+        "U. Alegre",
+        "Juan Carlos Augusto",
+        "Tony Clark"
+      ],
+      "venue": "Journal of Systems and Software",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1375; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":74624,\"items\":[{\"DOI\":\"10.3389\\/fnhum.2023.1..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780931766-BrainComputerInterface-followup-1780914115-5d3639825cde.json"
+}

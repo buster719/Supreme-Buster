@@ -1,0 +1,96 @@
+{
+  "timestamp_secs": 1781194220,
+  "task_id": "followup-1781086463-cd41e889b3bd",
+  "domain": "Aerospace",
+  "question": "Can NASA's \"In-Space Transportation Cost Model\" or similar parametric models be used to derive a learning-curve exponent for repeated spacecraft module production, and what is the cited exponent (e.g., 0.85 for 80% learning)?",
+  "query": "aerospace civilization resilience deep space capability nasa space transportation cost model similar parametric models used",
+  "sources": [
+    {
+      "source_id": "Arxiv-97df31fb9d7152bf",
+      "provider": "Arxiv",
+      "title": "SPACE: the SPectroscopic All-sky Cosmic Explorer",
+      "url": "http://arxiv.org/abs/0804.4433v1",
+      "doi": null,
+      "year": 2008,
+      "authors": [
+        "A. Cimatti",
+        "M. Robberto",
+        "C. M. Baugh",
+        "S. V. W. Beckwith",
+        "R. Content",
+        "E. Daddi",
+        "G. De Lucia",
+        "B. Garilli"
+      ],
+      "venue": "arXiv",
+      "summary": "We describe the scientific motivations, the mission concept and the instrumentation of SPACE, a class-M mission proposed for concept study at the first call of the ESA Cosmic-Vision 2015-2025 planning cycle. SPACE aims to produce the largest three-dimensional evolutionary map of the Universe over the past 10 billion years by taking near-IR spectra and measuring redshifts for more than half a billion galaxies at 0<z<2 down to AB~23 over 3πsr of the sky. In addition, SPACE will also target a smaller sky field, performing a deep spectroscopic survey of millions of galaxies to AB~26 and at 2<z<10+..."
+    },
+    {
+      "source_id": "Arxiv-802f0ee3810c229f",
+      "provider": "Arxiv",
+      "title": "Space Weather Observations, Modeling, and Alerts in Support of Human Exploration of Mars",
+      "url": "http://arxiv.org/abs/2211.04021v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "James L. Green",
+        "Chuanfei Dong",
+        "Michael Hesse",
+        "C. Alex Young",
+        "Vladimir Airapetian"
+      ],
+      "venue": "arXiv",
+      "summary": "Space weather observations and modeling at Mars have begun but they must be significantly increased to support the future of Human Exploration on the Red Planet. A comprehensive space weather understanding of a planet without a global magnetosphere and a thin atmosphere is very different from our situation at Earth so there is substantial fundamental research remaining. It is expected that the development of suitable models will lead to a comprehensive operational Mars space weather alert (MSWA) system that would provide rapid dissemination of information to Earth controllers, astronauts in tr..."
+    },
+    {
+      "source_id": "Arxiv-dded4b938008de9d",
+      "provider": "Arxiv",
+      "title": "Verification of Space Weather Forecasts issued by the Met Office Space Weather Operations Centre",
+      "url": "http://arxiv.org/abs/1804.02985v1",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "Michael A. Sharpe",
+        "Sophie A. Murray"
+      ],
+      "venue": "arXiv",
+      "summary": "The Met Office Space Weather Operations Centre was founded in 2014 and part of its remit is a daily Space Weather Technical Forecast to help the UK build resilience to space weather impacts; guidance includes four day geo-magnetic storm forecasts (GMSF) and X-ray flare forecasts (XRFF). It is crucial for forecasters, users, modelers and stakeholders to understand the strengths and weaknesses of these forecasts; therefore, it is important to verify against the most reliable truth data source available. The present study contains verification results for XRFFs using GOES-15 satellite data and GM..."
+    },
+    {
+      "source_id": "OpenAlex-07eb34869499da74",
+      "provider": "OpenAlex",
+      "title": "The Cost of Lunar Landing Pads with a Trade Study of Construction Methods",
+      "url": "http://arxiv.org/abs/2205.00378",
+      "doi": "https://doi.org/10.48550/arxiv.2205.00378",
+      "year": 2022,
+      "authors": [
+        "Philip T. Metzger",
+        "Greg Autry"
+      ],
+      "venue": "arXiv (Cornell University)",
+      "summary": "This study estimates the cost of building lunar landing pads and examines whether any construction methods are economically superior to others. Some proposed methods require large amounts of mass transported from the Earth, others require high energy consumption on the lunar surface, and others have a long construction time. Each of these factors contributes direct and indirect costs to lunar activities. The most important economic variables turn out to be the transportation cost to the lunar surface and the magnitude of the program delay cost imposed by a construction method. The cost of a la..."
+    },
+    {
+      "source_id": "OpenAlex-2a4087d8b4264654",
+      "provider": "OpenAlex",
+      "title": "H-Workload 2018: 2nd International Symposium on Human Mental Workload: Models and Applications",
+      "url": "https://arrow.dit.ie/hwork18/1",
+      "doi": "https://doi.org/10.21427/0gj9-wb95",
+      "year": 2021,
+      "authors": [
+        "Luca Longo",
+        "Maria Chiara Leva"
+      ],
+      "venue": "ARROW@Dublin Institute of Technology (Dublin Institute of Technology)",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 256; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":101439,\"items\":[{\"DOI\":\"10.1117\\/12.2562884.6..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781194220-Aerospace-followup-1781086463-cd41e889b3bd.json"
+}

@@ -1,0 +1,128 @@
+{
+  "timestamp_secs": 1780912790,
+  "task_id": "followup-1780907470-dff654659336",
+  "domain": "Aerospace",
+  "question": "How do near-term reusable heavy-lift vehicles (e.g., Starship) change the total cost-per-kg and flight frequency needed for off-world infrastructure seeding, and what are the first 3 critical infrastructure milestones that would provide the highest resilience payoff per dollar?",
+  "query": "aerospace civilization resilience deep space capability near term reusable heavy lift vehicles starship change total",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-9050c753f0911148",
+      "provider": "Arxiv",
+      "title": "Learning for Vehicle-to-Vehicle Cooperative Perception under Lossy Communication",
+      "url": "http://arxiv.org/abs/2212.08273v2",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Jinlong Li",
+        "Runsheng Xu",
+        "Xinyu Liu",
+        "Jin Ma",
+        "Zicheng Chi",
+        "Jiaqi Ma",
+        "Hongkai Yu"
+      ],
+      "venue": "arXiv",
+      "summary": "Deep learning has been widely used in the perception (e.g., 3D object detection) of intelligent vehicle driving. Due to the beneficial Vehicle-to-Vehicle (V2V) communication, the deep learning based features from other agents can be shared to the ego vehicle so as to improve the perception of the ego vehicle. It is named as Cooperative Perception in the V2V research, whose algorithms have been dramatically advanced recently. However, all the existing cooperative perception algorithms assume the ideal V2V communication without considering the possible lossy shared features because of the Lossy ..."
+    },
+    {
+      "source_id": "Arxiv-c55bf8de47e09e62",
+      "provider": "Arxiv",
+      "title": "Modeling the Lane-Change Reactions to Merging Vehicles for Highway On-Ramp Simulations",
+      "url": "http://arxiv.org/abs/2404.09851v2",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Dustin Holley",
+        "Jovin Dsa",
+        "Hossein Nourkhiz Mahjoub",
+        "Gibran Ali",
+        "Tyler Naes",
+        "Ehsan Moradi-Pari",
+        "Pawan Sai Kallepalli"
+      ],
+      "venue": "arXiv",
+      "summary": "Enhancing simulation environments to replicate real-world driver behavior is essential for developing Autonomous Vehicle technology. While some previous works have studied the yielding reaction of lag vehicles in response to a merging car at highway on-ramps, the possible lane-change reaction of the lag car has not been widely studied. In this work we aim to improve the simulation of the highway merge scenario by including the lane-change reaction in addition to yielding behavior of main-lane lag vehicles, and we evaluate two different models for their ability to capture this reactive lane-cha..."
+    },
+    {
+      "source_id": "OpenAlex-87d07e76e48c28c8",
+      "provider": "OpenAlex",
+      "title": "Towards sustainable horizons: A comprehensive blueprint for Mars colonization",
+      "url": "https://doi.org/10.1016/j.heliyon.2024.e26180",
+      "doi": "https://doi.org/10.1016/j.heliyon.2024.e26180",
+      "year": 2024,
+      "authors": [
+        "Florian Neukart"
+      ],
+      "venue": "Heliyon",
+      "summary": "This paper thoroughly explores the feasibility, challenges, and proposed solutions for establishing a sustainable human colony on Mars. We quantitatively and qualitatively analyze the Martian environment, highlighting key challenges such as radiation exposure, which astronauts could experience at minimum levels of 0.66 sieverts during a round trip, and the complications arising from Mars' thin atmosphere and extreme temperature variations. Technological advancements are examined, including developing Martian concrete, which utilizes sulfur as a binding agent, and innovative life support strate..."
+    },
+    {
+      "source_id": "OpenAlex-a3cbc11c163904e8",
+      "provider": "OpenAlex",
+      "title": "Economic and Social Aspects of the Space Sector Development Based on the Modified Structure–Conduct–Performance Framework",
+      "url": "https://doi.org/10.3390/world6020079",
+      "doi": "https://doi.org/10.3390/world6020079",
+      "year": 2025,
+      "authors": [
+        "Michał Pietrzak"
+      ],
+      "venue": "World",
+      "summary": "Background: The global space economy has grown remarkably, witnessing a 10-fold increase in active satellites during the last 15 years. This growth was accompanied by both the increase in geopolitical tensions feeding huge investments (the New Space Race), on the one hand, and the transformation, shifting from a domain historically dominated by government-led programs to one partially energized by commercial players and innovative business models (“New Space”), on the other hand. Objective: To assess the space economy’s current state and future prospects by considering its economic and social ..."
+    },
+    {
+      "source_id": "Crossref-5949f924e5cc2f95",
+      "provider": "Crossref",
+      "title": "The heavy lift capability of trans atmospheric vehicles",
+      "url": "https://doi.org/10.2514/6.1988-163",
+      "doi": "10.2514/6.1988-163",
+      "year": 1988,
+      "authors": [],
+      "venue": "26th Aerospace Sciences Meeting",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-66f79fcc4375daf6",
+      "provider": "Crossref",
+      "title": "Applying Proven technologies for a near term, high confidence heavy lift launch vehicle",
+      "url": "https://doi.org/10.1109/aero.2009.4839554",
+      "doi": "10.1109/aero.2009.4839554",
+      "year": 2009,
+      "authors": [
+        "William J. Rothschild",
+        "Theodore A. Talay"
+      ],
+      "venue": "2009 IEEE Aerospace conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-0ce1cd1dceeee3da",
+      "provider": "Crossref",
+      "title": "A Near Term, High Confidence Heavy Lift Launch Vehicle",
+      "url": "https://doi.org/10.2514/6.2009-655",
+      "doi": "10.2514/6.2009-655",
+      "year": 2009,
+      "authors": [
+        "William Rothschild",
+        "Theodore Talay"
+      ],
+      "venue": "47th AIAA Aerospace Sciences Meeting including The New Horizons Forum and Aerospace Exposition",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780912790-Aerospace-followup-1780907470-dff654659336.json"
+}

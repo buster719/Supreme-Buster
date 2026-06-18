@@ -1,0 +1,150 @@
+{
+  "timestamp_secs": 1781107791,
+  "task_id": "followup-1781078905-b5d0a7ca2a51",
+  "domain": "Genetics",
+  "question": "What specific statistical methods (e.g., family-based association tests, combined transmission disequilibrium tests) are most effective for jointly modeling parental genotypes and transmission patterns in unrelated family trios?",
+  "query": "genetics safety human flourishing genome editing specific statistical methods family based association tests combined transmission",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-fabe32f9f5902639",
+      "provider": "OpenAlex",
+      "title": "Links between Nutrition, Infectious Diseases, and Microbiota: Emerging Technologies and Opportunities for Human-Focused Research",
+      "url": "https://doi.org/10.3390/nu12061827",
+      "doi": "https://doi.org/10.3390/nu12061827",
+      "year": 2020,
+      "authors": [
+        "Manuela Cassotta",
+        "Tamara Y. Forbes‐Hernández",
+        "Rubén Calderón Iglesias",
+        "Roberto Ruíz",
+        "María Zabaleta",
+        "Francesca Giampieri",
+        "Maurizio Battino"
+      ],
+      "venue": "Nutrients",
+      "summary": "The interaction between nutrition and human infectious diseases has always been recognized. With the emergence of molecular tools and post-genomics, high-resolution sequencing technologies, the gut microbiota has been emerging as a key moderator in the complex interplay between nutrients, human body, and infections. Much of the host-microbial and nutrition research is currently based on animals or simplistic in vitro models. Although traditional in vivo and in vitro models have helped to develop mechanistic hypotheses and assess the causality of the host-microbiota interactions, they often fai..."
+    },
+    {
+      "source_id": "OpenAlex-8418273324d2a8e8",
+      "provider": "OpenAlex",
+      "title": "Human Metabolism: A Regulatory Perspective",
+      "url": "https://doi.org/10.36866/pn.116.19",
+      "doi": "https://doi.org/10.36866/pn.116.19",
+      "year": 2019,
+      "authors": [
+        "Andrew Murray"
+      ],
+      "venue": "Physiology News",
+      "summary": "gradient bottom PMS 1815C C13 M96 Y81 K54 on dark backgrounds on light backgrounds standard no gradients watermark stacked logo (for sharing only) standard no gradients watermark stacked logo (for sharing only) white WHITE C0 M0 Y0 K0"
+    },
+    {
+      "source_id": "OpenAlex-5d27d5891a17b5d4",
+      "provider": "OpenAlex",
+      "title": "Validation of high throughput sequencing and microbial forensics applications",
+      "url": "https://doi.org/10.1186/2041-2223-5-9",
+      "doi": "https://doi.org/10.1186/2041-2223-5-9",
+      "year": 2014,
+      "authors": [
+        "Bruce Budowle",
+        "Nancy Connell",
+        "Anna Bielecka-Oder",
+        "Rita R. Colwell",
+        "Cindi R. Corbett",
+        "Jacqueline Fletcher",
+        "Mats Forsman",
+        "Dana R. Kadavy"
+      ],
+      "venue": "Investigative Genetics",
+      "summary": "High throughput sequencing (HTS) generates large amounts of high quality sequence data for microbial genomics. The value of HTS for microbial forensics is the speed at which evidence can be collected and the power to characterize microbial-related evidence to solve biocrimes and bioterrorist events. As HTS technologies continue to improve, they provide increasingly powerful sets of tools to support the entire field of microbial forensics. Accurate, credible results allow analysis and interpretation, significantly influencing the course and/or focus of an investigation, and can impact the respo..."
+    },
+    {
+      "source_id": "Crossref-75a005b95eecf2c8",
+      "provider": "Crossref",
+      "title": "Statistical Methods for Association Tests of Multiple Continuous Traits in Genome‐Wide Association Studies",
+      "url": "https://doi.org/10.1111/ahg.12110",
+      "doi": "10.1111/ahg.12110",
+      "year": 2015,
+      "authors": [
+        "Baolin Wu",
+        "James S. Pankow"
+      ],
+      "venue": "Annals of Human Genetics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-e2bf8de30a75ae75",
+      "provider": "Crossref",
+      "title": "Two-stage association tests for genome-wide association studies based on family data with arbitrary family structure",
+      "url": "https://doi.org/10.1038/sj.ejhg.5201902",
+      "doi": "10.1038/sj.ejhg.5201902",
+      "year": 2007,
+      "authors": [
+        "Tao Feng",
+        "Shuanglin Zhang",
+        "Qiuying Sha"
+      ],
+      "venue": "European Journal of Human Genetics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781107791-Genetics-followup-1781078905-b5d0a7ca2a51.json"
+}

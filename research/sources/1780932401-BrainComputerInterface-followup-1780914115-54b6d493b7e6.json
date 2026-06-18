@@ -1,0 +1,153 @@
+{
+  "timestamp_secs": 1780932401,
+  "task_id": "followup-1780914115-54b6d493b7e6",
+  "domain": "BrainComputerInterface",
+  "question": "Research question:** Which existing human‑AI teaming paradigms (shared autonomy, predictive intention decoding, error‑related potential correction) would benefit most from a high‑bandwidth BCI channel, and what evidence exists for each?",
+  "query": "brain computer interface human AI cooperation risks research existing teaming paradigms shared autonomy predictive intention decoding",
+  "sources": [
+    {
+      "source_id": "Arxiv-8d77d1bfdf91eba3",
+      "provider": "Arxiv",
+      "title": "Exploring Large Language Models to Facilitate Variable Autonomy for Human-Robot Teaming",
+      "url": "http://arxiv.org/abs/2312.07214v3",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Younes Lakhnati",
+        "Max Pascher",
+        "Jens Gerken"
+      ],
+      "venue": "arXiv",
+      "summary": "In a rapidly evolving digital landscape autonomous tools and robots are becoming commonplace. Recognizing the significance of this development, this paper explores the integration of Large Language Models (LLMs) like Generative pre-trained transformer (GPT) into human-robot teaming environments to facilitate variable autonomy through the means of verbal human-robot communication. In this paper, we introduce a novel framework for such a GPT-powered multi-robot testbed environment, based on a Unity Virtual Reality (VR) setting. This system allows users to interact with robot agents through natur..."
+    },
+    {
+      "source_id": "Arxiv-8b488fb3223a91fc",
+      "provider": "Arxiv",
+      "title": "Flight Testing an Optionally Piloted Aircraft: a Case Study on Trust Dynamics in Human-Autonomy Teaming",
+      "url": "http://arxiv.org/abs/2503.16227v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Jeremy C. -H. Wang",
+        "Ming Hou",
+        "David Dunwoody",
+        "Marko Ilievski",
+        "Justin Tomasi",
+        "Edward Chao",
+        "Carl Pigeon"
+      ],
+      "venue": "arXiv",
+      "summary": "This paper examines how trust is formed, maintained, or diminished over time in the context of human-autonomy teaming with an optionally piloted aircraft. Whereas traditional factor-based trust models offer a static representation of human confidence in technology, here we discuss how variations in the underlying factors lead to variations in trust, trust thresholds, and human behaviours. Over 200 hours of flight test data collected over a multi-year test campaign from 2021 to 2023 were reviewed. The dispositional-situational-learned, process-performance-purpose, and IMPACTS homeostasis trust ..."
+    },
+    {
+      "source_id": "Arxiv-4647114cb1572aa1",
+      "provider": "Arxiv",
+      "title": "Human-AI Teaming Using Large Language Models: Boosting Brain-Computer Interfacing (BCI) and Brain Research",
+      "url": "http://arxiv.org/abs/2501.01451v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Maryna Kapitonova",
+        "Tonio Ball"
+      ],
+      "venue": "arXiv",
+      "summary": "Recently, there is an increasing interest in using artificial intelligence (AI) to automate aspects of the research process, or even autonomously conduct the full research cycle from idea generation, over data analysis, to composing and evaluation of scientific manuscripts. Examples of working AI scientist systems have been demonstrated for computer science tasks and running molecular biology labs. While some approaches aim for full autonomy of the scientific AI, others rather aim for leveraging human-AI teaming. Here, we address how to adapt such approaches for boosting Brain-Computer Interfa..."
+    },
+    {
+      "source_id": "OpenAlex-cb30c2b4b5544d7b",
+      "provider": "OpenAlex",
+      "title": "Symbiotic human-robot collaborative assembly",
+      "url": "https://doi.org/10.1016/j.cirp.2019.05.002",
+      "doi": "https://doi.org/10.1016/j.cirp.2019.05.002",
+      "year": 2019,
+      "authors": [
+        "Lihui Wang",
+        "Robert X. Gao",
+        "József Váncza",
+        "Jörg Krüger",
+        "Xi Vincent Wang",
+        "Sotiris Makris",
+        "George Chryssolouris"
+      ],
+      "venue": "CIRP Annals",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-cff00b12040a924e",
+      "provider": "OpenAlex",
+      "title": "Quo vadis artificial intelligence?",
+      "url": "https://doi.org/10.1007/s44163-022-00022-8",
+      "doi": "https://doi.org/10.1007/s44163-022-00022-8",
+      "year": 2022,
+      "authors": [
+        "Yuchen Jiang",
+        "Xiang Li",
+        "Hao Luo",
+        "Shen Yin",
+        "Okyay Kaynak"
+      ],
+      "venue": "Discover Artificial Intelligence",
+      "summary": "Abstract The study of artificial intelligence (AI) has been a continuous endeavor of scientists and engineers for over 65 years. The simple contention is that human-created machines can do more than just labor-intensive work; they can develop human-like intelligence. Being aware or not, AI has penetrated into our daily lives, playing novel roles in industry, healthcare, transportation, education, and many more areas that are close to the general public. AI is believed to be one of the major drives to change socio-economical lives. In another aspect, AI contributes to the advancement of state-o..."
+    },
+    {
+      "source_id": "OpenAlex-33a213250505ca86",
+      "provider": "OpenAlex",
+      "title": "Noninvasive Electroencephalography Equipment for Assistive, Adaptive, and Rehabilitative Brain–Computer Interfaces: A Systematic Literature Review",
+      "url": "https://doi.org/10.3390/s21144754",
+      "doi": "https://doi.org/10.3390/s21144754",
+      "year": 2021,
+      "authors": [
+        "Nuraini Jamil",
+        "Abdelkader Nasreddine Belkacem",
+        "Sofía Ouhbi",
+        "Abderrahmane Lakas"
+      ],
+      "venue": "Sensors",
+      "summary": "Humans interact with computers through various devices. Such interactions may not require any physical movement, thus aiding people with severe motor disabilities in communicating with external devices. The brain-computer interface (BCI) has turned into a field involving new elements for assistive and rehabilitative technologies. This systematic literature review (SLR) aims to help BCI investigator and investors to decide which devices to select or which studies to support based on the current market examination. This examination of noninvasive EEG devices is based on published BCI studies in ..."
+    },
+    {
+      "source_id": "Crossref-851916cfbd020d3d",
+      "provider": "Crossref",
+      "title": "Shared Mental Models as a Way of Managing Transparency in Complex Human-Autonomy Teaming",
+      "url": "https://doi.org/10.5220/0007484800002108",
+      "doi": "10.5220/0007484800002108",
+      "year": 2019,
+      "authors": [
+        "Gabriele Scali",
+        "Robert Macredie"
+      ],
+      "venue": "Proceedings of the 14th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-5311cde37805a7c8",
+      "provider": "Crossref",
+      "title": "Shared Mental Models as a Way of Managing Transparency in Complex Human-Autonomy Teaming",
+      "url": "https://doi.org/10.5220/0007484801530159",
+      "doi": "10.5220/0007484801530159",
+      "year": 2019,
+      "authors": [
+        "Gabriele Scali",
+        "Robert Macredie"
+      ],
+      "venue": "Proceedings of the 14th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-235f7ee481670503",
+      "provider": "Crossref",
+      "title": "Interaction Paradigms: from Human-Human Teaming to Human-Autonomy Teaming",
+      "url": "https://doi.org/10.1109/dasc43569.2019.9081665",
+      "doi": "10.1109/dasc43569.2019.9081665",
+      "year": 2019,
+      "authors": [
+        "Güliz Tokadlı",
+        "Michael C. Dorneich"
+      ],
+      "venue": "2019 IEEE/AIAA 38th Digital Avionics Systems Conference (DASC)",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780932401-BrainComputerInterface-followup-1780914115-54b6d493b7e6.json"
+}

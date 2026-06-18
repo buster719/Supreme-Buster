@@ -1,0 +1,41 @@
+{
+  "timestamp_secs": 1781491373,
+  "provider": "DuckDuckGoHtml",
+  "task_id": "followup-1781087463-59df9d8d414f",
+  "query": "Is there a critical window of adaptation depth beyond which removal produces irreversible neural strategy changes that permanently alter the trust baseline?",
+  "results": [
+    {
+      "rank": 1,
+      "title": "7.5: Sensitive and Critical Periods of Development",
+      "url": "https://rotel.pressbooks.pub/biologicalpsychology/chapter/sensitive-and-critical-periods-of-development/",
+      "snippet": "Sensitive and critical periods both involve heightened neuroplasticity. Sensitive periods offer broad windows for experience to shape neural circuitry, while critical periods are a subset that can result in irreversible changes to the brain (Knudsen, 2004). Sensitive Periods of Development"
+    },
+    {
+      "rank": 2,
+      "title": "arXiv.org",
+      "url": "https://arxiv.org/pdf/2405.00630v3",
+      "snippet": "arXiv.org"
+    },
+    {
+      "rank": 3,
+      "title": "Neural Adaptation - an overview | ScienceDirect Topics",
+      "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/neural-adaptation",
+      "snippet": "Neural adaptations refer to the increased activation of muscles by the nervous system following strength training, evidenced by changes in electromyographic signals, enhanced motor unit recruitment, and improved firing rates. These adaptations enable better coordination of agonist and synergist muscles while minimizing antagonist activity. AI generated definition based on: A Comprehensive ..."
+    },
+    {
+      "rank": 4,
+      "title": "Single-neuron mechanisms of neural adaptation in the human ... - Nature",
+      "url": "https://www.nature.com/articles/s41467-023-38190-5",
+      "snippet": "Behavioural adaptation from semantic priming is accompanied by reduced neural activity in bulk-tissue measurements, but the underlying single neuron mechanisms remain unclear."
+    },
+    {
+      "rank": 5,
+      "title": "Incorporating intrinsic suppression in deep neural networks ... - AAAS",
+      "url": "https://www.science.org/doi/10.1126/sciadv.abd4205",
+      "snippet": "A deep convolutional neural network with intrinsic suppression captured neural signatures of adaptation including novelty detection, enhancement, and tuning curve shifts, while producing aftereffects consistent with human perception."
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/web/search/1781491373-followup-1781087463-59df9d8d414f.json"
+}

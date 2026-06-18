@@ -1,0 +1,101 @@
+{
+  "timestamp_secs": 1780911206,
+  "task_id": "followup-1780907470-18782f8c8913",
+  "domain": "Aerospace",
+  "question": "Can in‑space manufacturing and asteroid resource utilisation demonstrably reduce the launch mass needed for a permanent lunar or Martian base by more than 50% under realistic policy and engineering constraints, based on the latest ISRU pilot projects?",
+  "query": "aerospace civilization resilience deep space capability space manufacturing asteroid resource utilisation demonstrably reduce launch mass",
+  "sources": [
+    {
+      "source_id": "Arxiv-97df31fb9d7152bf",
+      "provider": "Arxiv",
+      "title": "SPACE: the SPectroscopic All-sky Cosmic Explorer",
+      "url": "http://arxiv.org/abs/0804.4433v1",
+      "doi": null,
+      "year": 2008,
+      "authors": [
+        "A. Cimatti",
+        "M. Robberto",
+        "C. M. Baugh",
+        "S. V. W. Beckwith",
+        "R. Content",
+        "E. Daddi",
+        "G. De Lucia",
+        "B. Garilli"
+      ],
+      "venue": "arXiv",
+      "summary": "We describe the scientific motivations, the mission concept and the instrumentation of SPACE, a class-M mission proposed for concept study at the first call of the ESA Cosmic-Vision 2015-2025 planning cycle. SPACE aims to produce the largest three-dimensional evolutionary map of the Universe over the past 10 billion years by taking near-IR spectra and measuring redshifts for more than half a billion galaxies at 0<z<2 down to AB~23 over 3πsr of the sky. In addition, SPACE will also target a smaller sky field, performing a deep spectroscopic survey of millions of galaxies to AB~26 and at 2<z<10+..."
+    },
+    {
+      "source_id": "Arxiv-dded4b938008de9d",
+      "provider": "Arxiv",
+      "title": "Verification of Space Weather Forecasts issued by the Met Office Space Weather Operations Centre",
+      "url": "http://arxiv.org/abs/1804.02985v1",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "Michael A. Sharpe",
+        "Sophie A. Murray"
+      ],
+      "venue": "arXiv",
+      "summary": "The Met Office Space Weather Operations Centre was founded in 2014 and part of its remit is a daily Space Weather Technical Forecast to help the UK build resilience to space weather impacts; guidance includes four day geo-magnetic storm forecasts (GMSF) and X-ray flare forecasts (XRFF). It is crucial for forecasters, users, modelers and stakeholders to understand the strengths and weaknesses of these forecasts; therefore, it is important to verify against the most reliable truth data source available. The present study contains verification results for XRFFs using GOES-15 satellite data and GM..."
+    },
+    {
+      "source_id": "Arxiv-2e15f9d577b3cc40",
+      "provider": "Arxiv",
+      "title": "Whistler instability stimulated by the suprathermal electrons present in space plasmas",
+      "url": "http://arxiv.org/abs/1910.01506v1",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "M. Lazar",
+        "R. A. Lopez",
+        "S. M. Shaaban",
+        "S. Poedts",
+        "H. Fichtner"
+      ],
+      "venue": "arXiv",
+      "summary": "In the absence of efficient collisions, deviations from thermal equilibrium of plasma particle distributions are controlled by the self-generated instabilities. The whistler instability is a notorious example, usually responsible for the regulation of electron temperature anisotropy $A = T_{\\perp}/T_\\parallel>$ (with $\\perp, \\parallel$ respective to the magnetic field direction) observed in space plasmas, e.g., solar wind and planetary magnetospheres. Suprathermal electrons present in these environments change the plasma dispersion and stability properties, with expected consequences on the ki..."
+    },
+    {
+      "source_id": "Crossref-59b340f9e8d6a927",
+      "provider": "Crossref",
+      "title": "Asteroid Mass Drivers: Electromagnetic Launch Systems for Economically Viable Space Resource Extraction",
+      "url": "https://doi.org/10.36227/techrxiv.177207942.27588844/v1",
+      "doi": "10.36227/techrxiv.177207942.27588844/v1",
+      "year": 2026,
+      "authors": [
+        "Alexi G. Choueiri"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-156cef0af978a48d",
+      "provider": "Crossref",
+      "title": "NASA's Space Launch System: Launch Capability for Lunar Exploration and Transformative Science",
+      "url": "https://doi.org/10.1109/aero47225.2020.9172508",
+      "doi": "10.1109/aero47225.2020.9172508",
+      "year": 2020,
+      "authors": [
+        "Stephen D. Creech"
+      ],
+      "venue": "2020 IEEE Aerospace Conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-a4576b8feecd671f",
+      "provider": "Crossref",
+      "title": "NASA's Space Launch System: A new national capability",
+      "url": "https://doi.org/10.1109/aero.2012.6187261",
+      "doi": "10.1109/aero.2012.6187261",
+      "year": 2012,
+      "authors": [
+        "Todd May"
+      ],
+      "venue": "2012 IEEE Aerospace Conference",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780911206-Aerospace-followup-1780907470-18782f8c8913.json"
+}

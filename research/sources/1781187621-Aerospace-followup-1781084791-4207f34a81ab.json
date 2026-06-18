@@ -1,0 +1,94 @@
+{
+  "timestamp_secs": 1781187621,
+  "task_id": "followup-1781084791-4207f34a81ab",
+  "domain": "Aerospace",
+  "question": "Which specific formulations of Mori-Zwanzig (e.g., linear, nonlinear, data-informed) have been explicitly benchmarked against stochastic differential equation (SDE) or autoregressive (AR) closures for modeling crack propagation or fatigue in composite aerospace materials?",
+  "query": "aerospace civilization resilience deep space capability specific formulations mori zwanzig linear nonlinear data informed been",
+  "sources": [
+    {
+      "source_id": "Arxiv-43f5f382df8bb779",
+      "provider": "Arxiv",
+      "title": "Byzantine-Resilient SGD in High Dimensions on Heterogeneous Data",
+      "url": "http://arxiv.org/abs/2005.07866v1",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Deepesh Data",
+        "Suhas Diggavi"
+      ],
+      "venue": "arXiv",
+      "summary": "We study distributed stochastic gradient descent (SGD) in the master-worker architecture under Byzantine attacks. We consider the heterogeneous data model, where different workers may have different local datasets, and we do not make any probabilistic assumptions on data generation. At the core of our algorithm, we use the polynomial-time outlier-filtering procedure for robust mean estimation proposed by Steinhardt et al. (ITCS 2018) to filter-out corrupt gradients. In order to be able to apply their filtering procedure in our {\\em heterogeneous} data setting where workers compute {\\em stochas..."
+    },
+    {
+      "source_id": "Arxiv-5d24fac2710af3ef",
+      "provider": "Arxiv",
+      "title": "This paper has been withdrawn",
+      "url": "http://arxiv.org/abs/cond-mat/0309395v2",
+      "doi": null,
+      "year": 2003,
+      "authors": [
+        "This paper has been withdrawn"
+      ],
+      "venue": "arXiv",
+      "summary": "This paper has been withdrawn"
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Crossref-3ff1df4a576d06e4",
+      "provider": "Crossref",
+      "title": "Dynamic coarse-graining of linear and non-linear systems: Mori–Zwanzig formalism and beyond",
+      "url": "https://doi.org/10.1063/5.0165541",
+      "doi": "10.1063/5.0165541",
+      "year": 2023,
+      "authors": [
+        "Bernd Jung",
+        "Gerhard Jung"
+      ],
+      "venue": "The Journal of Chemical Physics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-95a46de0d863324b",
+      "provider": "Crossref",
+      "title": "Deep Linear and Nonlinear Data Representation for Semi-supervised Learning",
+      "url": "https://doi.org/10.22541/au.165061985.59481306/v1",
+      "doi": "10.22541/au.165061985.59481306/v1",
+      "year": 2022,
+      "authors": [
+        "Fadi Dornaika"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-3816a240006cde65",
+      "provider": "Crossref",
+      "title": "Memory-dependent dynamic modeling of cable-driven soft robots using the Mori-Zwanzig Koopman operator",
+      "url": "https://doi.org/10.1007/s11071-025-11934-2",
+      "doi": "10.1007/s11071-025-11934-2",
+      "year": 2026,
+      "authors": [
+        "Larry Catalasan",
+        "Tianyi He"
+      ],
+      "venue": "Nonlinear Dynamics",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781187621-Aerospace-followup-1781084791-4207f34a81ab.json"
+}

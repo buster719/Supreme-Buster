@@ -1,0 +1,105 @@
+{
+  "timestamp_secs": 1780916585,
+  "task_id": "followup-1780908238-2735be04caa8",
+  "domain": "MaterialsScience",
+  "question": "What is the drift in strain output over 10^5 cycles for CNT yarn muscles when the control signal is open-loop voltage, and what sensor bandwidth is needed to compensate?",
+  "query": "materials science fusion robotics aerospace computation drift strain output over cycles yarn muscles when control",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-606473c39b080cc9",
+      "provider": "Arxiv",
+      "title": "DQ Robotics: a Library for Robot Modeling and Control",
+      "url": "http://arxiv.org/abs/1910.11612v3",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Bruno Vilhena Adorno",
+        "Murilo Marques Marinho"
+      ],
+      "venue": "arXiv",
+      "summary": "Dual quaternion algebra and its application to robotics have gained considerable interest in the last two decades. Dual quaternions have great geometric appeal and easily capture physical phenomena inside an algebraic framework that is useful for both robot modeling and control. Mathematical objects, such as points, lines, planes, infinite cylinders, spheres, coordinate systems, twists, and wrenches are all well defined as dual quaternions. Therefore, simple operators are used to represent those objects in different frames and operations such as inner products and cross products are used to ex..."
+    },
+    {
+      "source_id": "Arxiv-f023f1db7351fff0",
+      "provider": "Arxiv",
+      "title": "Maximizing Consistent Force Output for Shape Memory Alloy Artificial Muscles in Soft Robots",
+      "url": "http://arxiv.org/abs/2402.06201v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Meredith L. Anderson",
+        "Ran Jing",
+        "Juan C. Pacheco Garcia",
+        "Ilyoung Yang",
+        "Sarah Alizadeh-Shabdiz",
+        "Charles DeLorey",
+        "Andrew P. Sabelhaus"
+      ],
+      "venue": "arXiv",
+      "summary": "Soft robots have immense potential given their inherent safety and adaptability, but challenges in soft actuator forces and design constraints have limited scaling up soft robots to larger sizes. Electrothermal shape memory alloy (SMA) artificial muscles have the potential to create these large forces and high displacements, but consistently using these muscles under a well-defined model, in-situ in a soft robot, remains an open challenge. This article provides a system for maintaining the highest-possible consistent SMA forces, over long lifetimes, by combining a fatigue testing protocol with..."
+    },
+    {
+      "source_id": "OpenAlex-557ae0afc48f8ec4",
+      "provider": "OpenAlex",
+      "title": "Printed Strain Sensors for Motion Recognition: A Review of Materials, Fabrication Methods, and Machine Learning Algorithms",
+      "url": "https://doi.org/10.1109/ojemb.2023.3330290",
+      "doi": "https://doi.org/10.1109/ojemb.2023.3330290",
+      "year": 2023,
+      "authors": [
+        "Nathan Zavanelli",
+        "Kangkyu Kwon",
+        "Woon‐Hong Yeo"
+      ],
+      "venue": "IEEE Open Journal of Engineering in Medicine and Biology",
+      "summary": "Recent studies in functional nanomaterials with advanced macro, micro, and nano-scale structures have yielded substantial improvements in human-interfaced strain sensors for motion and gesture recognition. Furthermore, fundamental advances in nanomaterial printing have been developed and leveraged to translate these materials and mechanical innovations into practical applications. Significant progress in machine learning for human-interfaced strain sensing has unlocked numerous opportunities to improve lives and the human experience through healthcare innovations, sports performance monitoring..."
+    },
+    {
+      "source_id": "OpenAlex-d9821a07e16d8196",
+      "provider": "OpenAlex",
+      "title": "Nanotechnology: innovation opportunities for tomorrow`s defence",
+      "url": "https://resolver.tno.nl/uuid:5105e033-e367-43ea-94b8-41a71a042173",
+      "doi": null,
+      "year": 2009,
+      "authors": [
+        "Franciscus Frederikus Jacobus Simonis",
+        "S.F. Schilthuizen"
+      ],
+      "venue": "TNO Repository",
+      "summary": "artist impression future warfare fullerene family molecular sensing with a nanotube kinked nanotube on electrodes (Cees Dekker/Kavli) -4 - Health and fitnessTargeted drug delivery, skinceutical delivery (cosmetics), water repel-lant and self cleaning coatings, antimicrobial textile and wound dressing , UV-blockers in sunscreens, high strength/lightweight sporting equipment, air tight tennis balls, nanowax for skiing. Food and beverageAntimicrobial tableware, coatings and packaging, non-stick coatings, targeted delivery of"
+    },
+    {
+      "source_id": "OpenAlex-a90ade8f9e16dc38",
+      "provider": "OpenAlex",
+      "title": "Aktif destek ve rehabilitasyon için tekstil tabanlı yumuşak robotikler",
+      "url": "http://hdl.handle.net/11527/27124",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Yılmaz, Ayşe Feyza"
+      ],
+      "venue": "Istanbul Technical University Academic Open Archive (Istanbul Technical University)",
+      "summary": "Thesis (Ph.D.) -- Istanbul Technical University, Graduate School, 2024"
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 397; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":76970,\"items\":[{\"DOI\":\"10.7717\\/peerj.13941\\/..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780916585-MaterialsScience-followup-1780908238-2735be04caa8.json"
+}

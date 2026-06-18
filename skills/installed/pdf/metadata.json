@@ -1,0 +1,12 @@
+{
+  "name": "pdf",
+  "status": "Active",
+  "source": "https://raw.githubusercontent.com/anthropics/skills/main/skills/pdf/SKILL.md",
+  "version": 1,
+  "created_at_secs": 1781801841,
+  "updated_at_secs": 1781801841,
+  "last_reviewed_at_secs": null,
+  "risk_notes": [
+    "installed from external markdown; inferred risk Level4BodyTouch / L4; requested activation=false; final status=Active"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "timestamp_secs": 1780920966,
+  "task_id": "followup-1780910748-06082234c81d",
+  "domain": "Genetics",
+  "question": "What are the most validated clinical use cases for polygenic risk scores (PRS) in preimplantation genetic testing (PGT) and can they improve embryo selection accuracy without encouraging trait selection?",
+  "query": "genetics safety human flourishing genome editing validated clinical cases polygenic risk scores preimplantation genetic testing",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-a545014c2654d21c",
+      "provider": "Arxiv",
+      "title": "Deep neural network improves the estimation of polygenic risk scores for breast cancer",
+      "url": "http://arxiv.org/abs/2307.13010v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Adrien Badré",
+        "Li Zhang",
+        "Wellington Muchero",
+        "Justin C. Reynolds",
+        "Chongle Pan"
+      ],
+      "venue": "arXiv",
+      "summary": "Polygenic risk scores (PRS) estimate the genetic risk of an individual for a complex disease based on many genetic variants across the whole genome. In this study, we compared a series of computational models for estimation of breast cancer PRS. A deep neural network (DNN) was found to outperform alternative machine learning techniques and established statistical algorithms, including BLUP, BayesA and LDpred. In the test cohort with 50% prevalence, the Area Under the receiver operating characteristic Curve (AUC) were 67.4% for DNN, 64.2% for BLUP, 64.5% for BayesA, and 62.4% for LDpred. BLUP, ..."
+    },
+    {
+      "source_id": "OpenAlex-7b134294f3bc0971",
+      "provider": "OpenAlex",
+      "title": "Embryo selection, AI and reproductive choice",
+      "url": "https://doi.org/10.1007/s43681-024-00651-y",
+      "doi": "https://doi.org/10.1007/s43681-024-00651-y",
+      "year": 2024,
+      "authors": [
+        "Aurélie Halsband"
+      ],
+      "venue": "AI and Ethics",
+      "summary": "Abstract In reproductive medicine, current research into the use of artificial intelligence (AI) to improve embryo selection has been met with enthusiasm. Within ethics, previous assessments of AI-assisted embryo selection have focused, for example, on liability gaps or risks arising from opaque decision-making. I argue that this focus on the ethical issues raised by AI in embryo selection alone is incomplete because it neglects how AI’s convergence with other innovative reproductive technologies raises further ethical issues. I describe how AI is acting as a catalyst for a social disruption o..."
+    },
+    {
+      "source_id": "OpenAlex-37e4ec3974a4f4d7",
+      "provider": "OpenAlex",
+      "title": "Global Ethics in IVF: Harmonizing Regulation, Ensuring Access, and Governing Innovation",
+      "url": "https://doi.org/10.46989/001c.142396",
+      "doi": "https://doi.org/10.46989/001c.142396",
+      "year": 2025,
+      "authors": [
+        "Zeev Shoham",
+        "Ariel Weissman",
+        "Yuval Yaron"
+      ],
+      "venue": "Journal of IVF-Worldwide",
+      "summary": "Background In vitro fertilization (IVF) has facilitated over 10 million births globally, with annual growth rates exceeding 5%. However, this expansion has intensified ethical challenges spanning genetic selection, embryo management, access equity, and emerging biotechnologies. Methods We conducted a comparative ethical analysis of IVF practices across nine countries (United Kingdom, United States, Israel, Ghana, Italy, Japan, China, India, and France) representing diverse economic, cultural, regulatory, and healthcare contexts. Additional analysis incorporated data from the European Atlas of ..."
+    },
+    {
+      "source_id": "OpenAlex-7a4479a4ff59ff12",
+      "provider": "OpenAlex",
+      "title": "Bio-Genetics and Disease: Diagnostic and Analytical Approaches",
+      "url": "https://doi.org/10.62906/bs.book.388",
+      "doi": "https://doi.org/10.62906/bs.book.388",
+      "year": 2025,
+      "authors": [
+        "M. Juma",
+        "Sakena Jasem Hammoud Jasab",
+        "Saja Hassan Hadi Mohammed",
+        "Lubana Hamoud Shamkhi Alai"
+      ],
+      "venue": "Bright Sky Publications eBooks",
+      "summary": "Buy Bio-Genetics and Disease: Diagnostic and Analytical Approaches written by Moeaml Wahed Motar Juma, Sakena Jasem Hammoud Jasab, Saja Hassan Hadi Mohammed and Lubana Hamoud Shamkhi Alai at low price."
+    },
+    {
+      "source_id": "Crossref-0926bdb9089864f9",
+      "provider": "Crossref",
+      "title": "P-337 Ready for polygenic risk scores? An analysis of regulation of preimplantation genetic testing in seven European countries",
+      "url": "https://doi.org/10.1093/humrep/deae108.144",
+      "doi": "10.1093/humrep/deae108.144",
+      "year": 2024,
+      "authors": [
+        "M Siermann",
+        "V Van der Schoot",
+        "E Bunnik",
+        "P Borry"
+      ],
+      "venue": "Human Reproduction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b3c3a4f9be4e477e",
+      "provider": "Crossref",
+      "title": "Editing human reproduction? Legal and ethical aspects of genome editing",
+      "url": "https://doi.org/10.1016/b978-0-12-816468-6.00021-7",
+      "doi": "10.1016/b978-0-12-816468-6.00021-7",
+      "year": 2019,
+      "authors": [
+        "Judit Sándor"
+      ],
+      "venue": "Human Embryos and Preimplantation Genetic Technologies",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-0d3371b6274af0ae",
+      "provider": "Crossref",
+      "title": "PREIMPLANTATION GENETIC TESTING: Preimplantation genetic testing for polygenic disease risk",
+      "url": "https://doi.org/10.1530/rep-20-0071",
+      "doi": "10.1530/rep-20-0071",
+      "year": 2020,
+      "authors": [
+        "Nathan R Treff",
+        "Diego Marin",
+        "Louis Lello",
+        "Stephen Hsu",
+        "Laurent C A M Tellier"
+      ],
+      "venue": "Reproduction",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780920966-Genetics-followup-1780910748-06082234c81d.json"
+}

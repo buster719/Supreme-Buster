@@ -1,0 +1,106 @@
+{
+  "timestamp_secs": 1780913123,
+  "task_id": "followup-1780907552-f99e5c31a431",
+  "domain": "BrainComputerInterface",
+  "question": "What concrete BCI-alignment protocols (mutual adaptation, neural reinforcement learning with human-in-the-loop, corretable interfaces) have been proposed beyond high-level principles, and which have empirical results?",
+  "query": "brain computer interface human AI cooperation risks concrete alignment protocols mutual adaptation neural reinforcement learning loop",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-4a390b9f509da643",
+      "provider": "Arxiv",
+      "title": "Dynamic Neural Communication: Convergence of Computer Vision and Brain-Computer Interface",
+      "url": "http://arxiv.org/abs/2411.09211v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Ji-Ha Park",
+        "Seo-Hyun Lee",
+        "Soowon Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "arXiv",
+      "summary": "Interpreting human neural signals to decode static speech intentions such as text or images and dynamic speech intentions such as audio or video is showing great potential as an innovative communication tool. Human communication accompanies various features, such as articulatory movements, facial expressions, and internal speech, all of which are reflected in neural signals. However, most studies only generate short or fragmented outputs, while providing informative communication by leveraging various features from neural signals remains challenging. In this study, we introduce a dynamic neura..."
+    },
+    {
+      "source_id": "OpenAlex-7718e2dbd85c9e51",
+      "provider": "OpenAlex",
+      "title": "A Metaverse: Taxonomy, Components, Applications, and Open Challenges",
+      "url": "https://doi.org/10.1109/access.2021.3140175",
+      "doi": "https://doi.org/10.1109/access.2021.3140175",
+      "year": 2022,
+      "authors": [
+        "Sangmin Park",
+        "Young‐Gab Kim"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Unlike previous studies on the Metaverse based on Second Life, the current Metaverse is based on the social value of Generation Z that online and offline selves are not different. With the technological development of deep learning-based high-precision recognition models and natural generation models, Metaverse is being strengthened with various factors, from mobile-based always-on access to connectivity with reality using virtual currency. The integration of enhanced social activities and neural-net methods requires a new definition of Metaverse suitable for the present, different from the pr..."
+    },
+    {
+      "source_id": "OpenAlex-e3035285d2e9076c",
+      "provider": "OpenAlex",
+      "title": "Seven Defining Features of Terahertz (THz) Wireless Systems: A Fellowship of Communication and Sensing",
+      "url": "https://doi.org/10.1109/comst.2022.3143454",
+      "doi": "https://doi.org/10.1109/comst.2022.3143454",
+      "year": 2022,
+      "authors": [
+        "Christina Chaccour",
+        "Mehdi Naderi Soorki",
+        "Walid Saad",
+        "Mehdi Bennis",
+        "Petar Popovski",
+        "Mérouane Debbah"
+      ],
+      "venue": "IEEE Communications Surveys & Tutorials",
+      "summary": "Wireless communication at the terahertz (THz) frequency bands (0.1–10 THz) is viewed as one of the cornerstones of tomorrow’s 6G wireless systems. Owing to the large amount of available bandwidth, if properly deployed, THz frequencies can potentially provide significant wireless capacity performance gains and enable high-resolution environment sensing. However, operating a wireless system at high-frequency bands such as THz is limited by a highly uncertain and dynamic channel. Effectively, these channel limitations lead to unreliable intermittent links as a result of an inherently short commun..."
+    },
+    {
+      "source_id": "OpenAlex-6a09553e46bea805",
+      "provider": "OpenAlex",
+      "title": "Federated Learning for Healthcare Domain - Pipeline, Applications and Challenges",
+      "url": "https://doi.org/10.1145/3533708",
+      "doi": "https://doi.org/10.1145/3533708",
+      "year": 2022,
+      "authors": [
+        "Madhura Joshi",
+        "Ankit Pal",
+        "Malaikannan Sankarasubbu"
+      ],
+      "venue": "ACM Transactions on Computing for Healthcare",
+      "summary": "Federated learning is the process of developing machine learning models over datasets distributed across data centers such as hospitals, clinical research labs, and mobile devices while preventing data leakage. This survey examines previous research and studies on federated learning in the healthcare sector across a range of use cases and applications. Our survey shows what challenges, methods, and applications a practitioner should be aware of in the topic of federated learning. This paper aims to lay out existing research and list the possibilities of federated learning for healthcare indust..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 530; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":78653,\"items\":[{\"DOI\":\"10.14711\\/thesis-99101..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780913123-BrainComputerInterface-followup-1780907552-f99e5c31a431.json"
+}

@@ -1,0 +1,138 @@
+{
+  "timestamp_secs": 1780979029,
+  "task_id": "followup-1780929883-457ce7a0c41e",
+  "domain": "BrainComputerInterface",
+  "question": "How does the timing of challenge (immediate vs. delayed) affect trust repair when the AI is wrong about the user's internal state?",
+  "query": "brain computer interface human AI cooperation risks timing challenge immediate delayed affect trust repair when wrong",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-98f6474dbe7ec189",
+      "provider": "Arxiv",
+      "title": "Trust and Reliance in XAI -- Distinguishing Between Attitudinal and Behavioral Measures",
+      "url": "http://arxiv.org/abs/2203.12318v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Nicolas Scharowski",
+        "Sebastian A. C. Perrig",
+        "Nick von Felten",
+        "Florian Brühlmann"
+      ],
+      "venue": "arXiv",
+      "summary": "Trust is often cited as an essential criterion for the effective use and real-world deployment of AI. Researchers argue that AI should be more transparent to increase trust, making transparency one of the main goals of XAI. Nevertheless, empirical research on this topic is inconclusive regarding the effect of transparency on trust. An explanation for this ambiguity could be that trust is operationalized differently within XAI. In this position paper, we advocate for a clear distinction between behavioral (objective) measures of reliance and attitudinal (subjective) measures of trust. However, ..."
+    },
+    {
+      "source_id": "OpenAlex-23ea6b976048d7df",
+      "provider": "OpenAlex",
+      "title": "Computer response to user frustration",
+      "url": "http://hdl.handle.net/1721.1/61838",
+      "doi": null,
+      "year": 1998,
+      "authors": [
+        "Jonathan Klein"
+      ],
+      "venue": "DSpace@MIT (Massachusetts Institute of Technology)",
+      "summary": "Thesis (S.M.)--Massachusetts Institute of Technology, School of Architecture and Planning, Program in Media Arts and Sciences, February 1999."
+    },
+    {
+      "source_id": "OpenAlex-6501105ebbad6896",
+      "provider": "OpenAlex",
+      "title": "Cyber Threats to Smart Grids: Review, Taxonomy, Potential Solutions, and Future Directions",
+      "url": "https://doi.org/10.3390/en15186799",
+      "doi": "https://doi.org/10.3390/en15186799",
+      "year": 2022,
+      "authors": [
+        "Jianguo Ding",
+        "Attia Qammar",
+        "Zhimin Zhang",
+        "Ahmad Karim",
+        "Huansheng Ning"
+      ],
+      "venue": "Energies",
+      "summary": "Smart Grids (SGs) are governed by advanced computing, control technologies, and networking infrastructure. However, compromised cybersecurity of the smart grid not only affects the security of existing energy systems but also directly impacts national security. The increasing number of cyberattacks against the smart grid urgently necessitates more robust security protection technologies to maintain the security of the grid system and its operations. The purpose of this review paper is to provide a thorough understanding of the incumbent cyberattacks’ influence on the entire smart grid ecosyste..."
+    },
+    {
+      "source_id": "OpenAlex-adc4cbebd58b10c4",
+      "provider": "OpenAlex",
+      "title": "Towards Human-like Artificial Intelligence: A Review of Anthropomorphic Computing in AI and Future Trends",
+      "url": "https://doi.org/10.3390/math13132087",
+      "doi": "https://doi.org/10.3390/math13132087",
+      "year": 2025,
+      "authors": [
+        "Jiacheng Zhang",
+        "Haolan Zhang"
+      ],
+      "venue": "Mathematics",
+      "summary": "Artificial intelligence has brought tremendous convenience to human life in various aspects. However, during its application, there are still instances where AI fails to comprehend certain problems or cannot achieve flawless execution, necessitating more cautious and thoughtful usage. With the advancements in EEG signal processing technology, its integration with AI has become increasingly close. This idea of interpreting electroencephalogram (EEG) signals illustrates researchers’ desire to explore the deeper relationship between AI and human thought, making human-like thinking a new direction..."
+    },
+    {
+      "source_id": "Crossref-5426d52ab0a805b3",
+      "provider": "Crossref",
+      "title": "Does Composite Repair Time Affect Repair Protocol, Immediate or Delayed?",
+      "url": "https://doi.org/10.21203/rs.3.rs-7482603/v1",
+      "doi": "10.21203/rs.3.rs-7482603/v1",
+      "year": 2025,
+      "authors": [
+        "Murat Can Ersen",
+        "Nevin Cobanoglu"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-62646513e17e3010",
+      "provider": "Crossref",
+      "title": "When Things Go Wrong",
+      "url": "https://doi.org/10.1017/9781009738347.004",
+      "doi": "10.1017/9781009738347.004",
+      "year": 2026,
+      "authors": [],
+      "venue": "Governing AI",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780979029-BrainComputerInterface-followup-1780929883-457ce7a0c41e.json"
+}

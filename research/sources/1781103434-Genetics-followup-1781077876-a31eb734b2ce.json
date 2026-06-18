@@ -1,0 +1,142 @@
+{
+  "timestamp_secs": 1781103434,
+  "task_id": "followup-1781077876-a31eb734b2ce",
+  "domain": "Genetics",
+  "question": "In PRS disclosure studies, what specific mechanisms or study designs have been used to empirically isolate the \"information-only\" effect from subsequent medical or behavioral actions?",
+  "query": "genetics safety human flourishing genome editing disclosure studies specific mechanisms study designs been used empirically",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-5d24fac2710af3ef",
+      "provider": "Arxiv",
+      "title": "This paper has been withdrawn",
+      "url": "http://arxiv.org/abs/cond-mat/0309395v2",
+      "doi": null,
+      "year": 2003,
+      "authors": [
+        "This paper has been withdrawn"
+      ],
+      "venue": "arXiv",
+      "summary": "This paper has been withdrawn"
+    },
+    {
+      "source_id": "OpenAlex-1f02416382b0c4a9",
+      "provider": "OpenAlex",
+      "title": "The Pick-and-Shovel Play: Bioethics for Gene-Editing Vector Patents",
+      "url": "https://scholarship.law.unc.edu/nclr/vol97/iss5/19",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Jacob S. Sherkow",
+        "Christopher Thomas Scott"
+      ],
+      "venue": "North Carolina law review",
+      "summary": "Concerns over patent protection covering new forms of gene editing have largely focused on the intellectual property covering the editing mechanism itself, most notably CRISPR (clustered regularly interspaced short palindromic repeats), but also ZFNs (zinc finger nucleases) and TALENs (transcription activator-like effector nucleases). Some of the most important technical advances in these areas, however, relate not to these technologies themselves but to vectors—the means for introducing the gene- editing machinery into human cells. In this Article, we discuss the implications of one intellect..."
+    },
+    {
+      "source_id": "OpenAlex-b4bc2cafc2866a4f",
+      "provider": "OpenAlex",
+      "title": "The dimensions of ‘forensic biosecurity’ in genetic and facial contexts",
+      "url": "https://doi.org/10.1057/s41284-024-00445-1",
+      "doi": "https://doi.org/10.1057/s41284-024-00445-1",
+      "year": 2024,
+      "authors": [
+        "Erin Kruger",
+        "Glenn Porter",
+        "Philip Birch",
+        "Lewis A. Bizo",
+        "Michael Kennedy"
+      ],
+      "venue": "Security Journal",
+      "summary": "Abstract This article seeks to examine the co-productions of security and emerging technologies in the two contexts of forensic genetics and forensic facial identification. These surfacing co-productions, deemed here as ‘forensic biosecurity’, are evolving rapidly in both theoretical and practical terms. Definitions and conceptualisations of security are contingent and multiple, impacting forensic biological techniques and innovations in both predictable and unpredictable ways. The military, counter-terrorism, law enforcement, immigration, customs, border patrol, mass disasters, cold case revi..."
+    },
+    {
+      "source_id": "OpenAlex-26998f25f9163840",
+      "provider": "OpenAlex",
+      "title": "Current and future development of big data in Commonwealth countries",
+      "url": "http://hdl.handle.net/1959.3/444863",
+      "doi": null,
+      "year": 2014,
+      "authors": [
+        "Jing He",
+        "Xiaohui Liu",
+        "Guangyan Huang",
+        "Michael Blumenstein",
+        "Clement H. C. Leung"
+      ],
+      "venue": "Swinburne Research Bank (Swinburne University of Technology)",
+      "summary": "\"Big Data” refers to the very high volume and complex information that requires new tools and capacities for storage and analysis. Although the concept of Big Data arose late in the digital age as computer power, storage, and data use expanded to a previously unimaginable extent, Big Data have always existed in the natural and predigital world. For example, archaeologists and geologists extract Big Data accumulated in DNA sequences and ice cores to study the evolution of the natural world over millions or billions of years. Cameras, personal computers and CDs all capture Big Data. And if every..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781103434-Genetics-followup-1781077876-a31eb734b2ce.json"
+}

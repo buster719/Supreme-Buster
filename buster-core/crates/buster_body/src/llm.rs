@@ -220,10 +220,17 @@ pub struct OpenRouterClient {
     api_key: String,
     client: reqwest::blocking::Client,
     endpoint: String,
+    auth: LlmAuth,
     referer: Option<String>,
     title: Option<String>,
     provider_order: Option<Vec<String>>,
     egress_broker: Option<Arc<EgressBroker>>,
+}
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+enum LlmAuth {
+    Bearer,
+    ApiKeyHeader(String),
 }
 
 impl fmt::Debug for OpenRouterClient {
@@ -232,6 +239,7 @@ impl fmt::Debug for OpenRouterClient {
             .debug_struct("OpenRouterClient")
             .field("api_key", &"[REDACTED]")
             .field("endpoint", &self.endpoint)
+            .field("auth", &self.auth)
             .field("referer", &self.referer)
             .field("title", &self.title)
             .field("provider_order", &self.provider_order)
@@ -256,10 +264,17 @@ impl OpenRouterClient {
     }
 
     pub fn new(api_key: impl Into<String>) -> Self {
+        let client = reqwest::blocking::Client::builder()
+            .no_gzip()
+            .no_brotli()
+            .no_deflate()
+            .build()
+            .unwrap_or_else(|_| reqwest::blocking::Client::new());
         Self {
             api_key: api_key.into(),
-            client: reqwest::blocking::Client::new(),
+            client,
             endpoint: Self::DEFAULT_ENDPOINT.to_string(),
+            auth: LlmAuth::Bearer,
             referer: None,
             title: Some("Buster".to_string()),
             provider_order: None,
@@ -269,6 +284,11 @@ impl OpenRouterClient {
 
     pub fn with_endpoint(mut self, endpoint: impl Into<String>) -> Self {
         self.endpoint = endpoint.into();
+        self
+    }
+
+    pub fn with_api_key_header(mut self, header_name: impl Into<String>) -> Self {
+        self.auth = LlmAuth::ApiKeyHeader(header_name.into());
         self
     }
 
@@ -329,9 +349,13 @@ impl OpenRouterClient {
             })?;
 
         let (status, body) = if let Some(broker) = &self.egress_broker {
-            let mut egress_request =
-                EgressRequest::post_json("openrouter", &self.endpoint, request_body)
-                    .with_bearer_token(self.api_key.clone());
+            let mut egress_request = EgressRequest::post_json("llm", &self.endpoint, request_body);
+            egress_request = match &self.auth {
+                LlmAuth::Bearer => egress_request.with_bearer_token(self.api_key.clone()),
+                LlmAuth::ApiKeyHeader(header_name) => {
+                    egress_request.with_header(header_name, self.api_key.clone())
+                }
+            };
             if let Some(referer) = &self.referer {
                 egress_request = egress_request.with_header("HTTP-Referer", referer);
             }
@@ -349,8 +373,12 @@ impl OpenRouterClient {
             let mut builder = self
                 .client
                 .post(&self.endpoint)
-                .bearer_auth(&self.api_key)
+                .header("Accept-Encoding", "identity")
                 .json(&request);
+            builder = match &self.auth {
+                LlmAuth::Bearer => builder.bearer_auth(&self.api_key),
+                LlmAuth::ApiKeyHeader(header_name) => builder.header(header_name, &self.api_key),
+            };
 
             if let Some(referer) = &self.referer {
                 builder = builder.header("HTTP-Referer", referer);
@@ -365,10 +393,11 @@ impl OpenRouterClient {
             })?;
 
             let status = response.status().as_u16();
-            let body = response.text().map_err(|error| LlmError::Http {
+            let body_bytes = response.bytes().map_err(|error| LlmError::Http {
                 status: Some(status),
                 message: error.to_string(),
             })?;
+            let body = String::from_utf8_lossy(&body_bytes).into_owned();
             (status, body)
         };
 
@@ -388,8 +417,9 @@ impl OpenRouterClient {
             .into_iter()
             .next()
             .ok_or(LlmError::EmptyChoices)?;
+        let content = openrouter_message_content(choice.message.content)?;
         Ok(LlmCompletion {
-            content: choice.message.content,
+            content,
             model: parsed.model.unwrap_or_else(|| provider.model.clone()),
             provider: parsed.provider,
             prompt_tokens: parsed.usage.as_ref().and_then(|usage| usage.prompt_tokens),
@@ -649,7 +679,7 @@ fn secondary_info_system_prompt() -> String {
     "You are a secondary information provider for Buster. Return explanations, hypotheses, summaries, and verification leads only. Do not claim final authority. Mark uncertainty, avoid secrets, and suggest what evidence would verify or falsify the answer.".to_string()
 }
 
-fn prompt_for_secondary_info(request: SecondaryInfoRequest) -> LlmPrompt {
+pub fn prompt_for_secondary_info(request: SecondaryInfoRequest) -> LlmPrompt {
     let mut user = String::new();
     if let Some(context) = request.context {
         user.push_str("Context:\n");
@@ -725,7 +755,7 @@ struct OpenRouterChoice {
 
 #[derive(Debug, serde::Deserialize)]
 struct OpenRouterAssistantMessage {
-    content: String,
+    content: serde_json::Value,
 }
 
 #[derive(Debug, serde::Deserialize)]
@@ -733,6 +763,35 @@ struct OpenRouterUsage {
     prompt_tokens: Option<u64>,
     completion_tokens: Option<u64>,
     total_tokens: Option<u64>,
+}
+
+fn openrouter_message_content(value: serde_json::Value) -> Result<String, LlmError> {
+    match value {
+        serde_json::Value::String(content) => Ok(content),
+        serde_json::Value::Array(parts) => {
+            let mut content = String::new();
+            for part in parts {
+                if let Some(text) = part.get("text").and_then(|value| value.as_str()) {
+                    content.push_str(text);
+                } else if let Some(text) = part.as_str() {
+                    content.push_str(text);
+                }
+            }
+            if content.is_empty() {
+                Err(LlmError::InvalidResponse {
+                    message: "assistant content array contained no text".to_string(),
+                })
+            } else {
+                Ok(content)
+            }
+        }
+        serde_json::Value::Null => Err(LlmError::InvalidResponse {
+            message: "assistant content was null".to_string(),
+        }),
+        other => Err(LlmError::InvalidResponse {
+            message: format!("unsupported assistant content shape: {other}"),
+        }),
+    }
 }
 
 #[cfg(test)]

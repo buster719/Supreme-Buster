@@ -1,0 +1,90 @@
+{
+  "timestamp_secs": 1780926034,
+  "task_id": "followup-1780912835-2bcd8369eab7",
+  "domain": "Aerospace",
+  "question": "How do existing NASA, ESA, or commercial lunar base studies (e.g., ESA’s Moon Village, DARPA LunA-10, NASA’s Moon-to-Mars architecture) quantify the relationship between launch cost, payload mass, and infrastructure redundancy targets?",
+  "query": "aerospace civilization resilience deep space capability existing nasa commercial lunar base studies moon village darpa",
+  "sources": [
+    {
+      "source_id": "Arxiv-5f3d555c090e35ce",
+      "provider": "Arxiv",
+      "title": "Science from the Moon: The NASA/NLSI Lunar University Network for Astrophysics Research (LUNAR)",
+      "url": "http://arxiv.org/abs/0909.1509v1",
+      "doi": null,
+      "year": 2009,
+      "authors": [
+        "Jack O. Burns",
+        "the LUNAR Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Moon is a unique platform for fundamental astrophysical measurements of gravitation, the Sun, and the Universe. Lacking a permanent ionosphere and, on the farside, shielded from terrestrial radio emissions, a radio telescope on the Moon will be an unparalleled heliospheric and astrophysical observatory. Crucial stages in particle acceleration near the Sun can be imaged and tracked. The evolution of the Universe before and during the formation of the first stars will be traced, yielding high precision cosmological constraints. Lunar Laser Ranging of the Earth-Moon distance provides extremel..."
+    },
+    {
+      "source_id": "Arxiv-f4c04f22889032ad",
+      "provider": "Arxiv",
+      "title": "Science enabled by a Moon Village",
+      "url": "http://arxiv.org/abs/1706.06698v1",
+      "doi": null,
+      "year": 2017,
+      "authors": [
+        "Ian A. Crawford"
+      ],
+      "venue": "arXiv",
+      "summary": "A human-robotic \"Moon Village\" would offer significant scientific opportunities by providing an infrastructure on the lunar surface. An analogy would be the way in which human outposts in Antarctica facilitate research activities across multiple scientific disciplines on that continent. Scientific fields expected to benefit from a Moon Village will include: planetary science, astronomy, astrobiology, life sciences, and fundamental physics. In addition, a Moon Village will help develop the use of lunar resources, which will yield additional longer-term scientific benefits."
+    },
+    {
+      "source_id": "Arxiv-770728484c7264d5",
+      "provider": "Arxiv",
+      "title": "Moon's Radiation Environment and Expected Performance of Solar Cells during Future Lunar Missions",
+      "url": "http://arxiv.org/abs/1012.0717v1",
+      "doi": null,
+      "year": 2010,
+      "authors": [
+        "T. E Girish",
+        "S Aranya"
+      ],
+      "venue": "arXiv",
+      "summary": "Several lunar missions are planned ahead and there is an increasing demand for efficient photovoltaic power generation in the moon. The knowledge of solar cell operation in the lunar surface obtained during early seventies need to be updated considering current views on solar variability and emerging space solar cell technologies. In this paper some aspects of the solar cell performance expected under variable lunar radiation environment during future space missions to moon are addressed. We have calculated relative power expected from different types of solar cells under extreme solar proton ..."
+    },
+    {
+      "source_id": "Crossref-bd9eccd4b91537ea",
+      "provider": "Crossref",
+      "title": "The Commercial Lunar Payload Services Initiative",
+      "url": "https://doi.org/10.1109/aero63441.2025.11068423",
+      "doi": "10.1109/aero63441.2025.11068423",
+      "year": 2025,
+      "authors": [
+        "Paul B. Niles",
+        "Ryan Stephan"
+      ],
+      "venue": "2025 IEEE Aerospace Conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-e3f7b9cb07839843",
+      "provider": "Crossref",
+      "title": "NASA crashes space junk into the moon to save lunar heritage sites",
+      "url": "https://doi.org/10.64628/aa.qe7gp6pjs",
+      "doi": "10.64628/aa.qe7gp6pjs",
+      "year": 2012,
+      "authors": [],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-e4eed3594b9c7a26",
+      "provider": "Crossref",
+      "title": "NASA and Commercial Crew Development",
+      "url": "https://doi.org/10.1007/978-3-030-38513-2_5",
+      "doi": "10.1007/978-3-030-38513-2_5",
+      "year": 2020,
+      "authors": [
+        "Manfred ”Dutch” von Ehrenfried"
+      ],
+      "venue": "The Artemis Lunar Program",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780926034-Aerospace-followup-1780912835-2bcd8369eab7.json"
+}

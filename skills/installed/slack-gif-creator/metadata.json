@@ -1,0 +1,12 @@
+{
+  "name": "slack-gif-creator",
+  "status": "Active",
+  "source": "https://raw.githubusercontent.com/anthropics/skills/main/skills/slack-gif-creator/SKILL.md",
+  "version": 3,
+  "created_at_secs": 1781529592,
+  "updated_at_secs": 1781801841,
+  "last_reviewed_at_secs": 1781801317,
+  "risk_notes": [
+    "installed from external markdown; inferred risk Level4BodyTouch / L4; requested activation=false; final status=Active"
+  ]
+}

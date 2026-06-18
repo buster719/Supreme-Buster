@@ -1,0 +1,107 @@
+{
+  "timestamp_secs": 1781095840,
+  "task_id": "followup-1780982909-a64b3b2da576",
+  "domain": "BrainComputerInterface",
+  "question": "At what ITR does a BCI approach parity with a low‑bandwidth manual alternative like a two‑switch sip‑and‑puff interface for a standard Fitts’s law or center‑out reaching task?",
+  "query": "brain computer interface human AI cooperation risks approach parity bandwidth manual alternative like switch puff interface",
+  "sources": [
+    {
+      "source_id": "Arxiv-baba6e314a5fd546",
+      "provider": "Arxiv",
+      "title": "Multi-command Tactile and Auditory Brain Computer Interface based on Head Position Stimulation",
+      "url": "http://arxiv.org/abs/1301.6357v2",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "H. Mori",
+        "Y. Matsumoto",
+        "Z. R. Struzik",
+        "K. Mori",
+        "S. Makino",
+        "D. Mandic",
+        "T. M. Rutkowski"
+      ],
+      "venue": "arXiv",
+      "summary": "We study the extent to which vibrotactile stimuli delivered to the head of a subject can serve as a platform for a brain computer interface (BCI) paradigm. Six head positions are used to evoke combined somatosensory and auditory (via the bone conduction effect) brain responses, in order to define a multimodal tactile and auditory brain computer interface (taBCI). Experimental results of subjects performing online taBCI, using stimuli with a moderately fast inter-stimulus interval (ISI), validate the taBCI paradigm, while the feasibility of the concept is illuminated through information transfe..."
+    },
+    {
+      "source_id": "Arxiv-4a390b9f509da643",
+      "provider": "Arxiv",
+      "title": "Dynamic Neural Communication: Convergence of Computer Vision and Brain-Computer Interface",
+      "url": "http://arxiv.org/abs/2411.09211v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Ji-Ha Park",
+        "Seo-Hyun Lee",
+        "Soowon Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "arXiv",
+      "summary": "Interpreting human neural signals to decode static speech intentions such as text or images and dynamic speech intentions such as audio or video is showing great potential as an innovative communication tool. Human communication accompanies various features, such as articulatory movements, facial expressions, and internal speech, all of which are reflected in neural signals. However, most studies only generate short or fragmented outputs, while providing informative communication by leveraging various features from neural signals remains challenging. In this study, we introduce a dynamic neura..."
+    },
+    {
+      "source_id": "Arxiv-ca87539c45194064",
+      "provider": "Arxiv",
+      "title": "Towards Neurohaptics: Brain-Computer Interfaces for Decoding Intuitive Sense of Touch",
+      "url": "http://arxiv.org/abs/2012.06753v2",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Jeong-Hyun Cho",
+        "Ji-Hoon Jeong",
+        "Myoung-Ki Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "arXiv",
+      "summary": "Noninvasive brain-computer interface (BCI) is widely used to recognize users' intentions. Especially, BCI related to tactile and sensation decoding could provide various effects on many industrial fields such as manufacturing advanced touch displays, controlling robotic devices, and more immersive virtual reality or augmented reality. In this paper, we introduce haptic and sensory perception-based BCI systems called neurohaptics. It is a preliminary study for a variety of scenarios using actual touch and touch imagery paradigms. We designed a novel experimental environment and a device that co..."
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-75440ce0fd0ddce2",
+      "provider": "Crossref",
+      "title": "AI-Enhanced Synaptic Home Automation: A Brain-Computer Interface Approach",
+      "url": "https://doi.org/10.5220/0013577300004639",
+      "doi": "10.5220/0013577300004639",
+      "year": 2024,
+      "authors": [
+        "Alexprabu S P",
+        "Madhumitha K",
+        "Kavitha V",
+        "Sridevi B"
+      ],
+      "venue": "Proceedings of the 2nd International Conference on Intelligent and Sustainable Power and Energy Systems",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781095840-BrainComputerInterface-followup-1780982909-a64b3b2da576.json"
+}

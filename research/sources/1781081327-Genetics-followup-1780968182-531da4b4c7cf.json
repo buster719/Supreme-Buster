@@ -1,0 +1,95 @@
+{
+  "timestamp_secs": 1781081327,
+  "task_id": "followup-1780968182-531da4b4c7cf",
+  "domain": "Genetics",
+  "question": "To what extent do shared family environment and assortative mating shrink the practical risk reduction compared with naive PRS variance estimates?",
+  "query": "genetics safety human flourishing genome editing extent shared family environment assortative mating shrink practical risk",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-602b6db0afeda68e",
+      "provider": "Arxiv",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "url": "http://arxiv.org/abs/1710.05204v2",
+      "doi": null,
+      "year": 2017,
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "venue": "arXiv",
+      "summary": "We consider calculation of capital requirements when the underlying economic scenarios are determined by simulatable risk factors. In the respective nested simulation framework, the goal is to estimate portfolio tail risk, quantified via VaR or TVaR of a given collection of future economic scenarios representing factor levels at the risk horizon. Traditionally, evaluating portfolio losses of an outer scenario is done by computing a conditional expectation via inner-level Monte Carlo and is computationally expensive. We introduce several inter-related machine learning techniques to speed up thi..."
+    },
+    {
+      "source_id": "Crossref-d4cad6d41926adc4",
+      "provider": "Crossref",
+      "title": "The additive polygenic model with assortative mating and shared parent-offspring environment",
+      "url": "https://doi.org/10.1101/2022.11.08.515653",
+      "doi": "10.1101/2022.11.08.515653",
+      "year": 2022,
+      "authors": [
+        "Camille Noûs",
+        "Hervé Perdry"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-125eebef290f47c0",
+      "provider": "Crossref",
+      "title": "Recovering Practical Wisdom as a Guide for Human Flourishing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0014",
+      "doi": "10.1093/oso/9780190940362.003.0014",
+      "year": 2019,
+      "authors": [
+        "Celia Deane-Drummond"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-436e769e6caade8d",
+      "provider": "Crossref",
+      "title": "Correction: The Genetic Correlation between Height and IQ: Shared Genes or Assortative Mating?",
+      "url": "https://doi.org/10.1371/journal.pgen.1004329",
+      "doi": "10.1371/journal.pgen.1004329",
+      "year": 2014,
+      "authors": [
+        "The PLOS Genetics Staff"
+      ],
+      "venue": "PLoS Genetics",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781081327-Genetics-followup-1780968182-531da4b4c7cf.json"
+}

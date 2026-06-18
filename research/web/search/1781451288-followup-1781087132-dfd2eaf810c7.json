@@ -1,0 +1,41 @@
+{
+  "timestamp_secs": 1781451288,
+  "provider": "DuckDuckGoHtml",
+  "task_id": "followup-1781087132-dfd2eaf810c7",
+  "query": "What redundancy and autonomous fault-recovery specifications are required for docking systems in communication-delayed Mars transit or orbit?",
+  "results": [
+    {
+      "rank": 1,
+      "title": "International Deep Space Standards - NASA",
+      "url": "https://www.nasa.gov/international-deep-space-standards/",
+      "snippet": "These international interoperability standards — developed in collaboration with the international community — define interfaces and environments to"
+    },
+    {
+      "rank": 2,
+      "title": "Monitoring, maintenance and fault management considerations for self ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0094576524004685",
+      "snippet": "Additionally, timely resupply flights become unreasonable due to extended transit times from Earth. Altered communication and reduced logistical support, in turn, drive the need to increase onboard capabilities in order to achieve mission objectives with reduced Earth-reliance."
+    },
+    {
+      "rank": 3,
+      "title": "Developing Resilient Hardware Architectures for Space Exploration ...",
+      "url": "https://thestemprofessor.com/article/developing-resilient-hardware-architectures-for-space-exploration-missions/",
+      "snippet": "The Mars rovers exemplify resilient hardware design, featuring redundant communication systems, radiation shielding, and autonomous fault recovery mechanisms. These features have allowed rovers like Curiosity and Perseverance to operate reliably despite harsh Martian conditions."
+    },
+    {
+      "rank": 4,
+      "title": "Building Reliability into Spacecraft Systems - Performance Software",
+      "url": "https://www.psware.com/building-reliability-into-spacecraft-systems/",
+      "snippet": "Designing spacecraft systems for reliability requires implementing several key best practices to ensure mission success and safeguard against failure. One of the most critical features that bolsters reliability within a system is redundancy, which involves building backup systems into essential hardware, software, and communication channels."
+    },
+    {
+      "rank": 5,
+      "title": "Research on Spacecraft Fault Diagnosis and Recovery Architecture",
+      "url": "https://www.researchgate.net/publication/381151748_Research_on_Spacecraft_Fault_Diagnosis_and_Recovery_Architecture",
+      "snippet": "This report studies the design of spacecraft fault diagnosis and recovery system from technology and architecture two respects."
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/web/search/1781451288-followup-1781087132-dfd2eaf810c7.json"
+}

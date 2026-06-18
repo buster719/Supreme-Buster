@@ -1,0 +1,95 @@
+{
+  "timestamp_secs": 1781158411,
+  "task_id": "followup-1781079242-7370f95b601c",
+  "domain": "Genetics",
+  "question": "What is the typical correlation between polygenic scores of full siblings, and how does this constrain the maximum possible rank reordering from selection?",
+  "query": "genetics safety human flourishing genome editing typical correlation polygenic scores full siblings constrain maximum possible",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-ea52eab78ee5888f",
+      "provider": "Arxiv",
+      "title": "Human-Precision Medicine Interaction: Public Perceptions of Polygenic Risk Score for Genetic Health Prediction",
+      "url": "http://arxiv.org/abs/2501.19405v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Yuhao Sun",
+        "Albert Tenesa",
+        "John Vines"
+      ],
+      "venue": "arXiv",
+      "summary": "Precision Medicine (PM) transforms the traditional \"one-drug-fits-all\" paradigm by customising treatments based on individual characteristics, and is an emerging topic for HCI research on digital health. A key element of PM, the Polygenic Risk Score (PRS), uses genetic data to predict an individual's disease risk. Despite its potential, PRS faces barriers to adoption, such as data inclusivity, psychological impact, and public trust. We conducted a mixed-methods study to explore how people perceive PRS, formed of surveys (n=254) and interviews (n=11) with UK-based participants. The interviews w..."
+    },
+    {
+      "source_id": "Crossref-a2df3a466c63dda0",
+      "provider": "Crossref",
+      "title": "Editing the Best of All Possible Worlds",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0005",
+      "doi": "10.1093/oso/9780190940362.003.0005",
+      "year": 2019,
+      "authors": [
+        "Michael Hauskeller"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-3a5550d57c033f65",
+      "provider": "Crossref",
+      "title": "Measurement Error Correction of Genome-Wide Polygenic Scores in Prediction Samples",
+      "url": "https://doi.org/10.1101/165472",
+      "doi": "10.1101/165472",
+      "year": 2017,
+      "authors": [
+        "Elliot M. Tucker-Drob"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781158411-Genetics-followup-1781079242-7370f95b601c.json"
+}

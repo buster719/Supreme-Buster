@@ -1,0 +1,140 @@
+{
+  "timestamp_secs": 1781160427,
+  "task_id": "followup-1781079915-1eb2b93cf3f5",
+  "domain": "Genetics",
+  "question": "How do current polygenic score clinical guidelines (e.g., for breast cancer or CAD) explicitly address or neglect the within-family shrinkage effect, and what would be the revised NNT for screening or intervention if this were accounted for?",
+  "query": "genetics safety human flourishing genome editing current polygenic score clinical guidelines breast cancer explicitly address",
+  "sources": [
+    {
+      "source_id": "Arxiv-a545014c2654d21c",
+      "provider": "Arxiv",
+      "title": "Deep neural network improves the estimation of polygenic risk scores for breast cancer",
+      "url": "http://arxiv.org/abs/2307.13010v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Adrien Badré",
+        "Li Zhang",
+        "Wellington Muchero",
+        "Justin C. Reynolds",
+        "Chongle Pan"
+      ],
+      "venue": "arXiv",
+      "summary": "Polygenic risk scores (PRS) estimate the genetic risk of an individual for a complex disease based on many genetic variants across the whole genome. In this study, we compared a series of computational models for estimation of breast cancer PRS. A deep neural network (DNN) was found to outperform alternative machine learning techniques and established statistical algorithms, including BLUP, BayesA and LDpred. In the test cohort with 50% prevalence, the Area Under the receiver operating characteristic Curve (AUC) were 67.4% for DNN, 64.2% for BLUP, 64.5% for BayesA, and 62.4% for LDpred. BLUP, ..."
+    },
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-fc26ab8e3be54583",
+      "provider": "Arxiv",
+      "title": "Screening Mammography Breast Cancer Detection",
+      "url": "http://arxiv.org/abs/2307.11274v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Debajyoti Chakraborty"
+      ],
+      "venue": "arXiv",
+      "summary": "Breast cancer is a leading cause of cancer-related deaths, but current programs are expensive and prone to false positives, leading to unnecessary follow-up and patient anxiety. This paper proposes a solution to automated breast cancer detection, to improve the efficiency and accuracy of screening programs. Different methodologies were tested against the RSNA dataset of radiographic breast images of roughly 20,000 female patients and yielded an average validation case pF1 score of 0.56 across methods."
+    },
+    {
+      "source_id": "OpenAlex-d6dbe9db58958bd7",
+      "provider": "OpenAlex",
+      "title": "Precision Medicine: Disease Subtyping and Tailored Treatment",
+      "url": "https://doi.org/10.3390/cancers15153837",
+      "doi": "https://doi.org/10.3390/cancers15153837",
+      "year": 2023,
+      "authors": [
+        "Richard Wang",
+        "Zhixiang Wang"
+      ],
+      "venue": "Cancers",
+      "summary": "The genomics-based concept of precision medicine began to emerge following the completion of the Human Genome Project. In contrast to evidence-based medicine, precision medicine will allow doctors and scientists to tailor the treatment of different subpopulations of patients who differ in their susceptibility to specific diseases or responsiveness to specific therapies. The current precision medicine model was proposed to precisely classify patients into subgroups sharing a common biological basis of diseases for more effective tailored treatment to achieve improved outcomes. Precision medicin..."
+    },
+    {
+      "source_id": "OpenAlex-9377317d61e2bf39",
+      "provider": "OpenAlex",
+      "title": "Machine Learning and gene editing at the helm of a societal evolution",
+      "url": "http://dx.doi.org/10.7249/rra2838-1",
+      "doi": "https://doi.org/10.7249/rra2838-1",
+      "year": 2023,
+      "authors": [
+        "Sana Zakaria",
+        "Timothy Marler",
+        "Mark Cabling",
+        "Suzanne Genc",
+        "Artur Honich",
+        "Mann Virdee",
+        "Sam Stockwell"
+      ],
+      "venue": "RAND Corporation eBooks",
+      "summary": "Machine learning and gene editing present both benefits and risks that range from ethics to national security. These complex technologies have implications for many different sectors, and are further complicated by differences in advancements and policies in multiple geographic regions. This study focuses on how forward-looking policies can be developed in the US, UK, China and the EU to help manage beneficial use of technology advancements."
+    },
+    {
+      "source_id": "OpenAlex-f2166f8167c57605",
+      "provider": "OpenAlex",
+      "title": "A public dialogue on genomic medicine: time for a new social contract?",
+      "url": "https://pure.qub.ac.uk/en/publications/3490c745-06fd-4338-976f-64f7723e17ca",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Sarah Castell",
+        "Graham Bukowski",
+        "Helen McAneney"
+      ],
+      "venue": "Research Portal (Queen's University Belfast)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-509cb1f930ec39e6",
+      "provider": "Crossref",
+      "title": "Clinical relevance of genome‐wide polygenic score may be less than claimed",
+      "url": "https://doi.org/10.1111/ahg.12302",
+      "doi": "10.1111/ahg.12302",
+      "year": 2019,
+      "authors": [
+        "David Curtis"
+      ],
+      "venue": "Annals of Human Genetics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-2919cdacea4a5fd6",
+      "provider": "Crossref",
+      "title": "Genetic distance informs polygenic score predictive accuracy",
+      "url": "https://doi.org/10.1016/j.tig.2023.07.002",
+      "doi": "10.1016/j.tig.2023.07.002",
+      "year": 2023,
+      "authors": [
+        "Genevieve L. Wojcik"
+      ],
+      "venue": "Trends in Genetics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-4599f4336ff9c6c4",
+      "provider": "Crossref",
+      "title": "Polygenic Risk Score Improves Breast Cancer Prediction",
+      "url": "https://doi.org/10.1089/clinomi.02.05.04",
+      "doi": "10.1089/clinomi.02.05.04",
+      "year": 2015,
+      "authors": [],
+      "venue": "Clinical OMICs",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781160427-Genetics-followup-1781079915-1eb2b93cf3f5.json"
+}

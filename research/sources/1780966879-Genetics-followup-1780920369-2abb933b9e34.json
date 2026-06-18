@@ -1,0 +1,105 @@
+{
+  "timestamp_secs": 1780966879,
+  "task_id": "followup-1780920369-2abb933b9e34",
+  "domain": "Genetics",
+  "question": "What is the observed magnitude of SES gradients in PRS-based testing uptake in existing genetic cohorts (UK Biobank, All of Us, FinnGen), and does it change when PRS are offered direct-to-consumer vs. clinical care?",
+  "query": "genetics safety human flourishing genome editing observed magnitude gradients based testing uptake existing genetic cohorts",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-e40337df846f4a8a",
+      "provider": "OpenAlex",
+      "title": "Risks and new challenges in the food chain: Viral contamination and decontamination from a global perspective, guidelines, and cleaning",
+      "url": "https://doi.org/10.1111/1541-4337.12899",
+      "doi": "https://doi.org/10.1111/1541-4337.12899",
+      "year": 2022,
+      "authors": [
+        "Hamid Ezzatpanah",
+        "Vicente M. Gómez‐López",
+        "Tatiana Koutchma",
+        "Farnoush Lavafpour",
+        "F. Moerman",
+        "M Mohammadi",
+        "Dele Raheem"
+      ],
+      "venue": "Comprehensive Reviews in Food Science and Food Safety",
+      "summary": "Even during the continuing world pandemic of severe acute respiratory syndrome coronavirus 2 (SARS CoV-2), consumers remain exposed to the risk of getting infected by existing, emerging, or re-emerging foodborne and waterborne viruses. SARS-CoV-2 is different in that it is transmitted directly via the airborne route (droplets and aerosols) or indirect contact (surfaces contaminated with SARS-CoV-2). International food and health organizations and national regulatory bodies have provided guidance to protect individuals active in food premises from potential occupational exposure to SARS-CoV-2, ..."
+    },
+    {
+      "source_id": "OpenAlex-ebe9daa1397292cc",
+      "provider": "OpenAlex",
+      "title": "Exposing, Reversing, and Inheriting Crimes as Traumas from the Neurosciences to Epigenetics: Why Criminal Law Cannot Yet Afford A(nother) Biology-induced Overhaul",
+      "url": "http://dx.doi.org/10.1080/0731129x.2024.2376444",
+      "doi": "https://doi.org/10.1080/0731129x.2024.2376444",
+      "year": 2024,
+      "authors": [
+        "Riccardo Vecellio Segate"
+      ],
+      "venue": "Criminal Justice Ethics",
+      "summary": "In criminal proceedings, offenders are sentenced based on doctrines of culpability and punishment that theorize why they are guilty and why they should be punished. Throughout human history, these doctrines have largely been grounded in legal-policy constructions around retribution, safety, deterrence, and closure, mostly derived from folk psychology, natural philosophy, sociocultural expectations, public-order narratives, and common sense. On these premises, justice systems have long been designed to account for crimes and their underlying intent, with experience and probabilistic assumptions..."
+    },
+    {
+      "source_id": "OpenAlex-48e4468128f5ba71",
+      "provider": "OpenAlex",
+      "title": "The Health of People: How the social sciences can improve population health",
+      "url": "https://doi.org/10.4135/9781473998889",
+      "doi": "https://doi.org/10.4135/9781473998889",
+      "year": 2017,
+      "authors": [
+        "Campaign for Social Science"
+      ],
+      "venue": null,
+      "summary": "We recommend the establishment of the UK Strategic Coordinating Body for Health of the Public Research (SCHOPR) to help meet our"
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "HTTP status client error (429 Too Many Requests) for url (https://api.crossref.org/works?query=genetics+safety+human+flourishing+genome+editing+observed+magnitude+gradients+based+testing+uptake+existing+genetic+cohorts&rows=3&select=DOI%2Ct..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780966879-Genetics-followup-1780920369-2abb933b9e34.json"
+}

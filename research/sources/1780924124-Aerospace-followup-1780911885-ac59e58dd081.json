@@ -1,0 +1,96 @@
+{
+  "timestamp_secs": 1780924124,
+  "task_id": "followup-1780911885-ac59e58dd081",
+  "domain": "Aerospace",
+  "question": "What genetic or metabolic engineering approaches could relax the population bottleneck, and how far along are they in real flight‑biology experiments?",
+  "query": "aerospace civilization resilience deep space capability genetic metabolic engineering approaches relax population bottleneck along they",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-cff7b3f0d1e756c1",
+      "provider": "Arxiv",
+      "title": "Knowledge-Based Aerospace Engineering -- A Systematic Literature Review",
+      "url": "http://arxiv.org/abs/2505.10142v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Tim Wittenborg",
+        "Ildar Baimuratov",
+        "Ludvig Knöös Franzén",
+        "Ingo Staack",
+        "Ulrich Römer",
+        "Sören Auer"
+      ],
+      "venue": "arXiv",
+      "summary": "The aerospace industry operates at the frontier of technological innovation while maintaining high standards regarding safety and reliability. In this environment, with an enormous potential for re-use and adaptation of existing solutions and methods, Knowledge-Based Engineering (KBE) has been applied for decades. The objective of this study is to identify and examine state-of-the-art knowledge management practices in the field of aerospace engineering. Our contributions include: 1) A SWARM-SLR of over 1,000 articles with qualitative analysis of 164 selected articles, supported by two aerospac..."
+    },
+    {
+      "source_id": "Arxiv-5beb71d137b1a507",
+      "provider": "Arxiv",
+      "title": "Deep Learning and Computational Physics (Lecture Notes)",
+      "url": "http://arxiv.org/abs/2301.00942v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Ray",
+        "Orazio Pinti",
+        "Assad A. Oberai"
+      ],
+      "venue": "arXiv",
+      "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics. The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorithms and the more conventional techniques of computational physics to achieve two goals. First, they us..."
+    },
+    {
+      "source_id": "Crossref-e3fb5af200518cdd",
+      "provider": "Crossref",
+      "title": "Application of Metabolic Engineering Approaches in Enhancing Biological Hydrogen Production",
+      "url": "https://doi.org/10.33140/jgebr.04.02.04",
+      "doi": "10.33140/jgebr.04.02.04",
+      "year": 2022,
+      "authors": [],
+      "venue": "Journal of Genetic Engineering and Biotechnology Research",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-ec91f1c271f725bb",
+      "provider": "Crossref",
+      "title": "The in-space rescue capability gap",
+      "url": "https://doi.org/10.1016/j.jsse.2021.07.007",
+      "doi": "10.1016/j.jsse.2021.07.007",
+      "year": 2021,
+      "authors": [
+        "Grant Cates"
+      ],
+      "venue": "Journal of Space Safety Engineering",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-aa3d0b524a967464",
+      "provider": "Crossref",
+      "title": "Genetic and metabolic engineering approaches for improving accessibilities of lignocellulosic biomass toward biofuels generations",
+      "url": "https://doi.org/10.1016/b978-0-12-817953-6.00002-6",
+      "doi": "10.1016/b978-0-12-817953-6.00002-6",
+      "year": 2020,
+      "authors": [
+        "Dipankar Ghosh",
+        "Somnath Das"
+      ],
+      "venue": "Genetic and Metabolic Engineering for Improved Biofuel Production from Lignocellulosic Biomass",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780924124-Aerospace-followup-1780911885-ac59e58dd081.json"
+}

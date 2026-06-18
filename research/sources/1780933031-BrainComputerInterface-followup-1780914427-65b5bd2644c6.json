@@ -1,0 +1,140 @@
+{
+  "timestamp_secs": 1780933031,
+  "task_id": "followup-1780914427-65b5bd2644c6",
+  "domain": "BrainComputerInterface",
+  "question": "What is the current state-of-the-art information transfer rate (ITR) for SSVEP-based non-invasive BCIs in online cooperative AI tasks, and how does it degrade with electrode count reduction or dry electrodes?",
+  "query": "brain computer interface human AI cooperation risks current state information transfer rate ssvep based invasive bcis",
+  "sources": [
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-baba6e314a5fd546",
+      "provider": "Arxiv",
+      "title": "Multi-command Tactile and Auditory Brain Computer Interface based on Head Position Stimulation",
+      "url": "http://arxiv.org/abs/1301.6357v2",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "H. Mori",
+        "Y. Matsumoto",
+        "Z. R. Struzik",
+        "K. Mori",
+        "S. Makino",
+        "D. Mandic",
+        "T. M. Rutkowski"
+      ],
+      "venue": "arXiv",
+      "summary": "We study the extent to which vibrotactile stimuli delivered to the head of a subject can serve as a platform for a brain computer interface (BCI) paradigm. Six head positions are used to evoke combined somatosensory and auditory (via the bone conduction effect) brain responses, in order to define a multimodal tactile and auditory brain computer interface (taBCI). Experimental results of subjects performing online taBCI, using stimuli with a moderately fast inter-stimulus interval (ISI), validate the taBCI paradigm, while the feasibility of the concept is illuminated through information transfe..."
+    },
+    {
+      "source_id": "OpenAlex-cff00b12040a924e",
+      "provider": "OpenAlex",
+      "title": "Quo vadis artificial intelligence?",
+      "url": "https://doi.org/10.1007/s44163-022-00022-8",
+      "doi": "https://doi.org/10.1007/s44163-022-00022-8",
+      "year": 2022,
+      "authors": [
+        "Yuchen Jiang",
+        "Xiang Li",
+        "Hao Luo",
+        "Shen Yin",
+        "Okyay Kaynak"
+      ],
+      "venue": "Discover Artificial Intelligence",
+      "summary": "Abstract The study of artificial intelligence (AI) has been a continuous endeavor of scientists and engineers for over 65 years. The simple contention is that human-created machines can do more than just labor-intensive work; they can develop human-like intelligence. Being aware or not, AI has penetrated into our daily lives, playing novel roles in industry, healthcare, transportation, education, and many more areas that are close to the general public. AI is believed to be one of the major drives to change socio-economical lives. In another aspect, AI contributes to the advancement of state-o..."
+    },
+    {
+      "source_id": "OpenAlex-262faacc668a4796",
+      "provider": "OpenAlex",
+      "title": "Electroencephalogram based brain-computer interface: Applications, challenges, and opportunities",
+      "url": "https://doi.org/10.1007/s11042-023-15653-x",
+      "doi": "https://doi.org/10.1007/s11042-023-15653-x",
+      "year": 2023,
+      "authors": [
+        "Hitesh Yadav",
+        "Surita Maini"
+      ],
+      "venue": "Multimedia Tools and Applications",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-243143df5c492c8b",
+      "provider": "OpenAlex",
+      "title": "An Introductory Tutorial on Brain–Computer Interfaces and Their Applications",
+      "url": "https://doi.org/10.3390/electronics10050560",
+      "doi": "https://doi.org/10.3390/electronics10050560",
+      "year": 2021,
+      "authors": [
+        "Andrea Bonci",
+        "Simone Fiori",
+        "Hiroshi Higashi",
+        "Toshihisa Tanaka",
+        "Federica Verdini"
+      ],
+      "venue": "Electronics",
+      "summary": "The prospect and potentiality of interfacing minds with machines has long captured human imagination. Recent advances in biomedical engineering, computer science, and neuroscience are making brain–computer interfaces a reality, paving the way to restoring and potentially augmenting human physical and mental capabilities. Applications of brain–computer interfaces are being explored in applications as diverse as security, lie detection, alertness monitoring, gaming, education, art, and human cognition augmentation. The present tutorial aims to survey the principal features and challenges of brai..."
+    },
+    {
+      "source_id": "Crossref-b4b791146df4c8dc",
+      "provider": "Crossref",
+      "title": "SSVEP-Based BCIs",
+      "url": "https://doi.org/10.5772/intechopen.75693",
+      "doi": "10.5772/intechopen.75693",
+      "year": 2018,
+      "authors": [
+        "Rajesh Singla"
+      ],
+      "venue": "Evolving BCI Therapy - Engaging Brain State Dynamics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-1a63cbe23dc62959",
+      "provider": "Crossref",
+      "title": "Review for \"Single stimulus location for two inputs: A combined brain‐computer interface based on Steady State Visual Evoked Potential (SSVEP)\"",
+      "url": "https://doi.org/10.1111/ejn.15030/v5/review1",
+      "doi": "10.1111/ejn.15030/v5/review1",
+      "year": 2020,
+      "authors": [],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6095bbff1b4c2022",
+      "provider": "Crossref",
+      "title": "Review for \"Single stimulus location for two inputs: A combined brain‐computer interface based on Steady State Visual Evoked Potential (SSVEP)\"",
+      "url": "https://doi.org/10.1111/ejn.15030/v2/review1",
+      "doi": "10.1111/ejn.15030/v2/review1",
+      "year": 2020,
+      "authors": [],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780933031-BrainComputerInterface-followup-1780914427-65b5bd2644c6.json"
+}

@@ -1,0 +1,146 @@
+{
+  "timestamp_secs": 1781097195,
+  "task_id": "followup-1780985247-6387fcdb6e35",
+  "domain": "MaterialsScience",
+  "question": "– Can pre‑oxidation at moderate temperatures create a B₂O₃ reservoir that flows into cracks during subsequent high‑temperature cycling, or does the oxide layer spall due to CTE mismatch?",
+  "query": "materials science fusion robotics aerospace computation oxidation moderate temperatures create b₂o₃ reservoir flows cracks during",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-cb4a2b75f3add1aa",
+      "provider": "Arxiv",
+      "title": "Secure and secret cooperation in robotic swarms",
+      "url": "http://arxiv.org/abs/1904.09266v3",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Eduardo Castelló Ferrer",
+        "Thomas Hardjono",
+        "Alex 'Sandy' Pentland",
+        "Marco Dorigo"
+      ],
+      "venue": "arXiv",
+      "summary": "The importance of swarm robotics systems in both academic research and real-world applications is steadily increasing. However, to reach widespread adoption, new models that ensure the secure cooperation of large groups of robots need to be developed. This work introduces a novel method to encapsulate cooperative robotic missions in an authenticated data structure known as Merkle tree. With this method, operators can provide the \"blueprint\" of the swarm's mission without disclosing its raw data. In other words, data verification can be separated from data itself. We propose a system where robo..."
+    },
+    {
+      "source_id": "Arxiv-861da6473aabf424",
+      "provider": "Arxiv",
+      "title": "Differentiable Physics-based System Identification for Robotic Manipulation of Elastoplastic Materials",
+      "url": "http://arxiv.org/abs/2411.00554v3",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Xintong Yang",
+        "Ze Ji",
+        "Yu-Kun Lai"
+      ],
+      "venue": "arXiv",
+      "summary": "Robotic manipulation of volumetric elastoplastic deformable materials, from foods such as dough to construction materials like clay, is in its infancy, largely due to the difficulty of modelling and perception in a high-dimensional space. Simulating the dynamics of such materials is computationally expensive. It tends to suffer from inaccurately estimated physics parameters of the materials and the environment, impeding high-precision manipulation. Estimating such parameters from raw point clouds captured by optical cameras suffers further from heavy occlusions. To address this challenge, this..."
+    },
+    {
+      "source_id": "OpenAlex-d8a9effca3414945",
+      "provider": "OpenAlex",
+      "title": "Recent Progress on Polymer Materials for Additive Manufacturing",
+      "url": "https://doi.org/10.1002/adfm.202003062",
+      "doi": "https://doi.org/10.1002/adfm.202003062",
+      "year": 2020,
+      "authors": [
+        "Lisa Jiaying Tan",
+        "Wei Zhu",
+        "Kun Zhou"
+      ],
+      "venue": "Advanced Functional Materials",
+      "summary": "Abstract Additive manufacturing (AM) is the process of printing 3D objects in a layer‐by‐layer manner. Polymers and their composites are some of the most widely used materials in modern industries and are of great interest in the field of AM due to their vast potential for various applications, especially in the medical, aerospace, and automotive industries. Many studies have been conducted to develop new polymer materials for AM techniques, which include vat photopolymerization, material jetting, powder bed fusion, material extrusion, binder jetting, and sheet lamination. Although several rev..."
+    },
+    {
+      "source_id": "OpenAlex-588243a388005288",
+      "provider": "OpenAlex",
+      "title": "Additive manufacturing (3D printing) technologies for fiber-reinforced polymer composite materials: A review on fabrication methods and process parameters",
+      "url": "https://doi.org/10.1515/epoly-2023-0114",
+      "doi": "https://doi.org/10.1515/epoly-2023-0114",
+      "year": 2024,
+      "authors": [
+        "Manickam Ramesh",
+        "Kanakaraj Niranjana",
+        "Ramasamy Bhoopathi",
+        "L. Rajeshkumar"
+      ],
+      "venue": "e-Polymers",
+      "summary": "Abstract In recent years, additive manufacturing (AM) has seen extensive exploitation in the research areas for the processing of fiber-reinforced polymer composites (FRPCs). Existing reviews on AM have recommended either sustainable production methods or have introduced new processing methodologies. A relationship between materials used, manufacturing processes, process parameters, and their properties is essential in any manufacturing process. Accordingly, this review focuses on the manufacturing of FRPCs in relation to process parameters and properties of the polymer composites. Various stu..."
+    },
+    {
+      "source_id": "OpenAlex-db6c3bdd3766ebb3",
+      "provider": "OpenAlex",
+      "title": "Rethinking Biomedical Titanium Alloy Design: A Review of Challenges from Biological and Manufacturing Perspectives",
+      "url": "https://doi.org/10.1002/adhm.202403129",
+      "doi": "https://doi.org/10.1002/adhm.202403129",
+      "year": 2024,
+      "authors": [
+        "Daisy Rabbitt",
+        "Victor M. Villapún",
+        "Luke N. Carter",
+        "Kenny Man",
+        "Morgan Lowther",
+        "Paraic O'Kelly",
+        "Alexander J. Knowles",
+        "Alessandro Mottura"
+      ],
+      "venue": "Advanced Healthcare Materials",
+      "summary": "Current biomedical titanium alloys have been repurposed from other industries, which has contributed to several biologically driven implant failure mechanisms. This review highlights the added value that may be gained by building an appreciation of implant biological responses at the onset of alloy design. Specifically, the fundamental mechanisms associated with immune response, angiogenesis, osseointegration and the potential threat of infection are discussed, including how elemental selection can modulate these pivotal systems. With a view to expedite inclusion of these interactions in alloy..."
+    },
+    {
+      "source_id": "Crossref-349e2b23b37eba2f",
+      "provider": "Crossref",
+      "title": "Transport of Tritium in SS316 at Moderate Temperatures",
+      "url": "https://doi.org/10.13182/fst08-23",
+      "doi": "10.13182/fst08-23",
+      "year": 2008,
+      "authors": [],
+      "venue": "Fusion Science and Technology",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b636c4674ae83b61",
+      "provider": "Crossref",
+      "title": "The computation of rotational conical flows",
+      "url": "https://doi.org/10.2514/6.1984-258",
+      "doi": "10.2514/6.1984-258",
+      "year": 1984,
+      "authors": [
+        "B. GROSSMAN"
+      ],
+      "venue": "22nd Aerospace Sciences Meeting",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-8e12fba5c4d8b6ce",
+      "provider": "Crossref",
+      "title": "Cyclic fracture toughness of structural alloys with surface cracks at low temperatures",
+      "url": "https://doi.org/10.1007/bf00565970",
+      "doi": "10.1007/bf00565970",
+      "year": 1996,
+      "authors": [
+        "V. O. Stryzhalo",
+        "O. O. Berezovs'kyi"
+      ],
+      "venue": "Materials Science",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781097195-MaterialsScience-followup-1780985247-6387fcdb6e35.json"
+}

@@ -1,0 +1,41 @@
+{
+  "timestamp_secs": 1781525478,
+  "provider": "DuckDuckGoHtml",
+  "task_id": "chat-1781525478",
+  "query": "NEAR Protocol 的官方文档是什么，并告诉我到了什么。",
+  "results": [
+    {
+      "rank": 1,
+      "title": "Home - NEAR Docs",
+      "url": "https://docs.near.org/",
+      "snippet": "Browse by topic NEAR Protocol Accounts, access keys, gas, transactions, and the NEAR runtime."
+    },
+    {
+      "rank": 2,
+      "title": "NEAR: The Currency of Agents",
+      "url": "https://www.near.org/",
+      "snippet": "NEAR Tokenomics: real revenue, real value capture NEAR operates one of the most mature and transparent cryptoeconomic systems in the industry, with a fully unlocked token supply, protocol revenue flowing to NEAR buybacks, and a deflationary trajectory."
+    },
+    {
+      "rank": 3,
+      "title": "NEAR Protocol Developer Guide | NEAR Developer Experience (DX)",
+      "url": "https://near.github.io/DX/",
+      "snippet": "NEAR Protocol Developer Guide NEAR is dedicated to providing the best developer experience possible for building an open web. This mission is next to impossible to achieve without feedback and contributions from people like you. 🫵 Get involved! 👉 please select one of the options above or contribute to one of the essential developer repositories listed below 🙏"
+    },
+    {
+      "rank": 4,
+      "title": "GitHub - nnsW3/docs-near: NEAR Protocol Documentation",
+      "url": "https://github.com/nnsW3/docs-near",
+      "snippet": "NEAR Protocol - scalable and usable blockchain This is the repository for the official documentation of NEAR Protocol, a user-friendly and carbon-neutral blockchain, built from the ground up to be performant, secure, and infinitely scalable."
+    },
+    {
+      "rank": 5,
+      "title": "GitHub - near/docs: NEAR Protocol Documentation · GitHub",
+      "url": "https://github.com/near/docs",
+      "snippet": "NEAR Protocol - scalable and usable blockchain This is the repository for the official documentation of NEAR Protocol, a user-friendly and carbon-neutral blockchain, built from the ground up to be performant, secure, and infinitely scalable."
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/web/search/1781525478-chat-1781525478.json"
+}

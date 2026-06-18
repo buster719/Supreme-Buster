@@ -1,0 +1,146 @@
+{
+  "timestamp_secs": 1781793106,
+  "task_id": "followup-1781087463-8b66e040b030",
+  "domain": "BrainComputerInterface",
+  "question": "What empirical studies have directly measured user trust (self-report or behavioral) in BCI systems before, during, and after an adaptive decoder is removed or replaced?",
+  "query": "brain computer interface human AI cooperation risks empirical studies measured user trust self report behavioral systems",
+  "sources": [
+    {
+      "source_id": "Arxiv-98f6474dbe7ec189",
+      "provider": "Arxiv",
+      "title": "Trust and Reliance in XAI -- Distinguishing Between Attitudinal and Behavioral Measures",
+      "url": "http://arxiv.org/abs/2203.12318v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Nicolas Scharowski",
+        "Sebastian A. C. Perrig",
+        "Nick von Felten",
+        "Florian Brühlmann"
+      ],
+      "venue": "arXiv",
+      "summary": "Trust is often cited as an essential criterion for the effective use and real-world deployment of AI. Researchers argue that AI should be more transparent to increase trust, making transparency one of the main goals of XAI. Nevertheless, empirical research on this topic is inconclusive regarding the effect of transparency on trust. An explanation for this ambiguity could be that trust is operationalized differently within XAI. In this position paper, we advocate for a clear distinction between behavioral (objective) measures of reliance and attitudinal (subjective) measures of trust. However, ..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "OpenAlex-7a1fc8d9affa1d9a",
+      "provider": "OpenAlex",
+      "title": "Explainable medical imaging AI needs human-centered design: guidelines and evidence from a systematic review",
+      "url": "https://doi.org/10.1038/s41746-022-00699-2",
+      "doi": "https://doi.org/10.1038/s41746-022-00699-2",
+      "year": 2022,
+      "authors": [
+        "Haomin Chen",
+        "Catalina Gómez",
+        "Chien‐Ming Huang",
+        "Mathias Unberath"
+      ],
+      "venue": "npj Digital Medicine",
+      "summary": "Transparency in Machine Learning (ML), often also referred to as interpretability or explainability, attempts to reveal the working mechanisms of complex models. From a human-centered design perspective, transparency is not a property of the ML model but an affordance, i.e., a relationship between algorithm and users. Thus, prototyping and user evaluations are critical to attaining solutions that afford transparency. Following human-centered design principles in highly specialized and high stakes domains, such as medical image analysis, is challenging due to the limited access to end users and..."
+    },
+    {
+      "source_id": "OpenAlex-f15a03a0a0067661",
+      "provider": "OpenAlex",
+      "title": "Designing Transparency for Effective Human-AI Collaboration",
+      "url": "https://doi.org/10.1007/s10796-022-10284-3",
+      "doi": "https://doi.org/10.1007/s10796-022-10284-3",
+      "year": 2022,
+      "authors": [
+        "Michael Vössing",
+        "Niklas Kühl",
+        "Matteo Lind",
+        "Gerhard Satzger"
+      ],
+      "venue": "Information Systems Frontiers",
+      "summary": "Abstract The field of artificial intelligence (AI) is advancing quickly, and systems can increasingly perform a multitude of tasks that previously required human intelligence. Information systems can facilitate collaboration between humans and AI systems such that their individual capabilities complement each other. However, there is a lack of consolidated design guidelines for information systems facilitating the collaboration between humans and AI systems. This work examines how agent transparency affects trust and task outcomes in the context of human-AI collaboration. Drawing on the 3-Gap ..."
+    },
+    {
+      "source_id": "OpenAlex-902752f6ef893bb5",
+      "provider": "OpenAlex",
+      "title": "Why do users trust algorithms? A review and conceptualization of initial trust and trust over time",
+      "url": "https://doi.org/10.1016/j.emj.2022.06.001",
+      "doi": "https://doi.org/10.1016/j.emj.2022.06.001",
+      "year": 2022,
+      "authors": [
+        "Francesca Cabiddu",
+        "Ludovica Moi",
+        "Gerardo Patriotta",
+        "David G. Allen"
+      ],
+      "venue": "European Management Journal",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-74cb5c2717f50d84",
+      "provider": "Crossref",
+      "title": "Productivity gains via an adaptive user interface: an empirical analysis",
+      "url": "https://doi.org/10.1006/ijhc.1994.1004",
+      "doi": "10.1006/ijhc.1994.1004",
+      "year": 1994,
+      "authors": [
+        "James E. Trumbly",
+        "Kirk P. Arnett",
+        "Peter C. Johnson"
+      ],
+      "venue": "International Journal of Human-Computer Studies",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-2fe43226e779e673",
+      "provider": "Crossref",
+      "title": "An empirical user-study of text-based nonverbal annotation systems for human–human conversations",
+      "url": "https://doi.org/10.1016/j.ijhcs.2023.103082",
+      "doi": "10.1016/j.ijhcs.2023.103082",
+      "year": 2023,
+      "authors": [
+        "Joshua Y. Kim",
+        "Kalina Yacef"
+      ],
+      "venue": "International Journal of Human-Computer Studies",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-24bc684471d88d81",
+      "provider": "Crossref",
+      "title": "Exploring the Influence of User Interface on User Trust in Generative AI",
+      "url": "https://doi.org/10.5220/0013432700003928",
+      "doi": "10.5220/0013432700003928",
+      "year": 2025,
+      "authors": [
+        "Morteza Ahmadianmanzary",
+        "Sofia Ouhbi"
+      ],
+      "venue": "Proceedings of the 20th International Conference on Evaluation of Novel Approaches to Software Engineering",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781793106-BrainComputerInterface-followup-1781087463-8b66e040b030.json"
+}

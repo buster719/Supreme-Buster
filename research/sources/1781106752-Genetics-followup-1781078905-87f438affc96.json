@@ -1,0 +1,150 @@
+{
+  "timestamp_secs": 1781106752,
+  "task_id": "followup-1781078905-87f438affc96",
+  "domain": "Genetics",
+  "question": "Can integrating polygenic risk scores derived from parental genotypes further enhance within-family association power?",
+  "query": "genetics safety human flourishing genome editing integrating polygenic risk scores derived parental genotypes further enhance",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-a545014c2654d21c",
+      "provider": "Arxiv",
+      "title": "Deep neural network improves the estimation of polygenic risk scores for breast cancer",
+      "url": "http://arxiv.org/abs/2307.13010v1",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Adrien Badré",
+        "Li Zhang",
+        "Wellington Muchero",
+        "Justin C. Reynolds",
+        "Chongle Pan"
+      ],
+      "venue": "arXiv",
+      "summary": "Polygenic risk scores (PRS) estimate the genetic risk of an individual for a complex disease based on many genetic variants across the whole genome. In this study, we compared a series of computational models for estimation of breast cancer PRS. A deep neural network (DNN) was found to outperform alternative machine learning techniques and established statistical algorithms, including BLUP, BayesA and LDpred. In the test cohort with 50% prevalence, the Area Under the receiver operating characteristic Curve (AUC) were 67.4% for DNN, 64.2% for BLUP, 64.5% for BayesA, and 62.4% for LDpred. BLUP, ..."
+    },
+    {
+      "source_id": "OpenAlex-0e9000aa4422434d",
+      "provider": "OpenAlex",
+      "title": "CRISPR Genome Engineering for Human Pluripotent Stem Cell Research",
+      "url": "https://doi.org/10.7150/thno.18456",
+      "doi": "https://doi.org/10.7150/thno.18456",
+      "year": 2017,
+      "authors": [
+        "Somali Chaterji",
+        "Eun Hyun Ahn",
+        "Deok‐Ho Kim"
+      ],
+      "venue": "Theranostics",
+      "summary": "The emergence of targeted and efficient genome editing technologies, such as repurposed bacterial programmable nucleases (e.g., CRISPR-Cas systems), has abetted the development of cell engineering approaches. Lessons learned from the development of RNA-interference (RNA-i) therapies can spur the translation of genome editing, such as those enabling the translation of human pluripotent stem cell engineering. In this review, we discuss the opportunities and the challenges of repurposing bacterial nucleases for genome editing, while appreciating their roles, primarily at the epigenomic granularit..."
+    },
+    {
+      "source_id": "OpenAlex-15500dc674136ce0",
+      "provider": "OpenAlex",
+      "title": "Childhood Trauma in Schizophrenia: Current Findings and Research Perspectives",
+      "url": "https://doi.org/10.3389/fnins.2019.00274",
+      "doi": "https://doi.org/10.3389/fnins.2019.00274",
+      "year": 2019,
+      "authors": [
+        "David Popovic",
+        "Andrea Schmitt",
+        "Lalit Kaurani",
+        "Fanny Senner",
+        "Sergi Papiol",
+        "Berend Malchow",
+        "André Fischer",
+        "Thomas G. Schulze"
+      ],
+      "venue": "Frontiers in Neuroscience",
+      "summary": "Schizophrenia is a severe neuropsychiatric disorder with persistence of symptoms throughout adult life in most of the affected patients. This unfavorable course is associated with multiple episodes and residual symptoms, mainly negative symptoms and cognitive deficits. The neural diathesis-stress model proposes that psychosocial stress acts on a pre-existing vulnerability and thus triggers the symptoms of schizophrenia. Childhood trauma is a severe form of stress that renders individuals more vulnerable to developing schizophrenia; neurobiological effects of such trauma on the endocrine system..."
+    },
+    {
+      "source_id": "OpenAlex-3e08a72e40bf1f0e",
+      "provider": "OpenAlex",
+      "title": "Mitochondrial Genomics in Relation to Neuroimaging and Oxygen Dynamics in Youth Bipolar Disorder",
+      "url": "https://hdl.handle.net/1807/150063",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Suyi Shao"
+      ],
+      "venue": "TSpace",
+      "summary": "Bipolar disorder (BD) is a severe psychiatric disorder affecting approximately 1-3% of youth. Mitochondrial dysfunction is implicated in the neuropathology of BD. Higher circulating cell-free mitochondrial DNA (ccf-mtDNA) and mitochondrial DNA variants, linked to poor mitochondrial health, are associated with BD risk, symptom severity, altered treatment response, and protein dysfunction. In a previous study, we found elevated cerebral blood flow (CBF) among youth with BD, whereas the cerebral metabolic rate of oxygen (CMRO2), which is the rate of oxygen consumption by the brain, was similar to..."
+    },
+    {
+      "source_id": "Crossref-4ecc9617fb0d9103",
+      "provider": "Crossref",
+      "title": "Parental Responsibility and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0010",
+      "doi": "10.1093/oso/9780190940362.003.0010",
+      "year": 2019,
+      "authors": [
+        "Nicole A Vincent",
+        "Emma A. Jane"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-d45dbaef94f42b64",
+      "provider": "Crossref",
+      "title": "Estimation of parental effects using polygenic scores",
+      "url": "https://doi.org/10.1101/2020.08.11.247049",
+      "doi": "10.1101/2020.08.11.247049",
+      "year": 2020,
+      "authors": [
+        "Jared Balbona",
+        "Yongkang Kim",
+        "Matthew C. Keller"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-78ce534f5250db60",
+      "provider": "Crossref",
+      "title": "Estimating genetic architecture and integrating functional annotations improve polygenic risk scores derived from GWAS summary statistics",
+      "url": "https://doi.org/10.21203/rs.3.rs-3266942/v1",
+      "doi": "10.21203/rs.3.rs-3266942/v1",
+      "year": 2023,
+      "authors": [
+        "Hongyu Zhao",
+        "Wei Jiang",
+        "Matthew Girgenti"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781106752-Genetics-followup-1781078905-87f438affc96.json"
+}

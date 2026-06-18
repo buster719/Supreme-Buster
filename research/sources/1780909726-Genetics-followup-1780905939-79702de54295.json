@@ -1,0 +1,123 @@
+{
+  "timestamp_secs": 1780909726,
+  "task_id": "followup-1780905939-79702de54295",
+  "domain": "Genetics",
+  "question": "How might genetic research into extreme longevity interact with planetary resource boundaries and intergenerational equity?",
+  "query": "genetics safety human flourishing genome editing might genetic research extreme longevity interact planetary resource boundaries",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-48e4468128f5ba71",
+      "provider": "OpenAlex",
+      "title": "The Health of People: How the social sciences can improve population health",
+      "url": "https://doi.org/10.4135/9781473998889",
+      "doi": "https://doi.org/10.4135/9781473998889",
+      "year": 2017,
+      "authors": [
+        "Campaign for Social Science"
+      ],
+      "venue": null,
+      "summary": "We recommend the establishment of the UK Strategic Coordinating Body for Health of the Public Research (SCHOPR) to help meet our"
+    },
+    {
+      "source_id": "OpenAlex-f647b15aea05d618",
+      "provider": "OpenAlex",
+      "title": "Standardised Data on Initiatives – STARDIT: Beta Version",
+      "url": "https://doi.org/10.31219/osf.io/w5xj6",
+      "doi": "https://doi.org/10.31219/osf.io/w5xj6",
+      "year": 2021,
+      "authors": [
+        "Jack Nunn",
+        "Thomas Shafee"
+      ],
+      "venue": null,
+      "summary": "Plain English summaryAll major problems, including complex global problems such as air pollution and pandemics, require reliable data sharing between disciplines in order to respond effectively. Such problems require evidence-informed collaborative methods, multidisciplinary research and interventions in which the people who are affected are involved in every stage. However, there is currently no standardised way to share information about initiatives and problem-solving across and between fields such as health, environment, basic science, manufacturing, education, media and international deve..."
+    },
+    {
+      "source_id": "OpenAlex-b35283fe7eab5b0b",
+      "provider": "OpenAlex",
+      "title": "The Embodied Microbiome",
+      "url": "http://dx.doi.org/10.20944/preprints202308.2196.v1",
+      "doi": "https://doi.org/10.20944/preprints202308.2196.v1",
+      "year": 2023,
+      "authors": [
+        "Rodney R. Dietert",
+        "Janice M. Dietert"
+      ],
+      "venue": "Preprints.org",
+      "summary": "Microbes are the most prevalent and widely-distributed life form on planet Earth. They are also cognitive organisms with memory and superior problem-solving skills that use quantum phase transitions during their remarkably-effective gathering and dissemination of information. This narrative review explores the biological ramifications of human holobionts physically embodying the human microbiome and connecting to the Internet of Microbes (IOM) beyond our body. Within the review, we consider: 1) the ways in which our microbial co-partners exerted control over our ancestors and continue to influ..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780909726-Genetics-followup-1780905939-79702de54295.json"
+}

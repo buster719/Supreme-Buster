@@ -1,0 +1,97 @@
+{
+  "timestamp_secs": 1781084762,
+  "task_id": "followup-1780970451-1a9548a36117",
+  "domain": "Aerospace",
+  "question": "Which specific stochastic closure models (e.g., information-theoretic closures, Mori-Zwanzig formalisms, approximate Bayesian closures) are most frequently applied to infrastructure or habitat resilience?",
+  "query": "aerospace civilization resilience deep space capability specific stochastic closure models information theoretic closures mori zwanzig",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-45f984c2c305f0c8",
+      "provider": "Arxiv",
+      "title": "Non-Markovian Closure Models for Large Eddy Simulations using the Mori-Zwanzig Formalism",
+      "url": "http://arxiv.org/abs/1611.03311v2",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Eric J. Parish",
+        "Karthik Duraisamy"
+      ],
+      "venue": "arXiv",
+      "summary": "This work uses the Mori-Zwanzig (M-Z) formalism, a concept originating from non-equilibrium statistical mechanics, as a basis for the development of coarse-grained models of turbulence. The mechanics of the generalized Langevin equation (GLE) are considered and insight gained from the orthogonal dynamics equation is used as a starting point for model development. A class of sub-grid models is considered which represent non-local behavior via a finite memory approximation (Stinis, P., \"Mori-Zwanzig reduced models for uncertainty quantification I: Parametric uncertainty,\" \\textit{arXiv:1211.4285..."
+    },
+    {
+      "source_id": "Arxiv-98b1113e7de396bd",
+      "provider": "Arxiv",
+      "title": "Mori-Zwanzig latent space Koopman closure for nonlinear autoencoder",
+      "url": "http://arxiv.org/abs/2310.10745v3",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Priyam Gupta",
+        "Peter J. Schmid",
+        "Denis Sipp",
+        "Taraneh Sayadi",
+        "Georgios Rigas"
+      ],
+      "venue": "arXiv",
+      "summary": "The Koopman operator presents an attractive approach to achieve global linearization of nonlinear systems, making it a valuable method for simplifying the understanding of complex dynamics. While data-driven methodologies have exhibited promise in approximating finite Koopman operators, they grapple with various challenges, such as the judicious selection of observables, dimensionality reduction, and the ability to predict complex system behaviours accurately. This study presents a novel approach termed Mori-Zwanzig autoencoder (MZ-AE) to robustly approximate the Koopman operator in low-dimens..."
+    },
+    {
+      "source_id": "Crossref-e8761a9a8e9512bc",
+      "provider": "Crossref",
+      "title": "Non-Markovian closure models for large eddy simulations using the Mori-Zwanzig formalism",
+      "url": "https://doi.org/10.1103/physrevfluids.2.014604",
+      "doi": "10.1103/physrevfluids.2.014604",
+      "year": 2017,
+      "authors": [
+        "Eric J. Parish",
+        "Karthik Duraisamy"
+      ],
+      "venue": "Physical Review Fluids",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-aa7727b5ca207b4b",
+      "provider": "Crossref",
+      "title": "Information Theoretic Measures Applied to Deep Learning Models",
+      "url": "https://doi.org/10.32920/25417270",
+      "doi": "10.32920/25417270",
+      "year": 2024,
+      "authors": [
+        "Mohsin Qureshi"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-7b5d7920a70062a5",
+      "provider": "Crossref",
+      "title": "Information Theoretic Measures Applied to Deep Learning Models",
+      "url": "https://doi.org/10.32920/25417270.v1",
+      "doi": "10.32920/25417270.v1",
+      "year": 2024,
+      "authors": [
+        "Mohsin Qureshi"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781084762-Aerospace-followup-1780970451-1a9548a36117.json"
+}

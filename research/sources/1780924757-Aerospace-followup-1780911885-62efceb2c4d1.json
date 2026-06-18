@@ -1,0 +1,63 @@
+{
+  "timestamp_secs": 1780924757,
+  "task_id": "followup-1780911885-62efceb2c4d1",
+  "domain": "Aerospace",
+  "question": "Which bioregenerative system failure modes (e.g. hypoxia, algal crash, pathogen bloom) cannot be buffered by chemical life support alone, and what is the minimum crew size to crew‑overcome them?",
+  "query": "aerospace civilization resilience deep space capability bioregenerative system failure modes hypoxia algal crash pathogen bloom",
+  "sources": [
+    {
+      "source_id": "Arxiv-31360c853ff7dd07",
+      "provider": "Arxiv",
+      "title": "Characterizing Algal blooms in a shallow and a deep channel over a decade (2008-2018)",
+      "url": "http://arxiv.org/abs/2003.05694v2",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Maryam R. Al Shehhi",
+        "David Nelson",
+        "Rashid R Alkhori",
+        "Rashid Alshihi",
+        "Kourosh Salehi-Ashtiani"
+      ],
+      "venue": "arXiv",
+      "summary": "The outbreaks of algal blooms occur in both shallow and deep-water bodies. To compare the characteristics of algal blooms in the shallow and deep water, we consider the Arabian Gulf and Sea of Oman as a case study. While the Arabian Gulf is a shallow region dominated by advective features, the Sea of Oman is a deep channel dominated by numerous eddies. Both these regions is have rarely been studied due to lack of available data thus preventing the characterization of phenomenon such as algal blooms in the regions. Nonetheless, a recent unique and comprehensive dataset of the frequent algal blo..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-4c5c16dfec049f2b",
+      "provider": "Arxiv",
+      "title": "Cooperative decentralized circumnavigation with application to algal bloom tracking",
+      "url": "http://arxiv.org/abs/1903.05993v1",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Joana Fonseca",
+        "Jieqiang Wei",
+        "Karl H. Johansson",
+        "Tor Arne Johansen"
+      ],
+      "venue": "arXiv",
+      "summary": "Harmful algal blooms occur frequently and deteriorate water quality. A reliable method is proposed in this paper to track algal blooms using a set of autonomous surface robots. A satellite image indicates the existence and initial location of the algal bloom for the deployment of the robot system. The algal bloom area is approximated by a circle with time varying location and size. This circle is estimated and circumnavigated by the robots which are able to locally sense its boundary. A multi-agent control algorithm is proposed for the continuous monitoring of the dynamic evolution of the alga..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 1540; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":7293,\"items\":[{\"DOI\":\"10.1007\\/978-1-4684-13..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780924757-Aerospace-followup-1780911885-62efceb2c4d1.json"
+}

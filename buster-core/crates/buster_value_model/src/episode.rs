@@ -4,6 +4,8 @@ use crate::types::{ActionCandidate, ValueJudgement};
 
 #[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
 pub struct Episode {
+    #[serde(default)]
+    pub contract_id: Option<String>,
     pub timestamp: String,
     pub state_summary: String,
     pub candidate_action: ActionCandidate,
@@ -27,6 +29,7 @@ impl Episode {
         value_judgement: ValueJudgement,
     ) -> Self {
         Self {
+            contract_id: None,
             timestamp: timestamp.into(),
             state_summary: state_summary.into(),
             candidate_action,

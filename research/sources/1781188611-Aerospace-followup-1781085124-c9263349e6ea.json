@@ -1,0 +1,96 @@
+{
+  "timestamp_secs": 1781188611,
+  "task_id": "followup-1781085124-c9263349e6ea",
+  "domain": "Aerospace",
+  "question": "Do NASA's CHAPEA or HERA analog missions produce publicly available supply-chain resilience simulation data?",
+  "query": "aerospace civilization resilience deep space capability nasa chapea hera analog missions produce publicly available supply",
+  "sources": [
+    {
+      "source_id": "Arxiv-fe3fec30010deafd",
+      "provider": "Arxiv",
+      "title": "Developing Experimental Models for NASA Missions with ASSL",
+      "url": "http://arxiv.org/abs/1003.0396v1",
+      "doi": null,
+      "year": 2010,
+      "authors": [
+        "Emil Vassev",
+        "Mike Hinchey"
+      ],
+      "venue": "arXiv",
+      "summary": "NASA's new age of space exploration augurs great promise for deep space exploration missions whereby spacecraft should be independent, autonomous, and smart. Nowadays NASA increasingly relies on the concepts of autonomic computing, exploiting these to increase the survivability of remote missions, particularly when human tending is not feasible. Autonomic computing has been recognized as a promising approach to the development of self-managing spacecraft systems that employ onboard intelligence and rely less on control links. The Autonomic System Specification Language (ASSL) is a framework fo..."
+    },
+    {
+      "source_id": "Arxiv-271830c019de5052",
+      "provider": "Arxiv",
+      "title": "NASA and the Search for Technosignatures: A Report from the NASA Technosignatures Workshop",
+      "url": "http://arxiv.org/abs/1812.08681v2",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "NASA Technosignatures Workshop Participants"
+      ],
+      "venue": "arXiv",
+      "summary": "This report is the product of the NASA Technosignatures Workshop held at the Lunar and Planetary Institute in Houston, Texas, in September 2018. This workshop was convened by NASA for the organization to learn more about the current field and state of the art of searches for technosignatures, and what role NASA might play in these searches in the future. The report, written by the workshop participants, summarizes the material presented at the workshop and incorporates additional inputs from the participants. Section 1 explains the scope and purpose of the document, provides general background..."
+    },
+    {
+      "source_id": "Arxiv-b1b52176c1a6abad",
+      "provider": "Arxiv",
+      "title": "Exploitation of material consolidation trade-offs in multi-tier complex supply networks",
+      "url": "http://arxiv.org/abs/2210.11479v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Vinod Kumar Chauhan",
+        "Muhannad Alomari",
+        "James Arney",
+        "Ajith Kumar Parlikad",
+        "Alexandra Brintrup"
+      ],
+      "venue": "arXiv",
+      "summary": "While consolidation strategies form the backbone of many supply chain optimisation problems, exploitation of multi-tier material relationships through consolidation remains an understudied area, despite being a prominent feature of industries that produce complex made-to-order products. In this paper, we propose an optimisation framework for exploiting multi-to-multi relationship between tiers of a supply chain. The resulting formulation is flexible such that quantity discounts, inventory holding, and transport costs can be included. The framework introduces a new trade-off between tiers, lead..."
+    },
+    {
+      "source_id": "Crossref-7a2cf0965734aafa",
+      "provider": "Crossref",
+      "title": "A Harvesting Planetary Orbiter to Enable Deep Space Missions to the Jovian Planets",
+      "url": "https://doi.org/10.1109/aero55745.2023.10116000",
+      "doi": "10.1109/aero55745.2023.10116000",
+      "year": 2023,
+      "authors": [
+        "John Slough"
+      ],
+      "venue": "2023 IEEE Aerospace Conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-d4b7701d0c106f03",
+      "provider": "Crossref",
+      "title": "The NASA Space Launch System: Six Future Missions",
+      "url": "https://doi.org/10.1109/aero55745.2023.10115573",
+      "doi": "10.1109/aero55745.2023.10115573",
+      "year": 2023,
+      "authors": [
+        "Benjamin Donahue",
+        "Matt Duggan"
+      ],
+      "venue": "2023 IEEE Aerospace Conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-9154dcbadffb0233",
+      "provider": "Crossref",
+      "title": "Research activities at NASA: the HERA Astronaut Analog mission, Astrobee, and the Advanced Composite Solar Sail System",
+      "url": "https://doi.org/10.52843/cassyni.p5bqv9",
+      "doi": "10.52843/cassyni.p5bqv9",
+      "year": 2022,
+      "authors": [
+        "Roberto Carlino"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781188611-Aerospace-followup-1781085124-c9263349e6ea.json"
+}

@@ -1,0 +1,74 @@
+{
+  "timestamp_secs": 1780915340,
+  "task_id": "followup-1780907891-e23292dc4cd3",
+  "domain": "MaterialsScience",
+  "question": "Do any exfoliated MnBi₂Te₄ or MnBi₄Te₇ devices show quantized Hall conductance at room temperature, and what limits reproducibility (e.g., antisite disorder, layer number control)?",
+  "query": "materials science fusion robotics aerospace computation exfoliated mnbi₂te₄ mnbi₄te₇ devices show quantized hall conductance room",
+  "sources": [
+    {
+      "source_id": "Arxiv-4083ddaca58e0245",
+      "provider": "Arxiv",
+      "title": "Towards the Quantized Anomalous Hall effect in AlO$_x$-capped MnBi$_2$Te$_4$",
+      "url": "http://arxiv.org/abs/2405.08677v2",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Yongqian Wang",
+        "Bohan Fu",
+        "Yongchao Wang",
+        "Zicheng Lian",
+        "Shuai Yang",
+        "Yaoxin Li",
+        "Liangcai Xu",
+        "Zhiting Gao"
+      ],
+      "venue": "arXiv",
+      "summary": "The quantum anomalous Hall effect in layered antiferromagnet MnBi$_2$Te$_4$ harbors a rich interplay between magnetism and topology, holding a significant promise for low-power electronic devices and topological antiferromagnetic spintronics. In recent years, MnBi$_2$Te$_4$ has garnered considerable attention as the only known material to exhibit the antiferromagnetic quantum anomalous Hall effect. However, this field faces significant challenges as realizing quantized transport at zero magnetic fields depends critically on fabricating high-quality device. In this article, we address the detri..."
+    },
+    {
+      "source_id": "Arxiv-14938413d73f00d2",
+      "provider": "Arxiv",
+      "title": "Magnetic-field-induced quantized anomalous Hall effect in intrinsic magnetic topological insulator MnBi$_2$Te$_4$",
+      "url": "http://arxiv.org/abs/1904.11468v1",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "Yujun Deng",
+        "Yijun Yu",
+        "Meng Zhu Shi",
+        "Jing Wang",
+        "Xian Hui Chen",
+        "Yuanbo Zhang"
+      ],
+      "venue": "arXiv",
+      "summary": "In a magnetic topological insulator, nontrivial band topology conspires with magnetic order to produce exotic states of matter that are best exemplified by quantum anomalous Hall (QAH) insulators and axion insulators. Up till now, such magnetic topological insulators are obtained by doping topological insulators with magnetic atoms. The random magnetic dopants, however, inevitably introduce disorders that hinder further exploration of quantum effects in the material. Here, we resolve this dilemma by probing quantum transport in MnBi$_2$Te$_4$ thin flake - a topological insulator with intrinsic..."
+    },
+    {
+      "source_id": "Arxiv-0278445d389b030a",
+      "provider": "Arxiv",
+      "title": "Growth, characterization and Chern insulator state in MnBi$_2$Te$_4$ via the chemical vapor transport method",
+      "url": "http://arxiv.org/abs/2110.05647v2",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Chaowei Hu",
+        "Anyuan Gao",
+        "Bryan Stephen Berggren",
+        "Hong Li",
+        "Rafał Kurleto",
+        "Dushyant Narayan",
+        "Ilija Zeljkovic",
+        "Dan Dessau"
+      ],
+      "venue": "arXiv",
+      "summary": "As the first intrinsic antiferromagnetic topological insulator, MnBi$_2$Te$_4$ has provided a platform to investigate the interplay of band topology and magnetism as well as the emergent phenomena arising from such an interplay. Here we report the chemical-vapor-transport (CVT) growth and characterization of MnBi$_2$Te$_4$, as well as the observation of the field-induced quantized Hall conductance in 6-layer devices. Through comparative studies between our CVT-grown and flux-grown MnBi$_2$Te$_4$ via magnetic, transport, scanning tunneling microscopy, and angle-resolved photoemission spectrosco..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 502; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":58711,\"items\":[{\"DOI\":\"10.14711\\/thesis-99101..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780915340-MaterialsScience-followup-1780907891-e23292dc4cd3.json"
+}

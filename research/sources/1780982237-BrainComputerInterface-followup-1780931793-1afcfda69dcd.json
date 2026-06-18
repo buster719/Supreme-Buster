@@ -1,0 +1,143 @@
+{
+  "timestamp_secs": 1780982237,
+  "task_id": "followup-1780931793-1afcfda69dcd",
+  "domain": "BrainComputerInterface",
+  "question": "How does the *type* of BCI signal (evoked vs. spontaneous, discrete vs. continuous) affect the shape of the bandwidth‑intelligence tradeoff, not just the bitrate?",
+  "query": "brain computer interface human AI cooperation risks type signal evoked spontaneous discrete continuous affect shape bandwidth",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-a1165f2d26a9059b",
+      "provider": "OpenAlex",
+      "title": "Review on Control Strategies for Lower Limb Rehabilitation Exoskeletons",
+      "url": "https://doi.org/10.1109/access.2021.3110595",
+      "doi": "https://doi.org/10.1109/access.2021.3110595",
+      "year": 2021,
+      "authors": [
+        "Wenzhou Li",
+        "Guang‐Zhong Cao",
+        "Aibin Zhu"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Research on lower limb exoskeleton (LLE) for rehabilitation have developed rapidly to meet the need of the population with neurologic injuries. LLEs for rehabilitation include therapeutic LLEs that aim to restore walking ability for patients, and assistive LLEs that offer support on activities in daily life. A substantial part of them can serve both purposes. However, these devices are yet to reach the final goal of performing human-machine joint movement agilely and smartly. Control strategy plays an important role in achieving their designed goal. At present, control strategies face three ma..."
+    },
+    {
+      "source_id": "OpenAlex-7a967d1fdb19ac59",
+      "provider": "OpenAlex",
+      "title": "Evolving Flexible Sensors, Wearable and Implantable Technologies Towards BodyNET for Advanced Healthcare and Reinforced Life Quality",
+      "url": "https://doi.org/10.1109/ojcas.2021.3123272",
+      "doi": "https://doi.org/10.1109/ojcas.2021.3123272",
+      "year": 2021,
+      "authors": [
+        "Tianyiyi He",
+        "Chengkuo Lee"
+      ],
+      "venue": "IEEE Open Journal of Circuits and Systems",
+      "summary": "Recent advances in flexible electronics have offered a good opportunity in designing a variety of wearable devices for healthcare monitoring, prevention medicine, and robotic control. Wearable sensors are entering the era of digital health, with compelling functionalities in recording vital signs, physiological signals, body kinetics, and dynamic biomolecular state. Meanwhile, energy harvesters that scavenge waste energy from body motions and the ambient environment have received intense attention, which are expected to realize self-powered or energy-autonomous systems. Moving towards the insi..."
+    },
+    {
+      "source_id": "OpenAlex-f1e2f5f5e5677996",
+      "provider": "OpenAlex",
+      "title": "Towards an informational account of interpersonal coordination",
+      "url": "https://doi.org/10.31234/osf.io/x3nvu_v2",
+      "doi": "https://doi.org/10.31234/osf.io/x3nvu_v2",
+      "year": 2025,
+      "authors": [
+        "Edoardo Chidichimo",
+        "Andrea Luppi",
+        "Pedro A. M. Mediano",
+        "Victoria Leong",
+        "Guillaume Dumas",
+        "Andrés Canales‐Johnson",
+        "Richard A. I. Bethlehem"
+      ],
+      "venue": null,
+      "summary": "Human sociality is grounded in the dynamic coordination of individuals as they interact with one another. Indeed, interpersonal coordination on various levels—neural, behavioural, physiological, affective, linguistic—are hallmarks of successful social communication and cooperation. However, describing these complex, interdependent dynamics has been limited by current methodological approaches, owing to a restrictive repertoire of tools and the absence of a unified, standardised methodological framework. Here, we identify information theory, the mathematical theory of communication, as a partic..."
+    },
+    {
+      "source_id": "Crossref-4258c5f9835e7c88",
+      "provider": "Crossref",
+      "title": "Steady-state visual evoked potentials-based 2D continuous control of brain-computer interface",
+      "url": "https://doi.org/10.1117/12.3049676",
+      "doi": "10.1117/12.3049676",
+      "year": 2024,
+      "authors": [
+        "Dingyong Huang",
+        "Xueliang Yang",
+        "Hui Shen"
+      ],
+      "venue": "Third International Conference on Intelligent Mechanical and Human-Computer Interaction Technology (IHCIT 2024)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-2159f0974d91b5bb",
+      "provider": "Crossref",
+      "title": "Classification of steady state visual evoked potentials in brain-computer interface systems using Python",
+      "url": "https://doi.org/10.1016/b978-0-443-44638-2.00013-0",
+      "doi": "10.1016/b978-0-443-44638-2.00013-0",
+      "year": 2026,
+      "authors": [
+        "Amirhossein Aran",
+        "Mohammad Moradi",
+        "Zahra Ghanbari"
+      ],
+      "venue": "AI-Driven Human-Machine Interaction for Biomedical Engineering",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-98ffab9b268059d8",
+      "provider": "Crossref",
+      "title": "Brain-CAVE Interface Based on Steady-State Visual Evoked Potential",
+      "url": "https://doi.org/10.5772/5915",
+      "doi": "10.5772/5915",
+      "year": 2008,
+      "authors": [
+        "Hideaki Touyama"
+      ],
+      "venue": "Advances in Human Computer Interaction",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780982237-BrainComputerInterface-followup-1780931793-1afcfda69dcd.json"
+}

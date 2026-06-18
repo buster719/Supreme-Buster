@@ -1,0 +1,41 @@
+{
+  "timestamp_secs": 1781451973,
+  "provider": "DuckDuckGoHtml",
+  "task_id": "followup-1781087132-790a94ff67de",
+  "query": "What are the defined test protocols and validation environments (vacuum chambers, thermal cycles, dust simulation facilities) for TRL 5-7 assessments of Mars docking hardware?",
+  "results": [
+    {
+      "rank": 1,
+      "title": "Space Environment - NASA",
+      "url": "https://www.nasa.gov/setmo/space-environments/",
+      "snippet": "These research and development facilities are capable of testing high pressure pumps, both fuel and oxidizer, injectors, chambers, and sea-level engine assemblies, as well as simulating deep space environments in the 12- 15- and 20-Foot vacuum chambers."
+    },
+    {
+      "rank": 2,
+      "title": "NASA, ECSS & MILT VAC Thermal Vacuum Test Standards: Complete ...",
+      "url": "https://www.chamber-testing.com/standard/thermal-vacuum-test-standard-guide",
+      "snippet": "Thermal vacuum (TVAC) testing is a critical validation process for aerospace, satellite, and defense systems operating in extreme environments. Standards defined by NASA, ECSS, and military vacuum protocols (MILT VAC) establish strict requirements for simulating high-altitude and space conditions. For engineers, procurement specialists, and laboratory managers, understanding these standards is ..."
+    },
+    {
+      "rank": 3,
+      "title": "PDF MSFC Environmental Test Facility - NASA",
+      "url": "https://www.nasa.gov/wp-content/uploads/2023/07/environmental-test-facility.pdf?emrc=989e3c",
+      "snippet": null
+    },
+    {
+      "rank": 4,
+      "title": "Mechanical Systems Laboratory - European Space Agency",
+      "url": "https://technology.esa.int/lab/mechanical-systems-laboratory",
+      "snippet": "The laboratory can subject space hardware to hot and cold environmental conditions in vacuum, including solar simulation. Climatic chambers at ambient pressure (with air or other gases) are also used to simulate a pressurised environment or a planetary environment such as Mars. Two main types of thermal tests are carried out."
+    },
+    {
+      "rank": 5,
+      "title": "Mars Simulation Facilities: A Review of Recent Developments ...",
+      "url": "https://link.springer.com/article/10.1007/s41745-023-00377-6",
+      "snippet": "Simulation facilities replicating the Mars climate are used to test instruments before flight and investigate interactions of biomarkers with the Martian environment. Here, we review some exemplary, modern ground-based facilities with a focus on sample species relevant to astrochemistry and astrobiology."
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/web/search/1781451973-followup-1781087132-790a94ff67de.json"
+}

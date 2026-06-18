@@ -1,0 +1,107 @@
+{
+  "timestamp_secs": 1781187292,
+  "task_id": "followup-1781084791-52276965ce6e",
+  "domain": "Aerospace",
+  "question": "Are there published examples of **information-theoretic closure models** (e.g., using mutual information or entropy production) being used to quantify the resilience loss (e.g., reduced fault tolerance margin) of a networked habitat system (e.g., life support, power grid) under correlated failures?",
+  "query": "aerospace civilization resilience deep space capability there published examples information theoretic closure models using mutual",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-3bea26ecfb2a6e91",
+      "provider": "Arxiv",
+      "title": "Ensemble Estimation of Generalized Mutual Information with Applications to Genomics",
+      "url": "http://arxiv.org/abs/1701.08083v4",
+      "doi": null,
+      "year": 2017,
+      "authors": [
+        "Kevin R. Moon",
+        "Kumar Sricharan",
+        "Alfred O. Hero"
+      ],
+      "venue": "arXiv",
+      "summary": "Mutual information is a measure of the dependence between random variables that has been used successfully in myriad applications in many fields. Generalized mutual information measures that go beyond classical Shannon mutual information have also received much interest in these applications. We derive the mean squared error convergence rates of kernel density-based plug-in estimators of general mutual information measures between two multidimensional random variables $\\mathbf{X}$ and $\\mathbf{Y}$ for two cases: 1) $\\mathbf{X}$ and $\\mathbf{Y}$ are continuous; 2) $\\mathbf{X}$ and $\\mathbf{Y}$ ..."
+    },
+    {
+      "source_id": "Arxiv-3801f0fec6bd2526",
+      "provider": "Arxiv",
+      "title": "Learn to Accumulate Evidence from All Training Samples: Theory and Practice",
+      "url": "http://arxiv.org/abs/2306.11113v2",
+      "doi": null,
+      "year": 2023,
+      "authors": [
+        "Deep Pandey",
+        "Qi Yu"
+      ],
+      "venue": "arXiv",
+      "summary": "Evidential deep learning, built upon belief theory and subjective logic, offers a principled and computationally efficient way to turn a deterministic neural network uncertainty-aware. The resultant evidential models can quantify fine-grained uncertainty using the learned evidence. To ensure theoretically sound evidential models, the evidence needs to be non-negative, which requires special activation functions for model training and inference. This constraint often leads to inferior predictive performance compared to standard softmax models, making it challenging to extend them to many large-..."
+    },
+    {
+      "source_id": "OpenAlex-ce144e7a5a26c1c6",
+      "provider": "OpenAlex",
+      "title": "The security of the European Union's critical outer space infrastructures",
+      "url": "https://openalex.org/W881881535",
+      "doi": null,
+      "year": 2015,
+      "authors": [
+        "Phillip A. Slann"
+      ],
+      "venue": "Keele Research Repository (Keele University)",
+      "summary": "This thesis investigates the European Union’s (EU) conceptualisation of outer space security in the absence of clear borders or boundaries. In doing so, it analyses the means the EU undertakes to secure the space segments of its critical outer space infrastructures and the services they provide. The original contribution to knowledge offered by this thesis is the framing of European outer space security as predicated upon anticipatory mechanisms targeted towards critical outer space infrastructures. The objective of this thesis is to contribute to astropolitical literature through an analysis ..."
+    },
+    {
+      "source_id": "Crossref-70a6dc59cc5ccd99",
+      "provider": "Crossref",
+      "title": "Violating the second law of thermodynamics in a dynamical system through equivalence closure via mutual information carriers of a 5-tuple measure space",
+      "url": "https://doi.org/10.36227/techrxiv.16854772.v1",
+      "doi": "10.36227/techrxiv.16854772.v1",
+      "year": 2021,
+      "authors": [
+        "Deep Bhattacharjee"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-a108be8b77922c5e",
+      "provider": "Crossref",
+      "title": "Violating the second law of thermodynamics in a dynamical system through equivalence closure via mutual information carriers of a 5-tuple measure space",
+      "url": "https://doi.org/10.36227/techrxiv.16854772",
+      "doi": "10.36227/techrxiv.16854772",
+      "year": 2021,
+      "authors": [
+        "Deep Bhattacharjee"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-aa7727b5ca207b4b",
+      "provider": "Crossref",
+      "title": "Information Theoretic Measures Applied to Deep Learning Models",
+      "url": "https://doi.org/10.32920/25417270",
+      "doi": "10.32920/25417270",
+      "year": 2024,
+      "authors": [
+        "Mohsin Qureshi"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781187292-Aerospace-followup-1781084791-52276965ce6e.json"
+}

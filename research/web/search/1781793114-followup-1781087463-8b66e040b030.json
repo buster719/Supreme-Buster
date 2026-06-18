@@ -1,0 +1,41 @@
+{
+  "timestamp_secs": 1781793114,
+  "provider": "DuckDuckGoHtml",
+  "task_id": "followup-1781087463-8b66e040b030",
+  "query": "What empirical studies have directly measured user trust (self-report or behavioral) in BCI systems before, during, and after an adaptive decoder is removed or replaced?",
+  "results": [
+    {
+      "rank": 1,
+      "title": "Measurement of Trust in Automation:",
+      "url": "https://public-pages-files-2025.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.604977/pdf",
+      "snippet": null
+    },
+    {
+      "rank": 2,
+      "title": "Google Scholar",
+      "url": "https://scholar.google.com/",
+      "snippet": "Google Scholar provides a simple way to broadly search for scholarly literature. Search across a wide variety of disciplines and sources: articles, theses, books, abstracts and court opinions."
+    },
+    {
+      "rank": 3,
+      "title": "Comprehensive evaluation methods for translating BCI into ... - Frontiers",
+      "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2024.1429130/full",
+      "snippet": null
+    },
+    {
+      "rank": 4,
+      "title": "(PDF) Comprehensive evaluation methods for translating BCI into ...",
+      "url": "https://www.researchgate.net/publication/381519597_Comprehensive_evaluation_methods_for_translating_BCI_into_practical_applications_usability_user_satisfaction_and_usage_of_online_BCI_systems",
+      "snippet": null
+    },
+    {
+      "rank": 5,
+      "title": "Human factors engineering of BCI: an evaluation for ... - Springer",
+      "url": "https://link.springer.com/article/10.1007/s11571-022-09808-z",
+      "snippet": "Existing brain-computer interface (BCI) research has made great progress in improving the accuracy and information transfer rate (ITR) of BCI systems. However, the practicability of BCI is still difficult to achieve. One of the important reasons for this difficulty is that human factors are not fully considered in the research and development of BCI. As a result, BCI systems have not yet ..."
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/web/search/1781793114-followup-1781087463-8b66e040b030.json"
+}

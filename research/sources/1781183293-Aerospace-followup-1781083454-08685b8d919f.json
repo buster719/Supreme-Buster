@@ -1,0 +1,53 @@
+{
+  "timestamp_secs": 1781183293,
+  "task_id": "followup-1781083454-08685b8d919f",
+  "domain": "Aerospace",
+  "question": "Are there any published open-source repositories containing raw magnetic flux leakage (MFL) or eddy current testing (ECT) time-series data from industrial or laboratory sources?",
+  "query": "aerospace civilization resilience deep space capability there published open source repositories containing magnetic flux leakage",
+  "sources": [
+    {
+      "source_id": "Crossref-166e59b95b3c949a",
+      "provider": "Crossref",
+      "title": "3. Quantitative Method of Magnetic Flux Leakage Testing",
+      "url": "https://doi.org/10.1515/9783110480153-004",
+      "doi": "10.1515/9783110480153-004",
+      "year": 2016,
+      "authors": [],
+      "venue": "Magnetic Flux Leakage",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-db4ecb8a1c2b5efc",
+      "provider": "Crossref",
+      "title": "Open Source and Digital Repositories",
+      "url": "https://doi.org/10.5040/9798216423393.ch-0004",
+      "doi": "10.5040/9798216423393.ch-0004",
+      "year": 2021,
+      "authors": [],
+      "venue": "Open Source Library Systems",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-d3335a841198f244",
+      "provider": "Crossref",
+      "title": "Deep Embedding of Open Source Software Bug Repositories for Severity Prediction",
+      "url": "https://doi.org/10.1201/9781003168393-10",
+      "doi": "10.1201/9781003168393-10",
+      "year": 2021,
+      "authors": [
+        "Abeer Hamdy",
+        "Gloria Ezzat"
+      ],
+      "venue": "Research and Evidence in Software Engineering",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "error sending request for url (https://export.arxiv.org/api/query?search_query=all%3Aaerospace+civilization+resilience+deep+space+capability+there+published+open+source+repositories+containing+magnetic+flux+leakage&start=0&max_results=3&sor..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781183293-Aerospace-followup-1781083454-08685b8d919f.json"
+}

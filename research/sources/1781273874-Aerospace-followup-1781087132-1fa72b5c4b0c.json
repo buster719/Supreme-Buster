@@ -1,0 +1,143 @@
+{
+  "timestamp_secs": 1781273874,
+  "task_id": "followup-1781087132-1fa72b5c4b0c",
+  "domain": "Aerospace",
+  "question": "Are there any active joint NASA-ESA-JAXA development or testing programs for a unified deep-space berthing standard beyond LEO?",
+  "query": "aerospace civilization resilience deep space capability there active joint nasa jaxa development testing programs unified",
+  "sources": [
+    {
+      "source_id": "Arxiv-271830c019de5052",
+      "provider": "Arxiv",
+      "title": "NASA and the Search for Technosignatures: A Report from the NASA Technosignatures Workshop",
+      "url": "http://arxiv.org/abs/1812.08681v2",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "NASA Technosignatures Workshop Participants"
+      ],
+      "venue": "arXiv",
+      "summary": "This report is the product of the NASA Technosignatures Workshop held at the Lunar and Planetary Institute in Houston, Texas, in September 2018. This workshop was convened by NASA for the organization to learn more about the current field and state of the art of searches for technosignatures, and what role NASA might play in these searches in the future. The report, written by the workshop participants, summarizes the material presented at the workshop and incorporates additional inputs from the participants. Section 1 explains the scope and purpose of the document, provides general background..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-fe3fec30010deafd",
+      "provider": "Arxiv",
+      "title": "Developing Experimental Models for NASA Missions with ASSL",
+      "url": "http://arxiv.org/abs/1003.0396v1",
+      "doi": null,
+      "year": 2010,
+      "authors": [
+        "Emil Vassev",
+        "Mike Hinchey"
+      ],
+      "venue": "arXiv",
+      "summary": "NASA's new age of space exploration augurs great promise for deep space exploration missions whereby spacecraft should be independent, autonomous, and smart. Nowadays NASA increasingly relies on the concepts of autonomic computing, exploiting these to increase the survivability of remote missions, particularly when human tending is not feasible. Autonomic computing has been recognized as a promising approach to the development of self-managing spacecraft systems that employ onboard intelligence and rely less on control links. The Autonomic System Specification Language (ASSL) is a framework fo..."
+    },
+    {
+      "source_id": "OpenAlex-561a0ed094e6c754",
+      "provider": "OpenAlex",
+      "title": "The ASEAN Space Organization: Legal Aspects and Feasibility",
+      "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2894326/view",
+      "doi": null,
+      "year": 2009,
+      "authors": [
+        "Chukeat Noichim"
+      ],
+      "venue": null,
+      "summary": "Prevention, particularly with regard to older people, has assumed increasing importance in policy in recent years. Prevention not only focuses on diseases but also on the geriatric syndrome and frailty must be crucial for the well-being of older people in the super-aged society. The preventive services aim to sustain independent living among those who are vulnerable and the preventive strategies should be supported by an evidence base that links risk factors with particular conditions and interventions to reduce risk and ameliorate the impact of illness and impairments. However, due to the het..."
+    },
+    {
+      "source_id": "OpenAlex-4102cb0ffcb15450",
+      "provider": "OpenAlex",
+      "title": "Supply Chain Sustainability in Outer Space: Lessons to Be Learnt from Remote Sites on Earth",
+      "url": "https://doi.org/10.3390/pr12102105",
+      "doi": "https://doi.org/10.3390/pr12102105",
+      "year": 2024,
+      "authors": [
+        "Manuel Varon Hoyos",
+        "Volker Hessel",
+        "Eduardo Salas",
+        "John Culton",
+        "Karen Robertson",
+        "Andrea Laybourn",
+        "Marc Escribà‐Gelonch",
+        "Nigel J. Cook"
+      ],
+      "venue": "Processes",
+      "summary": "Space exploration, with its enormous distances and extreme environments, is a challenge to technology, human habitation, sustainability, and supply chains. On the flip-side, however, it can provide a new vantage point on how to improve human life and planetary prosperity. This objective requires the development of economic and sustainable supply chains and a governance framework to guarantee fundamental human needs and well-being under the limitations of distant and inhospitable environments. This review describes learnings for human habitation in space from remote communities on Earth that ha..."
+    },
+    {
+      "source_id": "OpenAlex-3438432f3c2ab8cc",
+      "provider": "OpenAlex",
+      "title": "Astrobiology and Society in Europe Today",
+      "url": "https://doi.org/10.1007/978-3-319-96265-8",
+      "doi": "https://doi.org/10.1007/978-3-319-96265-8",
+      "year": 2018,
+      "authors": [
+        "Klara Anna Čápová",
+        "Erik Persson",
+        "Tony Milligan",
+        "David Dunér"
+      ],
+      "venue": "SpringerBriefs in astronomy",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-e71f26cd19d781f5",
+      "provider": "Crossref",
+      "title": "Estimating Azimuth Offset With Double-Difference Interferometric Phase: The Effect of Azimuth FM Rate Error in Focusing",
+      "url": "https://doi.org/10.1109/tgrs.2017.2737955",
+      "doi": "10.1109/tgrs.2017.2737955",
+      "year": 2017,
+      "authors": [
+        "Cunren Liang",
+        "Eric J. Fielding",
+        "Mong-Han Huang"
+      ],
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-bd8764e2fb11d5af",
+      "provider": "Crossref",
+      "title": "Resources for Future Updates of JAXA New Deep Space Station",
+      "url": "https://doi.org/10.2322/tastj.18.38",
+      "doi": "10.2322/tastj.18.38",
+      "year": 2020,
+      "authors": [
+        "Tomoaki TODA"
+      ],
+      "venue": "TRANSACTIONS OF THE JAPAN SOCIETY FOR AERONAUTICAL AND SPACE SCIENCES, AEROSPACE TECHNOLOGY JAPAN",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-326f53f00bc38522",
+      "provider": "Crossref",
+      "title": "The Aerospace Industry Technology Program - A new paradigm for NASA research and development",
+      "url": "https://doi.org/10.2514/6.1994-4502",
+      "doi": "10.2514/6.1994-4502",
+      "year": 1994,
+      "authors": [
+        "John Mankins"
+      ],
+      "venue": "Space Programs and Technologies Conference and Exhibit",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781273874-Aerospace-followup-1781087132-1fa72b5c4b0c.json"
+}

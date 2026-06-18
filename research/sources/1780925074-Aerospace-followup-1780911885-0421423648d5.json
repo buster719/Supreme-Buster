@@ -1,0 +1,64 @@
+{
+  "timestamp_secs": 1780925074,
+  "task_id": "followup-1780911885-0421423648d5",
+  "domain": "Aerospace",
+  "question": "How do ISRU failure rates and mean repair times scale the required population for a self-replicating industrial base?",
+  "query": "aerospace civilization resilience deep space capability isru failure rates mean repair times scale required population",
+  "sources": [
+    {
+      "source_id": "Arxiv-25856b997cb4bf67",
+      "provider": "Arxiv",
+      "title": "Probing the position-dependent optical energy fluence rate in three-dimensional scattering samples",
+      "url": "http://arxiv.org/abs/2401.14748v2",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Ozan Akdemir",
+        "Minh Duy Truong",
+        "Alfredo Rates",
+        "Ad Lagendijk",
+        "Willem L. Vos"
+      ],
+      "venue": "arXiv",
+      "summary": "The accurate determination of the position-dependent energy fluence rate of scattered light (which is proportional to the energy density) is crucial to the understanding of transport in anisotropically scattering and absorbing samples, such as biological tissue, seawater, atmospheric turbulent layers, and light-emitting diodes. While Monte Carlo simulations are precise, their long computation time is not desirable. Common analytical approximations to the radiative transfer equation (RTE) fail to predict light transport and could even give unphysical results. Therefore, we experimentally probe ..."
+    },
+    {
+      "source_id": "Arxiv-3faa07302b215232",
+      "provider": "Arxiv",
+      "title": "On the repair time scaling wall for MANETs",
+      "url": "http://arxiv.org/abs/1409.7370v2",
+      "doi": null,
+      "year": 2014,
+      "authors": [
+        "Vinod Kulathumani",
+        "Mukundan Sridharan",
+        "Anish Arora",
+        "Bryan Lemon",
+        "Kenneth Parker"
+      ],
+      "venue": "arXiv",
+      "summary": "The inability of practical MANET deployments to scale beyond about 100 nodes has traditionally been blamed on insufficient network capacity for supporting routing related control traffic. However, this paper points out that network capacity is significantly under-utilized by standard MANET routing algorithms at observed scaling limits. Therefore, as opposed to identifying the scaling limit for MANET routing from a capacity stand-point, it is instead characterized as a function of the interaction between dynamics of path failure (caused due to mobility) and path repair. This leads to the discov..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 295; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":4847,\"items\":[{\"DOI\":\"10.7717\\/peerj.2464\\/ta..."
+    }
+  ],
+  "bundle_path": "../research/sources/1780925074-Aerospace-followup-1780911885-0421423648d5.json"
+}

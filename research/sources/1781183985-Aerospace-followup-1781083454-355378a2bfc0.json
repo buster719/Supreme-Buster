@@ -1,0 +1,61 @@
+{
+  "timestamp_secs": 1781183985,
+  "task_id": "followup-1781083454-355378a2bfc0",
+  "domain": "Aerospace",
+  "question": "What are the specific access policies and data formats for the CIVA simulation platform's magnetometer models, and do they include raw time-series output?",
+  "query": "aerospace civilization resilience deep space capability specific access policies data formats civa simulation platform magnetometer",
+  "sources": [
+    {
+      "source_id": "Crossref-f374f2ab97478b26",
+      "provider": "Crossref",
+      "title": "Implementation of clinical scenario in the CIVA simulation platform",
+      "url": "https://doi.org/10.31225/osf.io/qscjg",
+      "doi": "10.31225/osf.io/qscjg",
+      "year": 2023,
+      "authors": [
+        "Andrew Drainville",
+        "Frederic PADILLA",
+        "Cyril Lafon"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-58908ad1ae0a96b6",
+      "provider": "Crossref",
+      "title": "CIVA: An expertise platform for simulation and processing NDT data",
+      "url": "https://doi.org/10.1016/j.ultras.2006.05.218",
+      "doi": "10.1016/j.ultras.2006.05.218",
+      "year": 2006,
+      "authors": [
+        "P. Calmon",
+        "S. Mahaut",
+        "S. Chatillon",
+        "R. Raillon"
+      ],
+      "venue": "Ultrasonics",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-5c8c477722ab5d94",
+      "provider": "Crossref",
+      "title": "Advances of Simulation and Expertise Capabilities in CIVA Platform",
+      "url": "https://doi.org/10.1063/1.2184593",
+      "doi": "10.1063/1.2184593",
+      "year": 2006,
+      "authors": [
+        "L. Le Ber"
+      ],
+      "venue": "AIP Conference Proceedings",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "HTTP status client error (429 Unknown Error) for url (https://export.arxiv.org/api/query?search_query=all%3Aaerospace+civilization+resilience+deep+space+capability+specific+access+policies+data+formats+civa+simulation+platform+magnetometer&..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781183985-Aerospace-followup-1781083454-355378a2bfc0.json"
+}

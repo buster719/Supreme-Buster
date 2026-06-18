@@ -1,0 +1,107 @@
+{
+  "timestamp_secs": 1781186297,
+  "task_id": "followup-1781084458-8f0579d4c52e",
+  "domain": "Aerospace",
+  "question": "Has the SpaceNet tool (MIT, de Weck group) been extended to model ECLSS consumables (spares, filters, sorbent cartridges) as a supply chain graph with disruption scenarios?",
+  "query": "aerospace civilization resilience deep space capability spacenet tool weck group been extended model eclss consumables",
+  "sources": [
+    {
+      "source_id": "Arxiv-5d24fac2710af3ef",
+      "provider": "Arxiv",
+      "title": "This paper has been withdrawn",
+      "url": "http://arxiv.org/abs/cond-mat/0309395v2",
+      "doi": null,
+      "year": 2003,
+      "authors": [
+        "This paper has been withdrawn"
+      ],
+      "venue": "arXiv",
+      "summary": "This paper has been withdrawn"
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-8380431180955baa",
+      "provider": "Arxiv",
+      "title": "Tevatron-for-LHC Report of the QCD Working Group",
+      "url": "http://arxiv.org/abs/hep-ph/0610012v1",
+      "doi": null,
+      "year": 2006,
+      "authors": [
+        "TeV4LHC QCD Working Group",
+        "M. Albrow",
+        "M. Begel",
+        "D. Bourilkov",
+        "M. Campanelli",
+        "F. Chlebana",
+        "A. De Roeck",
+        "J. R. Dittmann"
+      ],
+      "venue": "arXiv",
+      "summary": "The experiments at Run 2 of the Tevatron have each accumulated over 1 inverse femtobarn of high-transverse momentum data. Such a dataset allows for the first precision (i.e. comparisons between theory and experiment at the few percent level) tests of QCD at a hadron collider. While the Large Hadron Collider has been designed as a discovery machine, basic QCD analyses will still need to be performed to understand the working environment. The Tevatron-for-LHC workshop was conceived as a communication link to pass on the expertise of the Tevatron and to test new analysis ideas coming from the LHC..."
+    },
+    {
+      "source_id": "Crossref-1ce5db4a9b9c499c",
+      "provider": "Crossref",
+      "title": "Addressing Deep Uncertainty in Space System Development through Model-based Adaptive Design",
+      "url": "https://doi.org/10.1109/aero47225.2020.9172672",
+      "doi": "10.1109/aero47225.2020.9172672",
+      "year": 2020,
+      "authors": [
+        "Mark Chodas",
+        "Rebecca Masterson",
+        "Olivier de Weck"
+      ],
+      "venue": "2020 IEEE Aerospace Conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-74ce72bf324f3567",
+      "provider": "Crossref",
+      "title": "Space Logistics Modeling and Simulation Analysis using SpaceNet: Four Application Cases",
+      "url": "https://doi.org/10.2514/6.2011-7346",
+      "doi": "10.2514/6.2011-7346",
+      "year": 2011,
+      "authors": [
+        "Paul Grogan",
+        "Howard Yue",
+        "Olivier De Weck"
+      ],
+      "venue": "AIAA SPACE 2011 Conference &amp; Exposition",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-cce53654d26db521",
+      "provider": "Crossref",
+      "title": "SpaceNet: Modeling and Simulating Space Logistics",
+      "url": "https://doi.org/10.2514/6.2008-7747",
+      "doi": "10.2514/6.2008-7747",
+      "year": 2008,
+      "authors": [
+        "Gene Lee",
+        "Elizabeth Jordan",
+        "Robert Shishko",
+        "Olivier de Weck",
+        "Nii Armar",
+        "Afreen Siddiqi"
+      ],
+      "venue": "AIAA SPACE 2008 Conference &amp; Exposition",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781186297-Aerospace-followup-1781084458-8f0579d4c52e.json"
+}

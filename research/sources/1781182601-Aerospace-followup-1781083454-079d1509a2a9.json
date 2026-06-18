@@ -1,0 +1,103 @@
+{
+  "timestamp_secs": 1781182601,
+  "task_id": "followup-1781083454-079d1509a2a9",
+  "domain": "Aerospace",
+  "question": "Which research groups or open-data initiatives are actively publishing raw magnetic field map datasets for NDE applications, and under what licenses?",
+  "query": "aerospace civilization resilience deep space capability research groups open data initiatives actively publishing magnetic field",
+  "sources": [
+    {
+      "source_id": "OpenAlex-e0dfbed91276172d",
+      "provider": "OpenAlex",
+      "title": "On the History and Future of 100% Renewable Energy Systems Research",
+      "url": "https://doi.org/10.1109/access.2022.3193402",
+      "doi": "https://doi.org/10.1109/access.2022.3193402",
+      "year": 2022,
+      "authors": [
+        "Christian Breyer",
+        "Siavash Khalili",
+        "Dmitrii Bogdanov",
+        "Manish Ram",
+        "Ayobami Solomon Oyewo",
+        "Arman Aghahosseini",
+        "Ashish Gulagi",
+        "A.A. Solomon"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Research on 100% renewable energy systems is a relatively recent phenomenon. It was initiated in the mid-1970s, catalyzed by skyrocketing oil prices. Since the mid-2000s, it has quickly evolved into a prominent research field encompassing an expansive and growing number of research groups and organizations across the world. The main conclusion of most of these studies is that 100% renewables is feasible worldwide at low cost. Advanced concepts and methods now enable the field to chart realistic as well as cost- or resource-optimized and efficient transition pathways to a future without the use..."
+    },
+    {
+      "source_id": "OpenAlex-a3cbc11c163904e8",
+      "provider": "OpenAlex",
+      "title": "Economic and Social Aspects of the Space Sector Development Based on the Modified Structure–Conduct–Performance Framework",
+      "url": "https://doi.org/10.3390/world6020079",
+      "doi": "https://doi.org/10.3390/world6020079",
+      "year": 2025,
+      "authors": [
+        "Michał Pietrzak"
+      ],
+      "venue": "World",
+      "summary": "Background: The global space economy has grown remarkably, witnessing a 10-fold increase in active satellites during the last 15 years. This growth was accompanied by both the increase in geopolitical tensions feeding huge investments (the New Space Race), on the one hand, and the transformation, shifting from a domain historically dominated by government-led programs to one partially energized by commercial players and innovative business models (“New Space”), on the other hand. Objective: To assess the space economy’s current state and future prospects by considering its economic and social ..."
+    },
+    {
+      "source_id": "OpenAlex-3438432f3c2ab8cc",
+      "provider": "OpenAlex",
+      "title": "Astrobiology and Society in Europe Today",
+      "url": "https://doi.org/10.1007/978-3-319-96265-8",
+      "doi": "https://doi.org/10.1007/978-3-319-96265-8",
+      "year": 2018,
+      "authors": [
+        "Klara Anna Čápová",
+        "Erik Persson",
+        "Tony Milligan",
+        "David Dunér"
+      ],
+      "venue": "SpringerBriefs in astronomy",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6e1753b87ea766d2",
+      "provider": "Crossref",
+      "title": "Future Space-Time: A Gauge Field Theory Framework for Consciousness Algebra, Earthly Civilization, and Interstellar Civilization",
+      "url": "https://doi.org/10.31219/osf.io/95sza_v1",
+      "doi": "10.31219/osf.io/95sza_v1",
+      "year": 2025,
+      "authors": [
+        "xupeng"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-3e3c681890ad654d",
+      "provider": "Crossref",
+      "title": "Publishing Open Data",
+      "url": "https://doi.org/10.29085/9781783303618.005",
+      "doi": "10.29085/9781783303618.005",
+      "year": 2019,
+      "authors": [],
+      "venue": "Open Heritage Data",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6471b042f70789b9",
+      "provider": "Crossref",
+      "title": "UK and US groups announce new initiatives on open access publishing",
+      "url": "https://doi.org/10.1136/bmj.330.7500.1104-c",
+      "doi": "10.1136/bmj.330.7500.1104-c",
+      "year": 2005,
+      "authors": [
+        "Susan Mayor"
+      ],
+      "venue": "BMJ",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "error sending request for url (https://export.arxiv.org/api/query?search_query=all%3Aaerospace+civilization+resilience+deep+space+capability+research+groups+open+data+initiatives+actively+publishing+magnetic+field&start=0&max_results=3&sort..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781182601-Aerospace-followup-1781083454-079d1509a2a9.json"
+}

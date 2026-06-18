@@ -1,0 +1,144 @@
+{
+  "timestamp_secs": 1780980959,
+  "task_id": "followup-1780931793-e05dfb78b51d",
+  "domain": "BrainComputerInterface",
+  "question": "What is the minimum viable BCI bandwidth below which adding machine intelligence yields diminishing returns because the human cannot convey enough context for the AI to act appropriately?",
+  "query": "brain computer interface human AI cooperation risks minimum viable bandwidth below adding machine intelligence yields diminishing",
+  "sources": [
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-e479839676d97cd0",
+      "provider": "Arxiv",
+      "title": "Intelligent behavior depends on the ecological niche: Scaling up AI to human-like intelligence in socio-cultural environments",
+      "url": "http://arxiv.org/abs/2103.06769v1",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Manfred Eppe",
+        "Pierre-Yves Oudeyer"
+      ],
+      "venue": "arXiv",
+      "summary": "This paper outlines a perspective on the future of AI, discussing directions for machines models of human-like intelligence. We explain how developmental and evolutionary theories of human cognition should further inform artificial intelligence. We emphasize the role of ecological niches in sculpting intelligent behavior, and in particular that human intelligence was fundamentally shaped to adapt to a constantly changing socio-cultural environment. We argue that a major limit of current work in AI is that it is missing this perspective, both theoretically and experimentally. Finally, we discus..."
+    },
+    {
+      "source_id": "OpenAlex-7fd7b9ad9cffb37d",
+      "provider": "OpenAlex",
+      "title": "Control strategies for active lower extremity prosthetics and orthotics: a review",
+      "url": "https://doi.org/10.1186/1743-0003-12-1",
+      "doi": "https://doi.org/10.1186/1743-0003-12-1",
+      "year": 2015,
+      "authors": [
+        "Michael R. Tucker",
+        "Jérémy Olivier",
+        "Anna Pagel",
+        "Hannes Bleuler",
+        "Mohamed Bouri",
+        "Olivier Lambercy",
+        "José del R. Millán",
+        "Robert Riener"
+      ],
+      "venue": "Journal of NeuroEngineering and Rehabilitation",
+      "summary": ": Technological advancements have led to the development of numerous wearable robotic devices for the physical assistance and restoration of human locomotion. While many challenges remain with respect to the mechanical design of such devices, it is at least equally challenging and important to develop strategies to control them in concert with the intentions of the user.This work reviews the state-of-the-art techniques for controlling portable active lower limb prosthetic and orthotic (P/O) devices in the context of locomotive activities of daily living (ADL), and considers how these can be in..."
+    },
+    {
+      "source_id": "OpenAlex-af939ebdc9b26321",
+      "provider": "OpenAlex",
+      "title": "6G Ecosystem: Current Status and Future Perspective",
+      "url": "https://doi.org/10.1109/access.2021.3054833",
+      "doi": "https://doi.org/10.1109/access.2021.3054833",
+      "year": 2021,
+      "authors": [
+        "Jagadeesha R. Bhat",
+        "Salman A. AlQahtani"
+      ],
+      "venue": "IEEE Access",
+      "summary": "Next-generation of the cellular network will attempt to overcome the limitations of the current Fifth Generation (5G) networks and equip itself to address the challenges which become obvious in the future. Currently, academia and industry have focused their attention on the Sixth Generation (6G) network, which is anticipated to be the next big game-changer in the telecom industry. The outbreak of COVID'19 has made the whole world to opt for virtual meetings, live video interactions ranging from healthcare, business to education. However, we miss an immersive experience due to the lack of suppo..."
+    },
+    {
+      "source_id": "OpenAlex-23ea6b976048d7df",
+      "provider": "OpenAlex",
+      "title": "Computer response to user frustration",
+      "url": "http://hdl.handle.net/1721.1/61838",
+      "doi": null,
+      "year": 1998,
+      "authors": [
+        "Jonathan Klein"
+      ],
+      "venue": "DSpace@MIT (Massachusetts Institute of Technology)",
+      "summary": "Thesis (S.M.)--Massachusetts Institute of Technology, School of Architecture and Planning, Program in Media Arts and Sciences, February 1999."
+    },
+    {
+      "source_id": "Crossref-52ab0cca5cad796a",
+      "provider": "Crossref",
+      "title": "Editorial: Advances in artificial intelligence (AI) in brain computer interface (BCI) and Industry 4.0 for human machine interaction (HMI)",
+      "url": "https://doi.org/10.3389/fnhum.2023.1320536",
+      "doi": "10.3389/fnhum.2023.1320536",
+      "year": 2023,
+      "authors": [
+        "Umer Asgher",
+        "Yasar Ayaz",
+        "Redha Taiar"
+      ],
+      "venue": "Frontiers in Human Neuroscience",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-8ecfe04d42a4bdd3",
+      "provider": "Crossref",
+      "title": "Towards Brain-Machine Intelligence: Co-Evolution Brain-Computer Interface",
+      "url": "https://doi.org/10.58195/bci.2025.1.001",
+      "doi": "10.58195/bci.2025.1.001",
+      "year": 2025,
+      "authors": [
+        "Dong Ming",
+        "Jie Mei",
+        "Min-peng Xu"
+      ],
+      "venue": "Journal of Brain-Computer Interface",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780980959-BrainComputerInterface-followup-1780931793-e05dfb78b51d.json"
+}

@@ -1,0 +1,23 @@
+{
+  "timestamp_secs": 1781491932,
+  "task_id": "human-paper-1781491931",
+  "domain": "Cybersecurity",
+  "question": "https://picrew.github.io/LLM-Harness/main.pdf\n你能学习一下这篇论文吗？",
+  "query": "https://picrew.github.io/LLM-Harness/main.pdf",
+  "sources": [
+    {
+      "source_id": "DirectPdf-b67e31508c30d862",
+      "provider": "DirectPdf",
+      "title": "main",
+      "url": "https://picrew.github.io/LLM-Harness/main.pdf",
+      "doi": null,
+      "year": null,
+      "authors": [],
+      "venue": "direct PDF URL",
+      "summary": "Direct PDF supplied by a human through the Buster web console."
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781491932-Cybersecurity-human-paper-1781491931.json"
+}

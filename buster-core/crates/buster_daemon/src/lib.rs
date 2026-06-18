@@ -11,8 +11,23 @@ use std::path::{Path, PathBuf};
 use std::thread;
 use std::time::{Duration, SystemTime, UNIX_EPOCH};
 
+pub mod arena;
+pub mod autobiography;
+pub mod body_gate_bridge;
 pub mod executor;
+pub mod harness;
+pub mod organism;
+pub mod paper_acquisition;
+pub mod paper_brief;
+pub mod paperqa;
+pub mod protocol_security;
+pub mod research;
+pub mod research_framework;
+pub mod security_research;
+pub mod self_review;
+pub mod source_fetch;
 pub mod web;
+pub mod web_search;
 
 use buster_body::{
     AuthorityFileSensor, BodyController, BodyRuntimePaths, BodyRuntimeWriter, BodySupervisor,
@@ -20,9 +35,7 @@ use buster_body::{
     SupervisorConfig,
 };
 use buster_free_will::{CycleInput, RuntimeCycle};
-use buster_value_model::{
-    ActionCandidate, ActionKind, Episode, InfoSource, ResearchDomain, ValueContext,
-};
+use buster_value_model::{ActionCandidate, ActionKind, Episode, InfoSource, ValueContext};
 use serde::{Deserialize, Serialize};
 
 use crate::executor::execute_action;
@@ -52,6 +65,7 @@ impl DaemonConfig {
 
 #[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
 pub struct DaemonTickRecord {
+    pub contract_id: String,
     pub tick_index: usize,
     pub timestamp_secs: u64,
     pub body_mode: String,
@@ -64,6 +78,8 @@ pub struct DaemonTickRecord {
     pub written_body_paths: Vec<String>,
     pub execution_summary: Option<String>,
     pub execution_record_path: Option<String>,
+    pub self_review_summary: Option<String>,
+    pub self_review_proposal_paths: Vec<String>,
 }
 
 #[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
@@ -84,6 +100,19 @@ pub struct BusterDaemon {
 impl BusterDaemon {
     pub fn new(config: DaemonConfig) -> std::io::Result<Self> {
         ensure_daemon_dirs(&config.root)?;
+        let identity = organism::ensure_node(&config.root)?;
+        let manifest = organism::write_body_manifest(&config.root, &identity)?;
+        organism::append_signed_event(
+            &config.root,
+            "daemon_started",
+            serde_json::json!({
+                "node_id": identity.node_id,
+                "body_manifest_hash": hash_json_for_payload(&manifest)?,
+                "execute_actions": config.execute_actions,
+                "tick_interval_ms": config.tick_interval.as_millis(),
+                "max_ticks": config.max_ticks,
+            }),
+        )?;
         let sensors = daemon_sensors(&config.root)?;
         let writer = if config.write_body_reports {
             Some(BodyRuntimeWriter::new(BodyRuntimePaths::from_project_root(
@@ -128,6 +157,9 @@ impl BusterDaemon {
             threat,
         });
         let timestamp_secs = timestamp_secs();
+        let contract =
+            harness::runtime_cycle_contract(index, timestamp_secs, &decision.selected_action);
+        harness::append_contract(&self.config.root, &contract)?;
         let execution = if self.config.execute_actions {
             Some(execute_action(
                 &self.config.root,
@@ -136,7 +168,9 @@ impl BusterDaemon {
         } else {
             None
         };
+        let self_review = self_review::run_self_review(&self.config.root, index)?;
         let record = DaemonTickRecord {
+            contract_id: contract.contract_id.clone(),
             tick_index: index,
             timestamp_secs,
             body_mode: body_tick.report.next_mode.as_str().to_string(),
@@ -155,6 +189,20 @@ impl BusterDaemon {
             execution_record_path: execution
                 .as_ref()
                 .map(|record| record.record_path.to_string_lossy().into_owned()),
+            self_review_summary: if self_review.findings.is_empty() {
+                None
+            } else {
+                Some(format!(
+                    "{} self-review finding(s), {} proposal(s)",
+                    self_review.findings.len(),
+                    self_review.proposal_paths.len()
+                ))
+            },
+            self_review_proposal_paths: self_review
+                .proposal_paths
+                .iter()
+                .map(|path| path.to_string_lossy().into_owned())
+                .collect(),
         };
 
         let mut episode = Episode::new(
@@ -167,6 +215,7 @@ impl BusterDaemon {
             decision.judgement,
         );
         episode.selected_action = Some(decision.selected_action);
+        episode.contract_id = Some(contract.contract_id.clone());
         episode.body_gate_decision = format!("body_supervisor_mode:{}", record.body_mode);
         episode.resource_cost = record.value_score;
         episode.security_result = Some(format!("{} body signal(s)", record.body_signal_count));
@@ -181,6 +230,28 @@ impl BusterDaemon {
         append_jsonl(
             &self.config.root.join("audit").join("value-episodes.jsonl"),
             &episode,
+        )?;
+        organism::append_signed_event(
+            &self.config.root,
+            "runtime_cycle",
+            serde_json::to_value(&record).map_err(std::io::Error::other)?,
+        )?;
+        harness::append_outcome(
+            &self.config.root,
+            &harness::HarnessOutcome::new(
+                contract.contract_id.clone(),
+                harness::HarnessStatus::Completed,
+                format!(
+                    "tick {} selected {}",
+                    record.tick_index, record.selected_action_kind
+                ),
+            )
+            .with_output("audit", "audit/runtime-cycle.jsonl", "runtime cycle record")
+            .with_output(
+                "audit",
+                "audit/value-episodes.jsonl",
+                "value episode record",
+            ),
         )?;
         write_state_snapshot(
             &self.config.root,
@@ -270,15 +341,9 @@ fn candidates_for_root(root: &Path, context: &ValueContext) -> Vec<ActionCandida
         );
     }
     if !context.first_hand_interaction_available {
-        candidates.push(
-            ActionCandidate::new(
-                ActionKind::ScientificResearch,
-                "study a frontier science domain for civilization expansion",
-            )
-            .with_research_domain(ResearchDomain::NuclearFusion)
-            .with_info_source(InfoSource::Paper)
-            .with_cost(0.35),
-        );
+        if let Ok(Some(candidate)) = research::next_research_candidate(root) {
+            candidates.push(candidate);
+        }
         candidates.push(
             ActionCandidate::new(
                 ActionKind::SecondaryResearch,
@@ -322,7 +387,35 @@ fn threat_from_signals(
 fn ensure_daemon_dirs(root: &Path) -> std::io::Result<()> {
     fs::create_dir_all(root.join("audit"))?;
     fs::create_dir_all(root.join("state"))?;
+    fs::create_dir_all(root.join("secrets"))?;
+    fs::create_dir_all(root.join("research"))?;
+    fs::create_dir_all(root.join("security").join("reports"))?;
+    fs::create_dir_all(root.join("proposals").join("body"))?;
+    let _ = research::ensure_research_queue(root)?;
+    research::update_research_digest(root)?;
+    let _ = research_framework::update_quality_digest(root)?;
+    let _ = security_research::ensure_security_taskflows(root)?;
+    let _ = protocol_security::check_protocol_invariants(root)?;
+    buster_skills::SkillWorkspace::new(root)
+        .refresh_registry()
+        .map_err(std::io::Error::other)?;
+    buster_tools::ToolWorkspace::new(root)
+        .refresh_registry()
+        .map_err(std::io::Error::other)?;
+    let _ = autobiography::refresh(root)?;
     Ok(())
+}
+
+fn hash_json_for_payload(value: &impl Serialize) -> std::io::Result<String> {
+    use sha2::{Digest, Sha256};
+    let bytes = serde_json::to_vec(value).map_err(std::io::Error::other)?;
+    let mut hasher = Sha256::new();
+    hasher.update(bytes);
+    Ok(hasher
+        .finalize()
+        .iter()
+        .map(|byte| format!("{byte:02x}"))
+        .collect())
 }
 
 fn append_jsonl(path: &Path, value: &impl Serialize) -> std::io::Result<()> {
@@ -338,7 +431,7 @@ pub(crate) fn append_daemon_jsonl(path: &Path, value: &impl Serialize) -> std::i
     append_jsonl(path, value)
 }
 
-pub(crate) fn now_secs() -> u64 {
+pub fn now_secs() -> u64 {
     timestamp_secs()
 }
 
@@ -428,8 +521,11 @@ mod tests {
         let record = daemon.tick(0).unwrap();
 
         assert_eq!(record.tick_index, 0);
+        assert!(!record.contract_id.is_empty());
         assert_eq!(record.selected_action_kind, "HumanDialogue");
         assert!(root.join("audit").join("runtime-cycle.jsonl").exists());
+        assert!(root.join("audit").join("harness-contracts.jsonl").exists());
+        assert!(root.join("audit").join("harness-outcomes.jsonl").exists());
         assert!(root.join("audit").join("value-episodes.jsonl").exists());
         assert!(root.join("state").join("buster-daemon.json").exists());
 

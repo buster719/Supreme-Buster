@@ -1,0 +1,127 @@
+{
+  "timestamp_secs": 1780973075,
+  "task_id": "followup-1780926383-f3c51aaced57",
+  "domain": "Aerospace",
+  "question": "How do the resilience gains from a redundant inter-spacecraft communication relay network scale with node count, and at what node density do diminishing returns appear?",
+  "query": "aerospace civilization resilience deep space capability resilience gains redundant inter spacecraft communication relay network scale",
+  "sources": [
+    {
+      "source_id": "Arxiv-044503353d50b93d",
+      "provider": "Arxiv",
+      "title": "Comparative Resilience Notions and Vertex Attack Tolerance of Scale-Free Networks",
+      "url": "http://arxiv.org/abs/1404.0103v1",
+      "doi": null,
+      "year": 2014,
+      "authors": [
+        "John Matta",
+        "Jeffrey Borwey",
+        "Gunes Ercal"
+      ],
+      "venue": "arXiv",
+      "summary": "We are concerned with an appropriate mathematical measure of resilience in the face of targeted node attacks for arbitrary degree networks, and subsequently comparing the resilience of different scale-free network models with the proposed measure. We strongly motivate our resilience measure termed \\emph{vertex attack tolerance} (VAT), which is denoted mathematically as $τ(G) = \\min_{S \\subset V} \\frac{|S|}{|V-S-C_{max}(V-S)|+1}$, where $C_{max}(V-S)$ is the largest connected component in $V-S$. We attempt a thorough comparison of VAT with several existing resilience notions: conductance, verte..."
+    },
+    {
+      "source_id": "Arxiv-978539ee49e97667",
+      "provider": "Arxiv",
+      "title": "A Review of Urban Resilience Frameworks: Transferring Knowledge to Enhance Pandemic Resilience",
+      "url": "http://arxiv.org/abs/2503.17371v2",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Yue Sun",
+        "Ryan Weightman",
+        "Anye Shi",
+        "Timur Dogan",
+        "Samitha Samaranayake"
+      ],
+      "venue": "arXiv",
+      "summary": "Urbanization is rapidly increasing, with urban populations expected to grow significantly by 2050, particularly in developing regions. This expansion brings challenges related to chronic stresses and acute shocks, such as the COVID-19 pandemic, which has underscored the critical role of urban form in a city's capacity to manage public health crises. Despite the heightened interest in urban resilience, research examining the relationship between urban morphology and pandemic resilience remains limited, often focusing solely on density and its effect on disease transmission. This work aims to ad..."
+    },
+    {
+      "source_id": "Arxiv-98d8eb4fdcace54b",
+      "provider": "Arxiv",
+      "title": "Measuring network resilience through connection patterns",
+      "url": "http://arxiv.org/abs/1808.07731v1",
+      "doi": null,
+      "year": 2018,
+      "authors": [
+        "Roy Cerqueti",
+        "Giovanna Ferraro",
+        "Antonio Iovanella"
+      ],
+      "venue": "arXiv",
+      "summary": "Networks are at the core of modeling many engineering contexts, mainly in the case of infrastructures and communication systems. The resilience of a network, which is the property of the system capable of absorbing external shocks, is then of paramount relevance in the applications. This paper deals with this topic by advancing a theoretical proposal for measuring the resilience of a network. The proposal is based on the study of the shocks propagation along the patterns of connections among nodes. The theoretical model is tested on the real-world instances of two important airport systems in ..."
+    },
+    {
+      "source_id": "OpenAlex-1c9e9db3da0236c5",
+      "provider": "OpenAlex",
+      "title": "„SPACE DEBRIS” AND ITS IMPACT ON THE SPACE ACTIVITY OF CIVILIZATION AND TNE ECOLOGY OF EARTH",
+      "url": "https://doi.org/10.34660/inf.2025.51.30.045",
+      "doi": "https://doi.org/10.34660/inf.2025.51.30.045",
+      "year": 2025,
+      "authors": [
+        "Alexey Stoev",
+        "P. Maglova",
+        "O. Ognyanov",
+        "A. Radev"
+      ],
+      "venue": null,
+      "summary": "The consequences of large, catalogued “space debris” near Earth are well described in the literature, but the threat of small debris is often overlooked, despite the fact that they pose a serious threat. Achieving a more complete understanding of the latter (their quantity, composition, spatial distribution, dynamics and level of danger) is hampered by at least two factors: a clear underestimation of the danger of small debris and a lack of appropriate measurements, a direct consequence of the lack of equipment and resources capable of observing them. The report assesses the quantity, mass and..."
+    },
+    {
+      "source_id": "OpenAlex-ce144e7a5a26c1c6",
+      "provider": "OpenAlex",
+      "title": "The security of the European Union's critical outer space infrastructures",
+      "url": "https://openalex.org/W881881535",
+      "doi": null,
+      "year": 2015,
+      "authors": [
+        "Phillip A. Slann"
+      ],
+      "venue": "Keele Research Repository (Keele University)",
+      "summary": "This thesis investigates the European Union’s (EU) conceptualisation of outer space security in the absence of clear borders or boundaries. In doing so, it analyses the means the EU undertakes to secure the space segments of its critical outer space infrastructures and the services they provide. The original contribution to knowledge offered by this thesis is the framing of European outer space security as predicated upon anticipatory mechanisms targeted towards critical outer space infrastructures. The objective of this thesis is to contribute to astropolitical literature through an analysis ..."
+    },
+    {
+      "source_id": "Crossref-a44cf3452393fd4c",
+      "provider": "Crossref",
+      "title": "Identifying Space Threats for SpaceAware Resilience- a Spacecraft and Satellite Service Resilience Model",
+      "url": "https://doi.org/10.1109/aero53065.2022.9843343",
+      "doi": "10.1109/aero53065.2022.9843343",
+      "year": 2022,
+      "authors": [
+        "Lucy Berthoud",
+        "Simon Agass"
+      ],
+      "venue": "2022 IEEE Aerospace Conference (AERO)",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-cb973e623ed31817",
+      "provider": "Crossref",
+      "title": "Cyber-Resilient Autonomous Spacecraft: A Multi-Domain Resilience Framework for Deep Space Missions",
+      "url": "https://doi.org/10.2139/ssrn.5092396",
+      "doi": "10.2139/ssrn.5092396",
+      "year": 2025,
+      "authors": [
+        "Anahita Tasdighi"
+      ],
+      "venue": "SSRN Electronic Journal",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-ee7467d3929252ad",
+      "provider": "Crossref",
+      "title": "Solar System Quantum Deep Space Communication Network～The First Interstellar Constitution in the History of Human Civilization",
+      "url": "https://doi.org/10.2139/ssrn.6301700",
+      "doi": "10.2139/ssrn.6301700",
+      "year": 2026,
+      "authors": [
+        "泉 水"
+      ],
+      "venue": null,
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780973075-Aerospace-followup-1780926383-f3c51aaced57.json"
+}

@@ -1,0 +1,112 @@
+{
+  "timestamp_secs": 1780914401,
+  "task_id": "followup-1780907552-c67e3cb5f7ef",
+  "domain": "BrainComputerInterface",
+  "question": "What BCI signal modalities (motor imagery, P300, SSVEP, intracranial LFP, ECoG) offer the highest information transfer rate and reliability for cooperative AI tasks without requiring surgical implantation?",
+  "query": "brain computer interface human AI cooperation risks signal modalities motor imagery p300 ssvep intracranial ecog offer",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-9a74a75dade607f0",
+      "provider": "Arxiv",
+      "title": "A Hybrid Brain-Computer Interface Using Motor Imagery and SSVEP Based on Convolutional Neural Network",
+      "url": "http://arxiv.org/abs/2212.05289v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Wenwei Luo",
+        "Wanguang Yin",
+        "Quanying Liu",
+        "Youzhi Qu"
+      ],
+      "venue": "arXiv",
+      "summary": "The key to electroencephalography (EEG)-based brain-computer interface (BCI) lies in neural decoding, and its accuracy can be improved by using hybrid BCI paradigms, that is, fusing multiple paradigms. However, hybrid BCIs usually require separate processing processes for EEG signals in each paradigm, which greatly reduces the efficiency of EEG feature extraction and the generalizability of the model. Here, we propose a two-stream convolutional neural network (TSCNN) based hybrid brain-computer interface. It combines steady-state visual evoked potential (SSVEP) and motor imagery (MI) paradigms..."
+    },
+    {
+      "source_id": "OpenAlex-8bff2252684ad28a",
+      "provider": "OpenAlex",
+      "title": "Intelligent Biosensing for Brain-computer Interfaces: From Neural Signal Acquisition to AI-powered Decoding",
+      "url": "https://doi.org/10.5772/intechopen.1015791",
+      "doi": "https://doi.org/10.5772/intechopen.1015791",
+      "year": 2026,
+      "authors": [
+        "Yun Lu",
+        "Zhen Zhang",
+        "Gang Peng"
+      ],
+      "venue": "IntechOpen eBooks",
+      "summary": "The brain–computer interface (BCI) establishes a direct communication system between the brain and a computer or other external devices, which opens up new avenues for understanding and utilizing the power of the human brain. This review systematically investigates the current research progress on intelligent sensing technology for brain-computer interfaces, including a unified view of diversified neural signal acquisition and a dissection of AI-powered decoding approaches. First, it outlines the evolutionary trajectory, system framework, and research significance of BCI technology. Subsequent..."
+    },
+    {
+      "source_id": "Crossref-82c4e1e31d0e3645",
+      "provider": "Crossref",
+      "title": "A Review of P300, SSVEP, and Hybrid P300/SSVEP Brain- Computer Interface Systems",
+      "url": "https://doi.org/10.5772/56135",
+      "doi": "10.5772/56135",
+      "year": 2013,
+      "authors": [
+        "Setare Amiri",
+        "Ahmed Rabbi",
+        "Leila Azinfar",
+        "Reza Fazel-Rezai"
+      ],
+      "venue": "Brain-Computer Interface Systems - Recent Progress and Future Prospects",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-e66810e36f56a46a",
+      "provider": "Crossref",
+      "title": "Robotic Arm Control with Brain Computer Interface using P300 and SSVEP",
+      "url": "https://doi.org/10.2316/p.2013.791-082",
+      "doi": "10.2316/p.2013.791-082",
+      "year": 2013,
+      "authors": [
+        "Ozan Çağlayan",
+        "Reis Burak Arslan"
+      ],
+      "venue": "Biomedical Engineering",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-5d2e95e3734e89da",
+      "provider": "Crossref",
+      "title": "Efficient Quadcopter Flight Control Using Hybrid SSVEP + P300 Visual Brain Computer Interface",
+      "url": "https://doi.org/10.1080/10447318.2021.1921482",
+      "doi": "10.1080/10447318.2021.1921482",
+      "year": 2022,
+      "authors": [
+        "Deepak Kapgate"
+      ],
+      "venue": "International Journal of Human–Computer Interaction",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780914401-BrainComputerInterface-followup-1780907552-c67e3cb5f7ef.json"
+}

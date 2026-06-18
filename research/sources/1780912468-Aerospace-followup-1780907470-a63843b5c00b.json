@@ -1,0 +1,107 @@
+{
+  "timestamp_secs": 1780912468,
+  "task_id": "followup-1780907470-a63843b5c00b",
+  "domain": "Aerospace",
+  "question": "Which propulsion technologies (nuclear thermal, nuclear electric, solar electric, sail) offer the best combination of deep-space transit speed, payload fraction, and crew safety for sustained access beyond the asteroid belt, given realistic technology readiness levels by 2040?",
+  "query": "aerospace civilization resilience deep space capability propulsion technologies nuclear thermal electric solar sail offer best",
+  "sources": [
+    {
+      "source_id": "Arxiv-4148fc651dd7ea61",
+      "provider": "Arxiv",
+      "title": "Coulomb drag devices: electric solar wind sail propulsion and ionospheric deorbiting",
+      "url": "http://arxiv.org/abs/1404.7430v2",
+      "doi": null,
+      "year": 2014,
+      "authors": [
+        "Pekka Janhunen"
+      ],
+      "venue": "arXiv",
+      "summary": "A charged tether or wire experiences Coulomb drag when inserted into flowing plasma. In the solar wind the Coulomb drag can be utilised as efficient propellantless interplanetary propulsion as the electric solar wind sail (electric sail, E-sail). In low Earth orbit (LEO) the same plasma physical effect can be utilised for efficient low-thrust deorbiting of space debris objects (the plasma brake). The E-sail is rotationally stabilised while the deorbiting Coulomb drag devices According to numerical estimates, Coulomb drag devices have very promising performance figures, both for interplanetary ..."
+    },
+    {
+      "source_id": "Arxiv-7a97e0eb8e4a0810",
+      "provider": "Arxiv",
+      "title": "Solar Sail: Materials and Space Environmental Effects",
+      "url": "http://arxiv.org/abs/1307.7327v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Roman Ya. Kezerashvili"
+      ],
+      "venue": "arXiv",
+      "summary": "Theoretical aspects of a solar sail material degradation are presented when the solar electromagnetic and corpuscular forms of radiation were considered as sources of degradation. The analysis of the interaction of two components of solar radiation, the electromagnetic radiation and radiation of low- and high-energy electrons, protons, and helium ions emitted by the Sun with the solar-sail materials is discussed. The physical processes of the interactions of photons, electrons, protons and alpha-particles with sail material atoms and nuclei, leading to the degradation and ionization of solar s..."
+    },
+    {
+      "source_id": "Arxiv-da61d2c8757a74f3",
+      "provider": "Arxiv",
+      "title": "Microscopic Approach to Analyze Solar-Sail Space-Environment Effects",
+      "url": "http://arxiv.org/abs/0901.0047v1",
+      "doi": null,
+      "year": 2008,
+      "authors": [
+        "Roman Ya. Kezerashvili",
+        "Gregory L. Matloff"
+      ],
+      "venue": "arXiv",
+      "summary": "Near-sun space-environment effects on metallic thin films solar sails as well as hollow-body sails with inflation fill gas are considered. Analysis of interaction of the solar radiation with the solar sail materials is presented. This analysis evaluates worst-case solar radiation effects during solar-radiation-pressure acceleration. The dependence of the thickness of solar sail on temperature and on wavelength of the electromagnetic spectrum of solar radiation is investigated. Physical processes of the interaction of photons, electrons, protons and helium nuclei with sail material atoms and nu..."
+    },
+    {
+      "source_id": "OpenAlex-8a52d10dc03c41ea",
+      "provider": "OpenAlex",
+      "title": "Powering Sustainable Airports in the Year 2075",
+      "url": "https://doi.org/10.64631/bgms9538",
+      "doi": "https://doi.org/10.64631/bgms9538",
+      "year": 2025,
+      "authors": [
+        "Mark Stephen Meadows",
+        "Gary W. Hunter",
+        "David A Rinehart"
+      ],
+      "venue": null,
+      "summary": "This exploratory study envisions zero-carbon, sustainable hub-scale airports 50 years into the future. Our approach developed future scenarios that were framed by hypothetical levels and impacts of varied levels of future global temperature change (+1°C, +2°C, +4°C), and integrated energy generation, distribution, fuels, infrastructure, and human factors to envision three possible future states. We used backcasting methodologies by working backward from 2075 scenarios to identify the critical developments and decision points that could lead to each outcome combined with forecasting methodologi..."
+    },
+    {
+      "source_id": "Crossref-78ffedb6905b8b7b",
+      "provider": "Crossref",
+      "title": "Hybrid Solar Sail and Electric Propulsion System for Deep-Space Exploration",
+      "url": "https://doi.org/10.52202/080554-0032",
+      "doi": "10.52202/080554-0032",
+      "year": 2025,
+      "authors": [
+        "Amogh Wagh"
+      ],
+      "venue": "Space Vehicles for Exploration &amp; Propulsion for Deep Space",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-d2c4106a4fad722c",
+      "provider": "Crossref",
+      "title": "Hybrids of solar sail, solar electric, and solar thermal propulsion for solar-system exploration",
+      "url": "https://doi.org/10.1109/aero.2012.6187292",
+      "doi": "10.1109/aero.2012.6187292",
+      "year": 2012,
+      "authors": [
+        "B. H. Wilcox"
+      ],
+      "venue": "2012 IEEE Aerospace Conference",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-3f94c744444d2e65",
+      "provider": "Crossref",
+      "title": "Roles of Nuclear Electric Propulsion and Nuclear Thermal Propulsion in Cislunar Space",
+      "url": "https://doi.org/10.13182/nets24-44957",
+      "doi": "10.13182/nets24-44957",
+      "year": 2024,
+      "authors": [
+        "Robert Schleicher",
+        "Christina Back",
+        "Gregory Burgess"
+      ],
+      "venue": "Nuclear and Emerging Technologies for Space (NETS 2024)",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780912468-Aerospace-followup-1780907470-a63843b5c00b.json"
+}

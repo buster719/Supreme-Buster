@@ -1,0 +1,144 @@
+{
+  "timestamp_secs": 1781103020,
+  "task_id": "followup-1781077876-e1099abcd49d",
+  "domain": "Genetics",
+  "question": "Are there any studies comparing participants who receive PRS results but are in healthcare systems with limited access to genetic counseling or follow-up testing against those in fully resourced systems?",
+  "query": "genetics safety human flourishing genome editing there studies comparing participants receive results healthcare systems limited",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-55dc72373b51bdc0",
+      "provider": "OpenAlex",
+      "title": "Public Engagement through Inclusive Deliberation: The Human Genome International Commission and Citizens’ Juries",
+      "url": "https://doi.org/10.1080/15265161.2022.2146786",
+      "doi": "https://doi.org/10.1080/15265161.2022.2146786",
+      "year": 2022,
+      "authors": [
+        "Naomi Scheinerman"
+      ],
+      "venue": "The American Journal of Bioethics",
+      "summary": "In this paper, I take seriously calls for public engagement in human genome editing decision-making by endorsing the convening of a \"Citizens Jury\" in conjunction with the International Commission on the Clinical Use of Human Germline Genome Editing's next summit scheduled for March 6-8, 2023. This institutional modification promises a more inclusive, deliberative, and impactful form of engagement than standard bioethics engagement opportunities, such as comment periods, by serving both normative and political purposes in the quest to offer moral guidance on gene editing. In examining evidence..."
+    },
+    {
+      "source_id": "OpenAlex-38046ced773d7188",
+      "provider": "OpenAlex",
+      "title": "Global Impacts of Western Diet and Its Effects on Metabolism and Health: A Narrative Review",
+      "url": "https://doi.org/10.3390/nu15122749",
+      "doi": "https://doi.org/10.3390/nu15122749",
+      "year": 2023,
+      "authors": [
+        "Vicente Javier Clemente‐Suárez",
+        "Ana Isabel Beltrán-Velasco",
+        "Laura Redondo-Flórez",
+        "Alexandra Martín-Rodríguez",
+        "José Francisco Tornero-Aguilera"
+      ],
+      "venue": "Nutrients",
+      "summary": "The Western diet is a modern dietary pattern characterized by high intakes of pre-packaged foods, refined grains, red meat, processed meat, high-sugar drinks, candy, sweets, fried foods, conventionally raised animal products, high-fat dairy products, and high-fructose products. The present review aims to describe the effect of the Western pattern diet on the metabolism, inflammation, and antioxidant status; the impact on gut microbiota and mitochondrial fitness; the effect of on cardiovascular health, mental health, and cancer; and the sanitary cost of the Western diet. To achieve this goal, a..."
+    },
+    {
+      "source_id": "OpenAlex-866aad92f9d08015",
+      "provider": "OpenAlex",
+      "title": "Ethical Aspects of Human Genome Research in Sports—A Narrative Review",
+      "url": "https://doi.org/10.3390/genes15091216",
+      "doi": "https://doi.org/10.3390/genes15091216",
+      "year": 2024,
+      "authors": [
+        "Aleksandra Bojarczuk"
+      ],
+      "venue": "Genes",
+      "summary": "Human genome research in sports raises complex ethical considerations regarding the intersection of genetics and athletic performance. Pursuing genetic enhancements must uphold fairness, equality, and respect for human dignity. This narrative review explores the ethical dimensions of human genome research in sports, its potential implications on athletes, and the integrity of sports. As a narrative review, this study synthesizes the existing literature and expert insights to examine the ethical aspects of human genome research in sports. This study extensively examined the current literature o..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-d550f4fff9a2e259",
+      "provider": "Crossref",
+      "title": "A comparison of genome cohort participants’ genetic knowledge and preferences to receive genetic results before and after a genetics workshop",
+      "url": "https://doi.org/10.1038/s10038-018-0494-z",
+      "doi": "10.1038/s10038-018-0494-z",
+      "year": 2018,
+      "authors": [
+        "Kayono Yamamoto",
+        "Atsushi Shimizu",
+        "Fumie Aizawa",
+        "Hiroshi Kawame",
+        "Tomoharu Tokutomi",
+        "Akimune Fukushima"
+      ],
+      "venue": "Journal of Human Genetics",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781103020-Genetics-followup-1781077876-e1099abcd49d.json"
+}

@@ -1,0 +1,125 @@
+{
+  "timestamp_secs": 1781105346,
+  "task_id": "followup-1781078214-7b2fadc24928",
+  "domain": "Genetics",
+  "question": "Does the magnitude of mediation by health behaviors differ significantly across strata of baseline socioeconomic status (e.g., education, income, neighborhood deprivation)?",
+  "query": "genetics safety human flourishing genome editing magnitude mediation health behaviors differ significantly across strata baseline",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-6df7a74161356649",
+      "provider": "OpenAlex",
+      "title": "Treatment acceptability for the prevention of obesity and type 2 diabetes mellitus: the effects of ethnicity, weight, and genetic predisposition",
+      "url": "https://doi.org/10.31390/gradschool_dissertations.3743",
+      "doi": "https://doi.org/10.31390/gradschool_dissertations.3743",
+      "year": 2002,
+      "authors": [
+        "Jean M. Thaw"
+      ],
+      "venue": null,
+      "summary": "Childhood obesity and its associated health consequences, such as type 2 diabetes mellitus, have dramatically increased over the past 30 years, with the greatest rise in African-American female children and adolescents. Although current prevention efforts show promising results, recent genetic findings may soon expand treatment strategies to include new medications and gene therapies specifically designed to prevent the development of obesity and type 2 diabetes in children. However, little is known about the acceptability of these interventions. The primary aim of this study was to examine th..."
+    },
+    {
+      "source_id": "OpenAlex-f670343d9a6d9a97",
+      "provider": "OpenAlex",
+      "title": "The Alchemy of Lesions: Decoding Disease and Orchestrating Resolution",
+      "url": "https://doi.org/10.70593/978-93-7185-865-6",
+      "doi": "https://doi.org/10.70593/978-93-7185-865-6",
+      "year": 2025,
+      "authors": [
+        "Birupaksha Biswas",
+        "Suhena Sarkar",
+        "Shilpa Basu Roy",
+        "Subesha Basu Roy"
+      ],
+      "venue": null,
+      "summary": "In the labyrinthine theatre of human affliction, the lesion emerges simultaneously as cipher and proclamation,an encrypted testament inscribed upon the tissues by the perturbations of disordered physiology, awaiting both the interpretive acuity of diagnostic discernment and the transformative agency of therapeutic intervention. The Alchemy of Lesions: Decoding Disease and Orchestrating Resolution aspires to transcend the artificially imposed demarcations that have too long separated pathology from pharmacology, instead weaving them into a unified epistemological tapestry wherein morphological ..."
+    },
+    {
+      "source_id": "Crossref-618b34d9ecf8f911",
+      "provider": "Crossref",
+      "title": "Daoism, Flourishing, and Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0006",
+      "doi": "10.1093/oso/9780190940362.003.0006",
+      "year": 2019,
+      "authors": [
+        "Richard Kim"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-6505b27635a4a863",
+      "provider": "Crossref",
+      "title": "Introduction to Human Flourishing in an Age of Gene Editing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0001",
+      "doi": "10.1093/oso/9780190940362.003.0001",
+      "year": 2019,
+      "authors": [
+        "Erik Parens",
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-b5da7c2975720684",
+      "provider": "Crossref",
+      "title": "Whose Conception of Human Flourishing?",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0015",
+      "doi": "10.1093/oso/9780190940362.003.0015",
+      "year": 2019,
+      "authors": [
+        "Dorothy Roberts"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781105346-Genetics-followup-1781078214-7b2fadc24928.json"
+}

@@ -1,0 +1,148 @@
+{
+  "timestamp_secs": 1781162138,
+  "task_id": "followup-1781080667-a4b90bcc349e",
+  "domain": "Genetics",
+  "question": "Is there a simulation framework that models the ethical and societal \"choice architecture\" for parents, comparing the decision pathways under embryo selection, carrier screening, and post-natal pharmacological prevention for a condition like BRCA-related cancer?",
+  "query": "genetics safety human flourishing genome editing there simulation framework models ethical societal choice architecture parents",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-b787abb9293fc786",
+      "provider": "Arxiv",
+      "title": "Ethically Collecting Multi-Modal Spontaneous Conversations with People that have Cognitive Impairments",
+      "url": "http://arxiv.org/abs/2009.14361v1",
+      "doi": null,
+      "year": 2020,
+      "authors": [
+        "Angus Addlesee",
+        "Pierre Albert"
+      ],
+      "venue": "arXiv",
+      "summary": "In order to make spoken dialogue systems (such as Amazon Alexa or Google Assistant) more accessible and naturally interactive for people with cognitive impairments, appropriate data must be obtainable. Recordings of multi-modal spontaneous conversations with vulnerable user groups are scarce however and this valuable data is challenging to collect. Researchers that call for this data are commonly inexperienced in ethical and legal issues around working with vulnerable participants. Additionally, standard recording equipment is insecure and should not be used to capture sensitive data. We spent..."
+    },
+    {
+      "source_id": "OpenAlex-703086390784c230",
+      "provider": "OpenAlex",
+      "title": "Genetic frontiers for conservation: an assessment of synthetic biology and biodiversity conservation: technical assessment",
+      "url": "https://doi.org/10.2305/iucn.ch.2019.05.en",
+      "doi": "https://doi.org/10.2305/iucn.ch.2019.05.en",
+      "year": 2019,
+      "authors": [
+        "Alphey, Luke",
+        "Bennet, Elizabeth",
+        "Delborne, Jason",
+        "Eggermont, Hilde",
+        "Esvelt, Kevin",
+        "Kingirl, Ann",
+        "Kokotovich, Adam",
+        "Kolodziejczyk, Bartomiej"
+      ],
+      "venue": null,
+      "summary": "In recent years synthetic biology has emerged as a suite of techniques and technologies that enable humans to read, interpret, modify, design and manufacture DNA in order to rapidly influence the forms and functions of cells and organisms, with the potential to reach whole species and ecosystems. As synthetic biology continues to evolve, new tools emerge, novel applications are proposed, and basic research is applied. This assessment is one part of IUCN’s effort to provide recommendations and guidance regarding the potential positive and negative impacts of synthetic biology on biodiversity co..."
+    },
+    {
+      "source_id": "OpenAlex-618d860c0962ee70",
+      "provider": "OpenAlex",
+      "title": "Deployment and exploitation of nanotechnology nanomaterials and nanomedicine",
+      "url": "https://doi.org/10.1063/1.5047755",
+      "doi": "https://doi.org/10.1063/1.5047755",
+      "year": 2018,
+      "authors": [
+        "F. Matteucci",
+        "Roberto Giannantonio",
+        "Franco Calabi",
+        "Angela Agostiano",
+        "Giuseppe Gigli",
+        "Marco Rossi"
+      ],
+      "venue": "AIP conference proceedings",
+      "summary": "Since around 50 years ago, the academic world is developing knowledge and technology to understand and to control matter at the nanoscale in order to exploit the peculiar mechanical, electrical, optical and magnetic properties emerging when a discrete number of atoms is assembled in structures which must be described according to the weird rules of quantum mechanics. This huge know how, commonly named Nanotechnology, was nucleated according to deployment strategies mainly defined and funded worldwide by governmental institutions in order to create the base for their further industrial exploita..."
+    },
+    {
+      "source_id": "OpenAlex-9ac8ca9580bd2bec",
+      "provider": "OpenAlex",
+      "title": "The Era of Global Risk",
+      "url": "https://doi.org/10.11647/obp.0336",
+      "doi": "https://doi.org/10.11647/obp.0336",
+      "year": 2023,
+      "authors": [
+        "Beard, SJ",
+        "Rees, Martin",
+        "Richards, Catherine",
+        "Rios Rojas, Clarissa"
+      ],
+      "venue": "Open Book Publishers",
+      "summary": "This innovative and comprehensive collection of essays explores the biggest threats facing humanity in the 21st century; threats that cannot be contained or controlled and that have the potential to bring about human extinction and civilization collapse. Bringing together experts from many disciplines, it provides an accessible survey of what we know about these threats, how we can understand them better, and most importantly what can be done to manage them effectively."
+    },
+    {
+      "source_id": "Crossref-1c7fb0d05b19d147",
+      "provider": "Crossref",
+      "title": "Integrating Ethical Standards into the Human Rights Framework",
+      "url": "https://doi.org/10.1007/978-3-658-22660-2_3",
+      "doi": "10.1007/978-3-658-22660-2_3",
+      "year": 2018,
+      "authors": [
+        "Fruzsina Molnár-Gábor"
+      ],
+      "venue": "Technikzukünfte, Wissenschaft und Gesellschaft / Futures of Technology, Science and Society",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-f1bee6ad2077f6a1",
+      "provider": "Crossref",
+      "title": "“Good Parents” Can Promote Their Own and Their Children’s Flourishing",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0009",
+      "doi": "10.1093/oso/9780190940362.003.0009",
+      "year": 2019,
+      "authors": [
+        "Josephine Johnston"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-a954b0931a00d9c4",
+      "provider": "Crossref",
+      "title": "Choice, Chance, and Acceptance",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0011",
+      "doi": "10.1093/oso/9780190940362.003.0011",
+      "year": 2019,
+      "authors": [
+        "Jackie Leach Scully"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781162138-Genetics-followup-1781080667-a4b90bcc349e.json"
+}

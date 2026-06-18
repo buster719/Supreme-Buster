@@ -1,0 +1,64 @@
+{
+  "timestamp_secs": 1780976754,
+  "task_id": "followup-1780929568-143a30533659",
+  "domain": "BrainComputerInterface",
+  "question": "Does the magnitude of the withdrawal effect scale with the strength of the original neural adaptation, and does it depend on user awareness of the removal?",
+  "query": "brain computer interface human AI cooperation risks magnitude withdrawal effect scale strength original neural adaptation depend",
+  "sources": [
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-72325956c921e290",
+      "provider": "Crossref",
+      "title": "A Brain-Computer Interface Based Human-Robot Interaction Platform",
+      "url": "https://doi.org/10.5762/kais.2015.16.11.7508",
+      "doi": "10.5762/kais.2015.16.11.7508",
+      "year": 2015,
+      "authors": [
+        "Joongsun Yoon"
+      ],
+      "venue": "Journal of the Korea Academia-Industrial cooperation Society",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-2b5a64ee44962dbd",
+      "provider": "Crossref",
+      "title": "Neural Ensemble of Thought: Toward Human–like AI through Brain–inspired Reasoning",
+      "url": "https://doi.org/10.1109/bci69045.2026.11435047",
+      "doi": "10.1109/bci69045.2026.11435047",
+      "year": 2026,
+      "authors": [
+        "Hyeon-Taek Han",
+        "Dae-Hyeok Lee",
+        "Sung-Jin Kim",
+        "Seong-Whan Lee"
+      ],
+      "venue": "2026 14th International Conference on Brain-Computer Interface (BCI)",
+      "summary": null
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Arxiv",
+      "message": "HTTP status client error (429 Unknown Error) for url (https://export.arxiv.org/api/query?search_query=all%3Abrain+computer+interface+human+AI+cooperation+risks+magnitude+withdrawal+effect+scale+strength+original+neural+adaptation+depend&sta..."
+    },
+    {
+      "provider": "OpenAlex",
+      "message": "error sending request for url (https://api.openalex.org/works?search=brain+computer+interface+human+AI+cooperation+risks+magnitude+withdrawal+effect+scale+strength+original+neural+adaptation+depend&per-page=3&sort=relevance_score%3Adesc)"
+    }
+  ],
+  "bundle_path": "../research/sources/1780976754-BrainComputerInterface-followup-1780929568-143a30533659.json"
+}

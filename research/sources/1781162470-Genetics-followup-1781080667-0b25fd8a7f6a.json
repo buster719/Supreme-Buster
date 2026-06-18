@@ -1,0 +1,144 @@
+{
+  "timestamp_secs": 1781162470,
+  "task_id": "followup-1781080667-0b25fd8a7f6a",
+  "domain": "Genetics",
+  "question": "Have any cost-effectiveness analyses simulated the resource allocation and health outcome trade-offs between investing in embryo selection infrastructure versus broad lifestyle intervention programs for common complex diseases like type 2 diabetes?",
+  "query": "genetics safety human flourishing genome editing cost effectiveness analyses simulated resource allocation health outcome trade",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-74d189c1cc98cded",
+      "provider": "OpenAlex",
+      "title": "The Metaverse as a Virtual Model of Platform Urbanism: Its Converging AIoT, XReality, Neurotech, and Nanobiotech and Their Applications, Challenges, and Risks",
+      "url": "https://doi.org/10.3390/smartcities6030065",
+      "doi": "https://doi.org/10.3390/smartcities6030065",
+      "year": 2023,
+      "authors": [
+        "Simon Elias Bibri"
+      ],
+      "venue": "Smart Cities",
+      "summary": "With their exponentially rising computational power, digital platforms are heralding a new era of hybrid intelligence. There has recently been much enthusiasm and hype that the Metaverse has the potential to unlock hybrid intelligence. This is premised on the idea that the Metaverse represents an applied convergence of Artificial Intelligence of Things (AIoT) and Extended Reality (XR) that intersects with urbanism in terms of the distinctive features of platform-mediated everyday life experiences in cities. However, social interaction and its resulting social organization in the Metaverse are ..."
+    },
+    {
+      "source_id": "OpenAlex-47070b6bf864c659",
+      "provider": "OpenAlex",
+      "title": "OECD Annual Report 2002",
+      "url": "https://doi.org/10.1787/annrep-2002-en",
+      "doi": "https://doi.org/10.1787/annrep-2002-en",
+      "year": 2002,
+      "authors": [
+        "OECD"
+      ],
+      "venue": "The Annual report of the OECD/OECD annual report",
+      "summary": null
+    },
+    {
+      "source_id": "OpenAlex-a7bc950035edf8b2",
+      "provider": "OpenAlex",
+      "title": "Artificial Intelligence Across Borders: Transforming Industries Through Intelligent Innovation",
+      "url": "https://doi.org/10.70593/978-93-49910-25-6",
+      "doi": "https://doi.org/10.70593/978-93-49910-25-6",
+      "year": 2025,
+      "authors": [
+        "Sibaram Prasad Panda"
+      ],
+      "venue": null,
+      "summary": "How Artificial Intelligence is Revolutionizing Healthcare, Finance, Agriculture, Education, and More. A practical, research-backed, and accessible guide that explores how AI is reshaping multiple sectors. Each chapter focuses on a different industry, illustrating real-world applications, use cases, benefits, challenges, and future trends. The book balances technical insight with real-life impact."
+    },
+    {
+      "source_id": "Crossref-910a430e5a5dceb8",
+      "provider": "Crossref",
+      "title": "Lifetime QALY prioritarianism in priority setting: quantification of the inherent trade-off",
+      "url": "https://doi.org/10.1186/1478-7547-12-2",
+      "doi": "10.1186/1478-7547-12-2",
+      "year": 2014,
+      "authors": [
+        "Trygve Ottersen",
+        "Ottar Mæstad",
+        "Ole Norheim"
+      ],
+      "venue": "Cost Effectiveness and Resource Allocation",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-2b37dfd8134d9577",
+      "provider": "Crossref",
+      "title": "The role of cognition in cost-effectiveness analyses of behavioral interventions",
+      "url": "https://doi.org/10.1186/1478-7547-10-3",
+      "doi": "10.1186/1478-7547-10-3",
+      "year": 2012,
+      "authors": [
+        "Rilana Prenger",
+        "Louise M Braakman-Jansen",
+        "Marcel E Pieterse",
+        "Job van der Palen",
+        "Erwin R Seydel"
+      ],
+      "venue": "Cost Effectiveness and Resource Allocation",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-67986dd06e8cf1d1",
+      "provider": "Crossref",
+      "title": "Cost analyses of obesity in Canada: scope, quality, and implications",
+      "url": "https://doi.org/10.1186/1478-7547-11-3",
+      "doi": "10.1186/1478-7547-11-3",
+      "year": 2013,
+      "authors": [
+        "Bach Xuan Tran",
+        "Amrita V Nair",
+        "Stefan Kuhle",
+        "Arto Ohinmaa",
+        "Paul J Veugelers"
+      ],
+      "venue": "Cost Effectiveness and Resource Allocation",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781162470-Genetics-followup-1781080667-0b25fd8a7f6a.json"
+}

@@ -1,0 +1,143 @@
+{
+  "timestamp_secs": 1781094480,
+  "task_id": "followup-1780982269-156f2dfbf199",
+  "domain": "BrainComputerInterface",
+  "question": "To what extent does the ecological validity of spontaneous signals (idle‑state availability, freedom from external stimulation) offset their lower raw information transfer rate when measuring an *intelligence* axis that includes autonomous situational awareness?",
+  "query": "brain computer interface human AI cooperation risks extent ecological validity spontaneous signals idle state availability freedom",
+  "sources": [
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-c7c256df3e7b1c5d",
+      "provider": "OpenAlex",
+      "title": "Research Roadmap of Service Ecosystems: A Crowd Intelligence Perspective",
+      "url": "https://doi.org/10.26599/ijcs.2022.9100026",
+      "doi": "https://doi.org/10.26599/ijcs.2022.9100026",
+      "year": 2022,
+      "authors": [
+        "Xiao Xue",
+        "Guanding Li",
+        "Deyu Zhou",
+        "Yepeng Zhang",
+        "Lu Zhang",
+        "Yang Zhao",
+        "Zhiyong Feng",
+        "Lizhen Cui"
+      ],
+      "venue": "International Journal of Crowd Science",
+      "summary": "With the mutual interaction and dependence of several intelligent services, a crowd intelligence service network has been formed, and a service ecosystem has gradually emerged. Such a development produces an ever-increasing effect on our lives and the functioning of the whole society. These facts call for research on these phenomena with a new theory or perspective, including what a smart society looks like, how it functions and evolves, and where its boundaries and challenges are. However, the research on service ecosystems is distributed in many disciplines and fields, including computer sci..."
+    },
+    {
+      "source_id": "OpenAlex-7935bccf0c010902",
+      "provider": "OpenAlex",
+      "title": "The neurosociological paradigm of the metaverse",
+      "url": "https://doi.org/10.3389/fpsyg.2024.1371876",
+      "doi": "https://doi.org/10.3389/fpsyg.2024.1371876",
+      "year": 2025,
+      "authors": [
+        "Olga Maslova",
+        "Natalia Shusharina",
+        "V. F. Pyatin"
+      ],
+      "venue": "Frontiers in Psychology",
+      "summary": "Metaverse integrates people into the virtual world, and challenges depend on advances in human, technological, and procedural dimensions. Until now, solutions to these challenges have not involved extensive neurosociological research. The study explores the pioneering neurosociological paradigm in metaverse, emphasizing its potential to revolutionize our understanding of social interactions through advanced methodologies such as hyperscanning and interbrain synchrony. This convergence presents unprecedented opportunities for neurotypical and neurodivergent individuals due to technology persona..."
+    },
+    {
+      "source_id": "OpenAlex-2f9ac854ccfddc99",
+      "provider": "OpenAlex",
+      "title": "Near Death Experiences: Falling Down a Very Deep Well",
+      "url": "http://doi.org/10.4236/oalib.1104985",
+      "doi": "https://doi.org/10.4236/oalib.1104985",
+      "year": 2018,
+      "authors": [
+        "Claudio Messori"
+      ],
+      "venue": "OALib",
+      "summary": "The huge progress made in recent decades in the medical-health field, together with the large-scale introduction of cardiopulmonary resuscitation (CPR) and other emergency techniques and procedures, has made it possible to save a growing number of human lives. Also because of this, the testimonies classified as Near Death Experiences (NDEs) have increased exponentially, mostly in Western countries. The present work aims at first to identify six basic inclusion-exclusion clinical criteria to be adopted for the definition of a Near Death State (NDS), distinguishing between an objective NDS and a..."
+    },
+    {
+      "source_id": "Crossref-34ea1d750cc138f7",
+      "provider": "Crossref",
+      "title": "Classifying siren-sound mental rehearsal and covert production vs. idle state towards onset detection in brain-computer interfaces",
+      "url": "https://doi.org/10.1109/iww-bci.2015.7073020",
+      "doi": "10.1109/iww-bci.2015.7073020",
+      "year": 2015,
+      "authors": [
+        "Young Jae Song",
+        "Francisco Sepulveda"
+      ],
+      "venue": "The 3rd International Winter Conference on Brain-Computer Interface",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-36b6b2be85961342",
+      "provider": "Crossref",
+      "title": "Adaptive Detection of Idle State in Motor Imagery Based Brain Computer Interface",
+      "url": "https://doi.org/10.1109/icicta.2010.171",
+      "doi": "10.1109/icicta.2010.171",
+      "year": 2010,
+      "authors": [
+        "Jun Lv"
+      ],
+      "venue": "2010 International Conference on Intelligent Computation Technology and Automation",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-64060b4ab3e947c7",
+      "provider": "Crossref",
+      "title": "Brain-Computer Interface and Brain-Computer Fusion",
+      "url": "https://doi.org/10.1007/978-981-95-5585-7_6",
+      "doi": "10.1007/978-981-95-5585-7_6",
+      "year": 2026,
+      "authors": [
+        "Sha Zhao",
+        "Yueming Wang",
+        "Gang Pan"
+      ],
+      "venue": "Human-Centered AI: Advancing Research and Applications in Human-AI Interaction",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781094480-BrainComputerInterface-followup-1780982269-156f2dfbf199.json"
+}

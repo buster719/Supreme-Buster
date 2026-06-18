@@ -1,0 +1,97 @@
+{
+  "timestamp_secs": 1781091785,
+  "task_id": "followup-1780980349-2e0a3ac13f5c",
+  "domain": "BrainComputerInterface",
+  "question": "How does the frequency of discrete doubt messages influence the “cry wolf” effect in BCI‑based motor imagery control?",
+  "query": "brain computer interface human AI cooperation risks frequency discrete doubt messages influence wolf effect based motor",
+  "sources": [
+    {
+      "source_id": "Arxiv-712221274637d8d9",
+      "provider": "Arxiv",
+      "title": "Designing AI Systems that Augment Human Performed vs. Demonstrated Critical Thinking",
+      "url": "http://arxiv.org/abs/2504.14689v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Katelyn Xiaoying Mei",
+        "Nic Weber"
+      ],
+      "venue": "arXiv",
+      "summary": "The recent rapid advancement of LLM-based AI systems has accelerated our search and production of information. While the advantages brought by these systems seemingly improve the performance or efficiency of human activities, they do not necessarily enhance human capabilities. Recent research has started to examine the impact of generative AI on individuals' cognitive abilities, especially critical thinking. Based on definitions of critical thinking across psychology and education, this position paper proposes the distinction between demonstrated and performed critical thinking in the era of g..."
+    },
+    {
+      "source_id": "Arxiv-cb8cc23c2495094a",
+      "provider": "Arxiv",
+      "title": "DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions",
+      "url": "http://arxiv.org/abs/2504.16770v1",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Chaeyeon Lim"
+      ],
+      "venue": "arXiv",
+      "summary": "While generative artificial intelligence (Gen AI) increasingly transforms academic environments, a critical gap exists in understanding and mitigating human biases in AI interactions, such as anchoring and confirmation bias. This position paper advocates for metacognitive AI literacy interventions to help university students critically engage with AI and address biases across the Human-AI interaction workflows. The paper presents the importance of considering (1) metacognitive support with deliberate friction focusing on human bias; (2) bi-directional Human-AI interaction intervention addressi..."
+    },
+    {
+      "source_id": "Arxiv-9fffff1e31df4516",
+      "provider": "Arxiv",
+      "title": "Needs-aware Artificial Intelligence: AI that 'serves [human] needs'",
+      "url": "http://arxiv.org/abs/2202.04977v3",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Ryan Watkins",
+        "Soheil Human"
+      ],
+      "venue": "arXiv",
+      "summary": "By defining the current limits (and thereby the frontiers), many boundaries are shaping, and will continue to shape, the future of Artificial Intelligence (AI). We push on these boundaries in order to make further progress into what were yesterday's frontiers. They are both pliable and resilient - always creating new boundaries of what AI can (or should) achieve. Among these are technical boundaries (such as processing capacity), psychological boundaries (such as human trust in AI systems), ethical boundaries (such as with AI weapons), and conceptual boundaries (such as the AI people can imagi..."
+    },
+    {
+      "source_id": "OpenAlex-f0375c675e3ae2b5",
+      "provider": "OpenAlex",
+      "title": "Designing next-generation cyber-physical systems: Why is it an issue?",
+      "url": "https://doi.org/10.3233/jid-220008",
+      "doi": "https://doi.org/10.3233/jid-220008",
+      "year": 2022,
+      "authors": [
+        "Imré Horváth"
+      ],
+      "venue": "Journal of Integrated Design and Process Science",
+      "summary": "Cyber-physical systems (CPSs) are seen as one of the tangible results of the convergence of advanced information technology, nanotechnology, biotechnology, cognitive science, and social science in addition to conventional systems science, engineering, and technologies. Designing next-generation cyber-physical systems (NG-CPSs) is a challenging matter for abundant reasons. It is not possible to consider all reasons and to address their interplays simultaneously in one paper. Therefore, this position paper elaborates only on a selected number of topical issues and influential factors. The author..."
+    },
+    {
+      "source_id": "OpenAlex-a45a9fd25f5a2b08",
+      "provider": "OpenAlex",
+      "title": "Autonomous Characters in Virtual Environments: The technologies involved in artificial life and their affects of perceived intelligence and playability of computer games",
+      "url": "http://etheses.dur.ac.uk/2374/",
+      "doi": null,
+      "year": 2004,
+      "authors": [
+        "Oliver Edward Wood"
+      ],
+      "venue": "Durham e-Theses (Durham University)",
+      "summary": "Abstract Computer games are viewed by academics as un-grounded hack and patch experiments. Academic artificial intelligence is often viewed as unimplementable and narrow minded by the majority of non-AI programmer. By"
+    },
+    {
+      "source_id": "OpenAlex-6f1cdcabcfa4da7c",
+      "provider": "OpenAlex",
+      "title": "Human Factors of Monitoring Driving Automation: Eyes and Scenes",
+      "url": "http://resolver.tudelft.nl/uuid:9e5bc7a2-fc0e-47ef-aee3-f0fce4809e5c",
+      "doi": "https://doi.org/10.4233/uuid:9e5bc7a2-fc0e-47ef-aee3-f0fce4809e5c",
+      "year": 2019,
+      "authors": [
+        "Christopher Cabrall"
+      ],
+      "venue": "Data Archiving and Networked Services (DANS)",
+      "summary": "This PhD thesis document is a collection of several of my published (and submitted) peer review journal articles from underneath the Human Factors of Automated Driving (HF Auto, PITN-GA-2013-605817) seventh framework program (FP7) of the European Commission. The topics include: human factors, automotive road safety, autonomous/automated driving technology, human supervisory control, adaptive automation, driver state monitoring, and scene-tied (situated) eye-based assessments of attention. Outside of the publications are summary, introduction, and conclusion chapters as well as contribution app..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 492; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":78055,\"items\":[{\"DOI\":\"10.32657\\/10356\\/46231..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781091785-BrainComputerInterface-followup-1780980349-2e0a3ac13f5c.json"
+}

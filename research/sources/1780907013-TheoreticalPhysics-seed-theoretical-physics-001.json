@@ -1,0 +1,68 @@
+{
+  "timestamp_secs": 1780907013,
+  "task_id": "seed-theoretical-physics-001",
+  "domain": "TheoreticalPhysics",
+  "question": "Which open problems in theoretical physics most constrain humanity's long-term model of reality?",
+  "query": "theoretical physics open problems open problems theoretical physics constrain long term model reality",
+  "sources": [
+    {
+      "source_id": "Arxiv-342d6e757b7f4538",
+      "provider": "Arxiv",
+      "title": "Mathematical Physics : Problems and Solutions of The Students Training Contest Olympiad in Mathematical and Theoretical Physics (May 21st - 24th, 2010)",
+      "url": "http://arxiv.org/abs/1110.4864v2",
+      "doi": null,
+      "year": 2011,
+      "authors": [
+        "G. S. Beloglazov",
+        "A. L. Bobrick",
+        "S. V. Chervon",
+        "B. V. Danilyuk",
+        "M. V. Dolgopolov",
+        "M. G. Ivanov",
+        "O. G. Panina",
+        "E. Yu. Petrova"
+      ],
+      "venue": "arXiv",
+      "summary": "The present issue of the series <<Modern Problems in Mathematical Physics>> represents the Proceedings of the Students Training Contest Olympiad in Mathematical and Theoretical Physics and includes the statements and the solutions of the problems offered to the participants. The contest Olympiad was held on May 21st-24th, 2010 by Scientific Research Laboratory of Mathematical Physics of Samara State University, Steklov Mathematical Institute of Russia's Academy of Sciences, and Moscow Institute of Physics and Technology (State University) in cooperation. The present Proceedings is intended to ..."
+    },
+    {
+      "source_id": "Arxiv-e40c4c9520198bb0",
+      "provider": "Arxiv",
+      "title": "Physics Briefing Book",
+      "url": "http://arxiv.org/abs/1910.11775v2",
+      "doi": null,
+      "year": 2019,
+      "authors": [
+        "European Strategy for Particle Physics Preparatory Group"
+      ],
+      "venue": "arXiv",
+      "summary": "The European Particle Physics Strategy Update (EPPSU) process takes a bottom-up approach, whereby the community is first invited to submit proposals (also called inputs) for projects that it would like to see realised in the near-term, mid-term and longer-term future. National inputs as well as inputs from National Laboratories are also an important element of the process. All these inputs are then reviewed by the Physics Preparatory Group (PPG), whose role is to organize a Symposium around the submitted ideas and to prepare a community discussion on the importance and merits of the various pr..."
+    },
+    {
+      "source_id": "Arxiv-c6f482feee3e20d8",
+      "provider": "Arxiv",
+      "title": "Physics and Technology of the Next Linear Collider: A Report Submitted to Snowmass '96",
+      "url": "http://arxiv.org/abs/hep-ex/9605011v1",
+      "doi": null,
+      "year": 1996,
+      "authors": [
+        "NLC ZDR Design Group",
+        "NLC Physics Working Group",
+        "S. Kuhlman"
+      ],
+      "venue": "arXiv",
+      "summary": "We present the current expectations for the design and physics program of an e+e- linear collider of center of mass energy 500 GeV -- 1 TeV. We review the experiments that would be carried out at this facility and demonstrate its key role in exploring physics beyond the Standard Model over the full range of theoretical possibilities. We then show the feasibility of constructing this machine, by reviewing the current status of linear collider technology and by presenting a precis of our `zeroth-order' design."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "OpenAlex",
+      "message": "error sending request for url (https://api.openalex.org/works?search=theoretical+physics+open+problems+open+problems+theoretical+physics+constrain+long+term+model+reality&per-page=3&sort=relevance_score%3Adesc)"
+    },
+    {
+      "provider": "Crossref",
+      "message": "error decoding response body"
+    }
+  ],
+  "bundle_path": "../research/sources/1780907013-TheoreticalPhysics-seed-theoretical-physics-001.json"
+}

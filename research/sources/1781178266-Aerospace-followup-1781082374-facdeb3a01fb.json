@@ -1,0 +1,68 @@
+{
+  "timestamp_secs": 1781178266,
+  "task_id": "followup-1781082374-facdeb3a01fb",
+  "domain": "Aerospace",
+  "question": "What specific aerospace materials and defect types (e.g., corrosion in aging airframes, delamination in composites, porosity in welds) have the highest volume of published soft-computing classification studies?",
+  "query": "aerospace civilization resilience deep space capability specific aerospace materials defect types corrosion aging airframes delamination",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-35dd6636621f241a",
+      "provider": "Arxiv",
+      "title": "Causal Discovery to Understand Hot Corrosion",
+      "url": "http://arxiv.org/abs/2402.07804v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "A. Varghese",
+        "M. Arana-Catania",
+        "S. Mori",
+        "A. Encinas-Oropesa",
+        "J. Sumner"
+      ],
+      "venue": "arXiv",
+      "summary": "Gas turbine superalloys experience hot corrosion, driven by factors including corrosive deposit flux, temperature, gas composition, and component material. The full mechanism still needs clarification and research often focuses on laboratory work. As such, there is interest in causal discovery to confirm the significance of factors and identify potential missing causal relationships or co-dependencies between these factors. The causal discovery algorithm Fast Causal Inference (FCI) has been trialled on a small set of laboratory data, with the outputs evaluated for their significance to corrosi..."
+    },
+    {
+      "source_id": "Arxiv-9bfb0a9c5194ae78",
+      "provider": "Arxiv",
+      "title": "Precision Magnetometers for Aerospace Applications",
+      "url": "http://arxiv.org/abs/2106.15843v1",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "James S. Bennett",
+        "Brian E. Vyhnalek",
+        "Hamish Greenall",
+        "Elizabeth M. Bridge",
+        "Fernando Gotardo",
+        "Stefan Forstner",
+        "Glen I. Harris",
+        "Félix A. Miranda"
+      ],
+      "venue": "arXiv",
+      "summary": "Aerospace technologies are crucial for modern civilization; space-based infrastructure underpins weather forecasting, communications, terrestrial navigation and logistics, planetary observations, solar monitoring, and other indispensable capabilities. Extraplanetary exploration -- including orbital surveys and (more recently) roving, flying, or submersible unmanned vehicles -- is also a key scientific and technological frontier, believed by many to be paramount to the long-term survival and prosperity of humanity. All of these aerospace applications require reliable control of the craft and th..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "Crossref JSON parse failed: invalid type: null, expected i32 at line 1 column 478; body={\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":30975,\"items\":[{\"DOI\":\"10.1887\\/0750307420\\/b..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781178266-Aerospace-followup-1781082374-facdeb3a01fb.json"
+}

@@ -1,0 +1,58 @@
+{
+  "timestamp_secs": 1781451282,
+  "task_id": "followup-1781087132-dfd2eaf810c7",
+  "domain": "Aerospace",
+  "question": "What redundancy and autonomous fault-recovery specifications are required for docking systems in communication-delayed Mars transit or orbit?",
+  "query": "aerospace civilization resilience deep space capability redundancy autonomous fault recovery specifications required docking systems communication",
+  "sources": [
+    {
+      "source_id": "Arxiv-2ac200ef49f902ca",
+      "provider": "Arxiv",
+      "title": "Enhancing Resilience of Power Systems against Typhoon Threats: A Hybrid Data-Model Driven Approach",
+      "url": "http://arxiv.org/abs/2406.10298v1",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Yang Li"
+      ],
+      "venue": "arXiv",
+      "summary": "This chapter addresses the increasing vulnerability of coastal regions to typhoons and the consequent power outages, emphasizing the critical role of power transmission systems in disaster resilience. It introduces a framework for assessing and enhancing the resilience of these systems against typhoon impacts. The approach integrates a hybrid-driven model for system failure analysis and resilience assessment, employing both data-driven and model-driven techniques. It includes a unique method to identify system vulnerabilities and optimal strategies for resilience enhancement, considering cost-..."
+    },
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-f4ff9741546cf63f",
+      "provider": "Arxiv",
+      "title": "A Survey of fault models and fault tolerance methods for 2D bus-based multi-core systems and TSV based 3D NOC many-core systems",
+      "url": "http://arxiv.org/abs/2203.07830v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Shashikiran Venkatesha",
+        "Ranjani Parthasarathi"
+      ],
+      "venue": "arXiv",
+      "summary": "Reliability has taken centre stage in the development of high-performance computing processors. A Surge of interest is noticeable in recent times in formulating fault and failure models, understanding failure mechanism and strategizing fault mitigation methods for improving the reliability of the system. The article presents a congregation of concepts illustrated one after the other for a better understanding of damages caused by radiation, relevant fault models, and effects of faults. We examine the state of art fault mitigation techniques at the logical layer for digital CMOS based design an..."
+    }
+  ],
+  "errors": [
+    {
+      "provider": "Crossref",
+      "message": "error sending request for url (https://api.crossref.org/works?query=aerospace+civilization+resilience+deep+space+capability+redundancy+autonomous+fault+recovery+specifications+required+docking+systems+communication&rows=3&select=DOI%2Ctitle..."
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781451282-Aerospace-followup-1781087132-dfd2eaf810c7.json"
+}

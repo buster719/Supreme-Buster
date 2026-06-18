@@ -1,0 +1,104 @@
+{
+  "timestamp_secs": 1781186632,
+  "task_id": "followup-1781084791-4423674164f9",
+  "domain": "Aerospace",
+  "question": "For a habitat module subject to combined thermal-vibration loads, what is the theoretical minimum model complexity (degrees of freedom) needed for a Mori-Zwanzig closure to capture the transition from stable to chaotic load redistribution, and can this be predicted a priori?",
+  "query": "aerospace civilization resilience deep space capability habitat module subject combined thermal vibration loads theoretical minimum",
+  "sources": [
+    {
+      "source_id": "Arxiv-9010b1db22083b0c",
+      "provider": "Arxiv",
+      "title": "Diagnosis of aerospace structure defects by a HPC implemented soft computing algorithm",
+      "url": "http://arxiv.org/abs/1610.05521v1",
+      "doi": null,
+      "year": 2016,
+      "authors": [
+        "Gianni D'Angelo",
+        "Salvatore Rampone"
+      ],
+      "venue": "arXiv",
+      "summary": "This study concerns with the diagnosis of aerospace structure defects by applying a HPC parallel implementation of a novel learning algorithm, named U-BRAIN. The Soft Computing approach allows advanced multi-parameter data processing in composite materials testing. The HPC parallel implementation overcomes the limits due to the great amount of data and the complexity of data processing. Our experimental results illustrate the effectiveness of the U-BRAIN parallel implementation as defect classifier in aerospace structures. The resulting system is implemented on a Linux-based cluster with multi..."
+    },
+    {
+      "source_id": "Arxiv-12aeead3b7d22cb3",
+      "provider": "Arxiv",
+      "title": "Spectrum of a fluid-loaded vibrating plate: the multiple resonance phenomenon",
+      "url": "http://arxiv.org/abs/0903.1704v1",
+      "doi": null,
+      "year": 2009,
+      "authors": [
+        "Pierre-Olivier Mattei"
+      ],
+      "venue": "arXiv",
+      "summary": "It was recently observed in a numerical study on a high order perturbation method under heavy fluid loading that a loaded vibrating plate results, not only in the classical frequency shift of the in vacuo single resonance (in both the real part because of the fluid added mass and the imaginary part because of energy lost by radiation), but also in an increase in the number of the resonance. As a result of the loading, a single in vacuo resonance of the structure is transformed into a multiple resonance. Here we show that this phenomenon is a refinement of the Sanchez's classical result where i..."
+    },
+    {
+      "source_id": "Arxiv-79da34a2fe41ad44",
+      "provider": "Arxiv",
+      "title": "State of the Art Report for Smart Habitat for Older Persons -- Working Group 3 -- Healthcare",
+      "url": "http://arxiv.org/abs/2604.03255v1",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Birgitta Langhammer",
+        "Oscar Martinez Mozos",
+        "Ana Mendes",
+        "Joana Madureira",
+        "Lina Seduikyte",
+        "Martin Weigl",
+        "Heidi Salonen",
+        "Veronika Kotradyova"
+      ],
+      "venue": "arXiv",
+      "summary": "This document reports the State of the Art of science and practice on three topics related to smart and healthy ageing at home: furniture and habitats, Information and Communication Technologies (ICT), and healthcare. The reports were prepared by the working groups of COST Action CA16226, Sheld-on. Sheld-on is a network of researchers, user representatives, industry members, and other stakeholders. The three domains covered in this report were the areas of interest for three working groups from the COST Action. The aim of each working group was to assess the State of the Art for disciplinary u..."
+    },
+    {
+      "source_id": "Crossref-83f203c2bf470044",
+      "provider": "Crossref",
+      "title": "Weight sensitivity of a space shuttle orbiter to thermal structural combined loads design criteria",
+      "url": "https://doi.org/10.2514/6.1973-257",
+      "doi": "10.2514/6.1973-257",
+      "year": 1973,
+      "authors": [
+        "V. DERIUGIN",
+        "E. BROGREN",
+        "C. JAECK",
+        "A. BROWN",
+        "B. CLINGAN"
+      ],
+      "venue": "11th Aerospace Sciences Meeting",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-ba868f6322d2b255",
+      "provider": "Crossref",
+      "title": "Deep Space Habitat Design as Part of the eXploration HABitat Academic Innovation Challenge",
+      "url": "https://doi.org/10.2514/6.2013-585",
+      "doi": "10.2514/6.2013-585",
+      "year": 2013,
+      "authors": [
+        "Jamey Jacob"
+      ],
+      "venue": "51st AIAA Aerospace Sciences Meeting including the New Horizons Forum and Aerospace Exposition",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-1dc8061cce637b9c",
+      "provider": "Crossref",
+      "title": "Topology optimization of damping layers in shell structures subject to impact loads for minimum residual vibration",
+      "url": "https://doi.org/10.1016/j.jsv.2018.06.003",
+      "doi": "10.1016/j.jsv.2018.06.003",
+      "year": 2018,
+      "authors": [
+        "Kun Yan",
+        "Geng Dong Cheng",
+        "Bo Ping Wang"
+      ],
+      "venue": "Journal of Sound and Vibration",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "safety_findings": [],
+  "bundle_path": "../research/sources/1781186632-Aerospace-followup-1781084791-4423674164f9.json"
+}

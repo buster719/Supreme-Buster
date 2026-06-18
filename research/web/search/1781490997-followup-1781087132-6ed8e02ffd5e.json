@@ -1,0 +1,15 @@
+{
+  "timestamp_secs": 1781490997,
+  "provider": "DuckDuckGoHtml",
+  "task_id": "followup-1781087132-6ed8e02ffd5e",
+  "query": "What specific thermal and dust environmental parameters (temperature range, radiation flux, dust grain size and composition) define the \"Mars-scale\" condition for which these standards are being evaluated?",
+  "results": [],
+  "errors": [
+    {
+      "provider": "DuckDuckGoHtml",
+      "message": "DuckDuckGo returned a bot challenge or non-result page"
+    }
+  ],
+  "safety_findings": [],
+  "bundle_path": "../research/web/search/1781490997-followup-1781087132-6ed8e02ffd5e.json"
+}

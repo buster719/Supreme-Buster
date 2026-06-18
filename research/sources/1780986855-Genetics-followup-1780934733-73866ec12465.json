@@ -1,0 +1,138 @@
+{
+  "timestamp_secs": 1780986855,
+  "task_id": "followup-1780934733-73866ec12465",
+  "domain": "Genetics",
+  "question": "What specific clinical or genetic severity criteria do the Mitochondrial Medicine Society (MMS) and the Association for Clinical Genetic Science (ACGS) explicitly reference in their MRT guidance?",
+  "query": "genetics safety human flourishing genome editing specific clinical genetic severity criteria mitochondrial medicine society association",
+  "sources": [
+    {
+      "source_id": "Arxiv-f8737a9d4920605b",
+      "provider": "Arxiv",
+      "title": "CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",
+      "url": "http://arxiv.org/abs/2205.05897v1",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "The Critical Assessment of Genome Interpretation Consortium"
+      ],
+      "venue": "arXiv",
+      "summary": "The Critical Assessment of Genome Interpretation (CAGI) aims to advance the state of the art for computational prediction of genetic variant impact, particularly those relevant to disease. The five complete editions of the CAGI community experiment comprised 50 challenges, in which participants made blind predictions of phenotypes from genetic data, and these were evaluated by independent assessors. Overall, results show that while current methods are imperfect, they have major utility for research and clinical applications. Missense variant interpretation methods are able to estimate biochemi..."
+    },
+    {
+      "source_id": "Arxiv-285627470efc24af",
+      "provider": "Arxiv",
+      "title": "Causes and Consequences of genetic background effects illuminated by integrative genomic analysis",
+      "url": "http://arxiv.org/abs/1309.0547v3",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Christopher H. Chandler",
+        "Sudarshan Chari",
+        "David Tack",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The phenotypic consequences of individual mutations are modulated by the wild type genetic background in which they occur.Although such background dependence is widely observed, we do not know whether general patterns across species and traits exist, nor about the mechanisms underlying it. We also lack knowledge on how mutations interact with genetic background to influence gene expression, and how this in turn mediates mutant phenotypes. Furthermore, how genetic background influences patterns of epistasis remains unclear. To investigate the genetic basis and genomic consequences of genetic ba..."
+    },
+    {
+      "source_id": "Arxiv-bc63487102441bc4",
+      "provider": "Arxiv",
+      "title": "Does your gene need a background check? How genetic background impacts the analysis of mutations, genes, and evolution",
+      "url": "http://arxiv.org/abs/1301.2694v1",
+      "doi": null,
+      "year": 2013,
+      "authors": [
+        "Chris H. Chandler",
+        "Sudarshan Chari",
+        "Ian Dworkin"
+      ],
+      "venue": "arXiv",
+      "summary": "The premise of genetic analysis is that a causal link exists between phenotypic and allelic variation. Yet it has long been documented that mutant phenotypes are not a simple result of a single DNA lesion, but rather are due to interactions of the focal allele with other genes and the environment. Although an experimentally rigorous approach, focusing on individual mutations and isogenic control strains, has facilitated amazing progress within genetics and related fields, a glimpse back suggests that a vast complexity has been omitted from our current understanding of allelic effects. Armed wi..."
+    },
+    {
+      "source_id": "OpenAlex-38046ced773d7188",
+      "provider": "OpenAlex",
+      "title": "Global Impacts of Western Diet and Its Effects on Metabolism and Health: A Narrative Review",
+      "url": "https://doi.org/10.3390/nu15122749",
+      "doi": "https://doi.org/10.3390/nu15122749",
+      "year": 2023,
+      "authors": [
+        "Vicente Javier Clemente‐Suárez",
+        "Ana Isabel Beltrán-Velasco",
+        "Laura Redondo-Flórez",
+        "Alexandra Martín-Rodríguez",
+        "José Francisco Tornero-Aguilera"
+      ],
+      "venue": "Nutrients",
+      "summary": "The Western diet is a modern dietary pattern characterized by high intakes of pre-packaged foods, refined grains, red meat, processed meat, high-sugar drinks, candy, sweets, fried foods, conventionally raised animal products, high-fat dairy products, and high-fructose products. The present review aims to describe the effect of the Western pattern diet on the metabolism, inflammation, and antioxidant status; the impact on gut microbiota and mitochondrial fitness; the effect of on cardiovascular health, mental health, and cancer; and the sanitary cost of the Western diet. To achieve this goal, a..."
+    },
+    {
+      "source_id": "OpenAlex-88f9f0fb075783ee",
+      "provider": "OpenAlex",
+      "title": "Parkinson’s Disease: Bridging Gaps, Building Biomarkers, and Reimagining Clinical Translation",
+      "url": "https://doi.org/10.3390/cells14151161",
+      "doi": "https://doi.org/10.3390/cells14151161",
+      "year": 2025,
+      "authors": [
+        "Masaru Tanaka"
+      ],
+      "venue": "Cells",
+      "summary": "Parkinson's disease (PD), a progressive neurodegenerative disorder, imposes growing clinical and socioeconomic burdens worldwide. Despite landmark discoveries in dopamine biology and α-synuclein pathology, translating mechanistic insights into effective, personalized interventions remains elusive. Recent advances in molecular profiling, neuroimaging, and computational modeling have broadened the understanding of PD as a multifactorial systems disorder rather than a purely dopaminergic condition. However, critical gaps persist in diagnostic precision, biomarker standardization, and the translat..."
+    },
+    {
+      "source_id": "OpenAlex-b87449f2fd6ff88b",
+      "provider": "OpenAlex",
+      "title": "Parkinson’s Disease: Bridging Gaps, Building Biomarkers, and Reimagining Clinical Translation",
+      "url": "https://doi.org/10.20944/preprints202506.2099.v2",
+      "doi": "https://doi.org/10.20944/preprints202506.2099.v2",
+      "year": 2025,
+      "authors": [
+        "Masaru Tanaka"
+      ],
+      "venue": "Preprints.org",
+      "summary": "Parkinson’s disease (PD), a progressive neurodegenerative disorder, imposes growing clinical and socioeconomic burdens worldwide. Despite landmark discoveries in dopamine biology and α-synuclein pathology, translating mechanistic insights into effective, personalized interventions remains elusive. Recent advances in molecular profiling, neuroimaging, and computational modeling have broadened the understanding of PD as a multifactorial systems disorder rather than a purely dopaminergic condition. However, critical gaps persist in diagnostic precision, biomarker standardization, and the translat..."
+    },
+    {
+      "source_id": "Crossref-c2afd944b929a487",
+      "provider": "Crossref",
+      "title": "Unraveling the Human Tapestry",
+      "url": "https://doi.org/10.1093/oso/9780190940362.003.0012",
+      "doi": "10.1093/oso/9780190940362.003.0012",
+      "year": 2019,
+      "authors": [
+        "Robert Sparrow"
+      ],
+      "venue": "Human Flourishing in an Age of Gene Editing",
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-9eb819e326ac3ce7",
+      "provider": "Crossref",
+      "title": "Heritable Human Genome Editing",
+      "url": "https://doi.org/10.17226/25665",
+      "doi": "10.17226/25665",
+      "year": 2020,
+      "authors": [
+        "International Commission on the Clinical Use of Human Germline Genome Editing",
+        "National Academy of Medicine",
+        "National Academy of Sciences",
+        "The Royal Society"
+      ],
+      "venue": null,
+      "summary": null
+    },
+    {
+      "source_id": "Crossref-de87ba0e631c259f",
+      "provider": "Crossref",
+      "title": "Identification of genetic variants within specific regions of the human genome",
+      "url": "https://doi.org/10.4016/10192.01",
+      "doi": "10.4016/10192.01",
+      "year": 2009,
+      "authors": [],
+      "venue": "SciVee",
+      "summary": null
+    }
+  ],
+  "errors": [],
+  "bundle_path": "../research/sources/1780986855-Genetics-followup-1780934733-73866ec12465.json"
+}
